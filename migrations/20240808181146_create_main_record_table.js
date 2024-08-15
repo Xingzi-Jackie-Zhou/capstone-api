@@ -16,10 +16,8 @@ export async function up(knex) {
   await knex.schema.createTable("discharge", (table) => {
     table.increments("id").primary().index(); // Primary key, already indexed
     table.string("station_id").notNullable().index();
-    //  .references("main_record.site_id") // Referencing the primary key of main_record
     // .onUpdate("CASCADE")
     // .onDelete("CASCADE")
-    //  .index(); // Explicitly add index for the foreign key
     table.date("date").notNullable();
     table.decimal("discharge", 5, 2).nullable(); // using decimal for discharge
     table.decimal("water_level", 5, 3).nullable(); // using decimal for water_level
@@ -31,10 +29,8 @@ export async function up(knex) {
     table.string("site_id").notNullable().references("discharge.station_id");
     table.string("river").notNullable();
     table.integer("city_id").unsigned().index();
-    //.references("weather.climate_id") // Referencing the primary key of weather
     // .onUpdate("CASCADE")
     // .onDelete("CASCADE")
-    // .index(); // Explicitly add index for the foreign key
   });
   await knex.schema.createTable("weather_main_record", (table) => {
     table.increments("id").primary().index(); // Primary key, already indexed
