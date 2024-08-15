@@ -10,14 +10,13 @@ router
   .post(sitesController.findDischargeInRange);
 router
   .route("/:siteId/flowRates/selectedDate")
-  .get(sitesController.findDischargeInRange);
-
+  .get(sitesController.findOneSiteDischarge);
 router
   .route("/:siteId/allData")
   .get(sitesController.findCombinedData)
   .post(sitesController.findCombinedDataInRange);
 router
   .route("/:siteId/allData/selectedDate")
-  .get(sitesController.findCombinedDataInRange);
+  .get(sitesController.findCombinedData);
 
 export default router;
