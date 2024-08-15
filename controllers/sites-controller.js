@@ -57,6 +57,39 @@ const findOneSiteDischarge = async (req, res) => {
   }
 };
 
+const findDischargeInRange = async (req, res) => {
+  try {
+    const { startDate, endDate } = req.body;
+
+    // Validate date parameters
+    if (!startDate || !endDate) {
+      return res.status(400).json({
+        message:
+          "Please provide both startDate and endDate as query parameters.",
+      });
+    }
+    const siteFound = await knex("discharge")
+      .where("discharge.station_id", req.params.siteId)
+      .join("main_record", "discharge.station_id", "main_record.site_id")
+      .select("discharge.*", "main_record.site_name", "main_record.city_id")
+      .andWhere("discharge.date", ">=", startDate) // Filter by start date
+      .andWhere("discharge.date", "<=", endDate); // Filter by end date
+    if (siteFound.length === 0) {
+      return res.status(404).json({
+        message: `Site with ID ${req.params.siteId} not found`,
+      });
+    }
+
+    const siteData = siteFound;
+    res.status(200).json(siteData);
+    console.log(siteData);
+  } catch (error) {
+    res.status(500).json({
+      message: `Unable to retrieve site with ID ${req.params.siteId}`,
+    });
+  }
+};
+
 //find discharge but combined data
 const findCombinedData = async (req, res) => {
   try {
@@ -79,13 +112,6 @@ const findCombinedData = async (req, res) => {
       )
       .where("discharge.station_id", req.params.siteId)
       .andWhere("discharge.date", "=", knex.ref("weather.date")); // Ensure dates match
-    //   .groupBy(
-    //     "discharge.station_id",
-    //     "discharge.date",
-    //     "main_record.site_name",
-    //     "weather.ave_temperature",
-    //     "weather.total_preciptation"
-    //   );
 
     // Check if any records were found
     if (result.length === 0) {
@@ -139,13 +165,7 @@ const findCombinedDataInRange = async (req, res) => {
       .andWhere("discharge.date", ">=", startDate) // Filter by start date
       .andWhere("discharge.date", "<=", endDate) // Filter by end date
       .andWhere("discharge.date", "=", knex.ref("weather.date")); // Ensure dates match
-    //   .groupBy(
-    //     "discharge.station_id",
-    //     "discharge.date",
-    //     "main_record.site_name",
-    //     "weather.ave_temperature",
-    //     "weather.total_precipitation"
-    //   )
+
     // Check if any records were found
     if (result.length === 0) {
       return res.status(404).json({
@@ -167,6 +187,7 @@ export {
   sites,
   findOneSite,
   findOneSiteDischarge,
+  findDischargeInRange,
   findCombinedData,
   findCombinedDataInRange,
 };
