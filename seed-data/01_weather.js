@@ -6,6 +6,7 @@ export default [
     date: "2020-01-01",
     ave_temperature: -0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2,
@@ -14,14 +15,16 @@ export default [
     date: "2020-01-02",
     ave_temperature: -3,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 3,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2020-01-03",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 4,
@@ -30,6 +33,7 @@ export default [
     date: "2020-01-04",
     ave_temperature: 2.8,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 5,
@@ -38,6 +42,7 @@ export default [
     date: "2020-01-05",
     ave_temperature: -3.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 6,
@@ -46,6 +51,7 @@ export default [
     date: "2020-01-06",
     ave_temperature: -4.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 7,
@@ -54,6 +60,7 @@ export default [
     date: "2020-01-07",
     ave_temperature: -9.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 8,
@@ -62,6 +69,7 @@ export default [
     date: "2020-01-08",
     ave_temperature: -10.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 9,
@@ -70,6 +78,7 @@ export default [
     date: "2020-01-09",
     ave_temperature: -15.7,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 10,
@@ -78,6 +87,7 @@ export default [
     date: "2020-01-10",
     ave_temperature: -13.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 11,
@@ -86,6 +96,7 @@ export default [
     date: "2020-01-11",
     ave_temperature: -15.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 12,
@@ -94,6 +105,7 @@ export default [
     date: "2020-01-12",
     ave_temperature: -22.5,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 13,
@@ -102,6 +114,7 @@ export default [
     date: "2020-01-13",
     ave_temperature: -27.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 14,
@@ -110,6 +123,7 @@ export default [
     date: "2020-01-14",
     ave_temperature: -29.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 15,
@@ -118,6 +132,7 @@ export default [
     date: "2020-01-15",
     ave_temperature: -29.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 16,
@@ -126,6 +141,7 @@ export default [
     date: "2020-01-16",
     ave_temperature: -28.4,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 17,
@@ -134,6 +150,7 @@ export default [
     date: "2020-01-17",
     ave_temperature: -24.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 18,
@@ -142,6 +159,7 @@ export default [
     date: "2020-01-18",
     ave_temperature: -23.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 19,
@@ -150,6 +168,7 @@ export default [
     date: "2020-01-19",
     ave_temperature: -8.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 20,
@@ -158,6 +177,7 @@ export default [
     date: "2020-01-20",
     ave_temperature: 1.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 21,
@@ -166,6 +186,7 @@ export default [
     date: "2020-01-21",
     ave_temperature: -0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 22,
@@ -174,6 +195,7 @@ export default [
     date: "2020-01-22",
     ave_temperature: 0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 23,
@@ -182,6 +204,7 @@ export default [
     date: "2020-01-23",
     ave_temperature: 0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 24,
@@ -190,6 +213,7 @@ export default [
     date: "2020-01-24",
     ave_temperature: 5.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 25,
@@ -198,6 +222,7 @@ export default [
     date: "2020-01-25",
     ave_temperature: 2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 26,
@@ -206,6 +231,7 @@ export default [
     date: "2020-01-26",
     ave_temperature: -2.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 27,
@@ -214,6 +240,7 @@ export default [
     date: "2020-01-27",
     ave_temperature: 1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 28,
@@ -222,6 +249,7 @@ export default [
     date: "2020-01-28",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 29,
@@ -230,6 +258,7 @@ export default [
     date: "2020-01-29",
     ave_temperature: -1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 30,
@@ -238,6 +267,7 @@ export default [
     date: "2020-01-30",
     ave_temperature: 1.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 31,
@@ -246,6 +276,7 @@ export default [
     date: "2020-01-31",
     ave_temperature: 2.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 32,
@@ -254,6 +285,7 @@ export default [
     date: "2020-02-01",
     ave_temperature: 3,
     total_preciptation: 5.2,
+    user_id: null,
   },
   {
     id: 33,
@@ -262,6 +294,7 @@ export default [
     date: "2020-02-02",
     ave_temperature: -6.5,
     total_preciptation: 2.8,
+    user_id: null,
   },
   {
     id: 34,
@@ -270,6 +303,7 @@ export default [
     date: "2020-02-03",
     ave_temperature: -9.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 35,
@@ -278,6 +312,7 @@ export default [
     date: "2020-02-04",
     ave_temperature: -8.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 36,
@@ -286,6 +321,7 @@ export default [
     date: "2020-02-05",
     ave_temperature: 1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 37,
@@ -294,6 +330,7 @@ export default [
     date: "2020-02-06",
     ave_temperature: -1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 38,
@@ -302,6 +339,7 @@ export default [
     date: "2020-02-07",
     ave_temperature: -4.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 39,
@@ -310,6 +348,7 @@ export default [
     date: "2020-02-08",
     ave_temperature: -6.1,
     total_preciptation: 2.4,
+    user_id: null,
   },
   {
     id: 40,
@@ -318,6 +357,7 @@ export default [
     date: "2020-02-09",
     ave_temperature: -5,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 41,
@@ -326,6 +366,7 @@ export default [
     date: "2020-02-10",
     ave_temperature: -3.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 42,
@@ -334,6 +375,7 @@ export default [
     date: "2020-02-11",
     ave_temperature: -1.7,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 43,
@@ -342,6 +384,7 @@ export default [
     date: "2020-02-12",
     ave_temperature: -10.7,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 44,
@@ -350,6 +393,7 @@ export default [
     date: "2020-02-13",
     ave_temperature: -3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 45,
@@ -358,6 +402,7 @@ export default [
     date: "2020-02-14",
     ave_temperature: -3.6,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 46,
@@ -366,6 +411,7 @@ export default [
     date: "2020-02-15",
     ave_temperature: -1.7,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 47,
@@ -374,6 +420,7 @@ export default [
     date: "2020-02-16",
     ave_temperature: -2.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 48,
@@ -382,6 +429,7 @@ export default [
     date: "2020-02-17",
     ave_temperature: -9.8,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 49,
@@ -390,6 +438,7 @@ export default [
     date: "2020-02-18",
     ave_temperature: -12,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 50,
@@ -398,6 +447,7 @@ export default [
     date: "2020-02-19",
     ave_temperature: -7.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 51,
@@ -406,6 +456,7 @@ export default [
     date: "2020-02-20",
     ave_temperature: -1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 52,
@@ -414,6 +465,7 @@ export default [
     date: "2020-02-21",
     ave_temperature: 1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 53,
@@ -422,6 +474,7 @@ export default [
     date: "2020-02-22",
     ave_temperature: 0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 54,
@@ -430,6 +483,7 @@ export default [
     date: "2020-02-23",
     ave_temperature: -3.7,
     total_preciptation: 2.8,
+    user_id: null,
   },
   {
     id: 55,
@@ -438,6 +492,7 @@ export default [
     date: "2020-02-24",
     ave_temperature: -5.2,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 56,
@@ -446,6 +501,7 @@ export default [
     date: "2020-02-25",
     ave_temperature: -6.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 57,
@@ -454,6 +510,7 @@ export default [
     date: "2020-02-26",
     ave_temperature: 0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 58,
@@ -462,6 +519,7 @@ export default [
     date: "2020-02-27",
     ave_temperature: 4.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 59,
@@ -470,6 +528,7 @@ export default [
     date: "2020-02-28",
     ave_temperature: 5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 60,
@@ -478,6 +537,7 @@ export default [
     date: "2020-02-29",
     ave_temperature: 1.5,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 61,
@@ -486,6 +546,7 @@ export default [
     date: "2020-03-01",
     ave_temperature: -3.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 62,
@@ -494,6 +555,7 @@ export default [
     date: "2020-03-02",
     ave_temperature: 4.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 63,
@@ -502,6 +564,7 @@ export default [
     date: "2020-03-03",
     ave_temperature: 2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 64,
@@ -510,6 +573,7 @@ export default [
     date: "2020-03-04",
     ave_temperature: 0.7,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 65,
@@ -518,6 +582,7 @@ export default [
     date: "2020-03-05",
     ave_temperature: 0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 66,
@@ -526,6 +591,7 @@ export default [
     date: "2020-03-06",
     ave_temperature: 0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 67,
@@ -534,6 +600,7 @@ export default [
     date: "2020-03-07",
     ave_temperature: -10.9,
     total_preciptation: 3.2,
+    user_id: null,
   },
   {
     id: 68,
@@ -542,6 +609,7 @@ export default [
     date: "2020-03-08",
     ave_temperature: -12.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 69,
@@ -550,6 +618,7 @@ export default [
     date: "2020-03-09",
     ave_temperature: -6.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 70,
@@ -558,14 +627,16 @@ export default [
     date: "2020-03-10",
     ave_temperature: -2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 71,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2020-03-11",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 72,
@@ -574,6 +645,7 @@ export default [
     date: "2020-03-12",
     ave_temperature: -3.7,
     total_preciptation: 2.4,
+    user_id: null,
   },
   {
     id: 73,
@@ -582,6 +654,7 @@ export default [
     date: "2020-03-13",
     ave_temperature: -14.6,
     total_preciptation: 7.5,
+    user_id: null,
   },
   {
     id: 74,
@@ -590,6 +663,7 @@ export default [
     date: "2020-03-14",
     ave_temperature: -19.6,
     total_preciptation: 3.5,
+    user_id: null,
   },
   {
     id: 75,
@@ -598,6 +672,7 @@ export default [
     date: "2020-03-15",
     ave_temperature: -16.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 76,
@@ -606,6 +681,7 @@ export default [
     date: "2020-03-16",
     ave_temperature: -5.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 77,
@@ -614,6 +690,7 @@ export default [
     date: "2020-03-17",
     ave_temperature: -2,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 78,
@@ -622,6 +699,7 @@ export default [
     date: "2020-03-18",
     ave_temperature: -8.3,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 79,
@@ -630,6 +708,7 @@ export default [
     date: "2020-03-19",
     ave_temperature: -9.9,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 80,
@@ -638,6 +717,7 @@ export default [
     date: "2020-03-20",
     ave_temperature: -5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 81,
@@ -646,6 +726,7 @@ export default [
     date: "2020-03-21",
     ave_temperature: -2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 82,
@@ -654,6 +735,7 @@ export default [
     date: "2020-03-22",
     ave_temperature: 0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 83,
@@ -662,6 +744,7 @@ export default [
     date: "2020-03-23",
     ave_temperature: 2.4,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 84,
@@ -670,6 +753,7 @@ export default [
     date: "2020-03-24",
     ave_temperature: -3.8,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 85,
@@ -678,6 +762,7 @@ export default [
     date: "2020-03-25",
     ave_temperature: -4.9,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 86,
@@ -686,6 +771,7 @@ export default [
     date: "2020-03-26",
     ave_temperature: 0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 87,
@@ -694,6 +780,7 @@ export default [
     date: "2020-03-27",
     ave_temperature: 3.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 88,
@@ -702,6 +789,7 @@ export default [
     date: "2020-03-28",
     ave_temperature: 1.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 89,
@@ -710,6 +798,7 @@ export default [
     date: "2020-03-29",
     ave_temperature: 4.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 90,
@@ -718,6 +807,7 @@ export default [
     date: "2020-03-30",
     ave_temperature: -4.8,
     total_preciptation: 3,
+    user_id: null,
   },
   {
     id: 91,
@@ -726,6 +816,7 @@ export default [
     date: "2020-03-31",
     ave_temperature: -10,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 92,
@@ -734,6 +825,7 @@ export default [
     date: "2020-04-01",
     ave_temperature: -12.6,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 93,
@@ -742,6 +834,7 @@ export default [
     date: "2020-04-02",
     ave_temperature: -11.7,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 94,
@@ -750,6 +843,7 @@ export default [
     date: "2020-04-03",
     ave_temperature: -9.5,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 95,
@@ -758,6 +852,7 @@ export default [
     date: "2020-04-04",
     ave_temperature: -7.2,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 96,
@@ -766,6 +861,7 @@ export default [
     date: "2020-04-05",
     ave_temperature: -5.5,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 97,
@@ -774,6 +870,7 @@ export default [
     date: "2020-04-06",
     ave_temperature: -0.4,
     total_preciptation: 1.1,
+    user_id: null,
   },
   {
     id: 98,
@@ -782,6 +879,7 @@ export default [
     date: "2020-04-07",
     ave_temperature: 0.9,
     total_preciptation: 3,
+    user_id: null,
   },
   {
     id: 99,
@@ -790,6 +888,7 @@ export default [
     date: "2020-04-08",
     ave_temperature: 0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 100,
@@ -798,6 +897,7 @@ export default [
     date: "2020-04-09",
     ave_temperature: 5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 101,
@@ -806,6 +906,7 @@ export default [
     date: "2020-04-10",
     ave_temperature: 0.4,
     total_preciptation: 2.1,
+    user_id: null,
   },
   {
     id: 102,
@@ -814,6 +915,7 @@ export default [
     date: "2020-04-11",
     ave_temperature: -5.9,
     total_preciptation: 3.1,
+    user_id: null,
   },
   {
     id: 103,
@@ -822,6 +924,7 @@ export default [
     date: "2020-04-12",
     ave_temperature: -5.7,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 104,
@@ -830,6 +933,7 @@ export default [
     date: "2020-04-13",
     ave_temperature: -2.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 105,
@@ -838,6 +942,7 @@ export default [
     date: "2020-04-14",
     ave_temperature: 3.6,
     total_preciptation: 2.6,
+    user_id: null,
   },
   {
     id: 106,
@@ -846,6 +951,7 @@ export default [
     date: "2020-04-15",
     ave_temperature: -0.5,
     total_preciptation: 6.7,
+    user_id: null,
   },
   {
     id: 107,
@@ -854,6 +960,7 @@ export default [
     date: "2020-04-16",
     ave_temperature: 2.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 108,
@@ -862,6 +969,7 @@ export default [
     date: "2020-04-17",
     ave_temperature: 7.9,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 109,
@@ -870,6 +978,7 @@ export default [
     date: "2020-04-18",
     ave_temperature: 2.2,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 110,
@@ -878,6 +987,7 @@ export default [
     date: "2020-04-19",
     ave_temperature: 6.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 111,
@@ -886,6 +996,7 @@ export default [
     date: "2020-04-20",
     ave_temperature: 12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 112,
@@ -894,6 +1005,7 @@ export default [
     date: "2020-04-21",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 113,
@@ -902,6 +1014,7 @@ export default [
     date: "2020-04-22",
     ave_temperature: 8.8,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 114,
@@ -910,6 +1023,7 @@ export default [
     date: "2020-04-23",
     ave_temperature: 7.4,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 115,
@@ -918,6 +1032,7 @@ export default [
     date: "2020-04-24",
     ave_temperature: 8.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 116,
@@ -926,6 +1041,7 @@ export default [
     date: "2020-04-25",
     ave_temperature: 9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 117,
@@ -934,6 +1050,7 @@ export default [
     date: "2020-04-26",
     ave_temperature: 8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 118,
@@ -942,6 +1059,7 @@ export default [
     date: "2020-04-27",
     ave_temperature: 9.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 119,
@@ -950,6 +1068,7 @@ export default [
     date: "2020-04-28",
     ave_temperature: 8.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 120,
@@ -958,6 +1077,7 @@ export default [
     date: "2020-04-29",
     ave_temperature: 12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 121,
@@ -966,6 +1086,7 @@ export default [
     date: "2020-04-30",
     ave_temperature: 12.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 122,
@@ -974,6 +1095,7 @@ export default [
     date: "2020-05-01",
     ave_temperature: 7.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 123,
@@ -982,6 +1104,7 @@ export default [
     date: "2020-05-02",
     ave_temperature: 9.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 124,
@@ -990,6 +1113,7 @@ export default [
     date: "2020-05-03",
     ave_temperature: 9.3,
     total_preciptation: 10.6,
+    user_id: null,
   },
   {
     id: 125,
@@ -998,6 +1122,7 @@ export default [
     date: "2020-05-04",
     ave_temperature: 4.6,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 126,
@@ -1006,6 +1131,7 @@ export default [
     date: "2020-05-05",
     ave_temperature: 7.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 127,
@@ -1014,6 +1140,7 @@ export default [
     date: "2020-05-06",
     ave_temperature: 8.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 128,
@@ -1022,6 +1149,7 @@ export default [
     date: "2020-05-07",
     ave_temperature: 11.3,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 129,
@@ -1030,6 +1158,7 @@ export default [
     date: "2020-05-08",
     ave_temperature: 7.4,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 130,
@@ -1038,6 +1167,7 @@ export default [
     date: "2020-05-09",
     ave_temperature: 6.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 131,
@@ -1046,6 +1176,7 @@ export default [
     date: "2020-05-10",
     ave_temperature: 3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 132,
@@ -1054,6 +1185,7 @@ export default [
     date: "2020-05-11",
     ave_temperature: 3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 133,
@@ -1062,6 +1194,7 @@ export default [
     date: "2020-05-12",
     ave_temperature: 6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 134,
@@ -1070,6 +1203,7 @@ export default [
     date: "2020-05-13",
     ave_temperature: 7.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 135,
@@ -1078,6 +1212,7 @@ export default [
     date: "2020-05-14",
     ave_temperature: 10.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 136,
@@ -1086,6 +1221,7 @@ export default [
     date: "2020-05-15",
     ave_temperature: 10.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 137,
@@ -1094,6 +1230,7 @@ export default [
     date: "2020-05-16",
     ave_temperature: 12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 138,
@@ -1102,6 +1239,7 @@ export default [
     date: "2020-05-17",
     ave_temperature: 13.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 139,
@@ -1110,6 +1248,7 @@ export default [
     date: "2020-05-18",
     ave_temperature: 14.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 140,
@@ -1118,6 +1257,7 @@ export default [
     date: "2020-05-19",
     ave_temperature: 11.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 141,
@@ -1126,6 +1266,7 @@ export default [
     date: "2020-05-20",
     ave_temperature: 9.8,
     total_preciptation: 3.2,
+    user_id: null,
   },
   {
     id: 142,
@@ -1134,6 +1275,7 @@ export default [
     date: "2020-05-21",
     ave_temperature: 5.5,
     total_preciptation: 33.3,
+    user_id: null,
   },
   {
     id: 143,
@@ -1142,6 +1284,7 @@ export default [
     date: "2020-05-22",
     ave_temperature: 4.1,
     total_preciptation: 17.5,
+    user_id: null,
   },
   {
     id: 144,
@@ -1150,6 +1293,7 @@ export default [
     date: "2020-05-23",
     ave_temperature: 10.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 145,
@@ -1158,6 +1302,7 @@ export default [
     date: "2020-05-24",
     ave_temperature: 11.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 146,
@@ -1166,6 +1311,7 @@ export default [
     date: "2020-05-25",
     ave_temperature: 14,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 147,
@@ -1174,6 +1320,7 @@ export default [
     date: "2020-05-26",
     ave_temperature: 10.7,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 148,
@@ -1182,6 +1329,7 @@ export default [
     date: "2020-05-27",
     ave_temperature: 10,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 149,
@@ -1190,6 +1338,7 @@ export default [
     date: "2020-05-28",
     ave_temperature: 11.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 150,
@@ -1198,6 +1347,7 @@ export default [
     date: "2020-05-29",
     ave_temperature: 14.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 151,
@@ -1206,6 +1356,7 @@ export default [
     date: "2020-05-30",
     ave_temperature: 18.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 152,
@@ -1214,6 +1365,7 @@ export default [
     date: "2020-05-31",
     ave_temperature: 15,
     total_preciptation: 41,
+    user_id: null,
   },
   {
     id: 153,
@@ -1222,6 +1374,7 @@ export default [
     date: "2020-06-01",
     ave_temperature: 12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 154,
@@ -1230,6 +1383,7 @@ export default [
     date: "2020-06-02",
     ave_temperature: 13.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 155,
@@ -1238,6 +1392,7 @@ export default [
     date: "2020-06-03",
     ave_temperature: 12.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 156,
@@ -1246,6 +1401,7 @@ export default [
     date: "2020-06-04",
     ave_temperature: 10.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 157,
@@ -1254,6 +1410,7 @@ export default [
     date: "2020-06-05",
     ave_temperature: 11.3,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 158,
@@ -1262,6 +1419,7 @@ export default [
     date: "2020-06-06",
     ave_temperature: 14.3,
     total_preciptation: 3.6,
+    user_id: null,
   },
   {
     id: 159,
@@ -1270,6 +1428,7 @@ export default [
     date: "2020-06-07",
     ave_temperature: 9.7,
     total_preciptation: 9.7,
+    user_id: null,
   },
   {
     id: 160,
@@ -1278,6 +1437,7 @@ export default [
     date: "2020-06-08",
     ave_temperature: 10.8,
     total_preciptation: 3.5,
+    user_id: null,
   },
   {
     id: 161,
@@ -1286,6 +1446,7 @@ export default [
     date: "2020-06-09",
     ave_temperature: 11.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 162,
@@ -1294,6 +1455,7 @@ export default [
     date: "2020-06-10",
     ave_temperature: 16.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 163,
@@ -1302,6 +1464,7 @@ export default [
     date: "2020-06-11",
     ave_temperature: 16.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 164,
@@ -1310,6 +1473,7 @@ export default [
     date: "2020-06-12",
     ave_temperature: 20.5,
     total_preciptation: 2.2,
+    user_id: null,
   },
   {
     id: 165,
@@ -1318,6 +1482,7 @@ export default [
     date: "2020-06-13",
     ave_temperature: 16.3,
     total_preciptation: 54,
+    user_id: null,
   },
   {
     id: 166,
@@ -1326,14 +1491,16 @@ export default [
     date: "2020-06-14",
     ave_temperature: 14.3,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 167,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2020-06-15",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 168,
@@ -1342,6 +1509,7 @@ export default [
     date: "2020-06-16",
     ave_temperature: 13.4,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 169,
@@ -1350,6 +1518,7 @@ export default [
     date: "2020-06-17",
     ave_temperature: 12.1,
     total_preciptation: 7.4,
+    user_id: null,
   },
   {
     id: 170,
@@ -1358,6 +1527,7 @@ export default [
     date: "2020-06-18",
     ave_temperature: 12.3,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 171,
@@ -1366,14 +1536,16 @@ export default [
     date: "2020-06-19",
     ave_temperature: 14.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 172,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2020-06-20",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 173,
@@ -1382,6 +1554,7 @@ export default [
     date: "2020-06-21",
     ave_temperature: 17.3,
     total_preciptation: 27.6,
+    user_id: null,
   },
   {
     id: 174,
@@ -1390,6 +1563,7 @@ export default [
     date: "2020-06-22",
     ave_temperature: 16.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 175,
@@ -1398,6 +1572,7 @@ export default [
     date: "2020-06-23",
     ave_temperature: 18.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 176,
@@ -1406,6 +1581,7 @@ export default [
     date: "2020-06-24",
     ave_temperature: 16.6,
     total_preciptation: 4.2,
+    user_id: null,
   },
   {
     id: 177,
@@ -1414,6 +1590,7 @@ export default [
     date: "2020-06-25",
     ave_temperature: 16.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 178,
@@ -1422,6 +1599,7 @@ export default [
     date: "2020-06-26",
     ave_temperature: 19.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 179,
@@ -1430,6 +1608,7 @@ export default [
     date: "2020-06-27",
     ave_temperature: 14.2,
     total_preciptation: 12.3,
+    user_id: null,
   },
   {
     id: 180,
@@ -1438,6 +1617,7 @@ export default [
     date: "2020-06-28",
     ave_temperature: 11.4,
     total_preciptation: 14.5,
+    user_id: null,
   },
   {
     id: 181,
@@ -1446,6 +1626,7 @@ export default [
     date: "2020-06-29",
     ave_temperature: 13.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 182,
@@ -1454,6 +1635,7 @@ export default [
     date: "2020-06-30",
     ave_temperature: 11.9,
     total_preciptation: 29.2,
+    user_id: null,
   },
   {
     id: 183,
@@ -1462,6 +1644,7 @@ export default [
     date: "2020-07-01",
     ave_temperature: 15.4,
     total_preciptation: 4.2,
+    user_id: null,
   },
   {
     id: 184,
@@ -1470,6 +1653,7 @@ export default [
     date: "2020-07-02",
     ave_temperature: 15.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 185,
@@ -1478,6 +1662,7 @@ export default [
     date: "2020-07-03",
     ave_temperature: 17.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 186,
@@ -1486,6 +1671,7 @@ export default [
     date: "2020-07-04",
     ave_temperature: 15.1,
     total_preciptation: 9.5,
+    user_id: null,
   },
   {
     id: 187,
@@ -1494,6 +1680,7 @@ export default [
     date: "2020-07-05",
     ave_temperature: 13.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 188,
@@ -1502,6 +1689,7 @@ export default [
     date: "2020-07-06",
     ave_temperature: 16,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 189,
@@ -1510,6 +1698,7 @@ export default [
     date: "2020-07-07",
     ave_temperature: 13.6,
     total_preciptation: 15,
+    user_id: null,
   },
   {
     id: 190,
@@ -1518,14 +1707,16 @@ export default [
     date: "2020-07-08",
     ave_temperature: 14.2,
     total_preciptation: 13.8,
+    user_id: null,
   },
   {
     id: 191,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2020-07-09",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 192,
@@ -1534,14 +1725,16 @@ export default [
     date: "2020-07-10",
     ave_temperature: 16.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 193,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2020-07-11",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 194,
@@ -1550,6 +1743,7 @@ export default [
     date: "2020-07-12",
     ave_temperature: 15.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 195,
@@ -1558,6 +1752,7 @@ export default [
     date: "2020-07-13",
     ave_temperature: 14.2,
     total_preciptation: 1.5,
+    user_id: null,
   },
   {
     id: 196,
@@ -1566,6 +1761,7 @@ export default [
     date: "2020-07-14",
     ave_temperature: 17.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 197,
@@ -1574,6 +1770,7 @@ export default [
     date: "2020-07-15",
     ave_temperature: 17.9,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 198,
@@ -1582,6 +1779,7 @@ export default [
     date: "2020-07-16",
     ave_temperature: 19.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 199,
@@ -1590,6 +1788,7 @@ export default [
     date: "2020-07-17",
     ave_temperature: 16.6,
     total_preciptation: 4.2,
+    user_id: null,
   },
   {
     id: 200,
@@ -1598,6 +1797,7 @@ export default [
     date: "2020-07-18",
     ave_temperature: 16.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 201,
@@ -1606,6 +1806,7 @@ export default [
     date: "2020-07-19",
     ave_temperature: 17,
     total_preciptation: 3.7,
+    user_id: null,
   },
   {
     id: 202,
@@ -1614,6 +1815,7 @@ export default [
     date: "2020-07-20",
     ave_temperature: 16.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 203,
@@ -1622,6 +1824,7 @@ export default [
     date: "2020-07-21",
     ave_temperature: 18.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 204,
@@ -1630,6 +1833,7 @@ export default [
     date: "2020-07-22",
     ave_temperature: 19.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 205,
@@ -1638,6 +1842,7 @@ export default [
     date: "2020-07-23",
     ave_temperature: 17.6,
     total_preciptation: 24.9,
+    user_id: null,
   },
   {
     id: 206,
@@ -1646,6 +1851,7 @@ export default [
     date: "2020-07-24",
     ave_temperature: 14.2,
     total_preciptation: 4.4,
+    user_id: null,
   },
   {
     id: 207,
@@ -1654,6 +1860,7 @@ export default [
     date: "2020-07-25",
     ave_temperature: 13.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 208,
@@ -1662,6 +1869,7 @@ export default [
     date: "2020-07-26",
     ave_temperature: 16.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 209,
@@ -1670,6 +1878,7 @@ export default [
     date: "2020-07-27",
     ave_temperature: 19,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 210,
@@ -1678,6 +1887,7 @@ export default [
     date: "2020-07-28",
     ave_temperature: 21.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 211,
@@ -1686,6 +1896,7 @@ export default [
     date: "2020-07-29",
     ave_temperature: 22.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 212,
@@ -1694,6 +1905,7 @@ export default [
     date: "2020-07-30",
     ave_temperature: 21.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 213,
@@ -1702,6 +1914,7 @@ export default [
     date: "2020-07-31",
     ave_temperature: 22.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 214,
@@ -1710,6 +1923,7 @@ export default [
     date: "2020-08-01",
     ave_temperature: 21.8,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 215,
@@ -1718,6 +1932,7 @@ export default [
     date: "2020-08-02",
     ave_temperature: 21.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 216,
@@ -1726,6 +1941,7 @@ export default [
     date: "2020-08-03",
     ave_temperature: 21.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 217,
@@ -1734,6 +1950,7 @@ export default [
     date: "2020-08-04",
     ave_temperature: 18.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 218,
@@ -1742,6 +1959,7 @@ export default [
     date: "2020-08-05",
     ave_temperature: 20.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 219,
@@ -1750,6 +1968,7 @@ export default [
     date: "2020-08-06",
     ave_temperature: 21.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 220,
@@ -1758,6 +1977,7 @@ export default [
     date: "2020-08-07",
     ave_temperature: 15.3,
     total_preciptation: 10.8,
+    user_id: null,
   },
   {
     id: 221,
@@ -1766,6 +1986,7 @@ export default [
     date: "2020-08-08",
     ave_temperature: 16.4,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 222,
@@ -1774,6 +1995,7 @@ export default [
     date: "2020-08-09",
     ave_temperature: 13.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 223,
@@ -1782,6 +2004,7 @@ export default [
     date: "2020-08-10",
     ave_temperature: 20.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 224,
@@ -1790,6 +2013,7 @@ export default [
     date: "2020-08-11",
     ave_temperature: 15.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 225,
@@ -1798,6 +2022,7 @@ export default [
     date: "2020-08-12",
     ave_temperature: 13.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 226,
@@ -1806,14 +2031,16 @@ export default [
     date: "2020-08-13",
     ave_temperature: 14.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 227,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2020-08-14",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 228,
@@ -1822,6 +2049,7 @@ export default [
     date: "2020-08-15",
     ave_temperature: 19.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 229,
@@ -1830,6 +2058,7 @@ export default [
     date: "2020-08-16",
     ave_temperature: 20.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 230,
@@ -1838,6 +2067,7 @@ export default [
     date: "2020-08-17",
     ave_temperature: 23.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 231,
@@ -1846,6 +2076,7 @@ export default [
     date: "2020-08-18",
     ave_temperature: 24.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 232,
@@ -1854,6 +2085,7 @@ export default [
     date: "2020-08-19",
     ave_temperature: 20.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 233,
@@ -1862,6 +2094,7 @@ export default [
     date: "2020-08-20",
     ave_temperature: 20.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 234,
@@ -1870,6 +2103,7 @@ export default [
     date: "2020-08-21",
     ave_temperature: 19.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 235,
@@ -1878,6 +2112,7 @@ export default [
     date: "2020-08-22",
     ave_temperature: 18.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 236,
@@ -1886,6 +2121,7 @@ export default [
     date: "2020-08-23",
     ave_temperature: 16.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 237,
@@ -1894,6 +2130,7 @@ export default [
     date: "2020-08-24",
     ave_temperature: 20.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 238,
@@ -1902,14 +2139,16 @@ export default [
     date: "2020-08-25",
     ave_temperature: 17.1,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 239,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2020-08-26",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 240,
@@ -1918,6 +2157,7 @@ export default [
     date: "2020-08-27",
     ave_temperature: 14.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 241,
@@ -1926,6 +2166,7 @@ export default [
     date: "2020-08-28",
     ave_temperature: 17.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 242,
@@ -1934,6 +2175,7 @@ export default [
     date: "2020-08-29",
     ave_temperature: 14.4,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 243,
@@ -1942,6 +2184,7 @@ export default [
     date: "2020-08-30",
     ave_temperature: 12.7,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 244,
@@ -1950,6 +2193,7 @@ export default [
     date: "2020-08-31",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 245,
@@ -1958,6 +2202,7 @@ export default [
     date: "2020-09-01",
     ave_temperature: 17.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 246,
@@ -1966,6 +2211,7 @@ export default [
     date: "2020-09-02",
     ave_temperature: 14.3,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 247,
@@ -1974,6 +2220,7 @@ export default [
     date: "2020-09-03",
     ave_temperature: 14.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 248,
@@ -1982,6 +2229,7 @@ export default [
     date: "2020-09-04",
     ave_temperature: 17,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 249,
@@ -1990,6 +2238,7 @@ export default [
     date: "2020-09-05",
     ave_temperature: 20.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 250,
@@ -1998,6 +2247,7 @@ export default [
     date: "2020-09-06",
     ave_temperature: 10.3,
     total_preciptation: 8.9,
+    user_id: null,
   },
   {
     id: 251,
@@ -2006,6 +2256,7 @@ export default [
     date: "2020-09-07",
     ave_temperature: 6.7,
     total_preciptation: 11,
+    user_id: null,
   },
   {
     id: 252,
@@ -2014,6 +2265,7 @@ export default [
     date: "2020-09-08",
     ave_temperature: 10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 253,
@@ -2022,6 +2274,7 @@ export default [
     date: "2020-09-09",
     ave_temperature: 14.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 254,
@@ -2030,6 +2283,7 @@ export default [
     date: "2020-09-10",
     ave_temperature: 16,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 255,
@@ -2038,6 +2292,7 @@ export default [
     date: "2020-09-11",
     ave_temperature: 18.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 256,
@@ -2046,6 +2301,7 @@ export default [
     date: "2020-09-12",
     ave_temperature: 13.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 257,
@@ -2054,6 +2310,7 @@ export default [
     date: "2020-09-13",
     ave_temperature: 11.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 258,
@@ -2062,6 +2319,7 @@ export default [
     date: "2020-09-14",
     ave_temperature: 8.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 259,
@@ -2070,6 +2328,7 @@ export default [
     date: "2020-09-15",
     ave_temperature: 9.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 260,
@@ -2078,6 +2337,7 @@ export default [
     date: "2020-09-16",
     ave_temperature: 13.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 261,
@@ -2086,6 +2346,7 @@ export default [
     date: "2020-09-17",
     ave_temperature: 13.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 262,
@@ -2094,6 +2355,7 @@ export default [
     date: "2020-09-18",
     ave_temperature: 13.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 263,
@@ -2102,6 +2364,7 @@ export default [
     date: "2020-09-19",
     ave_temperature: 15.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 264,
@@ -2110,6 +2373,7 @@ export default [
     date: "2020-09-20",
     ave_temperature: 13.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 265,
@@ -2118,6 +2382,7 @@ export default [
     date: "2020-09-21",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 266,
@@ -2126,6 +2391,7 @@ export default [
     date: "2020-09-22",
     ave_temperature: 10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 267,
@@ -2134,6 +2400,7 @@ export default [
     date: "2020-09-23",
     ave_temperature: 12.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 268,
@@ -2142,6 +2409,7 @@ export default [
     date: "2020-09-24",
     ave_temperature: 14.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 269,
@@ -2150,6 +2418,7 @@ export default [
     date: "2020-09-25",
     ave_temperature: 11.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 270,
@@ -2158,6 +2427,7 @@ export default [
     date: "2020-09-26",
     ave_temperature: 11.3,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 271,
@@ -2166,6 +2436,7 @@ export default [
     date: "2020-09-27",
     ave_temperature: 11.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 272,
@@ -2174,6 +2445,7 @@ export default [
     date: "2020-09-28",
     ave_temperature: 14.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 273,
@@ -2182,6 +2454,7 @@ export default [
     date: "2020-09-29",
     ave_temperature: 13.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 274,
@@ -2190,6 +2463,7 @@ export default [
     date: "2020-09-30",
     ave_temperature: 10.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 275,
@@ -2198,6 +2472,7 @@ export default [
     date: "2020-10-01",
     ave_temperature: 13.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 276,
@@ -2206,6 +2481,7 @@ export default [
     date: "2020-10-02",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 277,
@@ -2214,6 +2490,7 @@ export default [
     date: "2020-10-03",
     ave_temperature: 13.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 278,
@@ -2222,6 +2499,7 @@ export default [
     date: "2020-10-04",
     ave_temperature: 16.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 279,
@@ -2230,6 +2508,7 @@ export default [
     date: "2020-10-05",
     ave_temperature: 14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 280,
@@ -2238,6 +2517,7 @@ export default [
     date: "2020-10-06",
     ave_temperature: 12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 281,
@@ -2246,6 +2526,7 @@ export default [
     date: "2020-10-07",
     ave_temperature: 10.7,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 282,
@@ -2254,6 +2535,7 @@ export default [
     date: "2020-10-08",
     ave_temperature: 11.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 283,
@@ -2262,6 +2544,7 @@ export default [
     date: "2020-10-09",
     ave_temperature: 7.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 284,
@@ -2270,6 +2553,7 @@ export default [
     date: "2020-10-10",
     ave_temperature: 15.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 285,
@@ -2278,6 +2562,7 @@ export default [
     date: "2020-10-11",
     ave_temperature: 7.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 286,
@@ -2286,6 +2571,7 @@ export default [
     date: "2020-10-12",
     ave_temperature: 2.4,
     total_preciptation: 2.1,
+    user_id: null,
   },
   {
     id: 287,
@@ -2294,6 +2580,7 @@ export default [
     date: "2020-10-13",
     ave_temperature: 0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 288,
@@ -2302,6 +2589,7 @@ export default [
     date: "2020-10-14",
     ave_temperature: 1.8,
     total_preciptation: 5.9,
+    user_id: null,
   },
   {
     id: 289,
@@ -2310,6 +2598,7 @@ export default [
     date: "2020-10-15",
     ave_temperature: 0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 290,
@@ -2318,6 +2607,7 @@ export default [
     date: "2020-10-16",
     ave_temperature: 0.1,
     total_preciptation: 1.5,
+    user_id: null,
   },
   {
     id: 291,
@@ -2326,6 +2616,7 @@ export default [
     date: "2020-10-17",
     ave_temperature: -5.8,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 292,
@@ -2334,6 +2625,7 @@ export default [
     date: "2020-10-18",
     ave_temperature: -7.6,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 293,
@@ -2342,6 +2634,7 @@ export default [
     date: "2020-10-19",
     ave_temperature: -4.3,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 294,
@@ -2350,6 +2643,7 @@ export default [
     date: "2020-10-20",
     ave_temperature: -1.4,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 295,
@@ -2358,6 +2652,7 @@ export default [
     date: "2020-10-21",
     ave_temperature: -5.9,
     total_preciptation: 2.2,
+    user_id: null,
   },
   {
     id: 296,
@@ -2366,6 +2661,7 @@ export default [
     date: "2020-10-22",
     ave_temperature: -9.1,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 297,
@@ -2374,6 +2670,7 @@ export default [
     date: "2020-10-23",
     ave_temperature: -10.4,
     total_preciptation: 4.4,
+    user_id: null,
   },
   {
     id: 298,
@@ -2382,6 +2679,7 @@ export default [
     date: "2020-10-24",
     ave_temperature: -12.1,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 299,
@@ -2390,6 +2688,7 @@ export default [
     date: "2020-10-25",
     ave_temperature: -9.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 300,
@@ -2398,6 +2697,7 @@ export default [
     date: "2020-10-26",
     ave_temperature: -0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 301,
@@ -2406,6 +2706,7 @@ export default [
     date: "2020-10-27",
     ave_temperature: 7.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 302,
@@ -2414,6 +2715,7 @@ export default [
     date: "2020-10-28",
     ave_temperature: 2.1,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 303,
@@ -2422,6 +2724,7 @@ export default [
     date: "2020-10-29",
     ave_temperature: 2.3,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 304,
@@ -2430,6 +2733,7 @@ export default [
     date: "2020-10-30",
     ave_temperature: 5.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 305,
@@ -2438,6 +2742,7 @@ export default [
     date: "2020-10-31",
     ave_temperature: 3.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 306,
@@ -2446,6 +2751,7 @@ export default [
     date: "2020-11-01",
     ave_temperature: 8.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 307,
@@ -2454,6 +2760,7 @@ export default [
     date: "2020-11-02",
     ave_temperature: 14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 308,
@@ -2462,6 +2769,7 @@ export default [
     date: "2020-11-03",
     ave_temperature: 12.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 309,
@@ -2470,6 +2778,7 @@ export default [
     date: "2020-11-04",
     ave_temperature: 9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 310,
@@ -2478,6 +2787,7 @@ export default [
     date: "2020-11-05",
     ave_temperature: 7.2,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 311,
@@ -2486,6 +2796,7 @@ export default [
     date: "2020-11-06",
     ave_temperature: 0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 312,
@@ -2494,6 +2805,7 @@ export default [
     date: "2020-11-07",
     ave_temperature: -3.7,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 313,
@@ -2502,6 +2814,7 @@ export default [
     date: "2020-11-08",
     ave_temperature: -9,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 314,
@@ -2510,6 +2823,7 @@ export default [
     date: "2020-11-09",
     ave_temperature: -5.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 315,
@@ -2518,6 +2832,7 @@ export default [
     date: "2020-11-10",
     ave_temperature: -1.8,
     total_preciptation: 9.7,
+    user_id: null,
   },
   {
     id: 316,
@@ -2526,6 +2841,7 @@ export default [
     date: "2020-11-11",
     ave_temperature: -9.6,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 317,
@@ -2534,6 +2850,7 @@ export default [
     date: "2020-11-12",
     ave_temperature: -5.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 318,
@@ -2542,6 +2859,7 @@ export default [
     date: "2020-11-13",
     ave_temperature: -3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 319,
@@ -2550,6 +2868,7 @@ export default [
     date: "2020-11-14",
     ave_temperature: -2.8,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 320,
@@ -2558,6 +2877,7 @@ export default [
     date: "2020-11-15",
     ave_temperature: -1.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 321,
@@ -2566,6 +2886,7 @@ export default [
     date: "2020-11-16",
     ave_temperature: -0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 322,
@@ -2574,6 +2895,7 @@ export default [
     date: "2020-11-17",
     ave_temperature: 2.3,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 323,
@@ -2582,6 +2904,7 @@ export default [
     date: "2020-11-18",
     ave_temperature: -2,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 324,
@@ -2590,6 +2913,7 @@ export default [
     date: "2020-11-19",
     ave_temperature: -10.1,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 325,
@@ -2598,6 +2922,7 @@ export default [
     date: "2020-11-20",
     ave_temperature: -5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 326,
@@ -2606,6 +2931,7 @@ export default [
     date: "2020-11-21",
     ave_temperature: -0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 327,
@@ -2614,6 +2940,7 @@ export default [
     date: "2020-11-22",
     ave_temperature: -4.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 328,
@@ -2622,6 +2949,7 @@ export default [
     date: "2020-11-23",
     ave_temperature: -2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 329,
@@ -2630,6 +2958,7 @@ export default [
     date: "2020-11-24",
     ave_temperature: -0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 330,
@@ -2638,6 +2967,7 @@ export default [
     date: "2020-11-25",
     ave_temperature: -1.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 331,
@@ -2646,6 +2976,7 @@ export default [
     date: "2020-11-26",
     ave_temperature: 0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 332,
@@ -2654,6 +2985,7 @@ export default [
     date: "2020-11-27",
     ave_temperature: 5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 333,
@@ -2662,6 +2994,7 @@ export default [
     date: "2020-11-28",
     ave_temperature: 1.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 334,
@@ -2670,6 +3003,7 @@ export default [
     date: "2020-11-29",
     ave_temperature: -0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 335,
@@ -2678,6 +3012,7 @@ export default [
     date: "2020-11-30",
     ave_temperature: 2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 336,
@@ -2686,6 +3021,7 @@ export default [
     date: "2020-12-01",
     ave_temperature: -1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 337,
@@ -2694,6 +3030,7 @@ export default [
     date: "2020-12-02",
     ave_temperature: 2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 338,
@@ -2702,6 +3039,7 @@ export default [
     date: "2020-12-03",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 339,
@@ -2710,6 +3048,7 @@ export default [
     date: "2020-12-04",
     ave_temperature: 6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 340,
@@ -2718,6 +3057,7 @@ export default [
     date: "2020-12-05",
     ave_temperature: 4.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 341,
@@ -2726,6 +3066,7 @@ export default [
     date: "2020-12-06",
     ave_temperature: 5.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 342,
@@ -2734,6 +3075,7 @@ export default [
     date: "2020-12-07",
     ave_temperature: 8.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 343,
@@ -2742,6 +3084,7 @@ export default [
     date: "2020-12-08",
     ave_temperature: 5.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 344,
@@ -2750,6 +3093,7 @@ export default [
     date: "2020-12-09",
     ave_temperature: -3.4,
     total_preciptation: 7.1,
+    user_id: null,
   },
   {
     id: 345,
@@ -2758,6 +3102,7 @@ export default [
     date: "2020-12-10",
     ave_temperature: -5.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 346,
@@ -2766,6 +3111,7 @@ export default [
     date: "2020-12-11",
     ave_temperature: -9.6,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 347,
@@ -2774,6 +3120,7 @@ export default [
     date: "2020-12-12",
     ave_temperature: -9.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 348,
@@ -2782,6 +3129,7 @@ export default [
     date: "2020-12-13",
     ave_temperature: -15.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 349,
@@ -2790,6 +3138,7 @@ export default [
     date: "2020-12-14",
     ave_temperature: -8.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 350,
@@ -2798,6 +3147,7 @@ export default [
     date: "2020-12-15",
     ave_temperature: -2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 351,
@@ -2806,6 +3156,7 @@ export default [
     date: "2020-12-16",
     ave_temperature: 0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 352,
@@ -2814,6 +3165,7 @@ export default [
     date: "2020-12-17",
     ave_temperature: -1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 353,
@@ -2822,6 +3174,7 @@ export default [
     date: "2020-12-18",
     ave_temperature: -2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 354,
@@ -2830,6 +3183,7 @@ export default [
     date: "2020-12-19",
     ave_temperature: 0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 355,
@@ -2838,6 +3192,7 @@ export default [
     date: "2020-12-20",
     ave_temperature: 2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 356,
@@ -2846,6 +3201,7 @@ export default [
     date: "2020-12-21",
     ave_temperature: -0.3,
     total_preciptation: 11.8,
+    user_id: null,
   },
   {
     id: 357,
@@ -2854,6 +3210,7 @@ export default [
     date: "2020-12-22",
     ave_temperature: -10.5,
     total_preciptation: 14,
+    user_id: null,
   },
   {
     id: 358,
@@ -2862,6 +3219,7 @@ export default [
     date: "2020-12-23",
     ave_temperature: -6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 359,
@@ -2870,6 +3228,7 @@ export default [
     date: "2020-12-24",
     ave_temperature: 4.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 360,
@@ -2878,6 +3237,7 @@ export default [
     date: "2020-12-25",
     ave_temperature: -0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 361,
@@ -2886,6 +3246,7 @@ export default [
     date: "2020-12-26",
     ave_temperature: -5.9,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 362,
@@ -2894,6 +3255,7 @@ export default [
     date: "2020-12-27",
     ave_temperature: -10.6,
     total_preciptation: 2.6,
+    user_id: null,
   },
   {
     id: 363,
@@ -2902,6 +3264,7 @@ export default [
     date: "2020-12-28",
     ave_temperature: -7.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 364,
@@ -2910,6 +3273,7 @@ export default [
     date: "2020-12-29",
     ave_temperature: -9.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 365,
@@ -2918,6 +3282,7 @@ export default [
     date: "2020-12-30",
     ave_temperature: -3.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 366,
@@ -2926,6 +3291,7 @@ export default [
     date: "2020-12-31",
     ave_temperature: -5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 367,
@@ -2934,6 +3300,7 @@ export default [
     date: "2021-01-01",
     ave_temperature: -1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 368,
@@ -2942,6 +3309,7 @@ export default [
     date: "2021-01-02",
     ave_temperature: 0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 369,
@@ -2950,6 +3318,7 @@ export default [
     date: "2021-01-03",
     ave_temperature: -0.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 370,
@@ -2958,6 +3327,7 @@ export default [
     date: "2021-01-04",
     ave_temperature: -2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 371,
@@ -2966,6 +3336,7 @@ export default [
     date: "2021-01-05",
     ave_temperature: 0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 372,
@@ -2974,6 +3345,7 @@ export default [
     date: "2021-01-06",
     ave_temperature: -0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 373,
@@ -2982,6 +3354,7 @@ export default [
     date: "2021-01-07",
     ave_temperature: -2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 374,
@@ -2990,6 +3363,7 @@ export default [
     date: "2021-01-08",
     ave_temperature: -8.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 375,
@@ -2998,6 +3372,7 @@ export default [
     date: "2021-01-09",
     ave_temperature: -6.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 376,
@@ -3006,6 +3381,7 @@ export default [
     date: "2021-01-10",
     ave_temperature: -3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 377,
@@ -3014,6 +3390,7 @@ export default [
     date: "2021-01-11",
     ave_temperature: 3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 378,
@@ -3022,6 +3399,7 @@ export default [
     date: "2021-01-12",
     ave_temperature: 3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 379,
@@ -3030,6 +3408,7 @@ export default [
     date: "2021-01-13",
     ave_temperature: 3.7,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 380,
@@ -3038,6 +3417,7 @@ export default [
     date: "2021-01-14",
     ave_temperature: -2.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 381,
@@ -3046,6 +3426,7 @@ export default [
     date: "2021-01-15",
     ave_temperature: 0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 382,
@@ -3054,6 +3435,7 @@ export default [
     date: "2021-01-16",
     ave_temperature: 1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 383,
@@ -3062,6 +3444,7 @@ export default [
     date: "2021-01-17",
     ave_temperature: 2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 384,
@@ -3070,6 +3453,7 @@ export default [
     date: "2021-01-18",
     ave_temperature: -1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 385,
@@ -3078,6 +3462,7 @@ export default [
     date: "2021-01-19",
     ave_temperature: 0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 386,
@@ -3086,6 +3471,7 @@ export default [
     date: "2021-01-20",
     ave_temperature: -2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 387,
@@ -3094,6 +3480,7 @@ export default [
     date: "2021-01-21",
     ave_temperature: -5.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 388,
@@ -3102,6 +3489,7 @@ export default [
     date: "2021-01-22",
     ave_temperature: -7.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 389,
@@ -3110,6 +3498,7 @@ export default [
     date: "2021-01-23",
     ave_temperature: -9.1,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 390,
@@ -3118,6 +3507,7 @@ export default [
     date: "2021-01-24",
     ave_temperature: -14.8,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 391,
@@ -3126,6 +3516,7 @@ export default [
     date: "2021-01-25",
     ave_temperature: -15.6,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 392,
@@ -3134,6 +3525,7 @@ export default [
     date: "2021-01-26",
     ave_temperature: -14.9,
     total_preciptation: 1.1,
+    user_id: null,
   },
   {
     id: 393,
@@ -3142,6 +3534,7 @@ export default [
     date: "2021-01-27",
     ave_temperature: -13.2,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 394,
@@ -3150,6 +3543,7 @@ export default [
     date: "2021-01-28",
     ave_temperature: -14.5,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 395,
@@ -3158,6 +3552,7 @@ export default [
     date: "2021-01-29",
     ave_temperature: -10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 396,
@@ -3166,6 +3561,7 @@ export default [
     date: "2021-01-30",
     ave_temperature: -8.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 397,
@@ -3174,6 +3570,7 @@ export default [
     date: "2021-01-31",
     ave_temperature: -3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 398,
@@ -3182,6 +3579,7 @@ export default [
     date: "2021-02-01",
     ave_temperature: 0,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 399,
@@ -3190,6 +3588,7 @@ export default [
     date: "2021-02-02",
     ave_temperature: -10.7,
     total_preciptation: 3.6,
+    user_id: null,
   },
   {
     id: 400,
@@ -3198,6 +3597,7 @@ export default [
     date: "2021-02-03",
     ave_temperature: -15.5,
     total_preciptation: 7.8,
+    user_id: null,
   },
   {
     id: 401,
@@ -3206,6 +3606,7 @@ export default [
     date: "2021-02-04",
     ave_temperature: -9.4,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 402,
@@ -3214,6 +3615,7 @@ export default [
     date: "2021-02-05",
     ave_temperature: -14,
     total_preciptation: 3.4,
+    user_id: null,
   },
   {
     id: 403,
@@ -3222,6 +3624,7 @@ export default [
     date: "2021-02-06",
     ave_temperature: -21.9,
     total_preciptation: 2.8,
+    user_id: null,
   },
   {
     id: 404,
@@ -3230,6 +3633,7 @@ export default [
     date: "2021-02-07",
     ave_temperature: -26.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 405,
@@ -3238,6 +3642,7 @@ export default [
     date: "2021-02-08",
     ave_temperature: -26.6,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 406,
@@ -3246,6 +3651,7 @@ export default [
     date: "2021-02-09",
     ave_temperature: -26.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 407,
@@ -3254,6 +3660,7 @@ export default [
     date: "2021-02-10",
     ave_temperature: -27.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 408,
@@ -3262,6 +3669,7 @@ export default [
     date: "2021-02-11",
     ave_temperature: -27.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 409,
@@ -3270,30 +3678,34 @@ export default [
     date: "2021-02-12",
     ave_temperature: -22.4,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 410,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-02-13",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 411,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-02-14",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 412,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-02-15",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 413,
@@ -3302,6 +3714,7 @@ export default [
     date: "2021-02-16",
     ave_temperature: -13.3,
     total_preciptation: 3.1,
+    user_id: null,
   },
   {
     id: 414,
@@ -3310,6 +3723,7 @@ export default [
     date: "2021-02-17",
     ave_temperature: -10.1,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 415,
@@ -3318,6 +3732,7 @@ export default [
     date: "2021-02-18",
     ave_temperature: -10.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 416,
@@ -3326,6 +3741,7 @@ export default [
     date: "2021-02-19",
     ave_temperature: -1.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 417,
@@ -3334,6 +3750,7 @@ export default [
     date: "2021-02-20",
     ave_temperature: -1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 418,
@@ -3342,6 +3759,7 @@ export default [
     date: "2021-02-21",
     ave_temperature: 3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 419,
@@ -3350,6 +3768,7 @@ export default [
     date: "2021-02-22",
     ave_temperature: 3.6,
     total_preciptation: 3.8,
+    user_id: null,
   },
   {
     id: 420,
@@ -3358,6 +3777,7 @@ export default [
     date: "2021-02-23",
     ave_temperature: -1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 421,
@@ -3366,6 +3786,7 @@ export default [
     date: "2021-02-24",
     ave_temperature: -3.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 422,
@@ -3374,6 +3795,7 @@ export default [
     date: "2021-02-25",
     ave_temperature: 1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 423,
@@ -3382,6 +3804,7 @@ export default [
     date: "2021-02-26",
     ave_temperature: -6.5,
     total_preciptation: 2.2,
+    user_id: null,
   },
   {
     id: 424,
@@ -3390,6 +3813,7 @@ export default [
     date: "2021-02-27",
     ave_temperature: -10.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 425,
@@ -3398,6 +3822,7 @@ export default [
     date: "2021-02-28",
     ave_temperature: -0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 426,
@@ -3406,6 +3831,7 @@ export default [
     date: "2021-03-01",
     ave_temperature: 5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 427,
@@ -3414,6 +3840,7 @@ export default [
     date: "2021-03-02",
     ave_temperature: 1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 428,
@@ -3422,6 +3849,7 @@ export default [
     date: "2021-03-03",
     ave_temperature: 2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 429,
@@ -3430,14 +3858,16 @@ export default [
     date: "2021-03-04",
     ave_temperature: 3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 430,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-03-05",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 431,
@@ -3446,6 +3876,7 @@ export default [
     date: "2021-03-06",
     ave_temperature: 1.7,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 432,
@@ -3454,6 +3885,7 @@ export default [
     date: "2021-03-07",
     ave_temperature: 1.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 433,
@@ -3462,6 +3894,7 @@ export default [
     date: "2021-03-08",
     ave_temperature: 1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 434,
@@ -3470,22 +3903,25 @@ export default [
     date: "2021-03-09",
     ave_temperature: 0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 435,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-03-10",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 436,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-03-11",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 437,
@@ -3494,6 +3930,7 @@ export default [
     date: "2021-03-12",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 438,
@@ -3502,6 +3939,7 @@ export default [
     date: "2021-03-13",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 439,
@@ -3510,6 +3948,7 @@ export default [
     date: "2021-03-14",
     ave_temperature: 7.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 440,
@@ -3518,6 +3957,7 @@ export default [
     date: "2021-03-15",
     ave_temperature: 3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 441,
@@ -3526,6 +3966,7 @@ export default [
     date: "2021-03-16",
     ave_temperature: 1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 442,
@@ -3534,6 +3975,7 @@ export default [
     date: "2021-03-17",
     ave_temperature: 3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 443,
@@ -3542,6 +3984,7 @@ export default [
     date: "2021-03-18",
     ave_temperature: 6.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 444,
@@ -3550,6 +3993,7 @@ export default [
     date: "2021-03-19",
     ave_temperature: 8.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 445,
@@ -3558,6 +4002,7 @@ export default [
     date: "2021-03-20",
     ave_temperature: 4.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 446,
@@ -3566,6 +4011,7 @@ export default [
     date: "2021-03-21",
     ave_temperature: 2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 447,
@@ -3574,6 +4020,7 @@ export default [
     date: "2021-03-22",
     ave_temperature: 2.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 448,
@@ -3582,6 +4029,7 @@ export default [
     date: "2021-03-23",
     ave_temperature: 0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 449,
@@ -3590,6 +4038,7 @@ export default [
     date: "2021-03-24",
     ave_temperature: 3.7,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 450,
@@ -3598,6 +4047,7 @@ export default [
     date: "2021-03-25",
     ave_temperature: -3.9,
     total_preciptation: 1.7,
+    user_id: null,
   },
   {
     id: 451,
@@ -3606,6 +4056,7 @@ export default [
     date: "2021-03-26",
     ave_temperature: -1.3,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 452,
@@ -3614,6 +4065,7 @@ export default [
     date: "2021-03-27",
     ave_temperature: 5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 453,
@@ -3622,6 +4074,7 @@ export default [
     date: "2021-03-28",
     ave_temperature: 6.2,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 454,
@@ -3630,6 +4083,7 @@ export default [
     date: "2021-03-29",
     ave_temperature: -6.2,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 455,
@@ -3638,6 +4092,7 @@ export default [
     date: "2021-03-30",
     ave_temperature: -2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 456,
@@ -3646,6 +4101,7 @@ export default [
     date: "2021-03-31",
     ave_temperature: 4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 457,
@@ -3654,6 +4110,7 @@ export default [
     date: "2021-04-01",
     ave_temperature: 8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 458,
@@ -3662,6 +4119,7 @@ export default [
     date: "2021-04-02",
     ave_temperature: 4.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 459,
@@ -3670,6 +4128,7 @@ export default [
     date: "2021-04-03",
     ave_temperature: 6.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 460,
@@ -3678,6 +4137,7 @@ export default [
     date: "2021-04-04",
     ave_temperature: 1.9,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 461,
@@ -3686,6 +4146,7 @@ export default [
     date: "2021-04-05",
     ave_temperature: 4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 462,
@@ -3694,6 +4155,7 @@ export default [
     date: "2021-04-06",
     ave_temperature: 7.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 463,
@@ -3702,6 +4164,7 @@ export default [
     date: "2021-04-07",
     ave_temperature: 8.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 464,
@@ -3710,6 +4173,7 @@ export default [
     date: "2021-04-08",
     ave_temperature: 1.8,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 465,
@@ -3718,6 +4182,7 @@ export default [
     date: "2021-04-09",
     ave_temperature: 3.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 466,
@@ -3726,6 +4191,7 @@ export default [
     date: "2021-04-10",
     ave_temperature: 1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 467,
@@ -3734,6 +4200,7 @@ export default [
     date: "2021-04-11",
     ave_temperature: 0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 468,
@@ -3742,6 +4209,7 @@ export default [
     date: "2021-04-12",
     ave_temperature: -0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 469,
@@ -3750,6 +4218,7 @@ export default [
     date: "2021-04-13",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 470,
@@ -3758,6 +4227,7 @@ export default [
     date: "2021-04-14",
     ave_temperature: 4.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 471,
@@ -3766,6 +4236,7 @@ export default [
     date: "2021-04-15",
     ave_temperature: 5.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 472,
@@ -3774,6 +4245,7 @@ export default [
     date: "2021-04-16",
     ave_temperature: 7.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 473,
@@ -3782,6 +4254,7 @@ export default [
     date: "2021-04-17",
     ave_temperature: 10,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 474,
@@ -3790,6 +4263,7 @@ export default [
     date: "2021-04-18",
     ave_temperature: 4.1,
     total_preciptation: 7.6,
+    user_id: null,
   },
   {
     id: 475,
@@ -3798,6 +4272,7 @@ export default [
     date: "2021-04-19",
     ave_temperature: 1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 476,
@@ -3806,6 +4281,7 @@ export default [
     date: "2021-04-20",
     ave_temperature: 3.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 477,
@@ -3814,14 +4290,16 @@ export default [
     date: "2021-04-21",
     ave_temperature: 9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 478,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-04-22",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 1.1,
+    user_id: null,
   },
   {
     id: 479,
@@ -3830,6 +4308,7 @@ export default [
     date: "2021-04-23",
     ave_temperature: -1.1,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 480,
@@ -3838,6 +4317,7 @@ export default [
     date: "2021-04-24",
     ave_temperature: 0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 481,
@@ -3846,6 +4326,7 @@ export default [
     date: "2021-04-25",
     ave_temperature: 1.5,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 482,
@@ -3854,6 +4335,7 @@ export default [
     date: "2021-04-26",
     ave_temperature: 5.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 483,
@@ -3862,6 +4344,7 @@ export default [
     date: "2021-04-27",
     ave_temperature: 8.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 484,
@@ -3870,6 +4353,7 @@ export default [
     date: "2021-04-28",
     ave_temperature: 8.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 485,
@@ -3878,6 +4362,7 @@ export default [
     date: "2021-04-29",
     ave_temperature: 11.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 486,
@@ -3886,6 +4371,7 @@ export default [
     date: "2021-04-30",
     ave_temperature: 14.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 487,
@@ -3894,6 +4380,7 @@ export default [
     date: "2021-05-01",
     ave_temperature: 7,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 488,
@@ -3902,6 +4389,7 @@ export default [
     date: "2021-05-02",
     ave_temperature: 5.9,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 489,
@@ -3910,6 +4398,7 @@ export default [
     date: "2021-05-03",
     ave_temperature: 5.9,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 490,
@@ -3918,6 +4407,7 @@ export default [
     date: "2021-05-04",
     ave_temperature: 7.5,
     total_preciptation: 1.9,
+    user_id: null,
   },
   {
     id: 491,
@@ -3926,6 +4416,7 @@ export default [
     date: "2021-05-05",
     ave_temperature: 8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 492,
@@ -3934,6 +4425,7 @@ export default [
     date: "2021-05-06",
     ave_temperature: 11.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 493,
@@ -3942,6 +4434,7 @@ export default [
     date: "2021-05-07",
     ave_temperature: 11.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 494,
@@ -3950,6 +4443,7 @@ export default [
     date: "2021-05-08",
     ave_temperature: 3.2,
     total_preciptation: 1.5,
+    user_id: null,
   },
   {
     id: 495,
@@ -3958,6 +4452,7 @@ export default [
     date: "2021-05-09",
     ave_temperature: 1.7,
     total_preciptation: 6.6,
+    user_id: null,
   },
   {
     id: 496,
@@ -3966,14 +4461,16 @@ export default [
     date: "2021-05-10",
     ave_temperature: 5.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 497,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-05-11",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 498,
@@ -3982,6 +4479,7 @@ export default [
     date: "2021-05-12",
     ave_temperature: 9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 499,
@@ -3990,6 +4488,7 @@ export default [
     date: "2021-05-13",
     ave_temperature: 11.7,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 500,
@@ -3998,6 +4497,7 @@ export default [
     date: "2021-05-14",
     ave_temperature: 10.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 501,
@@ -4006,6 +4506,7 @@ export default [
     date: "2021-05-15",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 502,
@@ -4014,6 +4515,7 @@ export default [
     date: "2021-05-16",
     ave_temperature: 17.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 503,
@@ -4022,6 +4524,7 @@ export default [
     date: "2021-05-17",
     ave_temperature: 18.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 504,
@@ -4030,6 +4533,7 @@ export default [
     date: "2021-05-18",
     ave_temperature: 11.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 505,
@@ -4038,6 +4542,7 @@ export default [
     date: "2021-05-19",
     ave_temperature: 4.2,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 506,
@@ -4046,6 +4551,7 @@ export default [
     date: "2021-05-20",
     ave_temperature: 0.5,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 507,
@@ -4054,6 +4560,7 @@ export default [
     date: "2021-05-21",
     ave_temperature: 5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 508,
@@ -4062,6 +4569,7 @@ export default [
     date: "2021-05-22",
     ave_temperature: 6.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 509,
@@ -4070,6 +4578,7 @@ export default [
     date: "2021-05-23",
     ave_temperature: 6.2,
     total_preciptation: 9.1,
+    user_id: null,
   },
   {
     id: 510,
@@ -4078,6 +4587,7 @@ export default [
     date: "2021-05-24",
     ave_temperature: 6.2,
     total_preciptation: 7.6,
+    user_id: null,
   },
   {
     id: 511,
@@ -4086,6 +4596,7 @@ export default [
     date: "2021-05-25",
     ave_temperature: 9.2,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 512,
@@ -4094,6 +4605,7 @@ export default [
     date: "2021-05-26",
     ave_temperature: 12.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 513,
@@ -4102,6 +4614,7 @@ export default [
     date: "2021-05-27",
     ave_temperature: 13.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 514,
@@ -4110,6 +4623,7 @@ export default [
     date: "2021-05-28",
     ave_temperature: 12,
     total_preciptation: 3.7,
+    user_id: null,
   },
   {
     id: 515,
@@ -4118,6 +4632,7 @@ export default [
     date: "2021-05-29",
     ave_temperature: 12.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 516,
@@ -4126,6 +4641,7 @@ export default [
     date: "2021-05-30",
     ave_temperature: 14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 517,
@@ -4134,6 +4650,7 @@ export default [
     date: "2021-05-31",
     ave_temperature: 17.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 518,
@@ -4142,6 +4659,7 @@ export default [
     date: "2021-06-01",
     ave_temperature: 19.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 519,
@@ -4150,14 +4668,16 @@ export default [
     date: "2021-06-02",
     ave_temperature: 21.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 520,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-06-03",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 521,
@@ -4166,6 +4686,7 @@ export default [
     date: "2021-06-04",
     ave_temperature: 21,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 522,
@@ -4174,6 +4695,7 @@ export default [
     date: "2021-06-05",
     ave_temperature: 12.7,
     total_preciptation: 5.6,
+    user_id: null,
   },
   {
     id: 523,
@@ -4182,6 +4704,7 @@ export default [
     date: "2021-06-06",
     ave_temperature: 10.7,
     total_preciptation: 3.2,
+    user_id: null,
   },
   {
     id: 524,
@@ -4190,6 +4713,7 @@ export default [
     date: "2021-06-07",
     ave_temperature: 8.9,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 525,
@@ -4198,6 +4722,7 @@ export default [
     date: "2021-06-08",
     ave_temperature: 9.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 526,
@@ -4206,6 +4731,7 @@ export default [
     date: "2021-06-09",
     ave_temperature: 10.4,
     total_preciptation: 2.2,
+    user_id: null,
   },
   {
     id: 527,
@@ -4214,6 +4740,7 @@ export default [
     date: "2021-06-10",
     ave_temperature: 10.4,
     total_preciptation: 1.5,
+    user_id: null,
   },
   {
     id: 528,
@@ -4222,6 +4749,7 @@ export default [
     date: "2021-06-11",
     ave_temperature: 11.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 529,
@@ -4230,6 +4758,7 @@ export default [
     date: "2021-06-12",
     ave_temperature: 13.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 530,
@@ -4238,6 +4767,7 @@ export default [
     date: "2021-06-13",
     ave_temperature: 16.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 531,
@@ -4246,6 +4776,7 @@ export default [
     date: "2021-06-14",
     ave_temperature: 23.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 532,
@@ -4254,6 +4785,7 @@ export default [
     date: "2021-06-15",
     ave_temperature: 20.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 533,
@@ -4262,6 +4794,7 @@ export default [
     date: "2021-06-16",
     ave_temperature: 16.1,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 534,
@@ -4270,6 +4803,7 @@ export default [
     date: "2021-06-17",
     ave_temperature: 15.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 535,
@@ -4278,6 +4812,7 @@ export default [
     date: "2021-06-18",
     ave_temperature: 15.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 536,
@@ -4286,6 +4821,7 @@ export default [
     date: "2021-06-19",
     ave_temperature: 13.8,
     total_preciptation: 2.1,
+    user_id: null,
   },
   {
     id: 537,
@@ -4294,6 +4830,7 @@ export default [
     date: "2021-06-20",
     ave_temperature: 16.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 538,
@@ -4302,6 +4839,7 @@ export default [
     date: "2021-06-21",
     ave_temperature: 18.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 539,
@@ -4310,6 +4848,7 @@ export default [
     date: "2021-06-22",
     ave_temperature: 21.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 540,
@@ -4318,6 +4857,7 @@ export default [
     date: "2021-06-23",
     ave_temperature: 18.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 541,
@@ -4326,6 +4866,7 @@ export default [
     date: "2021-06-24",
     ave_temperature: 15.6,
     total_preciptation: 14.4,
+    user_id: null,
   },
   {
     id: 542,
@@ -4334,22 +4875,25 @@ export default [
     date: "2021-06-25",
     ave_temperature: 20.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 543,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-06-26",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 544,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-06-27",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 545,
@@ -4358,6 +4902,7 @@ export default [
     date: "2021-06-28",
     ave_temperature: 25.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 546,
@@ -4366,6 +4911,7 @@ export default [
     date: "2021-06-29",
     ave_temperature: 27.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 547,
@@ -4374,6 +4920,7 @@ export default [
     date: "2021-06-30",
     ave_temperature: 27.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 548,
@@ -4382,6 +4929,7 @@ export default [
     date: "2021-07-01",
     ave_temperature: 27.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 549,
@@ -4390,6 +4938,7 @@ export default [
     date: "2021-07-02",
     ave_temperature: 22.7,
     total_preciptation: 24.6,
+    user_id: null,
   },
   {
     id: 550,
@@ -4398,6 +4947,7 @@ export default [
     date: "2021-07-03",
     ave_temperature: 20.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 551,
@@ -4406,6 +4956,7 @@ export default [
     date: "2021-07-04",
     ave_temperature: 16.2,
     total_preciptation: 12.5,
+    user_id: null,
   },
   {
     id: 552,
@@ -4414,6 +4965,7 @@ export default [
     date: "2021-07-05",
     ave_temperature: 15.5,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 553,
@@ -4422,6 +4974,7 @@ export default [
     date: "2021-07-06",
     ave_temperature: 18.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 554,
@@ -4430,6 +4983,7 @@ export default [
     date: "2021-07-07",
     ave_temperature: 18.8,
     total_preciptation: 6.8,
+    user_id: null,
   },
   {
     id: 555,
@@ -4438,6 +4992,7 @@ export default [
     date: "2021-07-08",
     ave_temperature: 20,
     total_preciptation: 11,
+    user_id: null,
   },
   {
     id: 556,
@@ -4446,6 +5001,7 @@ export default [
     date: "2021-07-09",
     ave_temperature: 20.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 557,
@@ -4454,6 +5010,7 @@ export default [
     date: "2021-07-10",
     ave_temperature: 22.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 558,
@@ -4462,6 +5019,7 @@ export default [
     date: "2021-07-11",
     ave_temperature: 18.4,
     total_preciptation: 5.1,
+    user_id: null,
   },
   {
     id: 559,
@@ -4470,6 +5028,7 @@ export default [
     date: "2021-07-12",
     ave_temperature: 18.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 560,
@@ -4478,6 +5037,7 @@ export default [
     date: "2021-07-13",
     ave_temperature: 19.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 561,
@@ -4486,6 +5046,7 @@ export default [
     date: "2021-07-14",
     ave_temperature: 22.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 562,
@@ -4494,6 +5055,7 @@ export default [
     date: "2021-07-15",
     ave_temperature: 21.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 563,
@@ -4502,6 +5064,7 @@ export default [
     date: "2021-07-16",
     ave_temperature: 21.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 564,
@@ -4510,6 +5073,7 @@ export default [
     date: "2021-07-17",
     ave_temperature: 17.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 565,
@@ -4518,6 +5082,7 @@ export default [
     date: "2021-07-18",
     ave_temperature: 16.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 566,
@@ -4526,6 +5091,7 @@ export default [
     date: "2021-07-19",
     ave_temperature: 18.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 567,
@@ -4534,6 +5100,7 @@ export default [
     date: "2021-07-20",
     ave_temperature: 19.2,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 568,
@@ -4542,6 +5109,7 @@ export default [
     date: "2021-07-21",
     ave_temperature: 21.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 569,
@@ -4550,6 +5118,7 @@ export default [
     date: "2021-07-22",
     ave_temperature: 17.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 570,
@@ -4558,6 +5127,7 @@ export default [
     date: "2021-07-23",
     ave_temperature: 18.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 571,
@@ -4566,6 +5136,7 @@ export default [
     date: "2021-07-24",
     ave_temperature: 18.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 572,
@@ -4574,6 +5145,7 @@ export default [
     date: "2021-07-25",
     ave_temperature: 18.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 573,
@@ -4582,6 +5154,7 @@ export default [
     date: "2021-07-26",
     ave_temperature: 18.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 574,
@@ -4590,6 +5163,7 @@ export default [
     date: "2021-07-27",
     ave_temperature: 18.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 575,
@@ -4598,6 +5172,7 @@ export default [
     date: "2021-07-28",
     ave_temperature: 19.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 576,
@@ -4606,6 +5181,7 @@ export default [
     date: "2021-07-29",
     ave_temperature: 21.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 577,
@@ -4614,6 +5190,7 @@ export default [
     date: "2021-07-30",
     ave_temperature: 22.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 578,
@@ -4622,6 +5199,7 @@ export default [
     date: "2021-07-31",
     ave_temperature: 22.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 579,
@@ -4630,6 +5208,7 @@ export default [
     date: "2021-08-01",
     ave_temperature: 23.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 580,
@@ -4638,6 +5217,7 @@ export default [
     date: "2021-08-02",
     ave_temperature: 22.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 581,
@@ -4646,6 +5226,7 @@ export default [
     date: "2021-08-03",
     ave_temperature: 25,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 582,
@@ -4654,6 +5235,7 @@ export default [
     date: "2021-08-04",
     ave_temperature: 21,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 583,
@@ -4662,6 +5244,7 @@ export default [
     date: "2021-08-05",
     ave_temperature: 22.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 584,
@@ -4670,6 +5253,7 @@ export default [
     date: "2021-08-06",
     ave_temperature: 22.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 585,
@@ -4678,6 +5262,7 @@ export default [
     date: "2021-08-07",
     ave_temperature: 20,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 586,
@@ -4686,6 +5271,7 @@ export default [
     date: "2021-08-08",
     ave_temperature: 14.8,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 587,
@@ -4694,6 +5280,7 @@ export default [
     date: "2021-08-09",
     ave_temperature: 18.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 588,
@@ -4702,6 +5289,7 @@ export default [
     date: "2021-08-10",
     ave_temperature: 17.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 589,
@@ -4710,6 +5298,7 @@ export default [
     date: "2021-08-11",
     ave_temperature: 18.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 590,
@@ -4718,6 +5307,7 @@ export default [
     date: "2021-08-12",
     ave_temperature: 19.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 591,
@@ -4726,6 +5316,7 @@ export default [
     date: "2021-08-13",
     ave_temperature: 21.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 592,
@@ -4734,6 +5325,7 @@ export default [
     date: "2021-08-14",
     ave_temperature: 23.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 593,
@@ -4742,6 +5334,7 @@ export default [
     date: "2021-08-15",
     ave_temperature: 23.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 594,
@@ -4750,6 +5343,7 @@ export default [
     date: "2021-08-16",
     ave_temperature: 15.7,
     total_preciptation: 14.1,
+    user_id: null,
   },
   {
     id: 595,
@@ -4758,6 +5352,7 @@ export default [
     date: "2021-08-17",
     ave_temperature: 10.3,
     total_preciptation: 30.7,
+    user_id: null,
   },
   {
     id: 596,
@@ -4766,6 +5361,7 @@ export default [
     date: "2021-08-18",
     ave_temperature: 12.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 597,
@@ -4774,6 +5370,7 @@ export default [
     date: "2021-08-19",
     ave_temperature: 11.5,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 598,
@@ -4782,22 +5379,25 @@ export default [
     date: "2021-08-20",
     ave_temperature: 14.5,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 599,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-08-21",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 600,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-08-22",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 16.8,
+    user_id: null,
   },
   {
     id: 601,
@@ -4806,6 +5406,7 @@ export default [
     date: "2021-08-23",
     ave_temperature: 10,
     total_preciptation: 6.6,
+    user_id: null,
   },
   {
     id: 602,
@@ -4814,6 +5415,7 @@ export default [
     date: "2021-08-24",
     ave_temperature: 11.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 603,
@@ -4822,6 +5424,7 @@ export default [
     date: "2021-08-25",
     ave_temperature: 12.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 604,
@@ -4830,6 +5433,7 @@ export default [
     date: "2021-08-26",
     ave_temperature: 14.7,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 605,
@@ -4838,6 +5442,7 @@ export default [
     date: "2021-08-27",
     ave_temperature: 15.5,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 606,
@@ -4846,6 +5451,7 @@ export default [
     date: "2021-08-28",
     ave_temperature: 14.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 607,
@@ -4854,6 +5460,7 @@ export default [
     date: "2021-08-29",
     ave_temperature: 16.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 608,
@@ -4862,6 +5469,7 @@ export default [
     date: "2021-08-30",
     ave_temperature: 16.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 609,
@@ -4870,6 +5478,7 @@ export default [
     date: "2021-08-31",
     ave_temperature: 13.1,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 610,
@@ -4878,6 +5487,7 @@ export default [
     date: "2021-09-01",
     ave_temperature: 10.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 611,
@@ -4886,14 +5496,16 @@ export default [
     date: "2021-09-02",
     ave_temperature: 11.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 612,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-09-03",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 613,
@@ -4902,6 +5514,7 @@ export default [
     date: "2021-09-04",
     ave_temperature: 15,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 614,
@@ -4910,6 +5523,7 @@ export default [
     date: "2021-09-05",
     ave_temperature: 20,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 615,
@@ -4918,6 +5532,7 @@ export default [
     date: "2021-09-06",
     ave_temperature: 16.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 616,
@@ -4926,6 +5541,7 @@ export default [
     date: "2021-09-07",
     ave_temperature: 14.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 617,
@@ -4934,6 +5550,7 @@ export default [
     date: "2021-09-08",
     ave_temperature: 15.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 618,
@@ -4942,6 +5559,7 @@ export default [
     date: "2021-09-09",
     ave_temperature: 18.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 619,
@@ -4950,6 +5568,7 @@ export default [
     date: "2021-09-10",
     ave_temperature: 14.4,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 620,
@@ -4958,6 +5577,7 @@ export default [
     date: "2021-09-11",
     ave_temperature: 12.6,
     total_preciptation: 9.4,
+    user_id: null,
   },
   {
     id: 621,
@@ -4966,6 +5586,7 @@ export default [
     date: "2021-09-12",
     ave_temperature: 12.7,
     total_preciptation: 2.3,
+    user_id: null,
   },
   {
     id: 622,
@@ -4974,6 +5595,7 @@ export default [
     date: "2021-09-13",
     ave_temperature: 12.1,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 623,
@@ -4982,6 +5604,7 @@ export default [
     date: "2021-09-14",
     ave_temperature: 12.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 624,
@@ -4990,6 +5613,7 @@ export default [
     date: "2021-09-15",
     ave_temperature: 9.5,
     total_preciptation: 2.5,
+    user_id: null,
   },
   {
     id: 625,
@@ -4998,6 +5622,7 @@ export default [
     date: "2021-09-16",
     ave_temperature: 8.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 626,
@@ -5006,6 +5631,7 @@ export default [
     date: "2021-09-17",
     ave_temperature: 10.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 627,
@@ -5014,6 +5640,7 @@ export default [
     date: "2021-09-18",
     ave_temperature: 17.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 628,
@@ -5022,6 +5649,7 @@ export default [
     date: "2021-09-19",
     ave_temperature: 10.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 629,
@@ -5030,6 +5658,7 @@ export default [
     date: "2021-09-20",
     ave_temperature: 9.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 630,
@@ -5038,6 +5667,7 @@ export default [
     date: "2021-09-21",
     ave_temperature: 14.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 631,
@@ -5046,6 +5676,7 @@ export default [
     date: "2021-09-22",
     ave_temperature: 14.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 632,
@@ -5054,6 +5685,7 @@ export default [
     date: "2021-09-23",
     ave_temperature: 9.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 633,
@@ -5062,6 +5694,7 @@ export default [
     date: "2021-09-24",
     ave_temperature: 14.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 634,
@@ -5070,6 +5703,7 @@ export default [
     date: "2021-09-25",
     ave_temperature: 15.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 635,
@@ -5078,6 +5712,7 @@ export default [
     date: "2021-09-26",
     ave_temperature: 17,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 636,
@@ -5086,6 +5721,7 @@ export default [
     date: "2021-09-27",
     ave_temperature: 15.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 637,
@@ -5094,6 +5730,7 @@ export default [
     date: "2021-09-28",
     ave_temperature: 12.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 638,
@@ -5102,6 +5739,7 @@ export default [
     date: "2021-09-29",
     ave_temperature: 9.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 639,
@@ -5110,6 +5748,7 @@ export default [
     date: "2021-09-30",
     ave_temperature: 13.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 640,
@@ -5118,6 +5757,7 @@ export default [
     date: "2021-10-01",
     ave_temperature: 11.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 641,
@@ -5126,6 +5766,7 @@ export default [
     date: "2021-10-02",
     ave_temperature: 9.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 642,
@@ -5134,6 +5775,7 @@ export default [
     date: "2021-10-03",
     ave_temperature: 12.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 643,
@@ -5142,6 +5784,7 @@ export default [
     date: "2021-10-04",
     ave_temperature: 6.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 644,
@@ -5150,6 +5793,7 @@ export default [
     date: "2021-10-05",
     ave_temperature: 13.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 645,
@@ -5158,6 +5802,7 @@ export default [
     date: "2021-10-06",
     ave_temperature: 7.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 646,
@@ -5166,6 +5811,7 @@ export default [
     date: "2021-10-07",
     ave_temperature: 5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 647,
@@ -5174,6 +5820,7 @@ export default [
     date: "2021-10-08",
     ave_temperature: 4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 648,
@@ -5182,6 +5829,7 @@ export default [
     date: "2021-10-09",
     ave_temperature: 7.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 649,
@@ -5190,6 +5838,7 @@ export default [
     date: "2021-10-10",
     ave_temperature: 7.4,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 650,
@@ -5198,6 +5847,7 @@ export default [
     date: "2021-10-11",
     ave_temperature: 1,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 651,
@@ -5206,6 +5856,7 @@ export default [
     date: "2021-10-12",
     ave_temperature: 2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 652,
@@ -5214,6 +5865,7 @@ export default [
     date: "2021-10-13",
     ave_temperature: -0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 653,
@@ -5222,6 +5874,7 @@ export default [
     date: "2021-10-14",
     ave_temperature: 3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 654,
@@ -5230,6 +5883,7 @@ export default [
     date: "2021-10-15",
     ave_temperature: 6.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 655,
@@ -5238,6 +5892,7 @@ export default [
     date: "2021-10-16",
     ave_temperature: 12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 656,
@@ -5246,6 +5901,7 @@ export default [
     date: "2021-10-17",
     ave_temperature: 11.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 657,
@@ -5254,6 +5910,7 @@ export default [
     date: "2021-10-18",
     ave_temperature: 3.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 658,
@@ -5262,6 +5919,7 @@ export default [
     date: "2021-10-19",
     ave_temperature: 5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 659,
@@ -5270,6 +5928,7 @@ export default [
     date: "2021-10-20",
     ave_temperature: 3.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 660,
@@ -5278,6 +5937,7 @@ export default [
     date: "2021-10-21",
     ave_temperature: 9.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 661,
@@ -5286,6 +5946,7 @@ export default [
     date: "2021-10-22",
     ave_temperature: 7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 662,
@@ -5294,6 +5955,7 @@ export default [
     date: "2021-10-23",
     ave_temperature: 5.7,
     total_preciptation: 22.2,
+    user_id: null,
   },
   {
     id: 663,
@@ -5302,6 +5964,7 @@ export default [
     date: "2021-10-24",
     ave_temperature: 3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 664,
@@ -5310,6 +5973,7 @@ export default [
     date: "2021-10-25",
     ave_temperature: 8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 665,
@@ -5318,6 +5982,7 @@ export default [
     date: "2021-10-26",
     ave_temperature: 6.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 666,
@@ -5326,6 +5991,7 @@ export default [
     date: "2021-10-27",
     ave_temperature: 6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 667,
@@ -5334,6 +6000,7 @@ export default [
     date: "2021-10-28",
     ave_temperature: 4.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 668,
@@ -5342,6 +6009,7 @@ export default [
     date: "2021-10-29",
     ave_temperature: 1.2,
     total_preciptation: 2.5,
+    user_id: null,
   },
   {
     id: 669,
@@ -5350,6 +6018,7 @@ export default [
     date: "2021-10-30",
     ave_temperature: -2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 670,
@@ -5358,6 +6027,7 @@ export default [
     date: "2021-10-31",
     ave_temperature: -3.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 671,
@@ -5366,6 +6036,7 @@ export default [
     date: "2021-11-01",
     ave_temperature: -5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 672,
@@ -5374,6 +6045,7 @@ export default [
     date: "2021-11-02",
     ave_temperature: 3.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 673,
@@ -5382,6 +6054,7 @@ export default [
     date: "2021-11-03",
     ave_temperature: 5.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 674,
@@ -5390,6 +6063,7 @@ export default [
     date: "2021-11-04",
     ave_temperature: 7.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 675,
@@ -5398,6 +6072,7 @@ export default [
     date: "2021-11-05",
     ave_temperature: 6.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 676,
@@ -5406,6 +6081,7 @@ export default [
     date: "2021-11-06",
     ave_temperature: 2.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 677,
@@ -5414,6 +6090,7 @@ export default [
     date: "2021-11-07",
     ave_temperature: 0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 678,
@@ -5422,6 +6099,7 @@ export default [
     date: "2021-11-08",
     ave_temperature: 1.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 679,
@@ -5430,6 +6108,7 @@ export default [
     date: "2021-11-09",
     ave_temperature: 0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 680,
@@ -5438,6 +6117,7 @@ export default [
     date: "2021-11-10",
     ave_temperature: 2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 681,
@@ -5446,6 +6126,7 @@ export default [
     date: "2021-11-11",
     ave_temperature: -1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 682,
@@ -5454,6 +6135,7 @@ export default [
     date: "2021-11-12",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 683,
@@ -5462,6 +6144,7 @@ export default [
     date: "2021-11-13",
     ave_temperature: 3.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 684,
@@ -5470,6 +6153,7 @@ export default [
     date: "2021-11-14",
     ave_temperature: 4.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 685,
@@ -5478,6 +6162,7 @@ export default [
     date: "2021-11-15",
     ave_temperature: 3.3,
     total_preciptation: 1.5,
+    user_id: null,
   },
   {
     id: 686,
@@ -5486,6 +6171,7 @@ export default [
     date: "2021-11-16",
     ave_temperature: -0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 687,
@@ -5494,6 +6180,7 @@ export default [
     date: "2021-11-17",
     ave_temperature: -5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 688,
@@ -5502,6 +6189,7 @@ export default [
     date: "2021-11-18",
     ave_temperature: -1.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 689,
@@ -5510,6 +6198,7 @@ export default [
     date: "2021-11-19",
     ave_temperature: -2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 690,
@@ -5518,6 +6207,7 @@ export default [
     date: "2021-11-20",
     ave_temperature: -1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 691,
@@ -5526,6 +6216,7 @@ export default [
     date: "2021-11-21",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 692,
@@ -5534,6 +6225,7 @@ export default [
     date: "2021-11-22",
     ave_temperature: 7.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 693,
@@ -5542,6 +6234,7 @@ export default [
     date: "2021-11-23",
     ave_temperature: -1.2,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 694,
@@ -5550,6 +6243,7 @@ export default [
     date: "2021-11-24",
     ave_temperature: -3.6,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 695,
@@ -5558,6 +6252,7 @@ export default [
     date: "2021-11-25",
     ave_temperature: 6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 696,
@@ -5566,6 +6261,7 @@ export default [
     date: "2021-11-26",
     ave_temperature: 4.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 697,
@@ -5574,6 +6270,7 @@ export default [
     date: "2021-11-27",
     ave_temperature: -0.8,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 698,
@@ -5582,6 +6279,7 @@ export default [
     date: "2021-11-28",
     ave_temperature: 5.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 699,
@@ -5590,6 +6288,7 @@ export default [
     date: "2021-11-29",
     ave_temperature: 4.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 700,
@@ -5598,6 +6297,7 @@ export default [
     date: "2021-11-30",
     ave_temperature: 4.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 701,
@@ -5606,6 +6306,7 @@ export default [
     date: "2021-12-01",
     ave_temperature: 6.5,
     total_preciptation: 3.4,
+    user_id: null,
   },
   {
     id: 702,
@@ -5614,6 +6315,7 @@ export default [
     date: "2021-12-02",
     ave_temperature: -1.1,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 703,
@@ -5622,6 +6324,7 @@ export default [
     date: "2021-12-03",
     ave_temperature: -4.7,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 704,
@@ -5630,6 +6333,7 @@ export default [
     date: "2021-12-04",
     ave_temperature: -5.6,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 705,
@@ -5638,6 +6342,7 @@ export default [
     date: "2021-12-05",
     ave_temperature: -12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 706,
@@ -5646,6 +6351,7 @@ export default [
     date: "2021-12-06",
     ave_temperature: -11.6,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 707,
@@ -5654,6 +6360,7 @@ export default [
     date: "2021-12-07",
     ave_temperature: -7.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 708,
@@ -5662,6 +6369,7 @@ export default [
     date: "2021-12-08",
     ave_temperature: 0.1,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 709,
@@ -5670,6 +6378,7 @@ export default [
     date: "2021-12-09",
     ave_temperature: -5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 710,
@@ -5678,6 +6387,7 @@ export default [
     date: "2021-12-10",
     ave_temperature: -5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 711,
@@ -5686,6 +6396,7 @@ export default [
     date: "2021-12-11",
     ave_temperature: -1.5,
     total_preciptation: 2.6,
+    user_id: null,
   },
   {
     id: 712,
@@ -5694,6 +6405,7 @@ export default [
     date: "2021-12-12",
     ave_temperature: -5,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 713,
@@ -5702,6 +6414,7 @@ export default [
     date: "2021-12-13",
     ave_temperature: -10.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 714,
@@ -5710,6 +6423,7 @@ export default [
     date: "2021-12-14",
     ave_temperature: -16,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 715,
@@ -5718,6 +6432,7 @@ export default [
     date: "2021-12-15",
     ave_temperature: -18.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 716,
@@ -5726,6 +6441,7 @@ export default [
     date: "2021-12-16",
     ave_temperature: -17.7,
     total_preciptation: 2.8,
+    user_id: null,
   },
   {
     id: 717,
@@ -5734,6 +6450,7 @@ export default [
     date: "2021-12-17",
     ave_temperature: -20.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 718,
@@ -5742,6 +6459,7 @@ export default [
     date: "2021-12-18",
     ave_temperature: -9.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 719,
@@ -5750,6 +6468,7 @@ export default [
     date: "2021-12-19",
     ave_temperature: -11.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 720,
@@ -5758,6 +6477,7 @@ export default [
     date: "2021-12-20",
     ave_temperature: -17.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 721,
@@ -5766,6 +6486,7 @@ export default [
     date: "2021-12-21",
     ave_temperature: -8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 722,
@@ -5774,6 +6495,7 @@ export default [
     date: "2021-12-22",
     ave_temperature: -3.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 723,
@@ -5782,14 +6504,16 @@ export default [
     date: "2021-12-23",
     ave_temperature: -8.3,
     total_preciptation: 6.5,
+    user_id: null,
   },
   {
     id: 724,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2021-12-24",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 725,
@@ -5798,6 +6522,7 @@ export default [
     date: "2021-12-25",
     ave_temperature: -25.5,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 726,
@@ -5806,6 +6531,7 @@ export default [
     date: "2021-12-26",
     ave_temperature: -28.6,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 727,
@@ -5814,6 +6540,7 @@ export default [
     date: "2021-12-27",
     ave_temperature: -30.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 728,
@@ -5822,6 +6549,7 @@ export default [
     date: "2021-12-28",
     ave_temperature: -22.8,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 729,
@@ -5830,6 +6558,7 @@ export default [
     date: "2021-12-29",
     ave_temperature: -23.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 730,
@@ -5838,6 +6567,7 @@ export default [
     date: "2021-12-30",
     ave_temperature: -19.8,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 731,
@@ -5846,6 +6576,7 @@ export default [
     date: "2021-12-31",
     ave_temperature: -23.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 732,
@@ -5854,6 +6585,7 @@ export default [
     date: "2022-01-01",
     ave_temperature: -12.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 733,
@@ -5862,6 +6594,7 @@ export default [
     date: "2022-01-02",
     ave_temperature: -6.7,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 734,
@@ -5870,6 +6603,7 @@ export default [
     date: "2022-01-03",
     ave_temperature: -20,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 735,
@@ -5878,6 +6612,7 @@ export default [
     date: "2022-01-04",
     ave_temperature: -26.7,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 736,
@@ -5886,6 +6621,7 @@ export default [
     date: "2022-01-05",
     ave_temperature: -26.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 737,
@@ -5894,6 +6630,7 @@ export default [
     date: "2022-01-06",
     ave_temperature: -26.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 738,
@@ -5902,6 +6639,7 @@ export default [
     date: "2022-01-07",
     ave_temperature: -23.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 739,
@@ -5910,6 +6648,7 @@ export default [
     date: "2022-01-08",
     ave_temperature: -19.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 740,
@@ -5918,6 +6657,7 @@ export default [
     date: "2022-01-09",
     ave_temperature: -10.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 741,
@@ -5926,6 +6666,7 @@ export default [
     date: "2022-01-10",
     ave_temperature: 1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 742,
@@ -5934,6 +6675,7 @@ export default [
     date: "2022-01-11",
     ave_temperature: 2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 743,
@@ -5942,6 +6684,7 @@ export default [
     date: "2022-01-12",
     ave_temperature: 4.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 744,
@@ -5950,6 +6693,7 @@ export default [
     date: "2022-01-13",
     ave_temperature: 4.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 745,
@@ -5958,6 +6702,7 @@ export default [
     date: "2022-01-14",
     ave_temperature: 3.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 746,
@@ -5966,6 +6711,7 @@ export default [
     date: "2022-01-15",
     ave_temperature: 4.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 747,
@@ -5974,6 +6720,7 @@ export default [
     date: "2022-01-16",
     ave_temperature: 1.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 748,
@@ -5982,6 +6729,7 @@ export default [
     date: "2022-01-17",
     ave_temperature: 0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 749,
@@ -5990,6 +6738,7 @@ export default [
     date: "2022-01-18",
     ave_temperature: -14.7,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 750,
@@ -5998,6 +6747,7 @@ export default [
     date: "2022-01-19",
     ave_temperature: -16,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 751,
@@ -6006,6 +6756,7 @@ export default [
     date: "2022-01-20",
     ave_temperature: -1.7,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 752,
@@ -6014,6 +6765,7 @@ export default [
     date: "2022-01-21",
     ave_temperature: 1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 753,
@@ -6022,6 +6774,7 @@ export default [
     date: "2022-01-22",
     ave_temperature: 5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 754,
@@ -6030,6 +6783,7 @@ export default [
     date: "2022-01-23",
     ave_temperature: 6.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 755,
@@ -6038,6 +6792,7 @@ export default [
     date: "2022-01-24",
     ave_temperature: 0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 756,
@@ -6046,6 +6801,7 @@ export default [
     date: "2022-01-25",
     ave_temperature: 1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 757,
@@ -6054,6 +6810,7 @@ export default [
     date: "2022-01-26",
     ave_temperature: 0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 758,
@@ -6062,6 +6819,7 @@ export default [
     date: "2022-01-27",
     ave_temperature: -0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 759,
@@ -6070,6 +6828,7 @@ export default [
     date: "2022-01-28",
     ave_temperature: 5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 760,
@@ -6078,6 +6837,7 @@ export default [
     date: "2022-01-29",
     ave_temperature: 2.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 761,
@@ -6086,6 +6846,7 @@ export default [
     date: "2022-01-30",
     ave_temperature: 4.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 762,
@@ -6094,6 +6855,7 @@ export default [
     date: "2022-01-31",
     ave_temperature: -6.3,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 763,
@@ -6102,6 +6864,7 @@ export default [
     date: "2022-02-01",
     ave_temperature: -19.2,
     total_preciptation: 2.2,
+    user_id: null,
   },
   {
     id: 764,
@@ -6110,6 +6873,7 @@ export default [
     date: "2022-02-02",
     ave_temperature: -21.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 765,
@@ -6118,6 +6882,7 @@ export default [
     date: "2022-02-03",
     ave_temperature: -13.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 766,
@@ -6126,30 +6891,34 @@ export default [
     date: "2022-02-04",
     ave_temperature: -4.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 767,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-02-05",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 768,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-02-06",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 769,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-02-07",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 770,
@@ -6158,6 +6927,7 @@ export default [
     date: "2022-02-08",
     ave_temperature: 6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 771,
@@ -6166,6 +6936,7 @@ export default [
     date: "2022-02-09",
     ave_temperature: 6.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 772,
@@ -6174,6 +6945,7 @@ export default [
     date: "2022-02-10",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 773,
@@ -6182,6 +6954,7 @@ export default [
     date: "2022-02-11",
     ave_temperature: -1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 774,
@@ -6190,6 +6963,7 @@ export default [
     date: "2022-02-12",
     ave_temperature: 2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 775,
@@ -6198,6 +6972,7 @@ export default [
     date: "2022-02-13",
     ave_temperature: 3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 776,
@@ -6206,6 +6981,7 @@ export default [
     date: "2022-02-14",
     ave_temperature: -2,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 777,
@@ -6214,6 +6990,7 @@ export default [
     date: "2022-02-15",
     ave_temperature: -4.2,
     total_preciptation: 5.5,
+    user_id: null,
   },
   {
     id: 778,
@@ -6222,6 +6999,7 @@ export default [
     date: "2022-02-16",
     ave_temperature: -7.4,
     total_preciptation: 2.4,
+    user_id: null,
   },
   {
     id: 779,
@@ -6230,6 +7008,7 @@ export default [
     date: "2022-02-17",
     ave_temperature: -0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 780,
@@ -6238,6 +7017,7 @@ export default [
     date: "2022-02-18",
     ave_temperature: -5.6,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 781,
@@ -6246,6 +7026,7 @@ export default [
     date: "2022-02-19",
     ave_temperature: 2.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 782,
@@ -6254,6 +7035,7 @@ export default [
     date: "2022-02-20",
     ave_temperature: -12.8,
     total_preciptation: 8.9,
+    user_id: null,
   },
   {
     id: 783,
@@ -6262,6 +7044,7 @@ export default [
     date: "2022-02-21",
     ave_temperature: -21.5,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 784,
@@ -6270,6 +7053,7 @@ export default [
     date: "2022-02-22",
     ave_temperature: -22.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 785,
@@ -6278,6 +7062,7 @@ export default [
     date: "2022-02-23",
     ave_temperature: -18.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 786,
@@ -6286,6 +7071,7 @@ export default [
     date: "2022-02-24",
     ave_temperature: -7.5,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 787,
@@ -6294,6 +7080,7 @@ export default [
     date: "2022-02-25",
     ave_temperature: -5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 788,
@@ -6302,6 +7089,7 @@ export default [
     date: "2022-02-26",
     ave_temperature: 1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 789,
@@ -6310,14 +7098,16 @@ export default [
     date: "2022-02-27",
     ave_temperature: 6.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 790,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-02-28",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 791,
@@ -6326,14 +7116,16 @@ export default [
     date: "2022-03-01",
     ave_temperature: 2.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 792,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-03-02",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 793,
@@ -6342,6 +7134,7 @@ export default [
     date: "2022-03-03",
     ave_temperature: -7.9,
     total_preciptation: 4.7,
+    user_id: null,
   },
   {
     id: 794,
@@ -6350,6 +7143,7 @@ export default [
     date: "2022-03-04",
     ave_temperature: -8.2,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 795,
@@ -6358,6 +7152,7 @@ export default [
     date: "2022-03-05",
     ave_temperature: -5.9,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 796,
@@ -6366,6 +7161,7 @@ export default [
     date: "2022-03-06",
     ave_temperature: -3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 797,
@@ -6374,30 +7170,34 @@ export default [
     date: "2022-03-07",
     ave_temperature: -1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 798,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-03-08",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 799,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-03-09",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 800,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-03-10",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 801,
@@ -6406,6 +7206,7 @@ export default [
     date: "2022-03-11",
     ave_temperature: -5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 802,
@@ -6414,6 +7215,7 @@ export default [
     date: "2022-03-12",
     ave_temperature: 5.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 803,
@@ -6422,6 +7224,7 @@ export default [
     date: "2022-03-13",
     ave_temperature: 0.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 804,
@@ -6430,6 +7233,7 @@ export default [
     date: "2022-03-14",
     ave_temperature: 5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 805,
@@ -6438,6 +7242,7 @@ export default [
     date: "2022-03-15",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 806,
@@ -6446,6 +7251,7 @@ export default [
     date: "2022-03-16",
     ave_temperature: 5.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 807,
@@ -6454,6 +7260,7 @@ export default [
     date: "2022-03-17",
     ave_temperature: 4.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 808,
@@ -6462,6 +7269,7 @@ export default [
     date: "2022-03-18",
     ave_temperature: 3.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 809,
@@ -6470,6 +7278,7 @@ export default [
     date: "2022-03-19",
     ave_temperature: 3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 810,
@@ -6478,6 +7287,7 @@ export default [
     date: "2022-03-20",
     ave_temperature: 2,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 811,
@@ -6486,6 +7296,7 @@ export default [
     date: "2022-03-21",
     ave_temperature: 5.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 812,
@@ -6494,6 +7305,7 @@ export default [
     date: "2022-03-22",
     ave_temperature: 7.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 813,
@@ -6502,6 +7314,7 @@ export default [
     date: "2022-03-23",
     ave_temperature: 9.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 814,
@@ -6510,6 +7323,7 @@ export default [
     date: "2022-03-24",
     ave_temperature: 1.5,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 815,
@@ -6518,6 +7332,7 @@ export default [
     date: "2022-03-25",
     ave_temperature: 1.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 816,
@@ -6526,6 +7341,7 @@ export default [
     date: "2022-03-26",
     ave_temperature: -0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 817,
@@ -6534,14 +7350,16 @@ export default [
     date: "2022-03-27",
     ave_temperature: 5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 818,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-03-28",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 819,
@@ -6550,6 +7368,7 @@ export default [
     date: "2022-03-29",
     ave_temperature: 2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 820,
@@ -6558,6 +7377,7 @@ export default [
     date: "2022-03-30",
     ave_temperature: 7.1,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 821,
@@ -6566,6 +7386,7 @@ export default [
     date: "2022-03-31",
     ave_temperature: 4.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 822,
@@ -6574,6 +7395,7 @@ export default [
     date: "2022-04-01",
     ave_temperature: 3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 823,
@@ -6582,6 +7404,7 @@ export default [
     date: "2022-04-02",
     ave_temperature: 4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 824,
@@ -6590,6 +7413,7 @@ export default [
     date: "2022-04-03",
     ave_temperature: 2.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 825,
@@ -6598,6 +7422,7 @@ export default [
     date: "2022-04-04",
     ave_temperature: 6.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 826,
@@ -6606,6 +7431,7 @@ export default [
     date: "2022-04-05",
     ave_temperature: 6.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 827,
@@ -6614,6 +7440,7 @@ export default [
     date: "2022-04-06",
     ave_temperature: 3.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 828,
@@ -6622,6 +7449,7 @@ export default [
     date: "2022-04-07",
     ave_temperature: 6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 829,
@@ -6630,6 +7458,7 @@ export default [
     date: "2022-04-08",
     ave_temperature: 12.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 830,
@@ -6638,6 +7467,7 @@ export default [
     date: "2022-04-09",
     ave_temperature: 4.2,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 831,
@@ -6646,6 +7476,7 @@ export default [
     date: "2022-04-10",
     ave_temperature: -1.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 832,
@@ -6654,6 +7485,7 @@ export default [
     date: "2022-04-11",
     ave_temperature: -4.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 833,
@@ -6662,6 +7494,7 @@ export default [
     date: "2022-04-12",
     ave_temperature: -9.5,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 834,
@@ -6670,6 +7503,7 @@ export default [
     date: "2022-04-13",
     ave_temperature: -7.7,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 835,
@@ -6678,6 +7512,7 @@ export default [
     date: "2022-04-14",
     ave_temperature: -7.8,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 836,
@@ -6686,6 +7521,7 @@ export default [
     date: "2022-04-15",
     ave_temperature: -5.8,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 837,
@@ -6694,6 +7530,7 @@ export default [
     date: "2022-04-16",
     ave_temperature: -3.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 838,
@@ -6702,6 +7539,7 @@ export default [
     date: "2022-04-17",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 839,
@@ -6710,6 +7548,7 @@ export default [
     date: "2022-04-18",
     ave_temperature: 1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 840,
@@ -6718,6 +7557,7 @@ export default [
     date: "2022-04-19",
     ave_temperature: 0.6,
     total_preciptation: 21.2,
+    user_id: null,
   },
   {
     id: 841,
@@ -6726,6 +7566,7 @@ export default [
     date: "2022-04-20",
     ave_temperature: -1.5,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 842,
@@ -6734,6 +7575,7 @@ export default [
     date: "2022-04-21",
     ave_temperature: 0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 843,
@@ -6742,6 +7584,7 @@ export default [
     date: "2022-04-22",
     ave_temperature: 0.7,
     total_preciptation: 11.8,
+    user_id: null,
   },
   {
     id: 844,
@@ -6750,6 +7593,7 @@ export default [
     date: "2022-04-23",
     ave_temperature: 4.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 845,
@@ -6758,6 +7602,7 @@ export default [
     date: "2022-04-24",
     ave_temperature: 7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 846,
@@ -6766,6 +7611,7 @@ export default [
     date: "2022-04-25",
     ave_temperature: 8.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 847,
@@ -6774,6 +7620,7 @@ export default [
     date: "2022-04-26",
     ave_temperature: 9.3,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 848,
@@ -6782,6 +7629,7 @@ export default [
     date: "2022-04-27",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 849,
@@ -6790,6 +7638,7 @@ export default [
     date: "2022-04-28",
     ave_temperature: 3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 850,
@@ -6798,6 +7647,7 @@ export default [
     date: "2022-04-29",
     ave_temperature: 6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 851,
@@ -6806,6 +7656,7 @@ export default [
     date: "2022-04-30",
     ave_temperature: 6.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 852,
@@ -6814,6 +7665,7 @@ export default [
     date: "2022-05-01",
     ave_temperature: 9.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 853,
@@ -6822,6 +7674,7 @@ export default [
     date: "2022-05-02",
     ave_temperature: 9.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 854,
@@ -6830,6 +7683,7 @@ export default [
     date: "2022-05-03",
     ave_temperature: 10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 855,
@@ -6838,6 +7692,7 @@ export default [
     date: "2022-05-04",
     ave_temperature: 14.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 856,
@@ -6846,6 +7701,7 @@ export default [
     date: "2022-05-05",
     ave_temperature: 15.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 857,
@@ -6854,6 +7710,7 @@ export default [
     date: "2022-05-06",
     ave_temperature: 11.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 858,
@@ -6862,6 +7719,7 @@ export default [
     date: "2022-05-07",
     ave_temperature: 9.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 859,
@@ -6870,6 +7728,7 @@ export default [
     date: "2022-05-08",
     ave_temperature: 5.6,
     total_preciptation: 3.8,
+    user_id: null,
   },
   {
     id: 860,
@@ -6878,6 +7737,7 @@ export default [
     date: "2022-05-09",
     ave_temperature: 4.5,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 861,
@@ -6886,6 +7746,7 @@ export default [
     date: "2022-05-10",
     ave_temperature: 4.8,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 862,
@@ -6894,6 +7755,7 @@ export default [
     date: "2022-05-11",
     ave_temperature: 7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 863,
@@ -6902,6 +7764,7 @@ export default [
     date: "2022-05-12",
     ave_temperature: 8.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 864,
@@ -6910,6 +7773,7 @@ export default [
     date: "2022-05-13",
     ave_temperature: 6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 865,
@@ -6918,6 +7782,7 @@ export default [
     date: "2022-05-14",
     ave_temperature: 10,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 866,
@@ -6926,6 +7791,7 @@ export default [
     date: "2022-05-15",
     ave_temperature: 9.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 867,
@@ -6934,6 +7800,7 @@ export default [
     date: "2022-05-16",
     ave_temperature: 13.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 868,
@@ -6942,6 +7809,7 @@ export default [
     date: "2022-05-17",
     ave_temperature: 8.7,
     total_preciptation: 2.7,
+    user_id: null,
   },
   {
     id: 869,
@@ -6950,6 +7818,7 @@ export default [
     date: "2022-05-18",
     ave_temperature: 9.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 870,
@@ -6958,22 +7827,25 @@ export default [
     date: "2022-05-19",
     ave_temperature: 4.6,
     total_preciptation: 3.2,
+    user_id: null,
   },
   {
     id: 871,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-05-20",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 872,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-05-21",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 873,
@@ -6982,6 +7854,7 @@ export default [
     date: "2022-05-22",
     ave_temperature: 7.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 874,
@@ -6990,6 +7863,7 @@ export default [
     date: "2022-05-23",
     ave_temperature: 10.1,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 875,
@@ -6998,6 +7872,7 @@ export default [
     date: "2022-05-24",
     ave_temperature: 12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 876,
@@ -7006,6 +7881,7 @@ export default [
     date: "2022-05-25",
     ave_temperature: 13.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 877,
@@ -7014,6 +7890,7 @@ export default [
     date: "2022-05-26",
     ave_temperature: 12.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 878,
@@ -7022,6 +7899,7 @@ export default [
     date: "2022-05-27",
     ave_temperature: 15.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 879,
@@ -7030,6 +7908,7 @@ export default [
     date: "2022-05-28",
     ave_temperature: 13.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 880,
@@ -7038,6 +7917,7 @@ export default [
     date: "2022-05-29",
     ave_temperature: 12,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 881,
@@ -7046,6 +7926,7 @@ export default [
     date: "2022-05-30",
     ave_temperature: 11.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 882,
@@ -7054,6 +7935,7 @@ export default [
     date: "2022-05-31",
     ave_temperature: 10.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 883,
@@ -7062,6 +7944,7 @@ export default [
     date: "2022-06-01",
     ave_temperature: 13.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 884,
@@ -7070,14 +7953,16 @@ export default [
     date: "2022-06-02",
     ave_temperature: 11.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 885,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-06-03",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 886,
@@ -7086,6 +7971,7 @@ export default [
     date: "2022-06-04",
     ave_temperature: 15.6,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 887,
@@ -7094,6 +7980,7 @@ export default [
     date: "2022-06-05",
     ave_temperature: 11.9,
     total_preciptation: 10.9,
+    user_id: null,
   },
   {
     id: 888,
@@ -7102,6 +7989,7 @@ export default [
     date: "2022-06-06",
     ave_temperature: 13.6,
     total_preciptation: 24.2,
+    user_id: null,
   },
   {
     id: 889,
@@ -7110,6 +7998,7 @@ export default [
     date: "2022-06-07",
     ave_temperature: 12.8,
     total_preciptation: 3.8,
+    user_id: null,
   },
   {
     id: 890,
@@ -7118,6 +8007,7 @@ export default [
     date: "2022-06-08",
     ave_temperature: 14.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 891,
@@ -7126,6 +8016,7 @@ export default [
     date: "2022-06-09",
     ave_temperature: 15.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 892,
@@ -7134,6 +8025,7 @@ export default [
     date: "2022-06-10",
     ave_temperature: 16.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 893,
@@ -7142,6 +8034,7 @@ export default [
     date: "2022-06-11",
     ave_temperature: 17.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 894,
@@ -7150,6 +8043,7 @@ export default [
     date: "2022-06-12",
     ave_temperature: 13.3,
     total_preciptation: 2.8,
+    user_id: null,
   },
   {
     id: 895,
@@ -7158,6 +8052,7 @@ export default [
     date: "2022-06-13",
     ave_temperature: 12.1,
     total_preciptation: 26.1,
+    user_id: null,
   },
   {
     id: 896,
@@ -7166,6 +8061,7 @@ export default [
     date: "2022-06-14",
     ave_temperature: 10.2,
     total_preciptation: 34.3,
+    user_id: null,
   },
   {
     id: 897,
@@ -7174,6 +8070,7 @@ export default [
     date: "2022-06-15",
     ave_temperature: 12.7,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 898,
@@ -7182,6 +8079,7 @@ export default [
     date: "2022-06-16",
     ave_temperature: 13.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 899,
@@ -7190,14 +8088,16 @@ export default [
     date: "2022-06-17",
     ave_temperature: 16.4,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 900,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-06-18",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 7.6,
+    user_id: null,
   },
   {
     id: 901,
@@ -7206,6 +8106,7 @@ export default [
     date: "2022-06-19",
     ave_temperature: 15.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 902,
@@ -7214,6 +8115,7 @@ export default [
     date: "2022-06-20",
     ave_temperature: 14.5,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 903,
@@ -7222,6 +8124,7 @@ export default [
     date: "2022-06-21",
     ave_temperature: 15.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 904,
@@ -7230,6 +8133,7 @@ export default [
     date: "2022-06-22",
     ave_temperature: 19,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 905,
@@ -7238,6 +8142,7 @@ export default [
     date: "2022-06-23",
     ave_temperature: 10.3,
     total_preciptation: 14.8,
+    user_id: null,
   },
   {
     id: 906,
@@ -7246,6 +8151,7 @@ export default [
     date: "2022-06-24",
     ave_temperature: 11.1,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 907,
@@ -7254,6 +8160,7 @@ export default [
     date: "2022-06-25",
     ave_temperature: 13.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 908,
@@ -7262,6 +8169,7 @@ export default [
     date: "2022-06-26",
     ave_temperature: 15.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 909,
@@ -7270,6 +8178,7 @@ export default [
     date: "2022-06-27",
     ave_temperature: 16.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 910,
@@ -7278,6 +8187,7 @@ export default [
     date: "2022-06-28",
     ave_temperature: 16.7,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 911,
@@ -7286,6 +8196,7 @@ export default [
     date: "2022-06-29",
     ave_temperature: 14.5,
     total_preciptation: 5,
+    user_id: null,
   },
   {
     id: 912,
@@ -7294,6 +8205,7 @@ export default [
     date: "2022-06-30",
     ave_temperature: 15.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 913,
@@ -7302,6 +8214,7 @@ export default [
     date: "2022-07-01",
     ave_temperature: 17.2,
     total_preciptation: 17.6,
+    user_id: null,
   },
   {
     id: 914,
@@ -7310,6 +8223,7 @@ export default [
     date: "2022-07-02",
     ave_temperature: 13.8,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 915,
@@ -7318,6 +8232,7 @@ export default [
     date: "2022-07-03",
     ave_temperature: 12.1,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 916,
@@ -7326,6 +8241,7 @@ export default [
     date: "2022-07-04",
     ave_temperature: 12.5,
     total_preciptation: 5.7,
+    user_id: null,
   },
   {
     id: 917,
@@ -7334,6 +8250,7 @@ export default [
     date: "2022-07-05",
     ave_temperature: 15.8,
     total_preciptation: 10.4,
+    user_id: null,
   },
   {
     id: 918,
@@ -7342,22 +8259,25 @@ export default [
     date: "2022-07-06",
     ave_temperature: 12.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 919,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-07-07",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 17,
+    user_id: null,
   },
   {
     id: 920,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-07-08",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 921,
@@ -7366,6 +8286,7 @@ export default [
     date: "2022-07-09",
     ave_temperature: 18.9,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 922,
@@ -7374,6 +8295,7 @@ export default [
     date: "2022-07-10",
     ave_temperature: 17.9,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 923,
@@ -7382,6 +8304,7 @@ export default [
     date: "2022-07-11",
     ave_temperature: 18,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 924,
@@ -7390,6 +8313,7 @@ export default [
     date: "2022-07-12",
     ave_temperature: 21.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 925,
@@ -7398,14 +8322,16 @@ export default [
     date: "2022-07-13",
     ave_temperature: 18.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 926,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-07-14",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 927,
@@ -7414,14 +8340,16 @@ export default [
     date: "2022-07-15",
     ave_temperature: 21.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 928,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2022-07-16",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 929,
@@ -7430,6 +8358,7 @@ export default [
     date: "2022-07-17",
     ave_temperature: 19.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 930,
@@ -7438,6 +8367,7 @@ export default [
     date: "2022-07-18",
     ave_temperature: 16.4,
     total_preciptation: 3,
+    user_id: null,
   },
   {
     id: 931,
@@ -7446,6 +8376,7 @@ export default [
     date: "2022-07-19",
     ave_temperature: 21.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 932,
@@ -7454,6 +8385,7 @@ export default [
     date: "2022-07-20",
     ave_temperature: 17.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 933,
@@ -7462,6 +8394,7 @@ export default [
     date: "2022-07-21",
     ave_temperature: 19.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 934,
@@ -7470,6 +8403,7 @@ export default [
     date: "2022-07-22",
     ave_temperature: 17.7,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 935,
@@ -7478,6 +8412,7 @@ export default [
     date: "2022-07-23",
     ave_temperature: 18.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 936,
@@ -7486,6 +8421,7 @@ export default [
     date: "2022-07-24",
     ave_temperature: 19.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 937,
@@ -7494,6 +8430,7 @@ export default [
     date: "2022-07-25",
     ave_temperature: 17.6,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 938,
@@ -7502,6 +8439,7 @@ export default [
     date: "2022-07-26",
     ave_temperature: 19.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 939,
@@ -7510,6 +8448,7 @@ export default [
     date: "2022-07-27",
     ave_temperature: 21.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 940,
@@ -7518,6 +8457,7 @@ export default [
     date: "2022-07-28",
     ave_temperature: 22.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 941,
@@ -7526,6 +8466,7 @@ export default [
     date: "2022-07-29",
     ave_temperature: 23.5,
     total_preciptation: 2.8,
+    user_id: null,
   },
   {
     id: 942,
@@ -7534,6 +8475,7 @@ export default [
     date: "2022-07-30",
     ave_temperature: 21.8,
     total_preciptation: 3.2,
+    user_id: null,
   },
   {
     id: 943,
@@ -7542,6 +8484,7 @@ export default [
     date: "2022-07-31",
     ave_temperature: 21.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 944,
@@ -7550,6 +8493,7 @@ export default [
     date: "2022-08-01",
     ave_temperature: 22.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 945,
@@ -7558,6 +8502,7 @@ export default [
     date: "2022-08-02",
     ave_temperature: 18.8,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 946,
@@ -7566,6 +8511,7 @@ export default [
     date: "2022-08-03",
     ave_temperature: 21,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 947,
@@ -7574,6 +8520,7 @@ export default [
     date: "2022-08-04",
     ave_temperature: 16.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 948,
@@ -7582,6 +8529,7 @@ export default [
     date: "2022-08-05",
     ave_temperature: 13.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 949,
@@ -7590,6 +8538,7 @@ export default [
     date: "2022-08-06",
     ave_temperature: 16.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 950,
@@ -7598,6 +8547,7 @@ export default [
     date: "2022-08-07",
     ave_temperature: 21.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 951,
@@ -7606,6 +8556,7 @@ export default [
     date: "2022-08-08",
     ave_temperature: 21.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 952,
@@ -7614,6 +8565,7 @@ export default [
     date: "2022-08-09",
     ave_temperature: 20.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 953,
@@ -7622,6 +8574,7 @@ export default [
     date: "2022-08-10",
     ave_temperature: 22.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 954,
@@ -7630,6 +8583,7 @@ export default [
     date: "2022-08-11",
     ave_temperature: 23.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 955,
@@ -7638,6 +8592,7 @@ export default [
     date: "2022-08-12",
     ave_temperature: 22.9,
     total_preciptation: 5.6,
+    user_id: null,
   },
   {
     id: 956,
@@ -7646,6 +8601,7 @@ export default [
     date: "2022-08-13",
     ave_temperature: 22.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 957,
@@ -7654,6 +8610,7 @@ export default [
     date: "2022-08-14",
     ave_temperature: 20.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 958,
@@ -7662,6 +8619,7 @@ export default [
     date: "2022-08-15",
     ave_temperature: 19.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 959,
@@ -7670,6 +8628,7 @@ export default [
     date: "2022-08-16",
     ave_temperature: 20.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 960,
@@ -7678,6 +8637,7 @@ export default [
     date: "2022-08-17",
     ave_temperature: 20.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 961,
@@ -7686,6 +8646,7 @@ export default [
     date: "2022-08-18",
     ave_temperature: 21.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 962,
@@ -7694,6 +8655,7 @@ export default [
     date: "2022-08-19",
     ave_temperature: 23.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 963,
@@ -7702,6 +8664,7 @@ export default [
     date: "2022-08-20",
     ave_temperature: 21.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 964,
@@ -7710,6 +8673,7 @@ export default [
     date: "2022-08-21",
     ave_temperature: 20.7,
     total_preciptation: 3.2,
+    user_id: null,
   },
   {
     id: 965,
@@ -7718,6 +8682,7 @@ export default [
     date: "2022-08-22",
     ave_temperature: 20.1,
     total_preciptation: 8.6,
+    user_id: null,
   },
   {
     id: 966,
@@ -7726,6 +8691,7 @@ export default [
     date: "2022-08-23",
     ave_temperature: 16.6,
     total_preciptation: 1.9,
+    user_id: null,
   },
   {
     id: 967,
@@ -7734,6 +8700,7 @@ export default [
     date: "2022-08-24",
     ave_temperature: 18.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 968,
@@ -7742,6 +8709,7 @@ export default [
     date: "2022-08-25",
     ave_temperature: 17.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 969,
@@ -7750,6 +8718,7 @@ export default [
     date: "2022-08-26",
     ave_temperature: 19.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 970,
@@ -7758,6 +8727,7 @@ export default [
     date: "2022-08-27",
     ave_temperature: 15.4,
     total_preciptation: 10.6,
+    user_id: null,
   },
   {
     id: 971,
@@ -7766,6 +8736,7 @@ export default [
     date: "2022-08-28",
     ave_temperature: 16.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 972,
@@ -7774,6 +8745,7 @@ export default [
     date: "2022-08-29",
     ave_temperature: 18.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 973,
@@ -7782,6 +8754,7 @@ export default [
     date: "2022-08-30",
     ave_temperature: 21.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 974,
@@ -7790,6 +8763,7 @@ export default [
     date: "2022-08-31",
     ave_temperature: 23.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 975,
@@ -7798,6 +8772,7 @@ export default [
     date: "2022-09-01",
     ave_temperature: 21,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 976,
@@ -7806,6 +8781,7 @@ export default [
     date: "2022-09-02",
     ave_temperature: 20.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 977,
@@ -7814,6 +8790,7 @@ export default [
     date: "2022-09-03",
     ave_temperature: 22.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 978,
@@ -7822,6 +8799,7 @@ export default [
     date: "2022-09-04",
     ave_temperature: 24.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 979,
@@ -7830,6 +8808,7 @@ export default [
     date: "2022-09-05",
     ave_temperature: 17.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 980,
@@ -7838,6 +8817,7 @@ export default [
     date: "2022-09-06",
     ave_temperature: 14.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 981,
@@ -7846,6 +8826,7 @@ export default [
     date: "2022-09-07",
     ave_temperature: 19.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 982,
@@ -7854,6 +8835,7 @@ export default [
     date: "2022-09-08",
     ave_temperature: 13.1,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 983,
@@ -7862,6 +8844,7 @@ export default [
     date: "2022-09-09",
     ave_temperature: 11.5,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 984,
@@ -7870,6 +8853,7 @@ export default [
     date: "2022-09-10",
     ave_temperature: 15,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 985,
@@ -7878,6 +8862,7 @@ export default [
     date: "2022-09-11",
     ave_temperature: 18.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 986,
@@ -7886,6 +8871,7 @@ export default [
     date: "2022-09-12",
     ave_temperature: 15.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 987,
@@ -7894,6 +8880,7 @@ export default [
     date: "2022-09-13",
     ave_temperature: 15.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 988,
@@ -7902,6 +8889,7 @@ export default [
     date: "2022-09-14",
     ave_temperature: 15.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 989,
@@ -7910,6 +8898,7 @@ export default [
     date: "2022-09-15",
     ave_temperature: 15.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 990,
@@ -7918,6 +8907,7 @@ export default [
     date: "2022-09-16",
     ave_temperature: 15,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 991,
@@ -7926,6 +8916,7 @@ export default [
     date: "2022-09-17",
     ave_temperature: 12.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 992,
@@ -7934,6 +8925,7 @@ export default [
     date: "2022-09-18",
     ave_temperature: 10.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 993,
@@ -7942,6 +8934,7 @@ export default [
     date: "2022-09-19",
     ave_temperature: 8.4,
     total_preciptation: 7.8,
+    user_id: null,
   },
   {
     id: 994,
@@ -7950,6 +8943,7 @@ export default [
     date: "2022-09-20",
     ave_temperature: 7.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 995,
@@ -7958,6 +8952,7 @@ export default [
     date: "2022-09-21",
     ave_temperature: 8.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 996,
@@ -7966,6 +8961,7 @@ export default [
     date: "2022-09-22",
     ave_temperature: 10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 997,
@@ -7974,6 +8970,7 @@ export default [
     date: "2022-09-23",
     ave_temperature: 12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 998,
@@ -7982,6 +8979,7 @@ export default [
     date: "2022-09-24",
     ave_temperature: 15.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 999,
@@ -7990,6 +8988,7 @@ export default [
     date: "2022-09-25",
     ave_temperature: 13.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1000,
@@ -7998,6 +8997,7 @@ export default [
     date: "2022-09-26",
     ave_temperature: 15.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1001,
@@ -8006,6 +9006,7 @@ export default [
     date: "2022-09-27",
     ave_temperature: 18.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1002,
@@ -8014,6 +9015,7 @@ export default [
     date: "2022-09-28",
     ave_temperature: 18.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1003,
@@ -8022,6 +9024,7 @@ export default [
     date: "2022-09-29",
     ave_temperature: 15.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1004,
@@ -8030,6 +9033,7 @@ export default [
     date: "2022-09-30",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1005,
@@ -8038,6 +9042,7 @@ export default [
     date: "2022-10-01",
     ave_temperature: 13.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1006,
@@ -8046,6 +9051,7 @@ export default [
     date: "2022-10-02",
     ave_temperature: 14.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1007,
@@ -8054,6 +9060,7 @@ export default [
     date: "2022-10-03",
     ave_temperature: 15.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1008,
@@ -8062,6 +9069,7 @@ export default [
     date: "2022-10-04",
     ave_temperature: 15,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1009,
@@ -8070,6 +9078,7 @@ export default [
     date: "2022-10-05",
     ave_temperature: 11.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1010,
@@ -8078,6 +9087,7 @@ export default [
     date: "2022-10-06",
     ave_temperature: 9.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1011,
@@ -8086,6 +9096,7 @@ export default [
     date: "2022-10-07",
     ave_temperature: 12,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1012,
@@ -8094,6 +9105,7 @@ export default [
     date: "2022-10-08",
     ave_temperature: 13.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1013,
@@ -8102,6 +9114,7 @@ export default [
     date: "2022-10-09",
     ave_temperature: 12.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1014,
@@ -8110,6 +9123,7 @@ export default [
     date: "2022-10-10",
     ave_temperature: 13.7,
     total_preciptation: 3.4,
+    user_id: null,
   },
   {
     id: 1015,
@@ -8118,6 +9132,7 @@ export default [
     date: "2022-10-11",
     ave_temperature: 8.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1016,
@@ -8126,6 +9141,7 @@ export default [
     date: "2022-10-12",
     ave_temperature: 8.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1017,
@@ -8134,6 +9150,7 @@ export default [
     date: "2022-10-13",
     ave_temperature: 10.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1018,
@@ -8142,6 +9159,7 @@ export default [
     date: "2022-10-14",
     ave_temperature: 13.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1019,
@@ -8150,6 +9168,7 @@ export default [
     date: "2022-10-15",
     ave_temperature: 9.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1020,
@@ -8158,6 +9177,7 @@ export default [
     date: "2022-10-16",
     ave_temperature: 11.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1021,
@@ -8166,6 +9186,7 @@ export default [
     date: "2022-10-17",
     ave_temperature: 14.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1022,
@@ -8174,6 +9195,7 @@ export default [
     date: "2022-10-18",
     ave_temperature: 13.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1023,
@@ -8182,6 +9204,7 @@ export default [
     date: "2022-10-19",
     ave_temperature: 13.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1024,
@@ -8190,6 +9213,7 @@ export default [
     date: "2022-10-20",
     ave_temperature: 12.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1025,
@@ -8198,6 +9222,7 @@ export default [
     date: "2022-10-21",
     ave_temperature: 3.6,
     total_preciptation: 2.2,
+    user_id: null,
   },
   {
     id: 1026,
@@ -8206,6 +9231,7 @@ export default [
     date: "2022-10-22",
     ave_temperature: 0.4,
     total_preciptation: 20.6,
+    user_id: null,
   },
   {
     id: 1027,
@@ -8214,6 +9240,7 @@ export default [
     date: "2022-10-23",
     ave_temperature: -0.9,
     total_preciptation: 3.1,
+    user_id: null,
   },
   {
     id: 1028,
@@ -8222,6 +9249,7 @@ export default [
     date: "2022-10-24",
     ave_temperature: 0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1029,
@@ -8230,6 +9258,7 @@ export default [
     date: "2022-10-25",
     ave_temperature: 0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1030,
@@ -8238,6 +9267,7 @@ export default [
     date: "2022-10-26",
     ave_temperature: 2.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1031,
@@ -8246,6 +9276,7 @@ export default [
     date: "2022-10-27",
     ave_temperature: 7.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1032,
@@ -8254,6 +9285,7 @@ export default [
     date: "2022-10-28",
     ave_temperature: 6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1033,
@@ -8262,6 +9294,7 @@ export default [
     date: "2022-10-29",
     ave_temperature: 5.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1034,
@@ -8270,6 +9303,7 @@ export default [
     date: "2022-10-30",
     ave_temperature: 8.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1035,
@@ -8278,6 +9312,7 @@ export default [
     date: "2022-10-31",
     ave_temperature: 4.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1036,
@@ -8286,6 +9321,7 @@ export default [
     date: "2022-11-01",
     ave_temperature: -0.1,
     total_preciptation: 4.5,
+    user_id: null,
   },
   {
     id: 1037,
@@ -8294,6 +9330,7 @@ export default [
     date: "2022-11-02",
     ave_temperature: -6.3,
     total_preciptation: 6.4,
+    user_id: null,
   },
   {
     id: 1038,
@@ -8302,6 +9339,7 @@ export default [
     date: "2022-11-03",
     ave_temperature: -7.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1039,
@@ -8310,6 +9348,7 @@ export default [
     date: "2022-11-04",
     ave_temperature: -0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1040,
@@ -8318,6 +9357,7 @@ export default [
     date: "2022-11-05",
     ave_temperature: -5.9,
     total_preciptation: 3.9,
+    user_id: null,
   },
   {
     id: 1041,
@@ -8326,6 +9366,7 @@ export default [
     date: "2022-11-06",
     ave_temperature: -12.7,
     total_preciptation: 2.9,
+    user_id: null,
   },
   {
     id: 1042,
@@ -8334,6 +9375,7 @@ export default [
     date: "2022-11-07",
     ave_temperature: -17,
     total_preciptation: 9.2,
+    user_id: null,
   },
   {
     id: 1043,
@@ -8342,6 +9384,7 @@ export default [
     date: "2022-11-08",
     ave_temperature: -18.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1044,
@@ -8350,6 +9393,7 @@ export default [
     date: "2022-11-09",
     ave_temperature: -19.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1045,
@@ -8358,6 +9402,7 @@ export default [
     date: "2022-11-10",
     ave_temperature: -12.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1046,
@@ -8366,6 +9411,7 @@ export default [
     date: "2022-11-11",
     ave_temperature: -6.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1047,
@@ -8374,6 +9420,7 @@ export default [
     date: "2022-11-12",
     ave_temperature: -6.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1048,
@@ -8382,6 +9429,7 @@ export default [
     date: "2022-11-13",
     ave_temperature: -4.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1049,
@@ -8390,6 +9438,7 @@ export default [
     date: "2022-11-14",
     ave_temperature: -2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1050,
@@ -8398,6 +9447,7 @@ export default [
     date: "2022-11-15",
     ave_temperature: -0.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1051,
@@ -8406,6 +9456,7 @@ export default [
     date: "2022-11-16",
     ave_temperature: -3.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1052,
@@ -8414,6 +9465,7 @@ export default [
     date: "2022-11-17",
     ave_temperature: -9.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1053,
@@ -8422,6 +9474,7 @@ export default [
     date: "2022-11-18",
     ave_temperature: -5.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1054,
@@ -8430,6 +9483,7 @@ export default [
     date: "2022-11-19",
     ave_temperature: -2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1055,
@@ -8438,6 +9492,7 @@ export default [
     date: "2022-11-20",
     ave_temperature: -0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1056,
@@ -8446,6 +9501,7 @@ export default [
     date: "2022-11-21",
     ave_temperature: 1.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1057,
@@ -8454,6 +9510,7 @@ export default [
     date: "2022-11-22",
     ave_temperature: 6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1058,
@@ -8462,6 +9519,7 @@ export default [
     date: "2022-11-23",
     ave_temperature: 2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1059,
@@ -8470,6 +9528,7 @@ export default [
     date: "2022-11-24",
     ave_temperature: 5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1060,
@@ -8478,6 +9537,7 @@ export default [
     date: "2022-11-25",
     ave_temperature: 6.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1061,
@@ -8486,6 +9546,7 @@ export default [
     date: "2022-11-26",
     ave_temperature: 0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1062,
@@ -8494,6 +9555,7 @@ export default [
     date: "2022-11-27",
     ave_temperature: -3.6,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 1063,
@@ -8502,6 +9564,7 @@ export default [
     date: "2022-11-28",
     ave_temperature: -12.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1064,
@@ -8510,6 +9573,7 @@ export default [
     date: "2022-11-29",
     ave_temperature: -16.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1065,
@@ -8518,6 +9582,7 @@ export default [
     date: "2022-11-30",
     ave_temperature: -18.2,
     total_preciptation: 4.2,
+    user_id: null,
   },
   {
     id: 1066,
@@ -8526,6 +9591,7 @@ export default [
     date: "2022-12-01",
     ave_temperature: -22.1,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 1067,
@@ -8534,6 +9600,7 @@ export default [
     date: "2022-12-02",
     ave_temperature: -20,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1068,
@@ -8542,6 +9609,7 @@ export default [
     date: "2022-12-03",
     ave_temperature: -9.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1069,
@@ -8550,6 +9618,7 @@ export default [
     date: "2022-12-04",
     ave_temperature: -2.5,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 1070,
@@ -8558,6 +9627,7 @@ export default [
     date: "2022-12-05",
     ave_temperature: -13.2,
     total_preciptation: 5.4,
+    user_id: null,
   },
   {
     id: 1071,
@@ -8566,6 +9636,7 @@ export default [
     date: "2022-12-06",
     ave_temperature: -21.2,
     total_preciptation: 3.5,
+    user_id: null,
   },
   {
     id: 1072,
@@ -8574,6 +9645,7 @@ export default [
     date: "2022-12-07",
     ave_temperature: -9.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1073,
@@ -8582,6 +9654,7 @@ export default [
     date: "2022-12-08",
     ave_temperature: -4.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1074,
@@ -8590,6 +9663,7 @@ export default [
     date: "2022-12-09",
     ave_temperature: -5.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1075,
@@ -8598,6 +9672,7 @@ export default [
     date: "2022-12-10",
     ave_temperature: -8.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1076,
@@ -8606,6 +9681,7 @@ export default [
     date: "2022-12-11",
     ave_temperature: -11.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1077,
@@ -8614,6 +9690,7 @@ export default [
     date: "2022-12-12",
     ave_temperature: -12.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1078,
@@ -8622,6 +9699,7 @@ export default [
     date: "2022-12-13",
     ave_temperature: -7.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1079,
@@ -8630,6 +9708,7 @@ export default [
     date: "2022-12-14",
     ave_temperature: -6.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1080,
@@ -8638,6 +9717,7 @@ export default [
     date: "2022-12-15",
     ave_temperature: -7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1081,
@@ -8646,6 +9726,7 @@ export default [
     date: "2022-12-16",
     ave_temperature: -5.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1082,
@@ -8654,6 +9735,7 @@ export default [
     date: "2022-12-17",
     ave_temperature: -12.2,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 1083,
@@ -8662,6 +9744,7 @@ export default [
     date: "2022-12-18",
     ave_temperature: -22.8,
     total_preciptation: 1.1,
+    user_id: null,
   },
   {
     id: 1084,
@@ -8670,6 +9753,7 @@ export default [
     date: "2022-12-19",
     ave_temperature: -27.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1085,
@@ -8678,6 +9762,7 @@ export default [
     date: "2022-12-20",
     ave_temperature: -30.2,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 1086,
@@ -8686,6 +9771,7 @@ export default [
     date: "2022-12-21",
     ave_temperature: -29.1,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1087,
@@ -8694,6 +9780,7 @@ export default [
     date: "2022-12-22",
     ave_temperature: -27.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1088,
@@ -8702,6 +9789,7 @@ export default [
     date: "2022-12-23",
     ave_temperature: -23.2,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 1089,
@@ -8710,6 +9798,7 @@ export default [
     date: "2022-12-24",
     ave_temperature: -8.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1090,
@@ -8718,6 +9807,7 @@ export default [
     date: "2022-12-25",
     ave_temperature: -2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1091,
@@ -8726,6 +9816,7 @@ export default [
     date: "2022-12-26",
     ave_temperature: 2.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1092,
@@ -8734,6 +9825,7 @@ export default [
     date: "2022-12-27",
     ave_temperature: 1.5,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 1093,
@@ -8742,6 +9834,7 @@ export default [
     date: "2022-12-28",
     ave_temperature: -4.8,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 1094,
@@ -8750,6 +9843,7 @@ export default [
     date: "2022-12-29",
     ave_temperature: -7.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1095,
@@ -8758,6 +9852,7 @@ export default [
     date: "2022-12-30",
     ave_temperature: -2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1096,
@@ -8766,6 +9861,7 @@ export default [
     date: "2022-12-31",
     ave_temperature: -4.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1097,
@@ -8774,6 +9870,7 @@ export default [
     date: "2023-01-01",
     ave_temperature: -2.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1098,
@@ -8782,6 +9879,7 @@ export default [
     date: "2023-01-02",
     ave_temperature: -5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1099,
@@ -8790,6 +9888,7 @@ export default [
     date: "2023-01-03",
     ave_temperature: -6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1100,
@@ -8798,6 +9897,7 @@ export default [
     date: "2023-01-04",
     ave_temperature: -5.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1101,
@@ -8806,6 +9906,7 @@ export default [
     date: "2023-01-05",
     ave_temperature: -11.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1102,
@@ -8814,6 +9915,7 @@ export default [
     date: "2023-01-06",
     ave_temperature: 1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1103,
@@ -8822,6 +9924,7 @@ export default [
     date: "2023-01-07",
     ave_temperature: 1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1104,
@@ -8830,6 +9933,7 @@ export default [
     date: "2023-01-08",
     ave_temperature: -1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1105,
@@ -8838,6 +9942,7 @@ export default [
     date: "2023-01-09",
     ave_temperature: 0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1106,
@@ -8846,6 +9951,7 @@ export default [
     date: "2023-01-10",
     ave_temperature: -2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1107,
@@ -8854,6 +9960,7 @@ export default [
     date: "2023-01-11",
     ave_temperature: -6.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1108,
@@ -8862,6 +9969,7 @@ export default [
     date: "2023-01-12",
     ave_temperature: -2.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1109,
@@ -8870,6 +9978,7 @@ export default [
     date: "2023-01-13",
     ave_temperature: 2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1110,
@@ -8878,6 +9987,7 @@ export default [
     date: "2023-01-14",
     ave_temperature: 2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1111,
@@ -8886,6 +9996,7 @@ export default [
     date: "2023-01-15",
     ave_temperature: -2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1112,
@@ -8894,6 +10005,7 @@ export default [
     date: "2023-01-16",
     ave_temperature: -6.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1113,
@@ -8902,6 +10014,7 @@ export default [
     date: "2023-01-17",
     ave_temperature: -4.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1114,
@@ -8910,6 +10023,7 @@ export default [
     date: "2023-01-18",
     ave_temperature: -2.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1115,
@@ -8918,6 +10032,7 @@ export default [
     date: "2023-01-19",
     ave_temperature: -2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1116,
@@ -8926,14 +10041,16 @@ export default [
     date: "2023-01-20",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1117,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2023-01-21",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1118,
@@ -8942,6 +10059,7 @@ export default [
     date: "2023-01-22",
     ave_temperature: -0.5,
     total_preciptation: 1.1,
+    user_id: null,
   },
   {
     id: 1119,
@@ -8950,6 +10068,7 @@ export default [
     date: "2023-01-23",
     ave_temperature: -3.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1120,
@@ -8958,6 +10077,7 @@ export default [
     date: "2023-01-24",
     ave_temperature: -0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1121,
@@ -8966,6 +10086,7 @@ export default [
     date: "2023-01-25",
     ave_temperature: 0.7,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1122,
@@ -8974,6 +10095,7 @@ export default [
     date: "2023-01-26",
     ave_temperature: 4.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1123,
@@ -8982,6 +10104,7 @@ export default [
     date: "2023-01-27",
     ave_temperature: -6,
     total_preciptation: 13.8,
+    user_id: null,
   },
   {
     id: 1124,
@@ -8990,6 +10113,7 @@ export default [
     date: "2023-01-28",
     ave_temperature: -17.3,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 1125,
@@ -8998,6 +10122,7 @@ export default [
     date: "2023-01-29",
     ave_temperature: -15.8,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1126,
@@ -9006,6 +10131,7 @@ export default [
     date: "2023-01-30",
     ave_temperature: -8.5,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 1127,
@@ -9014,6 +10140,7 @@ export default [
     date: "2023-01-31",
     ave_temperature: -10.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1128,
@@ -9022,6 +10149,7 @@ export default [
     date: "2023-02-01",
     ave_temperature: -12.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1129,
@@ -9030,6 +10158,7 @@ export default [
     date: "2023-02-02",
     ave_temperature: -6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1130,
@@ -9038,6 +10167,7 @@ export default [
     date: "2023-02-03",
     ave_temperature: 3.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1131,
@@ -9046,6 +10176,7 @@ export default [
     date: "2023-02-04",
     ave_temperature: 1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1132,
@@ -9054,6 +10185,7 @@ export default [
     date: "2023-02-05",
     ave_temperature: 1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1133,
@@ -9062,6 +10194,7 @@ export default [
     date: "2023-02-06",
     ave_temperature: 1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1134,
@@ -9070,6 +10203,7 @@ export default [
     date: "2023-02-07",
     ave_temperature: 3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1135,
@@ -9078,6 +10212,7 @@ export default [
     date: "2023-02-08",
     ave_temperature: -0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1136,
@@ -9086,6 +10221,7 @@ export default [
     date: "2023-02-09",
     ave_temperature: -0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1137,
@@ -9094,6 +10230,7 @@ export default [
     date: "2023-02-10",
     ave_temperature: 1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1138,
@@ -9102,6 +10239,7 @@ export default [
     date: "2023-02-11",
     ave_temperature: 1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1139,
@@ -9110,6 +10248,7 @@ export default [
     date: "2023-02-12",
     ave_temperature: 4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1140,
@@ -9118,6 +10257,7 @@ export default [
     date: "2023-02-13",
     ave_temperature: 2.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1141,
@@ -9126,6 +10266,7 @@ export default [
     date: "2023-02-14",
     ave_temperature: -5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1142,
@@ -9134,6 +10275,7 @@ export default [
     date: "2023-02-15",
     ave_temperature: -4.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1143,
@@ -9142,6 +10284,7 @@ export default [
     date: "2023-02-16",
     ave_temperature: 0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1144,
@@ -9150,6 +10293,7 @@ export default [
     date: "2023-02-17",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1145,
@@ -9158,6 +10302,7 @@ export default [
     date: "2023-02-18",
     ave_temperature: 0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1146,
@@ -9166,6 +10311,7 @@ export default [
     date: "2023-02-19",
     ave_temperature: 1.2,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 1147,
@@ -9174,6 +10320,7 @@ export default [
     date: "2023-02-20",
     ave_temperature: -6.2,
     total_preciptation: 11.7,
+    user_id: null,
   },
   {
     id: 1148,
@@ -9182,6 +10329,7 @@ export default [
     date: "2023-02-21",
     ave_temperature: -14.5,
     total_preciptation: 7.4,
+    user_id: null,
   },
   {
     id: 1149,
@@ -9190,6 +10338,7 @@ export default [
     date: "2023-02-22",
     ave_temperature: -23.1,
     total_preciptation: 3,
+    user_id: null,
   },
   {
     id: 1150,
@@ -9198,6 +10347,7 @@ export default [
     date: "2023-02-23",
     ave_temperature: -27.7,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1151,
@@ -9206,6 +10356,7 @@ export default [
     date: "2023-02-24",
     ave_temperature: -21.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1152,
@@ -9214,6 +10365,7 @@ export default [
     date: "2023-02-25",
     ave_temperature: -13.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1153,
@@ -9222,6 +10374,7 @@ export default [
     date: "2023-02-26",
     ave_temperature: -7.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1154,
@@ -9230,6 +10383,7 @@ export default [
     date: "2023-02-27",
     ave_temperature: -8.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1155,
@@ -9238,6 +10392,7 @@ export default [
     date: "2023-02-28",
     ave_temperature: -11.9,
     total_preciptation: 5.7,
+    user_id: null,
   },
   {
     id: 1156,
@@ -9246,6 +10401,7 @@ export default [
     date: "2023-03-01",
     ave_temperature: -8.2,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1157,
@@ -9254,6 +10410,7 @@ export default [
     date: "2023-03-02",
     ave_temperature: -0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1158,
@@ -9262,6 +10419,7 @@ export default [
     date: "2023-03-03",
     ave_temperature: -3.5,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 1159,
@@ -9270,6 +10428,7 @@ export default [
     date: "2023-03-04",
     ave_temperature: -10.4,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1160,
@@ -9278,6 +10437,7 @@ export default [
     date: "2023-03-05",
     ave_temperature: -13.5,
     total_preciptation: 5.7,
+    user_id: null,
   },
   {
     id: 1161,
@@ -9286,6 +10446,7 @@ export default [
     date: "2023-03-06",
     ave_temperature: -18,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1162,
@@ -9294,6 +10455,7 @@ export default [
     date: "2023-03-07",
     ave_temperature: -15.3,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 1163,
@@ -9302,6 +10464,7 @@ export default [
     date: "2023-03-08",
     ave_temperature: -14.7,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1164,
@@ -9310,6 +10473,7 @@ export default [
     date: "2023-03-09",
     ave_temperature: -15.8,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1165,
@@ -9318,6 +10482,7 @@ export default [
     date: "2023-03-10",
     ave_temperature: -16,
     total_preciptation: 8.2,
+    user_id: null,
   },
   {
     id: 1166,
@@ -9326,6 +10491,7 @@ export default [
     date: "2023-03-11",
     ave_temperature: -13.6,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 1167,
@@ -9334,6 +10500,7 @@ export default [
     date: "2023-03-12",
     ave_temperature: -14.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1168,
@@ -9342,6 +10509,7 @@ export default [
     date: "2023-03-13",
     ave_temperature: -9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1169,
@@ -9350,6 +10518,7 @@ export default [
     date: "2023-03-14",
     ave_temperature: -4.8,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1170,
@@ -9358,6 +10527,7 @@ export default [
     date: "2023-03-15",
     ave_temperature: -6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1171,
@@ -9366,6 +10536,7 @@ export default [
     date: "2023-03-16",
     ave_temperature: -3.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1172,
@@ -9374,6 +10545,7 @@ export default [
     date: "2023-03-17",
     ave_temperature: -4.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1173,
@@ -9382,6 +10554,7 @@ export default [
     date: "2023-03-18",
     ave_temperature: -2.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1174,
@@ -9390,6 +10563,7 @@ export default [
     date: "2023-03-19",
     ave_temperature: -2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1175,
@@ -9398,6 +10572,7 @@ export default [
     date: "2023-03-20",
     ave_temperature: -3.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1176,
@@ -9406,6 +10581,7 @@ export default [
     date: "2023-03-21",
     ave_temperature: -4.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1177,
@@ -9414,6 +10590,7 @@ export default [
     date: "2023-03-22",
     ave_temperature: -0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1178,
@@ -9422,6 +10599,7 @@ export default [
     date: "2023-03-23",
     ave_temperature: 0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1179,
@@ -9430,6 +10608,7 @@ export default [
     date: "2023-03-24",
     ave_temperature: -1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1180,
@@ -9438,6 +10617,7 @@ export default [
     date: "2023-03-25",
     ave_temperature: -1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1181,
@@ -9446,6 +10626,7 @@ export default [
     date: "2023-03-26",
     ave_temperature: -1.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1182,
@@ -9454,6 +10635,7 @@ export default [
     date: "2023-03-27",
     ave_temperature: -6,
     total_preciptation: 2.2,
+    user_id: null,
   },
   {
     id: 1183,
@@ -9462,6 +10644,7 @@ export default [
     date: "2023-03-28",
     ave_temperature: -6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1184,
@@ -9470,6 +10653,7 @@ export default [
     date: "2023-03-29",
     ave_temperature: -1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1185,
@@ -9478,6 +10662,7 @@ export default [
     date: "2023-03-30",
     ave_temperature: -1.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1186,
@@ -9486,6 +10671,7 @@ export default [
     date: "2023-03-31",
     ave_temperature: 2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1187,
@@ -9494,6 +10680,7 @@ export default [
     date: "2023-04-01",
     ave_temperature: 4.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1188,
@@ -9502,6 +10689,7 @@ export default [
     date: "2023-04-02",
     ave_temperature: 1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1189,
@@ -9510,6 +10698,7 @@ export default [
     date: "2023-04-03",
     ave_temperature: -1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1190,
@@ -9518,6 +10707,7 @@ export default [
     date: "2023-04-04",
     ave_temperature: -2.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1191,
@@ -9526,6 +10716,7 @@ export default [
     date: "2023-04-05",
     ave_temperature: -1.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1192,
@@ -9534,6 +10725,7 @@ export default [
     date: "2023-04-06",
     ave_temperature: 1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1193,
@@ -9542,6 +10734,7 @@ export default [
     date: "2023-04-07",
     ave_temperature: 6.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1194,
@@ -9550,6 +10743,7 @@ export default [
     date: "2023-04-08",
     ave_temperature: 7.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1195,
@@ -9558,6 +10752,7 @@ export default [
     date: "2023-04-09",
     ave_temperature: 10.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1196,
@@ -9566,6 +10761,7 @@ export default [
     date: "2023-04-10",
     ave_temperature: 7.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1197,
@@ -9574,6 +10770,7 @@ export default [
     date: "2023-04-11",
     ave_temperature: 3.6,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1198,
@@ -9582,6 +10779,7 @@ export default [
     date: "2023-04-12",
     ave_temperature: 1.2,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 1199,
@@ -9590,6 +10788,7 @@ export default [
     date: "2023-04-13",
     ave_temperature: 1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1200,
@@ -9598,6 +10797,7 @@ export default [
     date: "2023-04-14",
     ave_temperature: 1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1201,
@@ -9606,6 +10806,7 @@ export default [
     date: "2023-04-15",
     ave_temperature: 4.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1202,
@@ -9614,6 +10815,7 @@ export default [
     date: "2023-04-16",
     ave_temperature: 9.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1203,
@@ -9622,6 +10824,7 @@ export default [
     date: "2023-04-17",
     ave_temperature: 3.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1204,
@@ -9630,6 +10833,7 @@ export default [
     date: "2023-04-18",
     ave_temperature: 2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1205,
@@ -9638,6 +10842,7 @@ export default [
     date: "2023-04-19",
     ave_temperature: 2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1206,
@@ -9646,6 +10851,7 @@ export default [
     date: "2023-04-20",
     ave_temperature: -0.9,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 1207,
@@ -9654,6 +10860,7 @@ export default [
     date: "2023-04-21",
     ave_temperature: -1.9,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 1208,
@@ -9662,6 +10869,7 @@ export default [
     date: "2023-04-22",
     ave_temperature: 3.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1209,
@@ -9670,6 +10878,7 @@ export default [
     date: "2023-04-23",
     ave_temperature: 6.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1210,
@@ -9678,6 +10887,7 @@ export default [
     date: "2023-04-24",
     ave_temperature: 9.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1211,
@@ -9686,6 +10896,7 @@ export default [
     date: "2023-04-25",
     ave_temperature: 8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1212,
@@ -9694,6 +10905,7 @@ export default [
     date: "2023-04-26",
     ave_temperature: 8.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1213,
@@ -9702,6 +10914,7 @@ export default [
     date: "2023-04-27",
     ave_temperature: 7.8,
     total_preciptation: 3,
+    user_id: null,
   },
   {
     id: 1214,
@@ -9710,6 +10923,7 @@ export default [
     date: "2023-04-28",
     ave_temperature: 12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1215,
@@ -9718,6 +10932,7 @@ export default [
     date: "2023-04-29",
     ave_temperature: 12,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1216,
@@ -9726,6 +10941,7 @@ export default [
     date: "2023-04-30",
     ave_temperature: 14,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1217,
@@ -9734,6 +10950,7 @@ export default [
     date: "2023-05-01",
     ave_temperature: 16.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1218,
@@ -9742,6 +10959,7 @@ export default [
     date: "2023-05-02",
     ave_temperature: 15.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1219,
@@ -9750,6 +10968,7 @@ export default [
     date: "2023-05-03",
     ave_temperature: 16.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1220,
@@ -9758,6 +10977,7 @@ export default [
     date: "2023-05-04",
     ave_temperature: 17.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1221,
@@ -9766,6 +10986,7 @@ export default [
     date: "2023-05-05",
     ave_temperature: 15.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1222,
@@ -9774,6 +10995,7 @@ export default [
     date: "2023-05-06",
     ave_temperature: 8.1,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 1223,
@@ -9782,6 +11004,7 @@ export default [
     date: "2023-05-07",
     ave_temperature: 11,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 1224,
@@ -9790,6 +11013,7 @@ export default [
     date: "2023-05-08",
     ave_temperature: 10.4,
     total_preciptation: 8.7,
+    user_id: null,
   },
   {
     id: 1225,
@@ -9798,6 +11022,7 @@ export default [
     date: "2023-05-09",
     ave_temperature: 10.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1226,
@@ -9806,6 +11031,7 @@ export default [
     date: "2023-05-10",
     ave_temperature: 10.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1227,
@@ -9814,6 +11040,7 @@ export default [
     date: "2023-05-11",
     ave_temperature: 11.2,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 1228,
@@ -9822,6 +11049,7 @@ export default [
     date: "2023-05-12",
     ave_temperature: 12.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1229,
@@ -9830,6 +11058,7 @@ export default [
     date: "2023-05-13",
     ave_temperature: 15.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1230,
@@ -9838,6 +11067,7 @@ export default [
     date: "2023-05-14",
     ave_temperature: 15.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1231,
@@ -9846,6 +11076,7 @@ export default [
     date: "2023-05-15",
     ave_temperature: 18.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1232,
@@ -9854,6 +11085,7 @@ export default [
     date: "2023-05-16",
     ave_temperature: 16.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1233,
@@ -9862,6 +11094,7 @@ export default [
     date: "2023-05-17",
     ave_temperature: 14,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1234,
@@ -9870,6 +11103,7 @@ export default [
     date: "2023-05-18",
     ave_temperature: 12.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1235,
@@ -9878,6 +11112,7 @@ export default [
     date: "2023-05-19",
     ave_temperature: 18.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1236,
@@ -9886,6 +11121,7 @@ export default [
     date: "2023-05-20",
     ave_temperature: 19.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1237,
@@ -9894,6 +11130,7 @@ export default [
     date: "2023-05-21",
     ave_temperature: 19.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1238,
@@ -9902,6 +11139,7 @@ export default [
     date: "2023-05-22",
     ave_temperature: 16.2,
     total_preciptation: 18.3,
+    user_id: null,
   },
   {
     id: 1239,
@@ -9910,6 +11148,7 @@ export default [
     date: "2023-05-23",
     ave_temperature: 13.9,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1240,
@@ -9918,6 +11157,7 @@ export default [
     date: "2023-05-24",
     ave_temperature: 13.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1241,
@@ -9926,6 +11166,7 @@ export default [
     date: "2023-05-25",
     ave_temperature: 13.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1242,
@@ -9934,6 +11175,7 @@ export default [
     date: "2023-05-26",
     ave_temperature: 13.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1243,
@@ -9942,6 +11184,7 @@ export default [
     date: "2023-05-27",
     ave_temperature: 15.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1244,
@@ -9950,6 +11193,7 @@ export default [
     date: "2023-05-28",
     ave_temperature: 16.9,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 1245,
@@ -9958,6 +11202,7 @@ export default [
     date: "2023-05-29",
     ave_temperature: 17.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1246,
@@ -9966,6 +11211,7 @@ export default [
     date: "2023-05-30",
     ave_temperature: 18.4,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1247,
@@ -9974,6 +11220,7 @@ export default [
     date: "2023-05-31",
     ave_temperature: 17.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1248,
@@ -9982,6 +11229,7 @@ export default [
     date: "2023-06-01",
     ave_temperature: 10.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1249,
@@ -9990,6 +11238,7 @@ export default [
     date: "2023-06-02",
     ave_temperature: 12.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1250,
@@ -9998,6 +11247,7 @@ export default [
     date: "2023-06-03",
     ave_temperature: 16.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1251,
@@ -10006,6 +11256,7 @@ export default [
     date: "2023-06-04",
     ave_temperature: 20.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1252,
@@ -10014,6 +11265,7 @@ export default [
     date: "2023-06-05",
     ave_temperature: 19.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1253,
@@ -10022,6 +11274,7 @@ export default [
     date: "2023-06-06",
     ave_temperature: 16.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1254,
@@ -10030,6 +11283,7 @@ export default [
     date: "2023-06-07",
     ave_temperature: 19.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1255,
@@ -10038,6 +11292,7 @@ export default [
     date: "2023-06-08",
     ave_temperature: 20.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1256,
@@ -10046,6 +11301,7 @@ export default [
     date: "2023-06-09",
     ave_temperature: 20.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1257,
@@ -10054,6 +11310,7 @@ export default [
     date: "2023-06-10",
     ave_temperature: 19,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1258,
@@ -10062,6 +11319,7 @@ export default [
     date: "2023-06-11",
     ave_temperature: 19,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1259,
@@ -10070,6 +11328,7 @@ export default [
     date: "2023-06-12",
     ave_temperature: 20.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1260,
@@ -10078,6 +11337,7 @@ export default [
     date: "2023-06-13",
     ave_temperature: 22.3,
     total_preciptation: 5.8,
+    user_id: null,
   },
   {
     id: 1261,
@@ -10086,6 +11346,7 @@ export default [
     date: "2023-06-14",
     ave_temperature: 11.4,
     total_preciptation: 27,
+    user_id: null,
   },
   {
     id: 1262,
@@ -10094,6 +11355,7 @@ export default [
     date: "2023-06-15",
     ave_temperature: 12.1,
     total_preciptation: 10.2,
+    user_id: null,
   },
   {
     id: 1263,
@@ -10102,6 +11364,7 @@ export default [
     date: "2023-06-16",
     ave_temperature: 16.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1264,
@@ -10110,6 +11373,7 @@ export default [
     date: "2023-06-17",
     ave_temperature: 16.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1265,
@@ -10118,6 +11382,7 @@ export default [
     date: "2023-06-18",
     ave_temperature: 10.6,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 1266,
@@ -10126,6 +11391,7 @@ export default [
     date: "2023-06-19",
     ave_temperature: 10.1,
     total_preciptation: 2.5,
+    user_id: null,
   },
   {
     id: 1267,
@@ -10134,6 +11400,7 @@ export default [
     date: "2023-06-20",
     ave_temperature: 6.4,
     total_preciptation: 14,
+    user_id: null,
   },
   {
     id: 1268,
@@ -10142,6 +11409,7 @@ export default [
     date: "2023-06-21",
     ave_temperature: 11,
     total_preciptation: 3.8,
+    user_id: null,
   },
   {
     id: 1269,
@@ -10150,6 +11418,7 @@ export default [
     date: "2023-06-22",
     ave_temperature: 12.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1270,
@@ -10158,6 +11427,7 @@ export default [
     date: "2023-06-23",
     ave_temperature: 14.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1271,
@@ -10166,6 +11436,7 @@ export default [
     date: "2023-06-24",
     ave_temperature: 17.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1272,
@@ -10174,6 +11445,7 @@ export default [
     date: "2023-06-25",
     ave_temperature: 15.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1273,
@@ -10182,6 +11454,7 @@ export default [
     date: "2023-06-26",
     ave_temperature: 17.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1274,
@@ -10190,6 +11463,7 @@ export default [
     date: "2023-06-27",
     ave_temperature: 18.8,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 1275,
@@ -10198,6 +11472,7 @@ export default [
     date: "2023-06-28",
     ave_temperature: 18.8,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 1276,
@@ -10206,6 +11481,7 @@ export default [
     date: "2023-06-29",
     ave_temperature: 20,
     total_preciptation: 2.4,
+    user_id: null,
   },
   {
     id: 1277,
@@ -10214,6 +11490,7 @@ export default [
     date: "2023-06-30",
     ave_temperature: 21.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1278,
@@ -10222,6 +11499,7 @@ export default [
     date: "2023-07-01",
     ave_temperature: 21.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1279,
@@ -10230,6 +11508,7 @@ export default [
     date: "2023-07-02",
     ave_temperature: 14.1,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 1280,
@@ -10238,6 +11517,7 @@ export default [
     date: "2023-07-03",
     ave_temperature: 13.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1281,
@@ -10246,6 +11526,7 @@ export default [
     date: "2023-07-04",
     ave_temperature: 13.4,
     total_preciptation: 8.5,
+    user_id: null,
   },
   {
     id: 1282,
@@ -10254,6 +11535,7 @@ export default [
     date: "2023-07-05",
     ave_temperature: 16.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1283,
@@ -10262,6 +11544,7 @@ export default [
     date: "2023-07-06",
     ave_temperature: 18.6,
     total_preciptation: 2.4,
+    user_id: null,
   },
   {
     id: 1284,
@@ -10270,6 +11553,7 @@ export default [
     date: "2023-07-07",
     ave_temperature: 17.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1285,
@@ -10278,6 +11562,7 @@ export default [
     date: "2023-07-08",
     ave_temperature: 18.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1286,
@@ -10286,6 +11571,7 @@ export default [
     date: "2023-07-09",
     ave_temperature: 21,
     total_preciptation: 4,
+    user_id: null,
   },
   {
     id: 1287,
@@ -10294,6 +11580,7 @@ export default [
     date: "2023-07-10",
     ave_temperature: 19.9,
     total_preciptation: 2.4,
+    user_id: null,
   },
   {
     id: 1288,
@@ -10302,6 +11589,7 @@ export default [
     date: "2023-07-11",
     ave_temperature: 16.2,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 1289,
@@ -10310,6 +11598,7 @@ export default [
     date: "2023-07-12",
     ave_temperature: 17.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1290,
@@ -10318,6 +11607,7 @@ export default [
     date: "2023-07-13",
     ave_temperature: 18.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1291,
@@ -10326,6 +11616,7 @@ export default [
     date: "2023-07-14",
     ave_temperature: 18.1,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1292,
@@ -10334,6 +11625,7 @@ export default [
     date: "2023-07-15",
     ave_temperature: 19.2,
     total_preciptation: 5,
+    user_id: null,
   },
   {
     id: 1293,
@@ -10342,6 +11634,7 @@ export default [
     date: "2023-07-16",
     ave_temperature: 20,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1294,
@@ -10350,6 +11643,7 @@ export default [
     date: "2023-07-17",
     ave_temperature: 16.1,
     total_preciptation: 6.5,
+    user_id: null,
   },
   {
     id: 1295,
@@ -10358,6 +11652,7 @@ export default [
     date: "2023-07-18",
     ave_temperature: 15.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1296,
@@ -10366,6 +11661,7 @@ export default [
     date: "2023-07-19",
     ave_temperature: 17,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1297,
@@ -10374,6 +11670,7 @@ export default [
     date: "2023-07-20",
     ave_temperature: 19.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1298,
@@ -10382,6 +11679,7 @@ export default [
     date: "2023-07-21",
     ave_temperature: 20.8,
     total_preciptation: 1.5,
+    user_id: null,
   },
   {
     id: 1299,
@@ -10390,6 +11688,7 @@ export default [
     date: "2023-07-22",
     ave_temperature: 22.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1300,
@@ -10398,6 +11697,7 @@ export default [
     date: "2023-07-23",
     ave_temperature: 22.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1301,
@@ -10406,6 +11706,7 @@ export default [
     date: "2023-07-24",
     ave_temperature: 25.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1302,
@@ -10414,6 +11715,7 @@ export default [
     date: "2023-07-25",
     ave_temperature: 19.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1303,
@@ -10422,6 +11724,7 @@ export default [
     date: "2023-07-26",
     ave_temperature: 17.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1304,
@@ -10430,6 +11733,7 @@ export default [
     date: "2023-07-27",
     ave_temperature: 14.4,
     total_preciptation: 4,
+    user_id: null,
   },
   {
     id: 1305,
@@ -10438,6 +11742,7 @@ export default [
     date: "2023-07-28",
     ave_temperature: 11.9,
     total_preciptation: 5.8,
+    user_id: null,
   },
   {
     id: 1306,
@@ -10446,6 +11751,7 @@ export default [
     date: "2023-07-29",
     ave_temperature: 17.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1307,
@@ -10454,6 +11760,7 @@ export default [
     date: "2023-07-30",
     ave_temperature: 21.8,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1308,
@@ -10462,6 +11769,7 @@ export default [
     date: "2023-07-31",
     ave_temperature: 20.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1309,
@@ -10470,6 +11778,7 @@ export default [
     date: "2023-08-01",
     ave_temperature: 19.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1310,
@@ -10478,6 +11787,7 @@ export default [
     date: "2023-08-02",
     ave_temperature: 20.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1311,
@@ -10486,6 +11796,7 @@ export default [
     date: "2023-08-03",
     ave_temperature: 18.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1312,
@@ -10494,6 +11805,7 @@ export default [
     date: "2023-08-04",
     ave_temperature: 20.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1313,
@@ -10502,6 +11814,7 @@ export default [
     date: "2023-08-05",
     ave_temperature: 18.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1314,
@@ -10510,6 +11823,7 @@ export default [
     date: "2023-08-06",
     ave_temperature: 19.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1315,
@@ -10518,6 +11832,7 @@ export default [
     date: "2023-08-07",
     ave_temperature: 18.6,
     total_preciptation: 8.2,
+    user_id: null,
   },
   {
     id: 1316,
@@ -10526,6 +11841,7 @@ export default [
     date: "2023-08-08",
     ave_temperature: 19.3,
     total_preciptation: 2.7,
+    user_id: null,
   },
   {
     id: 1317,
@@ -10534,6 +11850,7 @@ export default [
     date: "2023-08-09",
     ave_temperature: 19.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1318,
@@ -10542,6 +11859,7 @@ export default [
     date: "2023-08-10",
     ave_temperature: 17.8,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1319,
@@ -10550,6 +11868,7 @@ export default [
     date: "2023-08-11",
     ave_temperature: 15.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1320,
@@ -10558,6 +11877,7 @@ export default [
     date: "2023-08-12",
     ave_temperature: 17.8,
     total_preciptation: 4.2,
+    user_id: null,
   },
   {
     id: 1321,
@@ -10566,6 +11886,7 @@ export default [
     date: "2023-08-13",
     ave_temperature: 19,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1322,
@@ -10574,6 +11895,7 @@ export default [
     date: "2023-08-14",
     ave_temperature: 23.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1323,
@@ -10582,6 +11904,7 @@ export default [
     date: "2023-08-15",
     ave_temperature: 24.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1324,
@@ -10590,6 +11913,7 @@ export default [
     date: "2023-08-16",
     ave_temperature: 20.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1325,
@@ -10598,6 +11922,7 @@ export default [
     date: "2023-08-17",
     ave_temperature: 23.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1326,
@@ -10606,6 +11931,7 @@ export default [
     date: "2023-08-18",
     ave_temperature: 17.2,
     total_preciptation: 2.2,
+    user_id: null,
   },
   {
     id: 1327,
@@ -10614,6 +11940,7 @@ export default [
     date: "2023-08-19",
     ave_temperature: 11.3,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1328,
@@ -10622,6 +11949,7 @@ export default [
     date: "2023-08-20",
     ave_temperature: 12.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1329,
@@ -10630,6 +11958,7 @@ export default [
     date: "2023-08-21",
     ave_temperature: 12.8,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 1330,
@@ -10638,6 +11967,7 @@ export default [
     date: "2023-08-22",
     ave_temperature: 16.5,
     total_preciptation: 4.6,
+    user_id: null,
   },
   {
     id: 1331,
@@ -10646,6 +11976,7 @@ export default [
     date: "2023-08-23",
     ave_temperature: 17.8,
     total_preciptation: 1.3,
+    user_id: null,
   },
   {
     id: 1332,
@@ -10654,6 +11985,7 @@ export default [
     date: "2023-08-24",
     ave_temperature: 12.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1333,
@@ -10662,6 +11994,7 @@ export default [
     date: "2023-08-25",
     ave_temperature: 15.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1334,
@@ -10670,6 +12003,7 @@ export default [
     date: "2023-08-26",
     ave_temperature: 19.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1335,
@@ -10678,6 +12012,7 @@ export default [
     date: "2023-08-27",
     ave_temperature: 19.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1336,
@@ -10686,6 +12021,7 @@ export default [
     date: "2023-08-28",
     ave_temperature: 21.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1337,
@@ -10694,6 +12030,7 @@ export default [
     date: "2023-08-29",
     ave_temperature: 21.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1338,
@@ -10702,6 +12039,7 @@ export default [
     date: "2023-08-30",
     ave_temperature: 18.4,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 1339,
@@ -10710,6 +12048,7 @@ export default [
     date: "2023-08-31",
     ave_temperature: 16.4,
     total_preciptation: 26.1,
+    user_id: null,
   },
   {
     id: 1340,
@@ -10718,6 +12057,7 @@ export default [
     date: "2023-09-01",
     ave_temperature: 18.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1341,
@@ -10726,6 +12066,7 @@ export default [
     date: "2023-09-02",
     ave_temperature: 20.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1342,
@@ -10734,6 +12075,7 @@ export default [
     date: "2023-09-03",
     ave_temperature: 15.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1343,
@@ -10742,6 +12084,7 @@ export default [
     date: "2023-09-04",
     ave_temperature: 10.2,
     total_preciptation: 6.6,
+    user_id: null,
   },
   {
     id: 1344,
@@ -10750,6 +12093,7 @@ export default [
     date: "2023-09-05",
     ave_temperature: 15.2,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1345,
@@ -10758,6 +12102,7 @@ export default [
     date: "2023-09-06",
     ave_temperature: 12.5,
     total_preciptation: 1.7,
+    user_id: null,
   },
   {
     id: 1346,
@@ -10766,6 +12111,7 @@ export default [
     date: "2023-09-07",
     ave_temperature: 12.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1347,
@@ -10774,6 +12120,7 @@ export default [
     date: "2023-09-08",
     ave_temperature: 12.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1348,
@@ -10782,6 +12129,7 @@ export default [
     date: "2023-09-09",
     ave_temperature: 14,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1349,
@@ -10790,6 +12138,7 @@ export default [
     date: "2023-09-10",
     ave_temperature: 14.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1350,
@@ -10798,6 +12147,7 @@ export default [
     date: "2023-09-11",
     ave_temperature: 15.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1351,
@@ -10806,6 +12156,7 @@ export default [
     date: "2023-09-12",
     ave_temperature: 18.7,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1352,
@@ -10814,6 +12165,7 @@ export default [
     date: "2023-09-13",
     ave_temperature: 15.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1353,
@@ -10822,6 +12174,7 @@ export default [
     date: "2023-09-14",
     ave_temperature: 13.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1354,
@@ -10830,6 +12183,7 @@ export default [
     date: "2023-09-15",
     ave_temperature: 14.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1355,
@@ -10838,6 +12192,7 @@ export default [
     date: "2023-09-16",
     ave_temperature: 19.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1356,
@@ -10846,6 +12201,7 @@ export default [
     date: "2023-09-17",
     ave_temperature: 17.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1357,
@@ -10854,6 +12210,7 @@ export default [
     date: "2023-09-18",
     ave_temperature: 14.7,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 1358,
@@ -10862,6 +12219,7 @@ export default [
     date: "2023-09-19",
     ave_temperature: 9.1,
     total_preciptation: 2.5,
+    user_id: null,
   },
   {
     id: 1359,
@@ -10870,6 +12228,7 @@ export default [
     date: "2023-09-20",
     ave_temperature: 6.7,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 1360,
@@ -10878,6 +12237,7 @@ export default [
     date: "2023-09-21",
     ave_temperature: 9.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1361,
@@ -10886,6 +12246,7 @@ export default [
     date: "2023-09-22",
     ave_temperature: 11.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1362,
@@ -10894,6 +12255,7 @@ export default [
     date: "2023-09-23",
     ave_temperature: 14.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1363,
@@ -10902,6 +12264,7 @@ export default [
     date: "2023-09-24",
     ave_temperature: 13.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1364,
@@ -10910,6 +12273,7 @@ export default [
     date: "2023-09-25",
     ave_temperature: 12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1365,
@@ -10918,6 +12282,7 @@ export default [
     date: "2023-09-26",
     ave_temperature: 15.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1366,
@@ -10926,6 +12291,7 @@ export default [
     date: "2023-09-27",
     ave_temperature: 12.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1367,
@@ -10934,6 +12300,7 @@ export default [
     date: "2023-09-28",
     ave_temperature: 9.9,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 1368,
@@ -10942,6 +12309,7 @@ export default [
     date: "2023-09-29",
     ave_temperature: 6.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1369,
@@ -10950,6 +12318,7 @@ export default [
     date: "2023-09-30",
     ave_temperature: 4.8,
     total_preciptation: 4.8,
+    user_id: null,
   },
   {
     id: 1370,
@@ -10958,6 +12327,7 @@ export default [
     date: "2023-10-01",
     ave_temperature: 7.9,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1371,
@@ -10966,6 +12336,7 @@ export default [
     date: "2023-10-02",
     ave_temperature: 9.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1372,
@@ -10974,6 +12345,7 @@ export default [
     date: "2023-10-03",
     ave_temperature: 8.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1373,
@@ -10982,6 +12354,7 @@ export default [
     date: "2023-10-04",
     ave_temperature: 8.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1374,
@@ -10990,6 +12363,7 @@ export default [
     date: "2023-10-05",
     ave_temperature: 5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1375,
@@ -10998,6 +12372,7 @@ export default [
     date: "2023-10-06",
     ave_temperature: 10,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1376,
@@ -11006,6 +12381,7 @@ export default [
     date: "2023-10-07",
     ave_temperature: 14.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1377,
@@ -11014,6 +12390,7 @@ export default [
     date: "2023-10-08",
     ave_temperature: 14.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1378,
@@ -11022,6 +12399,7 @@ export default [
     date: "2023-10-09",
     ave_temperature: 15.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1379,
@@ -11030,6 +12408,7 @@ export default [
     date: "2023-10-10",
     ave_temperature: 15,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1380,
@@ -11038,6 +12417,7 @@ export default [
     date: "2023-10-11",
     ave_temperature: 7.8,
     total_preciptation: 7.9,
+    user_id: null,
   },
   {
     id: 1381,
@@ -11046,6 +12426,7 @@ export default [
     date: "2023-10-12",
     ave_temperature: 7.4,
     total_preciptation: 4.6,
+    user_id: null,
   },
   {
     id: 1382,
@@ -11054,6 +12435,7 @@ export default [
     date: "2023-10-13",
     ave_temperature: 6.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1383,
@@ -11062,6 +12444,7 @@ export default [
     date: "2023-10-14",
     ave_temperature: 7.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1384,
@@ -11070,6 +12453,7 @@ export default [
     date: "2023-10-15",
     ave_temperature: 11.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1385,
@@ -11078,6 +12462,7 @@ export default [
     date: "2023-10-16",
     ave_temperature: 7.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1386,
@@ -11086,6 +12471,7 @@ export default [
     date: "2023-10-17",
     ave_temperature: 11.3,
     total_preciptation: 9.3,
+    user_id: null,
   },
   {
     id: 1387,
@@ -11094,6 +12480,7 @@ export default [
     date: "2023-10-18",
     ave_temperature: 12.8,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1388,
@@ -11102,6 +12489,7 @@ export default [
     date: "2023-10-19",
     ave_temperature: 13.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1389,
@@ -11110,6 +12498,7 @@ export default [
     date: "2023-10-20",
     ave_temperature: 7.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1390,
@@ -11118,6 +12507,7 @@ export default [
     date: "2023-10-21",
     ave_temperature: 5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1391,
@@ -11126,6 +12516,7 @@ export default [
     date: "2023-10-22",
     ave_temperature: 3.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1392,
@@ -11134,6 +12525,7 @@ export default [
     date: "2023-10-23",
     ave_temperature: -2.9,
     total_preciptation: 10,
+    user_id: null,
   },
   {
     id: 1393,
@@ -11142,6 +12534,7 @@ export default [
     date: "2023-10-24",
     ave_temperature: -9.7,
     total_preciptation: 2.8,
+    user_id: null,
   },
   {
     id: 1394,
@@ -11150,6 +12543,7 @@ export default [
     date: "2023-10-25",
     ave_temperature: -12.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1395,
@@ -11158,6 +12552,7 @@ export default [
     date: "2023-10-26",
     ave_temperature: -11.9,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1396,
@@ -11166,6 +12561,7 @@ export default [
     date: "2023-10-27",
     ave_temperature: -7.2,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 1397,
@@ -11174,6 +12570,7 @@ export default [
     date: "2023-10-28",
     ave_temperature: -4.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1398,
@@ -11182,6 +12579,7 @@ export default [
     date: "2023-10-29",
     ave_temperature: -3.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1399,
@@ -11190,6 +12588,7 @@ export default [
     date: "2023-10-30",
     ave_temperature: -0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1400,
@@ -11198,6 +12597,7 @@ export default [
     date: "2023-10-31",
     ave_temperature: 2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1401,
@@ -11206,6 +12606,7 @@ export default [
     date: "2023-11-01",
     ave_temperature: 0,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1402,
@@ -11214,6 +12615,7 @@ export default [
     date: "2023-11-02",
     ave_temperature: 1.8,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 1403,
@@ -11222,14 +12624,16 @@ export default [
     date: "2023-11-03",
     ave_temperature: 4.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1404,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2023-11-04",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1405,
@@ -11238,6 +12642,7 @@ export default [
     date: "2023-11-05",
     ave_temperature: 8.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1406,
@@ -11246,6 +12651,7 @@ export default [
     date: "2023-11-06",
     ave_temperature: 2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1407,
@@ -11254,6 +12660,7 @@ export default [
     date: "2023-11-07",
     ave_temperature: 4.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1408,
@@ -11262,6 +12669,7 @@ export default [
     date: "2023-11-08",
     ave_temperature: 1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1409,
@@ -11270,6 +12678,7 @@ export default [
     date: "2023-11-09",
     ave_temperature: 0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1410,
@@ -11278,6 +12687,7 @@ export default [
     date: "2023-11-10",
     ave_temperature: 2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1411,
@@ -11286,6 +12696,7 @@ export default [
     date: "2023-11-11",
     ave_temperature: 3.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1412,
@@ -11294,6 +12705,7 @@ export default [
     date: "2023-11-12",
     ave_temperature: 2.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1413,
@@ -11302,6 +12714,7 @@ export default [
     date: "2023-11-13",
     ave_temperature: 4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1414,
@@ -11310,6 +12723,7 @@ export default [
     date: "2023-11-14",
     ave_temperature: 1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1415,
@@ -11318,6 +12732,7 @@ export default [
     date: "2023-11-15",
     ave_temperature: -1,
     total_preciptation: 2.2,
+    user_id: null,
   },
   {
     id: 1416,
@@ -11326,6 +12741,7 @@ export default [
     date: "2023-11-16",
     ave_temperature: -1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1417,
@@ -11334,6 +12750,7 @@ export default [
     date: "2023-11-17",
     ave_temperature: 9.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1418,
@@ -11342,6 +12759,7 @@ export default [
     date: "2023-11-18",
     ave_temperature: 4.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1419,
@@ -11350,6 +12768,7 @@ export default [
     date: "2023-11-19",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1420,
@@ -11358,6 +12777,7 @@ export default [
     date: "2023-11-20",
     ave_temperature: 1.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1421,
@@ -11366,6 +12786,7 @@ export default [
     date: "2023-11-21",
     ave_temperature: 6.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1422,
@@ -11374,6 +12795,7 @@ export default [
     date: "2023-11-22",
     ave_temperature: 0.1,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 1423,
@@ -11382,6 +12804,7 @@ export default [
     date: "2023-11-23",
     ave_temperature: -2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1424,
@@ -11390,6 +12813,7 @@ export default [
     date: "2023-11-24",
     ave_temperature: -2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1425,
@@ -11398,6 +12822,7 @@ export default [
     date: "2023-11-25",
     ave_temperature: -0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1426,
@@ -11406,6 +12831,7 @@ export default [
     date: "2023-11-26",
     ave_temperature: -0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1427,
@@ -11414,6 +12840,7 @@ export default [
     date: "2023-11-27",
     ave_temperature: 2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1428,
@@ -11422,6 +12849,7 @@ export default [
     date: "2023-11-28",
     ave_temperature: 2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1429,
@@ -11430,6 +12858,7 @@ export default [
     date: "2023-11-29",
     ave_temperature: -1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1430,
@@ -11438,6 +12867,7 @@ export default [
     date: "2023-11-30",
     ave_temperature: -5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1431,
@@ -11446,6 +12876,7 @@ export default [
     date: "2023-12-01",
     ave_temperature: -5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1432,
@@ -11454,6 +12885,7 @@ export default [
     date: "2023-12-02",
     ave_temperature: -1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1433,
@@ -11462,6 +12894,7 @@ export default [
     date: "2023-12-03",
     ave_temperature: -1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1434,
@@ -11470,6 +12903,7 @@ export default [
     date: "2023-12-04",
     ave_temperature: 4.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1435,
@@ -11478,6 +12912,7 @@ export default [
     date: "2023-12-05",
     ave_temperature: 9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1436,
@@ -11486,6 +12921,7 @@ export default [
     date: "2023-12-06",
     ave_temperature: 2.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1437,
@@ -11494,6 +12930,7 @@ export default [
     date: "2023-12-07",
     ave_temperature: 0,
     total_preciptation: 4.3,
+    user_id: null,
   },
   {
     id: 1438,
@@ -11502,6 +12939,7 @@ export default [
     date: "2023-12-08",
     ave_temperature: -3.6,
     total_preciptation: 12.3,
+    user_id: null,
   },
   {
     id: 1439,
@@ -11510,6 +12948,7 @@ export default [
     date: "2023-12-09",
     ave_temperature: -6.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1440,
@@ -11518,6 +12957,7 @@ export default [
     date: "2023-12-10",
     ave_temperature: 1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1441,
@@ -11526,6 +12966,7 @@ export default [
     date: "2023-12-11",
     ave_temperature: -3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1442,
@@ -11534,6 +12975,7 @@ export default [
     date: "2023-12-12",
     ave_temperature: -2.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1443,
@@ -11542,6 +12984,7 @@ export default [
     date: "2023-12-13",
     ave_temperature: 2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1444,
@@ -11550,6 +12993,7 @@ export default [
     date: "2023-12-14",
     ave_temperature: 5.1,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 1445,
@@ -11558,6 +13002,7 @@ export default [
     date: "2023-12-15",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1446,
@@ -11566,6 +13011,7 @@ export default [
     date: "2023-12-16",
     ave_temperature: 4.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1447,
@@ -11574,6 +13020,7 @@ export default [
     date: "2023-12-17",
     ave_temperature: 0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1448,
@@ -11582,6 +13029,7 @@ export default [
     date: "2023-12-18",
     ave_temperature: 2.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1449,
@@ -11590,6 +13038,7 @@ export default [
     date: "2023-12-19",
     ave_temperature: -2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1450,
@@ -11598,6 +13047,7 @@ export default [
     date: "2023-12-20",
     ave_temperature: 3.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1451,
@@ -11606,6 +13056,7 @@ export default [
     date: "2023-12-21",
     ave_temperature: 3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1452,
@@ -11614,6 +13065,7 @@ export default [
     date: "2023-12-22",
     ave_temperature: 4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1453,
@@ -11622,6 +13074,7 @@ export default [
     date: "2023-12-23",
     ave_temperature: -3.5,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 1454,
@@ -11630,6 +13083,7 @@ export default [
     date: "2023-12-24",
     ave_temperature: -6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1455,
@@ -11638,6 +13092,7 @@ export default [
     date: "2023-12-25",
     ave_temperature: -4.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1456,
@@ -11646,6 +13101,7 @@ export default [
     date: "2023-12-26",
     ave_temperature: 1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1457,
@@ -11654,6 +13110,7 @@ export default [
     date: "2023-12-27",
     ave_temperature: -0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1458,
@@ -11662,6 +13119,7 @@ export default [
     date: "2023-12-28",
     ave_temperature: 5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1459,
@@ -11670,6 +13128,7 @@ export default [
     date: "2023-12-29",
     ave_temperature: 1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1460,
@@ -11678,6 +13137,7 @@ export default [
     date: "2023-12-30",
     ave_temperature: -1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1461,
@@ -11686,6 +13146,7 @@ export default [
     date: "2023-12-31",
     ave_temperature: 4.7,
     total_preciptation: 2.1,
+    user_id: null,
   },
   {
     id: 1462,
@@ -11694,6 +13155,7 @@ export default [
     date: "2024-01-01",
     ave_temperature: 0,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 1463,
@@ -11702,6 +13164,7 @@ export default [
     date: "2024-01-02",
     ave_temperature: -2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1464,
@@ -11710,6 +13173,7 @@ export default [
     date: "2024-01-03",
     ave_temperature: -6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1465,
@@ -11718,6 +13182,7 @@ export default [
     date: "2024-01-04",
     ave_temperature: -2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1466,
@@ -11726,6 +13191,7 @@ export default [
     date: "2024-01-05",
     ave_temperature: 0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1467,
@@ -11734,6 +13200,7 @@ export default [
     date: "2024-01-06",
     ave_temperature: -5,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 1468,
@@ -11742,6 +13209,7 @@ export default [
     date: "2024-01-07",
     ave_temperature: -13.5,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 1469,
@@ -11750,6 +13218,7 @@ export default [
     date: "2024-01-08",
     ave_temperature: -10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1470,
@@ -11758,6 +13227,7 @@ export default [
     date: "2024-01-09",
     ave_temperature: -7.7,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 1471,
@@ -11766,6 +13236,7 @@ export default [
     date: "2024-01-10",
     ave_temperature: -19.9,
     total_preciptation: 10,
+    user_id: null,
   },
   {
     id: 1472,
@@ -11774,6 +13245,7 @@ export default [
     date: "2024-01-11",
     ave_temperature: -28.3,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 1473,
@@ -11782,6 +13254,7 @@ export default [
     date: "2024-01-12",
     ave_temperature: -33,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1474,
@@ -11790,6 +13263,7 @@ export default [
     date: "2024-01-13",
     ave_temperature: -30.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1475,
@@ -11798,6 +13272,7 @@ export default [
     date: "2024-01-14",
     ave_temperature: -31.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1476,
@@ -11806,6 +13281,7 @@ export default [
     date: "2024-01-15",
     ave_temperature: -19.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1477,
@@ -11814,6 +13290,7 @@ export default [
     date: "2024-01-16",
     ave_temperature: -10.8,
     total_preciptation: 3.2,
+    user_id: null,
   },
   {
     id: 1478,
@@ -11822,6 +13299,7 @@ export default [
     date: "2024-01-17",
     ave_temperature: -16.6,
     total_preciptation: 5.4,
+    user_id: null,
   },
   {
     id: 1479,
@@ -11830,6 +13308,7 @@ export default [
     date: "2024-01-18",
     ave_temperature: -19.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1480,
@@ -11838,6 +13317,7 @@ export default [
     date: "2024-01-19",
     ave_temperature: -20.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1481,
@@ -11846,6 +13326,7 @@ export default [
     date: "2024-01-20",
     ave_temperature: -11.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1482,
@@ -11854,6 +13335,7 @@ export default [
     date: "2024-01-21",
     ave_temperature: -12.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1483,
@@ -11862,6 +13344,7 @@ export default [
     date: "2024-01-22",
     ave_temperature: -13.3,
     total_preciptation: 2.1,
+    user_id: null,
   },
   {
     id: 1484,
@@ -11870,6 +13353,7 @@ export default [
     date: "2024-01-23",
     ave_temperature: -2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1485,
@@ -11878,6 +13362,7 @@ export default [
     date: "2024-01-24",
     ave_temperature: -1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1486,
@@ -11886,6 +13371,7 @@ export default [
     date: "2024-01-25",
     ave_temperature: 3.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1487,
@@ -11894,6 +13380,7 @@ export default [
     date: "2024-01-26",
     ave_temperature: 2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1488,
@@ -11902,6 +13389,7 @@ export default [
     date: "2024-01-27",
     ave_temperature: 3.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1489,
@@ -11910,6 +13398,7 @@ export default [
     date: "2024-01-28",
     ave_temperature: 6.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1490,
@@ -11918,6 +13407,7 @@ export default [
     date: "2024-01-29",
     ave_temperature: 4.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1491,
@@ -11926,6 +13416,7 @@ export default [
     date: "2024-01-30",
     ave_temperature: 8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1492,
@@ -11934,6 +13425,7 @@ export default [
     date: "2024-01-31",
     ave_temperature: 2.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1493,
@@ -11942,6 +13434,7 @@ export default [
     date: "2024-02-01",
     ave_temperature: 6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1494,
@@ -11950,6 +13443,7 @@ export default [
     date: "2024-02-02",
     ave_temperature: 5.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1495,
@@ -11958,6 +13452,7 @@ export default [
     date: "2024-02-03",
     ave_temperature: 1.2,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 1496,
@@ -11966,6 +13461,7 @@ export default [
     date: "2024-02-04",
     ave_temperature: -5,
     total_preciptation: 7.9,
+    user_id: null,
   },
   {
     id: 1497,
@@ -11974,6 +13470,7 @@ export default [
     date: "2024-02-05",
     ave_temperature: -7.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1498,
@@ -11982,6 +13479,7 @@ export default [
     date: "2024-02-06",
     ave_temperature: -7.4,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1499,
@@ -11990,6 +13488,7 @@ export default [
     date: "2024-02-07",
     ave_temperature: -7.6,
     total_preciptation: 2.1,
+    user_id: null,
   },
   {
     id: 1500,
@@ -11998,6 +13497,7 @@ export default [
     date: "2024-02-08",
     ave_temperature: -6.2,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1501,
@@ -12006,6 +13506,7 @@ export default [
     date: "2024-02-09",
     ave_temperature: -8.1,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 1502,
@@ -12014,6 +13515,7 @@ export default [
     date: "2024-02-10",
     ave_temperature: -5.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1503,
@@ -12022,6 +13524,7 @@ export default [
     date: "2024-02-11",
     ave_temperature: -0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1504,
@@ -12030,6 +13533,7 @@ export default [
     date: "2024-02-12",
     ave_temperature: -2.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1505,
@@ -12038,14 +13542,16 @@ export default [
     date: "2024-02-13",
     ave_temperature: -8.9,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1506,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2024-02-14",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1507,
@@ -12054,6 +13560,7 @@ export default [
     date: "2024-02-15",
     ave_temperature: -12.7,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1508,
@@ -12062,6 +13569,7 @@ export default [
     date: "2024-02-16",
     ave_temperature: -7.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1509,
@@ -12070,6 +13578,7 @@ export default [
     date: "2024-02-17",
     ave_temperature: -3.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1510,
@@ -12078,6 +13587,7 @@ export default [
     date: "2024-02-18",
     ave_temperature: -3.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1511,
@@ -12086,6 +13596,7 @@ export default [
     date: "2024-02-19",
     ave_temperature: -3.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1512,
@@ -12094,6 +13605,7 @@ export default [
     date: "2024-02-20",
     ave_temperature: -0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1513,
@@ -12102,6 +13614,7 @@ export default [
     date: "2024-02-21",
     ave_temperature: 0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1514,
@@ -12110,6 +13623,7 @@ export default [
     date: "2024-02-22",
     ave_temperature: 3.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1515,
@@ -12118,6 +13632,7 @@ export default [
     date: "2024-02-23",
     ave_temperature: 7.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1516,
@@ -12126,6 +13641,7 @@ export default [
     date: "2024-02-24",
     ave_temperature: 0.2,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 1517,
@@ -12134,6 +13650,7 @@ export default [
     date: "2024-02-25",
     ave_temperature: -1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1518,
@@ -12142,6 +13659,7 @@ export default [
     date: "2024-02-26",
     ave_temperature: -12.5,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 1519,
@@ -12150,6 +13668,7 @@ export default [
     date: "2024-02-27",
     ave_temperature: -19.8,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 1520,
@@ -12158,6 +13677,7 @@ export default [
     date: "2024-02-28",
     ave_temperature: -8.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1521,
@@ -12166,6 +13686,7 @@ export default [
     date: "2024-02-29",
     ave_temperature: -0.4,
     total_preciptation: 1.7,
+    user_id: null,
   },
   {
     id: 1522,
@@ -12174,6 +13695,7 @@ export default [
     date: "2024-03-01",
     ave_temperature: -11.4,
     total_preciptation: 2.4,
+    user_id: null,
   },
   {
     id: 1523,
@@ -12182,6 +13704,7 @@ export default [
     date: "2024-03-02",
     ave_temperature: -16.7,
     total_preciptation: 12.4,
+    user_id: null,
   },
   {
     id: 1524,
@@ -12190,6 +13713,7 @@ export default [
     date: "2024-03-03",
     ave_temperature: -20.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1525,
@@ -12198,6 +13722,7 @@ export default [
     date: "2024-03-04",
     ave_temperature: -19.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1526,
@@ -12206,6 +13731,7 @@ export default [
     date: "2024-03-05",
     ave_temperature: -18.2,
     total_preciptation: 2.5,
+    user_id: null,
   },
   {
     id: 1527,
@@ -12214,6 +13740,7 @@ export default [
     date: "2024-03-06",
     ave_temperature: -12.5,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 1528,
@@ -12222,6 +13749,7 @@ export default [
     date: "2024-03-07",
     ave_temperature: -8.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1529,
@@ -12230,6 +13758,7 @@ export default [
     date: "2024-03-08",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1530,
@@ -12238,6 +13767,7 @@ export default [
     date: "2024-03-09",
     ave_temperature: 4.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1531,
@@ -12246,6 +13776,7 @@ export default [
     date: "2024-03-10",
     ave_temperature: 2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1532,
@@ -12254,6 +13785,7 @@ export default [
     date: "2024-03-11",
     ave_temperature: 2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1533,
@@ -12262,6 +13794,7 @@ export default [
     date: "2024-03-12",
     ave_temperature: 4.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1534,
@@ -12270,6 +13803,7 @@ export default [
     date: "2024-03-13",
     ave_temperature: 1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1535,
@@ -12278,6 +13812,7 @@ export default [
     date: "2024-03-14",
     ave_temperature: 3.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1536,
@@ -12286,6 +13821,7 @@ export default [
     date: "2024-03-15",
     ave_temperature: 6.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1537,
@@ -12294,6 +13830,7 @@ export default [
     date: "2024-03-16",
     ave_temperature: 6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1538,
@@ -12302,6 +13839,7 @@ export default [
     date: "2024-03-17",
     ave_temperature: 6.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1539,
@@ -12310,6 +13848,7 @@ export default [
     date: "2024-03-18",
     ave_temperature: 10.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1540,
@@ -12318,6 +13857,7 @@ export default [
     date: "2024-03-19",
     ave_temperature: 1.4,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1541,
@@ -12326,6 +13866,7 @@ export default [
     date: "2024-03-20",
     ave_temperature: -6.1,
     total_preciptation: 13.9,
+    user_id: null,
   },
   {
     id: 1542,
@@ -12334,6 +13875,7 @@ export default [
     date: "2024-03-21",
     ave_temperature: -7.2,
     total_preciptation: 7.6,
+    user_id: null,
   },
   {
     id: 1543,
@@ -12342,6 +13884,7 @@ export default [
     date: "2024-03-22",
     ave_temperature: -8.1,
     total_preciptation: 6.2,
+    user_id: null,
   },
   {
     id: 1544,
@@ -12350,6 +13893,7 @@ export default [
     date: "2024-03-23",
     ave_temperature: -8.7,
     total_preciptation: 5.6,
+    user_id: null,
   },
   {
     id: 1545,
@@ -12358,6 +13902,7 @@ export default [
     date: "2024-03-24",
     ave_temperature: -7.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1546,
@@ -12366,6 +13911,7 @@ export default [
     date: "2024-03-25",
     ave_temperature: -10.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1547,
@@ -12374,6 +13920,7 @@ export default [
     date: "2024-03-26",
     ave_temperature: -5.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1548,
@@ -12382,6 +13929,7 @@ export default [
     date: "2024-03-27",
     ave_temperature: 0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1549,
@@ -12390,6 +13938,7 @@ export default [
     date: "2024-03-28",
     ave_temperature: -2,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 1550,
@@ -12398,6 +13947,7 @@ export default [
     date: "2024-03-29",
     ave_temperature: -7.5,
     total_preciptation: 4.3,
+    user_id: null,
   },
   {
     id: 1551,
@@ -12406,6 +13956,7 @@ export default [
     date: "2024-03-30",
     ave_temperature: -7.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1552,
@@ -12414,6 +13965,7 @@ export default [
     date: "2024-03-31",
     ave_temperature: -0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1553,
@@ -12422,6 +13974,7 @@ export default [
     date: "2024-04-01",
     ave_temperature: 4.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1554,
@@ -12430,6 +13983,7 @@ export default [
     date: "2024-04-02",
     ave_temperature: 8.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1555,
@@ -12438,6 +13992,7 @@ export default [
     date: "2024-04-03",
     ave_temperature: 6.1,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1556,
@@ -12446,6 +14001,7 @@ export default [
     date: "2024-04-04",
     ave_temperature: 0.4,
     total_preciptation: 17.4,
+    user_id: null,
   },
   {
     id: 1557,
@@ -12454,6 +14010,7 @@ export default [
     date: "2024-04-05",
     ave_temperature: -0.2,
     total_preciptation: 7.2,
+    user_id: null,
   },
   {
     id: 1558,
@@ -12462,6 +14019,7 @@ export default [
     date: "2024-04-06",
     ave_temperature: 1.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1559,
@@ -12470,6 +14028,7 @@ export default [
     date: "2024-04-07",
     ave_temperature: 6.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1560,
@@ -12478,6 +14037,7 @@ export default [
     date: "2024-04-08",
     ave_temperature: 5.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1561,
@@ -12486,6 +14046,7 @@ export default [
     date: "2024-04-09",
     ave_temperature: 7,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 1562,
@@ -12494,6 +14055,7 @@ export default [
     date: "2024-04-10",
     ave_temperature: 3.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1563,
@@ -12502,6 +14064,7 @@ export default [
     date: "2024-04-11",
     ave_temperature: 6.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1564,
@@ -12510,6 +14073,7 @@ export default [
     date: "2024-04-12",
     ave_temperature: 8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1565,
@@ -12518,6 +14082,7 @@ export default [
     date: "2024-04-13",
     ave_temperature: 8.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1566,
@@ -12526,6 +14091,7 @@ export default [
     date: "2024-04-14",
     ave_temperature: 7.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1567,
@@ -12534,6 +14100,7 @@ export default [
     date: "2024-04-15",
     ave_temperature: 8.8,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 1568,
@@ -12542,6 +14109,7 @@ export default [
     date: "2024-04-16",
     ave_temperature: -0.1,
     total_preciptation: 11.9,
+    user_id: null,
   },
   {
     id: 1569,
@@ -12550,6 +14118,7 @@ export default [
     date: "2024-04-17",
     ave_temperature: -0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1570,
@@ -12558,6 +14127,7 @@ export default [
     date: "2024-04-18",
     ave_temperature: -0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1571,
@@ -12566,6 +14136,7 @@ export default [
     date: "2024-04-19",
     ave_temperature: -0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1572,
@@ -12574,6 +14145,7 @@ export default [
     date: "2024-04-20",
     ave_temperature: 2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1573,
@@ -12582,6 +14154,7 @@ export default [
     date: "2024-04-21",
     ave_temperature: 6.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1574,
@@ -12590,6 +14163,7 @@ export default [
     date: "2024-04-22",
     ave_temperature: 8.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1575,
@@ -12598,14 +14172,16 @@ export default [
     date: "2024-04-23",
     ave_temperature: 7.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1576,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2024-04-24",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1577,
@@ -12614,6 +14190,7 @@ export default [
     date: "2024-04-25",
     ave_temperature: 8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1578,
@@ -12622,6 +14199,7 @@ export default [
     date: "2024-04-26",
     ave_temperature: 4.5,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 1579,
@@ -12630,6 +14208,7 @@ export default [
     date: "2024-04-27",
     ave_temperature: 9.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1580,
@@ -12638,6 +14217,7 @@ export default [
     date: "2024-04-28",
     ave_temperature: 10.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1581,
@@ -12646,6 +14226,7 @@ export default [
     date: "2024-04-29",
     ave_temperature: 5.8,
     total_preciptation: 5.5,
+    user_id: null,
   },
   {
     id: 1582,
@@ -12654,6 +14235,7 @@ export default [
     date: "2024-04-30",
     ave_temperature: 2.6,
     total_preciptation: 4.2,
+    user_id: null,
   },
   {
     id: 1583,
@@ -12662,6 +14244,7 @@ export default [
     date: "2024-05-01",
     ave_temperature: 1.5,
     total_preciptation: 10,
+    user_id: null,
   },
   {
     id: 1584,
@@ -12670,6 +14253,7 @@ export default [
     date: "2024-05-02",
     ave_temperature: 3.4,
     total_preciptation: 5.5,
+    user_id: null,
   },
   {
     id: 1585,
@@ -12678,6 +14262,7 @@ export default [
     date: "2024-05-03",
     ave_temperature: 5.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1586,
@@ -12686,6 +14271,7 @@ export default [
     date: "2024-05-04",
     ave_temperature: 6.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1587,
@@ -12694,6 +14280,7 @@ export default [
     date: "2024-05-05",
     ave_temperature: 8.2,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1588,
@@ -12702,6 +14289,7 @@ export default [
     date: "2024-05-06",
     ave_temperature: 9.7,
     total_preciptation: 1.9,
+    user_id: null,
   },
   {
     id: 1589,
@@ -12710,6 +14298,7 @@ export default [
     date: "2024-05-07",
     ave_temperature: 5.5,
     total_preciptation: 3.7,
+    user_id: null,
   },
   {
     id: 1590,
@@ -12718,6 +14307,7 @@ export default [
     date: "2024-05-08",
     ave_temperature: 8.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1591,
@@ -12726,6 +14316,7 @@ export default [
     date: "2024-05-09",
     ave_temperature: 11.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1592,
@@ -12734,6 +14325,7 @@ export default [
     date: "2024-05-10",
     ave_temperature: 15.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1593,
@@ -12742,6 +14334,7 @@ export default [
     date: "2024-05-11",
     ave_temperature: 15.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1594,
@@ -12750,6 +14343,7 @@ export default [
     date: "2024-05-12",
     ave_temperature: 16.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1595,
@@ -12758,6 +14352,7 @@ export default [
     date: "2024-05-13",
     ave_temperature: 12.5,
     total_preciptation: 1.1,
+    user_id: null,
   },
   {
     id: 1596,
@@ -12766,6 +14361,7 @@ export default [
     date: "2024-05-14",
     ave_temperature: 12.5,
     total_preciptation: 3,
+    user_id: null,
   },
   {
     id: 1597,
@@ -12774,6 +14370,7 @@ export default [
     date: "2024-05-15",
     ave_temperature: 12.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1598,
@@ -12782,6 +14379,7 @@ export default [
     date: "2024-05-16",
     ave_temperature: 11.3,
     total_preciptation: 1.5,
+    user_id: null,
   },
   {
     id: 1599,
@@ -12790,6 +14388,7 @@ export default [
     date: "2024-05-17",
     ave_temperature: 6.5,
     total_preciptation: 7.2,
+    user_id: null,
   },
   {
     id: 1600,
@@ -12798,6 +14397,7 @@ export default [
     date: "2024-05-18",
     ave_temperature: 7.9,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 1601,
@@ -12806,6 +14406,7 @@ export default [
     date: "2024-05-19",
     ave_temperature: 7.2,
     total_preciptation: 4.8,
+    user_id: null,
   },
   {
     id: 1602,
@@ -12814,6 +14415,7 @@ export default [
     date: "2024-05-20",
     ave_temperature: 6.4,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 1603,
@@ -12822,6 +14424,7 @@ export default [
     date: "2024-05-21",
     ave_temperature: 9.4,
     total_preciptation: 1.9,
+    user_id: null,
   },
   {
     id: 1604,
@@ -12830,6 +14433,7 @@ export default [
     date: "2024-05-22",
     ave_temperature: 8.3,
     total_preciptation: 2.9,
+    user_id: null,
   },
   {
     id: 1605,
@@ -12838,6 +14442,7 @@ export default [
     date: "2024-05-23",
     ave_temperature: 8.5,
     total_preciptation: 5.4,
+    user_id: null,
   },
   {
     id: 1606,
@@ -12846,6 +14451,7 @@ export default [
     date: "2024-05-24",
     ave_temperature: 8.1,
     total_preciptation: 3.5,
+    user_id: null,
   },
   {
     id: 1607,
@@ -12854,6 +14460,7 @@ export default [
     date: "2024-05-25",
     ave_temperature: 9.2,
     total_preciptation: 3.6,
+    user_id: null,
   },
   {
     id: 1608,
@@ -12862,6 +14469,7 @@ export default [
     date: "2024-05-26",
     ave_temperature: 11,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 1609,
@@ -12870,6 +14478,7 @@ export default [
     date: "2024-05-27",
     ave_temperature: 12.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1610,
@@ -12878,6 +14487,7 @@ export default [
     date: "2024-05-28",
     ave_temperature: 16.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1611,
@@ -12886,6 +14496,7 @@ export default [
     date: "2024-05-29",
     ave_temperature: 11.5,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 1612,
@@ -12894,6 +14505,7 @@ export default [
     date: "2024-05-30",
     ave_temperature: 9.4,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 1613,
@@ -12902,6 +14514,7 @@ export default [
     date: "2024-05-31",
     ave_temperature: 10.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1614,
@@ -12910,6 +14523,7 @@ export default [
     date: "2024-06-01",
     ave_temperature: 10.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1615,
@@ -12918,6 +14532,7 @@ export default [
     date: "2024-06-02",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1616,
@@ -12926,6 +14541,7 @@ export default [
     date: "2024-06-03",
     ave_temperature: 14.7,
     total_preciptation: 2.8,
+    user_id: null,
   },
   {
     id: 1617,
@@ -12934,6 +14550,7 @@ export default [
     date: "2024-06-04",
     ave_temperature: 12.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1618,
@@ -12942,6 +14559,7 @@ export default [
     date: "2024-06-05",
     ave_temperature: 13.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1619,
@@ -12950,6 +14568,7 @@ export default [
     date: "2024-06-06",
     ave_temperature: 12.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1620,
@@ -12958,6 +14577,7 @@ export default [
     date: "2024-06-07",
     ave_temperature: 13.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1621,
@@ -12966,6 +14586,7 @@ export default [
     date: "2024-06-08",
     ave_temperature: 9.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1622,
@@ -12974,6 +14595,7 @@ export default [
     date: "2024-06-09",
     ave_temperature: 11.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1623,
@@ -12982,6 +14604,7 @@ export default [
     date: "2024-06-10",
     ave_temperature: 17,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 1624,
@@ -12990,6 +14613,7 @@ export default [
     date: "2024-06-11",
     ave_temperature: 17.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1625,
@@ -12998,6 +14622,7 @@ export default [
     date: "2024-06-12",
     ave_temperature: 13.5,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1626,
@@ -13006,6 +14631,7 @@ export default [
     date: "2024-06-13",
     ave_temperature: 13.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1627,
@@ -13014,6 +14640,7 @@ export default [
     date: "2024-06-14",
     ave_temperature: 18.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1628,
@@ -13022,6 +14649,7 @@ export default [
     date: "2024-06-15",
     ave_temperature: 10.9,
     total_preciptation: 20,
+    user_id: null,
   },
   {
     id: 1629,
@@ -13030,6 +14658,7 @@ export default [
     date: "2024-06-16",
     ave_temperature: 9.9,
     total_preciptation: 1.5,
+    user_id: null,
   },
   {
     id: 1630,
@@ -13038,6 +14667,7 @@ export default [
     date: "2024-06-17",
     ave_temperature: 8.2,
     total_preciptation: 3.6,
+    user_id: null,
   },
   {
     id: 1631,
@@ -13046,6 +14676,7 @@ export default [
     date: "2024-06-18",
     ave_temperature: 7.8,
     total_preciptation: 6,
+    user_id: null,
   },
   {
     id: 1632,
@@ -13054,6 +14685,7 @@ export default [
     date: "2024-06-19",
     ave_temperature: 9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1633,
@@ -13062,6 +14694,7 @@ export default [
     date: "2024-06-20",
     ave_temperature: 12.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1634,
@@ -13070,6 +14703,7 @@ export default [
     date: "2024-06-21",
     ave_temperature: 14.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1635,
@@ -13078,6 +14712,7 @@ export default [
     date: "2024-06-22",
     ave_temperature: 16.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1636,
@@ -13086,6 +14721,7 @@ export default [
     date: "2024-06-23",
     ave_temperature: 19.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1637,
@@ -13094,6 +14730,7 @@ export default [
     date: "2024-06-24",
     ave_temperature: 16.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1638,
@@ -13102,6 +14739,7 @@ export default [
     date: "2024-06-25",
     ave_temperature: 15.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1639,
@@ -13110,6 +14748,7 @@ export default [
     date: "2024-06-26",
     ave_temperature: 16.8,
     total_preciptation: 2.3,
+    user_id: null,
   },
   {
     id: 1640,
@@ -13118,6 +14757,7 @@ export default [
     date: "2024-06-27",
     ave_temperature: 12.6,
     total_preciptation: 19.4,
+    user_id: null,
   },
   {
     id: 1641,
@@ -13126,6 +14766,7 @@ export default [
     date: "2024-06-28",
     ave_temperature: 13.8,
     total_preciptation: 15.6,
+    user_id: null,
   },
   {
     id: 1642,
@@ -13134,6 +14775,7 @@ export default [
     date: "2024-06-29",
     ave_temperature: 15.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1643,
@@ -13142,6 +14784,7 @@ export default [
     date: "2024-06-30",
     ave_temperature: 15.9,
     total_preciptation: 10.3,
+    user_id: null,
   },
   {
     id: 1644,
@@ -13150,6 +14793,7 @@ export default [
     date: "2024-07-01",
     ave_temperature: 17,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 1645,
@@ -13158,6 +14802,7 @@ export default [
     date: "2024-07-02",
     ave_temperature: 15.4,
     total_preciptation: 19.8,
+    user_id: null,
   },
   {
     id: 1646,
@@ -13166,6 +14811,7 @@ export default [
     date: "2024-07-03",
     ave_temperature: 13.8,
     total_preciptation: 5.2,
+    user_id: null,
   },
   {
     id: 1647,
@@ -13174,6 +14820,7 @@ export default [
     date: "2024-07-04",
     ave_temperature: 15.8,
     total_preciptation: 18.4,
+    user_id: null,
   },
   {
     id: 1648,
@@ -13182,6 +14829,7 @@ export default [
     date: "2024-07-05",
     ave_temperature: 16.6,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1649,
@@ -13190,6 +14838,7 @@ export default [
     date: "2024-07-06",
     ave_temperature: 18.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1650,
@@ -13198,6 +14847,7 @@ export default [
     date: "2024-07-07",
     ave_temperature: 19.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1651,
@@ -13206,6 +14856,7 @@ export default [
     date: "2024-07-08",
     ave_temperature: 21.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1652,
@@ -13214,6 +14865,7 @@ export default [
     date: "2024-07-09",
     ave_temperature: 22.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1653,
@@ -13222,14 +14874,16 @@ export default [
     date: "2024-07-10",
     ave_temperature: 25.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1654,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2024-07-11",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1655,
@@ -13238,6 +14892,7 @@ export default [
     date: "2024-07-12",
     ave_temperature: 19.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1656,
@@ -13246,6 +14901,7 @@ export default [
     date: "2024-07-13",
     ave_temperature: 19.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1657,
@@ -13254,6 +14910,7 @@ export default [
     date: "2024-07-14",
     ave_temperature: 18.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1658,
@@ -13262,6 +14919,7 @@ export default [
     date: "2024-07-15",
     ave_temperature: 20.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1659,
@@ -13270,6 +14928,7 @@ export default [
     date: "2024-07-16",
     ave_temperature: 22.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1660,
@@ -13278,6 +14937,7 @@ export default [
     date: "2024-07-17",
     ave_temperature: 24,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1661,
@@ -13286,6 +14946,7 @@ export default [
     date: "2024-07-18",
     ave_temperature: 24.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1662,
@@ -13294,6 +14955,7 @@ export default [
     date: "2024-07-19",
     ave_temperature: 24.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1663,
@@ -13302,6 +14964,7 @@ export default [
     date: "2024-07-20",
     ave_temperature: 23.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1664,
@@ -13310,6 +14973,7 @@ export default [
     date: "2024-07-21",
     ave_temperature: 24.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1665,
@@ -13318,6 +14982,7 @@ export default [
     date: "2024-07-22",
     ave_temperature: 25.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1666,
@@ -13326,6 +14991,7 @@ export default [
     date: "2024-07-23",
     ave_temperature: 25.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1667,
@@ -13334,6 +15000,7 @@ export default [
     date: "2024-07-24",
     ave_temperature: 25.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1668,
@@ -13342,6 +15009,7 @@ export default [
     date: "2024-07-25",
     ave_temperature: 17.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1669,
@@ -13350,6 +15018,7 @@ export default [
     date: "2024-07-26",
     ave_temperature: 18.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1670,
@@ -13358,6 +15027,7 @@ export default [
     date: "2024-07-27",
     ave_temperature: 15.7,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 1671,
@@ -13366,6 +15036,7 @@ export default [
     date: "2024-07-28",
     ave_temperature: 19.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1672,
@@ -13374,6 +15045,7 @@ export default [
     date: "2024-07-29",
     ave_temperature: 19,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1673,
@@ -13382,14 +15054,16 @@ export default [
     date: "2024-07-30",
     ave_temperature: 20.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1674,
     city_name: "Calgary",
     climate_id: 3031092,
     date: "2024-07-31",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1675,
@@ -13398,6 +15072,7 @@ export default [
     date: "2024-08-01",
     ave_temperature: 22.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1676,
@@ -13406,6 +15081,7 @@ export default [
     date: "2024-08-02",
     ave_temperature: 21.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1677,
@@ -13414,6 +15090,7 @@ export default [
     date: "2024-08-03",
     ave_temperature: 21,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1678,
@@ -13422,6 +15099,7 @@ export default [
     date: "2024-08-04",
     ave_temperature: 18.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1679,
@@ -13430,6 +15108,7 @@ export default [
     date: "2024-08-05",
     ave_temperature: 18.2,
     total_preciptation: 52.7,
+    user_id: null,
   },
   {
     id: 1680,
@@ -13438,6 +15117,7 @@ export default [
     date: "2024-08-06",
     ave_temperature: 14.6,
     total_preciptation: 7.2,
+    user_id: null,
   },
   {
     id: 1681,
@@ -13446,6 +15126,7 @@ export default [
     date: "2024-08-07",
     ave_temperature: 15,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 1682,
@@ -13454,6 +15135,7 @@ export default [
     date: "2020-01-01",
     ave_temperature: 1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1683,
@@ -13462,6 +15144,7 @@ export default [
     date: "2020-01-02",
     ave_temperature: -4.9,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 1684,
@@ -13470,6 +15153,7 @@ export default [
     date: "2020-01-03",
     ave_temperature: 0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1685,
@@ -13478,6 +15162,7 @@ export default [
     date: "2020-01-04",
     ave_temperature: 3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1686,
@@ -13486,6 +15171,7 @@ export default [
     date: "2020-01-05",
     ave_temperature: -0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1687,
@@ -13494,6 +15180,7 @@ export default [
     date: "2020-01-06",
     ave_temperature: -1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1688,
@@ -13502,6 +15189,7 @@ export default [
     date: "2020-01-07",
     ave_temperature: -7.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1689,
@@ -13510,6 +15198,7 @@ export default [
     date: "2020-01-08",
     ave_temperature: -3.9,
     total_preciptation: 2.2,
+    user_id: null,
   },
   {
     id: 1690,
@@ -13518,6 +15207,7 @@ export default [
     date: "2020-01-09",
     ave_temperature: -18,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1691,
@@ -13526,6 +15216,7 @@ export default [
     date: "2020-01-10",
     ave_temperature: -14.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1692,
@@ -13534,6 +15225,7 @@ export default [
     date: "2020-01-11",
     ave_temperature: -8.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1693,
@@ -13542,6 +15234,7 @@ export default [
     date: "2020-01-12",
     ave_temperature: -20.3,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1694,
@@ -13550,6 +15243,7 @@ export default [
     date: "2020-01-13",
     ave_temperature: -25.4,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 1695,
@@ -13558,6 +15252,7 @@ export default [
     date: "2020-01-14",
     ave_temperature: -27.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1696,
@@ -13566,6 +15261,7 @@ export default [
     date: "2020-01-15",
     ave_temperature: -31.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1697,
@@ -13574,6 +15270,7 @@ export default [
     date: "2020-01-16",
     ave_temperature: -27.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1698,
@@ -13582,6 +15279,7 @@ export default [
     date: "2020-01-17",
     ave_temperature: -25.8,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 1699,
@@ -13590,6 +15288,7 @@ export default [
     date: "2020-01-18",
     ave_temperature: -25.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1700,
@@ -13598,6 +15297,7 @@ export default [
     date: "2020-01-19",
     ave_temperature: -9.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1701,
@@ -13606,6 +15306,7 @@ export default [
     date: "2020-01-20",
     ave_temperature: -0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1702,
@@ -13614,6 +15315,7 @@ export default [
     date: "2020-01-21",
     ave_temperature: 3.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1703,
@@ -13622,6 +15324,7 @@ export default [
     date: "2020-01-22",
     ave_temperature: 2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1704,
@@ -13630,6 +15333,7 @@ export default [
     date: "2020-01-23",
     ave_temperature: 2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1705,
@@ -13638,14 +15342,16 @@ export default [
     date: "2020-01-24",
     ave_temperature: 6.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1706,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2020-01-25",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 1707,
@@ -13654,6 +15360,7 @@ export default [
     date: "2020-01-26",
     ave_temperature: 0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1708,
@@ -13662,6 +15369,7 @@ export default [
     date: "2020-01-27",
     ave_temperature: 3.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1709,
@@ -13670,6 +15378,7 @@ export default [
     date: "2020-01-28",
     ave_temperature: 2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1710,
@@ -13678,6 +15387,7 @@ export default [
     date: "2020-01-29",
     ave_temperature: 1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1711,
@@ -13686,6 +15396,7 @@ export default [
     date: "2020-01-30",
     ave_temperature: 1.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1712,
@@ -13694,6 +15405,7 @@ export default [
     date: "2020-01-31",
     ave_temperature: 8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1713,
@@ -13702,6 +15414,7 @@ export default [
     date: "2020-02-01",
     ave_temperature: 6.7,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 1714,
@@ -13710,6 +15423,7 @@ export default [
     date: "2020-02-02",
     ave_temperature: -4.2,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1715,
@@ -13718,6 +15432,7 @@ export default [
     date: "2020-02-03",
     ave_temperature: -12,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1716,
@@ -13726,6 +15441,7 @@ export default [
     date: "2020-02-04",
     ave_temperature: -10,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1717,
@@ -13734,6 +15450,7 @@ export default [
     date: "2020-02-05",
     ave_temperature: 0,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1718,
@@ -13742,6 +15459,7 @@ export default [
     date: "2020-02-06",
     ave_temperature: -1.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1719,
@@ -13750,6 +15468,7 @@ export default [
     date: "2020-02-07",
     ave_temperature: -3.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1720,
@@ -13758,6 +15477,7 @@ export default [
     date: "2020-02-08",
     ave_temperature: -6.5,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1721,
@@ -13766,6 +15486,7 @@ export default [
     date: "2020-02-09",
     ave_temperature: -6.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1722,
@@ -13774,6 +15495,7 @@ export default [
     date: "2020-02-10",
     ave_temperature: -4.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1723,
@@ -13782,6 +15504,7 @@ export default [
     date: "2020-02-11",
     ave_temperature: 0.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1724,
@@ -13790,6 +15513,7 @@ export default [
     date: "2020-02-12",
     ave_temperature: -11.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1725,
@@ -13798,6 +15522,7 @@ export default [
     date: "2020-02-13",
     ave_temperature: -7,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1726,
@@ -13806,6 +15531,7 @@ export default [
     date: "2020-02-14",
     ave_temperature: 0.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1727,
@@ -13814,6 +15540,7 @@ export default [
     date: "2020-02-15",
     ave_temperature: -1.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1728,
@@ -13822,6 +15549,7 @@ export default [
     date: "2020-02-16",
     ave_temperature: -4.2,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1729,
@@ -13830,6 +15558,7 @@ export default [
     date: "2020-02-17",
     ave_temperature: -8.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1730,
@@ -13838,6 +15567,7 @@ export default [
     date: "2020-02-18",
     ave_temperature: -13.8,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 1731,
@@ -13846,6 +15576,7 @@ export default [
     date: "2020-02-19",
     ave_temperature: -10.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1732,
@@ -13854,6 +15585,7 @@ export default [
     date: "2020-02-20",
     ave_temperature: 0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1733,
@@ -13862,6 +15594,7 @@ export default [
     date: "2020-02-21",
     ave_temperature: 3.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1734,
@@ -13870,6 +15603,7 @@ export default [
     date: "2020-02-22",
     ave_temperature: 1.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1735,
@@ -13878,6 +15612,7 @@ export default [
     date: "2020-02-23",
     ave_temperature: 0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1736,
@@ -13886,6 +15621,7 @@ export default [
     date: "2020-02-24",
     ave_temperature: -3,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1737,
@@ -13894,6 +15630,7 @@ export default [
     date: "2020-02-25",
     ave_temperature: -5.8,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1738,
@@ -13902,6 +15639,7 @@ export default [
     date: "2020-02-26",
     ave_temperature: 3.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1739,
@@ -13910,6 +15648,7 @@ export default [
     date: "2020-02-27",
     ave_temperature: 5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1740,
@@ -13918,6 +15657,7 @@ export default [
     date: "2020-02-28",
     ave_temperature: 6.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1741,
@@ -13926,6 +15666,7 @@ export default [
     date: "2020-02-29",
     ave_temperature: 3.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1742,
@@ -13934,6 +15675,7 @@ export default [
     date: "2020-03-01",
     ave_temperature: -1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1743,
@@ -13942,6 +15684,7 @@ export default [
     date: "2020-03-02",
     ave_temperature: 5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1744,
@@ -13950,6 +15693,7 @@ export default [
     date: "2020-03-03",
     ave_temperature: 7.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1745,
@@ -13958,6 +15702,7 @@ export default [
     date: "2020-03-04",
     ave_temperature: 0.2,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 1746,
@@ -13966,6 +15711,7 @@ export default [
     date: "2020-03-05",
     ave_temperature: 1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1747,
@@ -13974,6 +15720,7 @@ export default [
     date: "2020-03-06",
     ave_temperature: 7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1748,
@@ -13982,6 +15729,7 @@ export default [
     date: "2020-03-07",
     ave_temperature: -6.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1749,
@@ -13990,6 +15738,7 @@ export default [
     date: "2020-03-08",
     ave_temperature: -6.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1750,
@@ -13998,6 +15747,7 @@ export default [
     date: "2020-03-09",
     ave_temperature: -5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1751,
@@ -14006,6 +15756,7 @@ export default [
     date: "2020-03-10",
     ave_temperature: 0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1752,
@@ -14014,6 +15765,7 @@ export default [
     date: "2020-03-11",
     ave_temperature: 2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1753,
@@ -14022,6 +15774,7 @@ export default [
     date: "2020-03-12",
     ave_temperature: -3.5,
     total_preciptation: 4.5,
+    user_id: null,
   },
   {
     id: 1754,
@@ -14030,6 +15783,7 @@ export default [
     date: "2020-03-13",
     ave_temperature: -10.7,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1755,
@@ -14038,6 +15792,7 @@ export default [
     date: "2020-03-14",
     ave_temperature: -17.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1756,
@@ -14046,6 +15801,7 @@ export default [
     date: "2020-03-15",
     ave_temperature: -18.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1757,
@@ -14054,6 +15810,7 @@ export default [
     date: "2020-03-16",
     ave_temperature: -11.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1758,
@@ -14062,6 +15819,7 @@ export default [
     date: "2020-03-17",
     ave_temperature: -4.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1759,
@@ -14070,6 +15828,7 @@ export default [
     date: "2020-03-18",
     ave_temperature: -8.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1760,
@@ -14078,6 +15837,7 @@ export default [
     date: "2020-03-19",
     ave_temperature: -10.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1761,
@@ -14086,6 +15846,7 @@ export default [
     date: "2020-03-20",
     ave_temperature: -9.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1762,
@@ -14094,6 +15855,7 @@ export default [
     date: "2020-03-21",
     ave_temperature: -5.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1763,
@@ -14102,6 +15864,7 @@ export default [
     date: "2020-03-22",
     ave_temperature: -2.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1764,
@@ -14110,6 +15873,7 @@ export default [
     date: "2020-03-23",
     ave_temperature: 4.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1765,
@@ -14118,6 +15882,7 @@ export default [
     date: "2020-03-24",
     ave_temperature: -1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1766,
@@ -14126,6 +15891,7 @@ export default [
     date: "2020-03-25",
     ave_temperature: -1.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1767,
@@ -14134,6 +15900,7 @@ export default [
     date: "2020-03-26",
     ave_temperature: 1.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1768,
@@ -14142,6 +15909,7 @@ export default [
     date: "2020-03-27",
     ave_temperature: 3.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1769,
@@ -14150,6 +15918,7 @@ export default [
     date: "2020-03-28",
     ave_temperature: 6.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1770,
@@ -14158,6 +15927,7 @@ export default [
     date: "2020-03-29",
     ave_temperature: 6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1771,
@@ -14166,6 +15936,7 @@ export default [
     date: "2020-03-30",
     ave_temperature: 1.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1772,
@@ -14174,6 +15945,7 @@ export default [
     date: "2020-03-31",
     ave_temperature: -5.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1773,
@@ -14182,6 +15954,7 @@ export default [
     date: "2020-04-01",
     ave_temperature: -12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1774,
@@ -14190,6 +15963,7 @@ export default [
     date: "2020-04-02",
     ave_temperature: -11.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1775,
@@ -14198,6 +15972,7 @@ export default [
     date: "2020-04-03",
     ave_temperature: -5.2,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1776,
@@ -14206,6 +15981,7 @@ export default [
     date: "2020-04-04",
     ave_temperature: -4.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1777,
@@ -14214,6 +15990,7 @@ export default [
     date: "2020-04-05",
     ave_temperature: -0.8,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 1778,
@@ -14222,6 +15999,7 @@ export default [
     date: "2020-04-06",
     ave_temperature: 3.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1779,
@@ -14230,6 +16008,7 @@ export default [
     date: "2020-04-07",
     ave_temperature: 3.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1780,
@@ -14238,6 +16017,7 @@ export default [
     date: "2020-04-08",
     ave_temperature: 1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1781,
@@ -14246,6 +16026,7 @@ export default [
     date: "2020-04-09",
     ave_temperature: 6.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1782,
@@ -14254,6 +16035,7 @@ export default [
     date: "2020-04-10",
     ave_temperature: 3.5,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1783,
@@ -14262,6 +16044,7 @@ export default [
     date: "2020-04-11",
     ave_temperature: -5.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1784,
@@ -14270,6 +16053,7 @@ export default [
     date: "2020-04-12",
     ave_temperature: -7.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1785,
@@ -14278,6 +16062,7 @@ export default [
     date: "2020-04-13",
     ave_temperature: -4.6,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 1786,
@@ -14286,6 +16071,7 @@ export default [
     date: "2020-04-14",
     ave_temperature: 2.2,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 1787,
@@ -14294,6 +16080,7 @@ export default [
     date: "2020-04-15",
     ave_temperature: 1.4,
     total_preciptation: 2.4,
+    user_id: null,
   },
   {
     id: 1788,
@@ -14302,6 +16089,7 @@ export default [
     date: "2020-04-16",
     ave_temperature: 3.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1789,
@@ -14310,6 +16098,7 @@ export default [
     date: "2020-04-17",
     ave_temperature: 9.3,
     total_preciptation: 3.3,
+    user_id: null,
   },
   {
     id: 1790,
@@ -14318,6 +16107,7 @@ export default [
     date: "2020-04-18",
     ave_temperature: 2,
     total_preciptation: 5.3,
+    user_id: null,
   },
   {
     id: 1791,
@@ -14326,6 +16116,7 @@ export default [
     date: "2020-04-19",
     ave_temperature: 7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1792,
@@ -14334,6 +16125,7 @@ export default [
     date: "2020-04-20",
     ave_temperature: 10.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1793,
@@ -14342,6 +16134,7 @@ export default [
     date: "2020-04-21",
     ave_temperature: 14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1794,
@@ -14350,6 +16143,7 @@ export default [
     date: "2020-04-22",
     ave_temperature: 9.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1795,
@@ -14358,6 +16152,7 @@ export default [
     date: "2020-04-23",
     ave_temperature: 10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1796,
@@ -14366,6 +16161,7 @@ export default [
     date: "2020-04-24",
     ave_temperature: 8.2,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 1797,
@@ -14374,6 +16170,7 @@ export default [
     date: "2020-04-25",
     ave_temperature: 9.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1798,
@@ -14382,6 +16179,7 @@ export default [
     date: "2020-04-26",
     ave_temperature: 11.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1799,
@@ -14390,6 +16188,7 @@ export default [
     date: "2020-04-27",
     ave_temperature: 10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1800,
@@ -14398,6 +16197,7 @@ export default [
     date: "2020-04-28",
     ave_temperature: 10.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1801,
@@ -14406,6 +16206,7 @@ export default [
     date: "2020-04-29",
     ave_temperature: 16.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1802,
@@ -14414,6 +16215,7 @@ export default [
     date: "2020-04-30",
     ave_temperature: 16,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1803,
@@ -14422,6 +16224,7 @@ export default [
     date: "2020-05-01",
     ave_temperature: 10.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1804,
@@ -14430,6 +16233,7 @@ export default [
     date: "2020-05-02",
     ave_temperature: 10.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1805,
@@ -14438,6 +16242,7 @@ export default [
     date: "2020-05-03",
     ave_temperature: 9.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1806,
@@ -14446,6 +16251,7 @@ export default [
     date: "2020-05-04",
     ave_temperature: 7.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1807,
@@ -14454,6 +16260,7 @@ export default [
     date: "2020-05-05",
     ave_temperature: 7.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1808,
@@ -14462,6 +16269,7 @@ export default [
     date: "2020-05-06",
     ave_temperature: 9.8,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 1809,
@@ -14470,6 +16278,7 @@ export default [
     date: "2020-05-07",
     ave_temperature: 11.4,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 1810,
@@ -14478,6 +16287,7 @@ export default [
     date: "2020-05-08",
     ave_temperature: 6.2,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 1811,
@@ -14486,6 +16296,7 @@ export default [
     date: "2020-05-09",
     ave_temperature: 7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1812,
@@ -14494,6 +16305,7 @@ export default [
     date: "2020-05-10",
     ave_temperature: 4.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1813,
@@ -14502,6 +16314,7 @@ export default [
     date: "2020-05-11",
     ave_temperature: 6.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1814,
@@ -14510,6 +16323,7 @@ export default [
     date: "2020-05-12",
     ave_temperature: 5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1815,
@@ -14518,6 +16332,7 @@ export default [
     date: "2020-05-13",
     ave_temperature: 6.1,
     total_preciptation: 2.5,
+    user_id: null,
   },
   {
     id: 1816,
@@ -14526,6 +16341,7 @@ export default [
     date: "2020-05-14",
     ave_temperature: 12.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1817,
@@ -14534,6 +16350,7 @@ export default [
     date: "2020-05-15",
     ave_temperature: 10.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1818,
@@ -14542,6 +16359,7 @@ export default [
     date: "2020-05-16",
     ave_temperature: 13.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1819,
@@ -14550,6 +16368,7 @@ export default [
     date: "2020-05-17",
     ave_temperature: 13.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1820,
@@ -14558,6 +16377,7 @@ export default [
     date: "2020-05-18",
     ave_temperature: 13.9,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 1821,
@@ -14566,6 +16386,7 @@ export default [
     date: "2020-05-19",
     ave_temperature: 13.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1822,
@@ -14574,6 +16395,7 @@ export default [
     date: "2020-05-20",
     ave_temperature: 10.2,
     total_preciptation: 11.3,
+    user_id: null,
   },
   {
     id: 1823,
@@ -14582,6 +16404,7 @@ export default [
     date: "2020-05-21",
     ave_temperature: 7.9,
     total_preciptation: 44.3,
+    user_id: null,
   },
   {
     id: 1824,
@@ -14590,6 +16413,7 @@ export default [
     date: "2020-05-22",
     ave_temperature: 9.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1825,
@@ -14598,6 +16422,7 @@ export default [
     date: "2020-05-23",
     ave_temperature: 9.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1826,
@@ -14606,6 +16431,7 @@ export default [
     date: "2020-05-24",
     ave_temperature: 12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1827,
@@ -14614,6 +16440,7 @@ export default [
     date: "2020-05-25",
     ave_temperature: 14.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1828,
@@ -14622,6 +16449,7 @@ export default [
     date: "2020-05-26",
     ave_temperature: 15.3,
     total_preciptation: 3.2,
+    user_id: null,
   },
   {
     id: 1829,
@@ -14630,6 +16458,7 @@ export default [
     date: "2020-05-27",
     ave_temperature: 11.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1830,
@@ -14638,6 +16467,7 @@ export default [
     date: "2020-05-28",
     ave_temperature: 12.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1831,
@@ -14646,6 +16476,7 @@ export default [
     date: "2020-05-29",
     ave_temperature: 17.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1832,
@@ -14654,6 +16485,7 @@ export default [
     date: "2020-05-30",
     ave_temperature: 18.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1833,
@@ -14662,6 +16494,7 @@ export default [
     date: "2020-05-31",
     ave_temperature: 17,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1834,
@@ -14670,6 +16503,7 @@ export default [
     date: "2020-06-01",
     ave_temperature: 14.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1835,
@@ -14678,6 +16512,7 @@ export default [
     date: "2020-06-02",
     ave_temperature: 14.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1836,
@@ -14686,6 +16521,7 @@ export default [
     date: "2020-06-03",
     ave_temperature: 16.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1837,
@@ -14694,6 +16530,7 @@ export default [
     date: "2020-06-04",
     ave_temperature: 12.4,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 1838,
@@ -14702,6 +16539,7 @@ export default [
     date: "2020-06-05",
     ave_temperature: 11.9,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 1839,
@@ -14710,6 +16548,7 @@ export default [
     date: "2020-06-06",
     ave_temperature: 15.3,
     total_preciptation: 3.9,
+    user_id: null,
   },
   {
     id: 1840,
@@ -14718,6 +16557,7 @@ export default [
     date: "2020-06-07",
     ave_temperature: 10.4,
     total_preciptation: 14.5,
+    user_id: null,
   },
   {
     id: 1841,
@@ -14726,6 +16566,7 @@ export default [
     date: "2020-06-08",
     ave_temperature: 11.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1842,
@@ -14734,6 +16575,7 @@ export default [
     date: "2020-06-09",
     ave_temperature: 12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1843,
@@ -14742,6 +16584,7 @@ export default [
     date: "2020-06-10",
     ave_temperature: 16.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1844,
@@ -14750,6 +16593,7 @@ export default [
     date: "2020-06-11",
     ave_temperature: 16.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1845,
@@ -14758,6 +16602,7 @@ export default [
     date: "2020-06-12",
     ave_temperature: 19.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1846,
@@ -14766,6 +16611,7 @@ export default [
     date: "2020-06-13",
     ave_temperature: 16.4,
     total_preciptation: 4,
+    user_id: null,
   },
   {
     id: 1847,
@@ -14774,6 +16620,7 @@ export default [
     date: "2020-06-14",
     ave_temperature: 13.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1848,
@@ -14782,6 +16629,7 @@ export default [
     date: "2020-06-15",
     ave_temperature: 13.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1849,
@@ -14790,6 +16638,7 @@ export default [
     date: "2020-06-16",
     ave_temperature: 13.5,
     total_preciptation: 3.3,
+    user_id: null,
   },
   {
     id: 1850,
@@ -14798,6 +16647,7 @@ export default [
     date: "2020-06-17",
     ave_temperature: 11.6,
     total_preciptation: 12.7,
+    user_id: null,
   },
   {
     id: 1851,
@@ -14806,6 +16656,7 @@ export default [
     date: "2020-06-18",
     ave_temperature: 13.1,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 1852,
@@ -14814,6 +16665,7 @@ export default [
     date: "2020-06-19",
     ave_temperature: 13.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1853,
@@ -14822,6 +16674,7 @@ export default [
     date: "2020-06-20",
     ave_temperature: 17.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1854,
@@ -14830,6 +16683,7 @@ export default [
     date: "2020-06-21",
     ave_temperature: 18.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1855,
@@ -14838,6 +16692,7 @@ export default [
     date: "2020-06-22",
     ave_temperature: 17.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1856,
@@ -14846,6 +16701,7 @@ export default [
     date: "2020-06-23",
     ave_temperature: 21,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1857,
@@ -14854,6 +16710,7 @@ export default [
     date: "2020-06-24",
     ave_temperature: 19.4,
     total_preciptation: 7,
+    user_id: null,
   },
   {
     id: 1858,
@@ -14862,6 +16719,7 @@ export default [
     date: "2020-06-25",
     ave_temperature: 18.1,
     total_preciptation: 0.9,
+    user_id: null,
   },
   {
     id: 1859,
@@ -14870,6 +16728,7 @@ export default [
     date: "2020-06-26",
     ave_temperature: 21.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1860,
@@ -14878,6 +16737,7 @@ export default [
     date: "2020-06-27",
     ave_temperature: 16.5,
     total_preciptation: 5.1,
+    user_id: null,
   },
   {
     id: 1861,
@@ -14886,6 +16746,7 @@ export default [
     date: "2020-06-28",
     ave_temperature: 11.8,
     total_preciptation: 16.7,
+    user_id: null,
   },
   {
     id: 1862,
@@ -14894,6 +16755,7 @@ export default [
     date: "2020-06-29",
     ave_temperature: 13.4,
     total_preciptation: 6.9,
+    user_id: null,
   },
   {
     id: 1863,
@@ -14902,6 +16764,7 @@ export default [
     date: "2020-06-30",
     ave_temperature: 11.5,
     total_preciptation: 77.4,
+    user_id: null,
   },
   {
     id: 1864,
@@ -14910,6 +16773,7 @@ export default [
     date: "2020-07-01",
     ave_temperature: 13.6,
     total_preciptation: 1.7,
+    user_id: null,
   },
   {
     id: 1865,
@@ -14918,6 +16782,7 @@ export default [
     date: "2020-07-02",
     ave_temperature: 12.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1866,
@@ -14926,6 +16791,7 @@ export default [
     date: "2020-07-03",
     ave_temperature: 14.9,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1867,
@@ -14934,6 +16800,7 @@ export default [
     date: "2020-07-04",
     ave_temperature: 16.8,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1868,
@@ -14942,6 +16809,7 @@ export default [
     date: "2020-07-05",
     ave_temperature: 14.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1869,
@@ -14950,6 +16818,7 @@ export default [
     date: "2020-07-06",
     ave_temperature: 15.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1870,
@@ -14958,6 +16827,7 @@ export default [
     date: "2020-07-07",
     ave_temperature: 15.3,
     total_preciptation: 1.4,
+    user_id: null,
   },
   {
     id: 1871,
@@ -14966,6 +16836,7 @@ export default [
     date: "2020-07-08",
     ave_temperature: 13.5,
     total_preciptation: 3.6,
+    user_id: null,
   },
   {
     id: 1872,
@@ -14974,6 +16845,7 @@ export default [
     date: "2020-07-09",
     ave_temperature: 15,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1873,
@@ -14982,6 +16854,7 @@ export default [
     date: "2020-07-10",
     ave_temperature: 17.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1874,
@@ -14990,6 +16863,7 @@ export default [
     date: "2020-07-11",
     ave_temperature: 18.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1875,
@@ -14998,6 +16872,7 @@ export default [
     date: "2020-07-12",
     ave_temperature: 18.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1876,
@@ -15006,6 +16881,7 @@ export default [
     date: "2020-07-13",
     ave_temperature: 15,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1877,
@@ -15014,6 +16890,7 @@ export default [
     date: "2020-07-14",
     ave_temperature: 14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1878,
@@ -15022,6 +16899,7 @@ export default [
     date: "2020-07-15",
     ave_temperature: 17.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1879,
@@ -15030,6 +16908,7 @@ export default [
     date: "2020-07-16",
     ave_temperature: 18.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1880,
@@ -15038,6 +16917,7 @@ export default [
     date: "2020-07-17",
     ave_temperature: 17.4,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1881,
@@ -15046,6 +16926,7 @@ export default [
     date: "2020-07-18",
     ave_temperature: 16.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1882,
@@ -15054,6 +16935,7 @@ export default [
     date: "2020-07-19",
     ave_temperature: 16.4,
     total_preciptation: 7.4,
+    user_id: null,
   },
   {
     id: 1883,
@@ -15062,6 +16944,7 @@ export default [
     date: "2020-07-20",
     ave_temperature: 16.3,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 1884,
@@ -15070,6 +16953,7 @@ export default [
     date: "2020-07-21",
     ave_temperature: 19.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1885,
@@ -15078,6 +16962,7 @@ export default [
     date: "2020-07-22",
     ave_temperature: 22.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1886,
@@ -15086,6 +16971,7 @@ export default [
     date: "2020-07-23",
     ave_temperature: 22.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1887,
@@ -15094,6 +16980,7 @@ export default [
     date: "2020-07-24",
     ave_temperature: 18.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1888,
@@ -15102,6 +16989,7 @@ export default [
     date: "2020-07-25",
     ave_temperature: 13.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1889,
@@ -15110,30 +16998,34 @@ export default [
     date: "2020-07-26",
     ave_temperature: 15.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1890,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2020-07-27",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 1891,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2020-07-28",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 1892,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2020-07-29",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 1893,
@@ -15142,6 +17034,7 @@ export default [
     date: "2020-07-30",
     ave_temperature: 19.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1894,
@@ -15150,6 +17043,7 @@ export default [
     date: "2020-07-31",
     ave_temperature: 21.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1895,
@@ -15158,6 +17052,7 @@ export default [
     date: "2020-08-01",
     ave_temperature: 22.9,
     total_preciptation: 5.8,
+    user_id: null,
   },
   {
     id: 1896,
@@ -15166,6 +17061,7 @@ export default [
     date: "2020-08-02",
     ave_temperature: 22.8,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 1897,
@@ -15174,22 +17070,25 @@ export default [
     date: "2020-08-03",
     ave_temperature: 21.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1898,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2020-08-04",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 1899,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2020-08-05",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 1900,
@@ -15198,6 +17097,7 @@ export default [
     date: "2020-08-06",
     ave_temperature: 20.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1901,
@@ -15206,6 +17106,7 @@ export default [
     date: "2020-08-07",
     ave_temperature: 16.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1902,
@@ -15214,6 +17115,7 @@ export default [
     date: "2020-08-08",
     ave_temperature: 17.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1903,
@@ -15222,6 +17124,7 @@ export default [
     date: "2020-08-09",
     ave_temperature: 14.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1904,
@@ -15230,6 +17133,7 @@ export default [
     date: "2020-08-10",
     ave_temperature: 17.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1905,
@@ -15238,6 +17142,7 @@ export default [
     date: "2020-08-11",
     ave_temperature: 19.3,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1906,
@@ -15246,6 +17151,7 @@ export default [
     date: "2020-08-12",
     ave_temperature: 15,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1907,
@@ -15254,6 +17160,7 @@ export default [
     date: "2020-08-13",
     ave_temperature: 14.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1908,
@@ -15262,6 +17169,7 @@ export default [
     date: "2020-08-14",
     ave_temperature: 16,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1909,
@@ -15270,6 +17178,7 @@ export default [
     date: "2020-08-15",
     ave_temperature: 20.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1910,
@@ -15278,6 +17187,7 @@ export default [
     date: "2020-08-16",
     ave_temperature: 20.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1911,
@@ -15286,6 +17196,7 @@ export default [
     date: "2020-08-17",
     ave_temperature: 24.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1912,
@@ -15294,6 +17205,7 @@ export default [
     date: "2020-08-18",
     ave_temperature: 22.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1913,
@@ -15302,6 +17214,7 @@ export default [
     date: "2020-08-19",
     ave_temperature: 23.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1914,
@@ -15310,6 +17223,7 @@ export default [
     date: "2020-08-20",
     ave_temperature: 20.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1915,
@@ -15318,6 +17232,7 @@ export default [
     date: "2020-08-21",
     ave_temperature: 20.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1916,
@@ -15326,6 +17241,7 @@ export default [
     date: "2020-08-22",
     ave_temperature: 18.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1917,
@@ -15334,6 +17250,7 @@ export default [
     date: "2020-08-23",
     ave_temperature: 17.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1918,
@@ -15342,6 +17259,7 @@ export default [
     date: "2020-08-24",
     ave_temperature: 17.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1919,
@@ -15350,6 +17268,7 @@ export default [
     date: "2020-08-25",
     ave_temperature: 18,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1920,
@@ -15358,6 +17277,7 @@ export default [
     date: "2020-08-26",
     ave_temperature: 16.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1921,
@@ -15366,6 +17286,7 @@ export default [
     date: "2020-08-27",
     ave_temperature: 14.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1922,
@@ -15374,6 +17295,7 @@ export default [
     date: "2020-08-28",
     ave_temperature: 17.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1923,
@@ -15382,6 +17304,7 @@ export default [
     date: "2020-08-29",
     ave_temperature: 16.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1924,
@@ -15390,6 +17313,7 @@ export default [
     date: "2020-08-30",
     ave_temperature: 12.2,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 1925,
@@ -15398,6 +17322,7 @@ export default [
     date: "2020-08-31",
     ave_temperature: 12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1926,
@@ -15406,6 +17331,7 @@ export default [
     date: "2020-09-01",
     ave_temperature: 21.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1927,
@@ -15414,6 +17340,7 @@ export default [
     date: "2020-09-02",
     ave_temperature: 14.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1928,
@@ -15422,6 +17349,7 @@ export default [
     date: "2020-09-03",
     ave_temperature: 14.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1929,
@@ -15430,6 +17358,7 @@ export default [
     date: "2020-09-04",
     ave_temperature: 16.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1930,
@@ -15438,6 +17367,7 @@ export default [
     date: "2020-09-05",
     ave_temperature: 20.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1931,
@@ -15446,6 +17376,7 @@ export default [
     date: "2020-09-06",
     ave_temperature: 11,
     total_preciptation: 11,
+    user_id: null,
   },
   {
     id: 1932,
@@ -15454,6 +17385,7 @@ export default [
     date: "2020-09-07",
     ave_temperature: 6.9,
     total_preciptation: 15.4,
+    user_id: null,
   },
   {
     id: 1933,
@@ -15462,6 +17394,7 @@ export default [
     date: "2020-09-08",
     ave_temperature: 10.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1934,
@@ -15470,6 +17403,7 @@ export default [
     date: "2020-09-09",
     ave_temperature: 14.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1935,
@@ -15478,6 +17412,7 @@ export default [
     date: "2020-09-10",
     ave_temperature: 16.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1936,
@@ -15486,6 +17421,7 @@ export default [
     date: "2020-09-11",
     ave_temperature: 17.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1937,
@@ -15494,6 +17430,7 @@ export default [
     date: "2020-09-12",
     ave_temperature: 15.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1938,
@@ -15502,6 +17439,7 @@ export default [
     date: "2020-09-13",
     ave_temperature: 12.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1939,
@@ -15510,6 +17448,7 @@ export default [
     date: "2020-09-14",
     ave_temperature: 9.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1940,
@@ -15518,6 +17457,7 @@ export default [
     date: "2020-09-15",
     ave_temperature: 9.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1941,
@@ -15526,6 +17466,7 @@ export default [
     date: "2020-09-16",
     ave_temperature: 14.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1942,
@@ -15534,6 +17475,7 @@ export default [
     date: "2020-09-17",
     ave_temperature: 13.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1943,
@@ -15542,6 +17484,7 @@ export default [
     date: "2020-09-18",
     ave_temperature: 15.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1944,
@@ -15550,6 +17493,7 @@ export default [
     date: "2020-09-19",
     ave_temperature: 15.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1945,
@@ -15558,6 +17502,7 @@ export default [
     date: "2020-09-20",
     ave_temperature: 15.9,
     total_preciptation: 2.9,
+    user_id: null,
   },
   {
     id: 1946,
@@ -15566,6 +17511,7 @@ export default [
     date: "2020-09-21",
     ave_temperature: 15.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1947,
@@ -15574,6 +17520,7 @@ export default [
     date: "2020-09-22",
     ave_temperature: 8.3,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1948,
@@ -15582,6 +17529,7 @@ export default [
     date: "2020-09-23",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1949,
@@ -15590,6 +17538,7 @@ export default [
     date: "2020-09-24",
     ave_temperature: 14.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1950,
@@ -15598,6 +17547,7 @@ export default [
     date: "2020-09-25",
     ave_temperature: 10.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1951,
@@ -15606,6 +17556,7 @@ export default [
     date: "2020-09-26",
     ave_temperature: 11.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1952,
@@ -15614,6 +17565,7 @@ export default [
     date: "2020-09-27",
     ave_temperature: 9.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1953,
@@ -15622,6 +17574,7 @@ export default [
     date: "2020-09-28",
     ave_temperature: 15.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1954,
@@ -15630,6 +17583,7 @@ export default [
     date: "2020-09-29",
     ave_temperature: 17.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1955,
@@ -15638,6 +17592,7 @@ export default [
     date: "2020-09-30",
     ave_temperature: 8.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1956,
@@ -15646,6 +17601,7 @@ export default [
     date: "2020-10-01",
     ave_temperature: 11.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1957,
@@ -15654,6 +17610,7 @@ export default [
     date: "2020-10-02",
     ave_temperature: 12.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1958,
@@ -15662,6 +17619,7 @@ export default [
     date: "2020-10-03",
     ave_temperature: 12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1959,
@@ -15670,6 +17628,7 @@ export default [
     date: "2020-10-04",
     ave_temperature: 18.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1960,
@@ -15678,6 +17637,7 @@ export default [
     date: "2020-10-05",
     ave_temperature: 14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1961,
@@ -15686,6 +17646,7 @@ export default [
     date: "2020-10-06",
     ave_temperature: 15.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1962,
@@ -15694,6 +17655,7 @@ export default [
     date: "2020-10-07",
     ave_temperature: 10.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1963,
@@ -15702,6 +17664,7 @@ export default [
     date: "2020-10-08",
     ave_temperature: 14.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1964,
@@ -15710,6 +17673,7 @@ export default [
     date: "2020-10-09",
     ave_temperature: 10.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1965,
@@ -15718,6 +17682,7 @@ export default [
     date: "2020-10-10",
     ave_temperature: 14.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1966,
@@ -15726,6 +17691,7 @@ export default [
     date: "2020-10-11",
     ave_temperature: 9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1967,
@@ -15734,6 +17700,7 @@ export default [
     date: "2020-10-12",
     ave_temperature: 3.9,
     total_preciptation: 2.9,
+    user_id: null,
   },
   {
     id: 1968,
@@ -15742,6 +17709,7 @@ export default [
     date: "2020-10-13",
     ave_temperature: 4.8,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 1969,
@@ -15750,6 +17718,7 @@ export default [
     date: "2020-10-14",
     ave_temperature: 2.5,
     total_preciptation: 2.6,
+    user_id: null,
   },
   {
     id: 1970,
@@ -15758,6 +17727,7 @@ export default [
     date: "2020-10-15",
     ave_temperature: 0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1971,
@@ -15766,6 +17736,7 @@ export default [
     date: "2020-10-16",
     ave_temperature: 5.8,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 1972,
@@ -15774,6 +17745,7 @@ export default [
     date: "2020-10-17",
     ave_temperature: -4.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1973,
@@ -15782,6 +17754,7 @@ export default [
     date: "2020-10-18",
     ave_temperature: -8.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1974,
@@ -15790,6 +17763,7 @@ export default [
     date: "2020-10-19",
     ave_temperature: -5.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1975,
@@ -15798,6 +17772,7 @@ export default [
     date: "2020-10-20",
     ave_temperature: -3.3,
     total_preciptation: 6.5,
+    user_id: null,
   },
   {
     id: 1976,
@@ -15806,6 +17781,7 @@ export default [
     date: "2020-10-21",
     ave_temperature: -5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1977,
@@ -15814,6 +17790,7 @@ export default [
     date: "2020-10-22",
     ave_temperature: -12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1978,
@@ -15822,6 +17799,7 @@ export default [
     date: "2020-10-23",
     ave_temperature: -12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1979,
@@ -15830,6 +17808,7 @@ export default [
     date: "2020-10-24",
     ave_temperature: -15.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1980,
@@ -15838,6 +17817,7 @@ export default [
     date: "2020-10-25",
     ave_temperature: -12.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1981,
@@ -15846,6 +17826,7 @@ export default [
     date: "2020-10-26",
     ave_temperature: -2.8,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 1982,
@@ -15854,6 +17835,7 @@ export default [
     date: "2020-10-27",
     ave_temperature: 4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1983,
@@ -15862,14 +17844,16 @@ export default [
     date: "2020-10-28",
     ave_temperature: 5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1984,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2020-10-29",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 1985,
@@ -15878,6 +17862,7 @@ export default [
     date: "2020-10-30",
     ave_temperature: 8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1986,
@@ -15886,6 +17871,7 @@ export default [
     date: "2020-10-31",
     ave_temperature: 4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1987,
@@ -15894,6 +17880,7 @@ export default [
     date: "2020-11-01",
     ave_temperature: 11.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1988,
@@ -15902,6 +17889,7 @@ export default [
     date: "2020-11-02",
     ave_temperature: 12.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1989,
@@ -15910,6 +17898,7 @@ export default [
     date: "2020-11-03",
     ave_temperature: 12.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1990,
@@ -15918,6 +17907,7 @@ export default [
     date: "2020-11-04",
     ave_temperature: 10.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1991,
@@ -15926,6 +17916,7 @@ export default [
     date: "2020-11-05",
     ave_temperature: 10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1992,
@@ -15934,6 +17925,7 @@ export default [
     date: "2020-11-06",
     ave_temperature: 2.6,
     total_preciptation: 3.6,
+    user_id: null,
   },
   {
     id: 1993,
@@ -15942,6 +17934,7 @@ export default [
     date: "2020-11-07",
     ave_temperature: -3.3,
     total_preciptation: 8.5,
+    user_id: null,
   },
   {
     id: 1994,
@@ -15950,6 +17943,7 @@ export default [
     date: "2020-11-08",
     ave_temperature: -8.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1995,
@@ -15958,6 +17952,7 @@ export default [
     date: "2020-11-09",
     ave_temperature: -12.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1996,
@@ -15966,6 +17961,7 @@ export default [
     date: "2020-11-10",
     ave_temperature: -2.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1997,
@@ -15974,6 +17970,7 @@ export default [
     date: "2020-11-11",
     ave_temperature: -11.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1998,
@@ -15982,6 +17979,7 @@ export default [
     date: "2020-11-12",
     ave_temperature: -10.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 1999,
@@ -15990,6 +17988,7 @@ export default [
     date: "2020-11-13",
     ave_temperature: -1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2000,
@@ -15998,6 +17997,7 @@ export default [
     date: "2020-11-14",
     ave_temperature: -1.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2001,
@@ -16006,6 +18006,7 @@ export default [
     date: "2020-11-15",
     ave_temperature: -1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2002,
@@ -16014,6 +18015,7 @@ export default [
     date: "2020-11-16",
     ave_temperature: 1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2003,
@@ -16022,6 +18024,7 @@ export default [
     date: "2020-11-17",
     ave_temperature: 3.5,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2004,
@@ -16030,6 +18033,7 @@ export default [
     date: "2020-11-18",
     ave_temperature: 1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2005,
@@ -16038,6 +18042,7 @@ export default [
     date: "2020-11-19",
     ave_temperature: -6.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2006,
@@ -16046,6 +18051,7 @@ export default [
     date: "2020-11-20",
     ave_temperature: -5.3,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 2007,
@@ -16054,6 +18060,7 @@ export default [
     date: "2020-11-21",
     ave_temperature: 1.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2008,
@@ -16062,6 +18069,7 @@ export default [
     date: "2020-11-22",
     ave_temperature: -0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2009,
@@ -16070,14 +18078,16 @@ export default [
     date: "2020-11-23",
     ave_temperature: -1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2010,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2020-11-24",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2011,
@@ -16086,6 +18096,7 @@ export default [
     date: "2020-11-25",
     ave_temperature: -0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2012,
@@ -16094,6 +18105,7 @@ export default [
     date: "2020-11-26",
     ave_temperature: 0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2013,
@@ -16102,6 +18114,7 @@ export default [
     date: "2020-11-27",
     ave_temperature: 6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2014,
@@ -16110,6 +18123,7 @@ export default [
     date: "2020-11-28",
     ave_temperature: -0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2015,
@@ -16118,6 +18132,7 @@ export default [
     date: "2020-11-29",
     ave_temperature: 0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2016,
@@ -16126,6 +18141,7 @@ export default [
     date: "2020-11-30",
     ave_temperature: 3.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2017,
@@ -16134,6 +18150,7 @@ export default [
     date: "2020-12-01",
     ave_temperature: -1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2018,
@@ -16142,6 +18159,7 @@ export default [
     date: "2020-12-02",
     ave_temperature: 3.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2019,
@@ -16150,6 +18168,7 @@ export default [
     date: "2020-12-03",
     ave_temperature: 6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2020,
@@ -16158,6 +18177,7 @@ export default [
     date: "2020-12-04",
     ave_temperature: 6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2021,
@@ -16166,6 +18186,7 @@ export default [
     date: "2020-12-05",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2022,
@@ -16174,6 +18195,7 @@ export default [
     date: "2020-12-06",
     ave_temperature: 4.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2023,
@@ -16182,6 +18204,7 @@ export default [
     date: "2020-12-07",
     ave_temperature: 7.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2024,
@@ -16190,6 +18213,7 @@ export default [
     date: "2020-12-08",
     ave_temperature: 7.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2025,
@@ -16198,6 +18222,7 @@ export default [
     date: "2020-12-09",
     ave_temperature: -1.2,
     total_preciptation: 3.2,
+    user_id: null,
   },
   {
     id: 2026,
@@ -16206,6 +18231,7 @@ export default [
     date: "2020-12-10",
     ave_temperature: -4.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2027,
@@ -16214,6 +18240,7 @@ export default [
     date: "2020-12-11",
     ave_temperature: -9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2028,
@@ -16222,6 +18249,7 @@ export default [
     date: "2020-12-12",
     ave_temperature: -8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2029,
@@ -16230,6 +18258,7 @@ export default [
     date: "2020-12-13",
     ave_temperature: -12.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2030,
@@ -16238,6 +18267,7 @@ export default [
     date: "2020-12-14",
     ave_temperature: -8.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2031,
@@ -16246,6 +18276,7 @@ export default [
     date: "2020-12-15",
     ave_temperature: -0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2032,
@@ -16254,6 +18285,7 @@ export default [
     date: "2020-12-16",
     ave_temperature: 1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2033,
@@ -16262,6 +18294,7 @@ export default [
     date: "2020-12-17",
     ave_temperature: 1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2034,
@@ -16270,6 +18303,7 @@ export default [
     date: "2020-12-18",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2035,
@@ -16278,6 +18312,7 @@ export default [
     date: "2020-12-19",
     ave_temperature: 4.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2036,
@@ -16286,6 +18321,7 @@ export default [
     date: "2020-12-20",
     ave_temperature: 5.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2037,
@@ -16294,6 +18330,7 @@ export default [
     date: "2020-12-21",
     ave_temperature: 2,
     total_preciptation: 2.1,
+    user_id: null,
   },
   {
     id: 2038,
@@ -16302,6 +18339,7 @@ export default [
     date: "2020-12-22",
     ave_temperature: -7.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2039,
@@ -16310,6 +18348,7 @@ export default [
     date: "2020-12-23",
     ave_temperature: -10.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2040,
@@ -16318,6 +18357,7 @@ export default [
     date: "2020-12-24",
     ave_temperature: 2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2041,
@@ -16326,6 +18366,7 @@ export default [
     date: "2020-12-25",
     ave_temperature: 1.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2042,
@@ -16334,6 +18375,7 @@ export default [
     date: "2020-12-26",
     ave_temperature: -3.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2043,
@@ -16342,6 +18384,7 @@ export default [
     date: "2020-12-27",
     ave_temperature: -10.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2044,
@@ -16350,6 +18393,7 @@ export default [
     date: "2020-12-28",
     ave_temperature: -6.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2045,
@@ -16358,6 +18402,7 @@ export default [
     date: "2020-12-29",
     ave_temperature: -6.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2046,
@@ -16366,6 +18411,7 @@ export default [
     date: "2020-12-30",
     ave_temperature: -0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2047,
@@ -16374,6 +18420,7 @@ export default [
     date: "2020-12-31",
     ave_temperature: -0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2048,
@@ -16382,6 +18429,7 @@ export default [
     date: "2021-01-01",
     ave_temperature: 3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2049,
@@ -16390,6 +18438,7 @@ export default [
     date: "2021-01-02",
     ave_temperature: 3.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2050,
@@ -16398,6 +18447,7 @@ export default [
     date: "2021-01-03",
     ave_temperature: 2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2051,
@@ -16406,6 +18456,7 @@ export default [
     date: "2021-01-04",
     ave_temperature: 0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2052,
@@ -16414,6 +18465,7 @@ export default [
     date: "2021-01-05",
     ave_temperature: 3.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2053,
@@ -16422,6 +18474,7 @@ export default [
     date: "2021-01-06",
     ave_temperature: 5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2054,
@@ -16430,6 +18483,7 @@ export default [
     date: "2021-01-07",
     ave_temperature: -1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2055,
@@ -16438,6 +18492,7 @@ export default [
     date: "2021-01-08",
     ave_temperature: -2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2056,
@@ -16446,6 +18501,7 @@ export default [
     date: "2021-01-09",
     ave_temperature: -2.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2057,
@@ -16454,6 +18510,7 @@ export default [
     date: "2021-01-10",
     ave_temperature: 0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2058,
@@ -16462,6 +18519,7 @@ export default [
     date: "2021-01-11",
     ave_temperature: 5.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2059,
@@ -16470,14 +18528,16 @@ export default [
     date: "2021-01-12",
     ave_temperature: 4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2060,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2021-01-13",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2061,
@@ -16486,6 +18546,7 @@ export default [
     date: "2021-01-14",
     ave_temperature: -2.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2062,
@@ -16494,6 +18555,7 @@ export default [
     date: "2021-01-15",
     ave_temperature: 0,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2063,
@@ -16502,6 +18564,7 @@ export default [
     date: "2021-01-16",
     ave_temperature: 3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2064,
@@ -16510,6 +18573,7 @@ export default [
     date: "2021-01-17",
     ave_temperature: 4.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2065,
@@ -16518,14 +18582,16 @@ export default [
     date: "2021-01-18",
     ave_temperature: -1.6,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2066,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2021-01-19",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2067,
@@ -16534,6 +18600,7 @@ export default [
     date: "2021-01-20",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2068,
@@ -16542,6 +18609,7 @@ export default [
     date: "2021-01-21",
     ave_temperature: -6.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2069,
@@ -16550,6 +18618,7 @@ export default [
     date: "2021-01-22",
     ave_temperature: -8.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2070,
@@ -16558,6 +18627,7 @@ export default [
     date: "2021-01-23",
     ave_temperature: -8.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2071,
@@ -16566,6 +18636,7 @@ export default [
     date: "2021-01-24",
     ave_temperature: -13.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2072,
@@ -16574,6 +18645,7 @@ export default [
     date: "2021-01-25",
     ave_temperature: -12.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2073,
@@ -16582,6 +18654,7 @@ export default [
     date: "2021-01-26",
     ave_temperature: -10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2074,
@@ -16590,6 +18663,7 @@ export default [
     date: "2021-01-27",
     ave_temperature: -13.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2075,
@@ -16598,6 +18672,7 @@ export default [
     date: "2021-01-28",
     ave_temperature: -14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2076,
@@ -16606,6 +18681,7 @@ export default [
     date: "2021-01-29",
     ave_temperature: -11.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2077,
@@ -16614,6 +18690,7 @@ export default [
     date: "2021-01-30",
     ave_temperature: -5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2078,
@@ -16622,6 +18699,7 @@ export default [
     date: "2021-01-31",
     ave_temperature: 1.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2079,
@@ -16630,6 +18708,7 @@ export default [
     date: "2021-02-01",
     ave_temperature: 4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2080,
@@ -16638,6 +18717,7 @@ export default [
     date: "2021-02-02",
     ave_temperature: 0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2081,
@@ -16646,6 +18726,7 @@ export default [
     date: "2021-02-03",
     ave_temperature: -14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2082,
@@ -16654,6 +18735,7 @@ export default [
     date: "2021-02-04",
     ave_temperature: -8.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2083,
@@ -16662,6 +18744,7 @@ export default [
     date: "2021-02-05",
     ave_temperature: -13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2084,
@@ -16670,6 +18753,7 @@ export default [
     date: "2021-02-06",
     ave_temperature: -21.1,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 2085,
@@ -16678,6 +18762,7 @@ export default [
     date: "2021-02-07",
     ave_temperature: -26,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2086,
@@ -16686,6 +18771,7 @@ export default [
     date: "2021-02-08",
     ave_temperature: -29,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 2087,
@@ -16694,6 +18780,7 @@ export default [
     date: "2021-02-09",
     ave_temperature: -31.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2088,
@@ -16702,6 +18789,7 @@ export default [
     date: "2021-02-10",
     ave_temperature: -30.7,
     total_preciptation: 0.1,
+    user_id: null,
   },
   {
     id: 2089,
@@ -16710,6 +18798,7 @@ export default [
     date: "2021-02-11",
     ave_temperature: -31.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2090,
@@ -16718,6 +18807,7 @@ export default [
     date: "2021-02-12",
     ave_temperature: -27.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2091,
@@ -16726,6 +18816,7 @@ export default [
     date: "2021-02-13",
     ave_temperature: -26.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2092,
@@ -16734,6 +18825,7 @@ export default [
     date: "2021-02-14",
     ave_temperature: -27.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2093,
@@ -16742,6 +18834,7 @@ export default [
     date: "2021-02-15",
     ave_temperature: -22.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2094,
@@ -16750,6 +18843,7 @@ export default [
     date: "2021-02-16",
     ave_temperature: -17.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2095,
@@ -16758,6 +18852,7 @@ export default [
     date: "2021-02-17",
     ave_temperature: -11.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2096,
@@ -16766,6 +18861,7 @@ export default [
     date: "2021-02-18",
     ave_temperature: -9.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2097,
@@ -16774,6 +18870,7 @@ export default [
     date: "2021-02-19",
     ave_temperature: -0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2098,
@@ -16782,6 +18879,7 @@ export default [
     date: "2021-02-20",
     ave_temperature: -1.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2099,
@@ -16790,6 +18888,7 @@ export default [
     date: "2021-02-21",
     ave_temperature: 2.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2100,
@@ -16798,6 +18897,7 @@ export default [
     date: "2021-02-22",
     ave_temperature: 6.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2101,
@@ -16806,6 +18906,7 @@ export default [
     date: "2021-02-23",
     ave_temperature: -0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2102,
@@ -16814,6 +18915,7 @@ export default [
     date: "2021-02-24",
     ave_temperature: -3.7,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 2103,
@@ -16822,6 +18924,7 @@ export default [
     date: "2021-02-25",
     ave_temperature: 1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2104,
@@ -16830,6 +18933,7 @@ export default [
     date: "2021-02-26",
     ave_temperature: -3.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2105,
@@ -16838,6 +18942,7 @@ export default [
     date: "2021-02-27",
     ave_temperature: -9.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2106,
@@ -16846,6 +18951,7 @@ export default [
     date: "2021-02-28",
     ave_temperature: 0.9,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2107,
@@ -16854,6 +18960,7 @@ export default [
     date: "2021-03-01",
     ave_temperature: 6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2108,
@@ -16862,6 +18969,7 @@ export default [
     date: "2021-03-02",
     ave_temperature: 5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2109,
@@ -16870,6 +18978,7 @@ export default [
     date: "2021-03-03",
     ave_temperature: 5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2110,
@@ -16878,6 +18987,7 @@ export default [
     date: "2021-03-04",
     ave_temperature: 5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2111,
@@ -16886,6 +18996,7 @@ export default [
     date: "2021-03-05",
     ave_temperature: 8.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2112,
@@ -16894,6 +19005,7 @@ export default [
     date: "2021-03-06",
     ave_temperature: 4.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2113,
@@ -16902,6 +19014,7 @@ export default [
     date: "2021-03-07",
     ave_temperature: 2.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2114,
@@ -16910,6 +19023,7 @@ export default [
     date: "2021-03-08",
     ave_temperature: 2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2115,
@@ -16918,6 +19032,7 @@ export default [
     date: "2021-03-09",
     ave_temperature: 1.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2116,
@@ -16926,6 +19041,7 @@ export default [
     date: "2021-03-10",
     ave_temperature: -0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2117,
@@ -16934,6 +19050,7 @@ export default [
     date: "2021-03-11",
     ave_temperature: 0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2118,
@@ -16942,6 +19059,7 @@ export default [
     date: "2021-03-12",
     ave_temperature: 5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2119,
@@ -16950,6 +19068,7 @@ export default [
     date: "2021-03-13",
     ave_temperature: 5.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2120,
@@ -16958,6 +19077,7 @@ export default [
     date: "2021-03-14",
     ave_temperature: 8.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2121,
@@ -16966,6 +19086,7 @@ export default [
     date: "2021-03-15",
     ave_temperature: 1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2122,
@@ -16974,6 +19095,7 @@ export default [
     date: "2021-03-16",
     ave_temperature: 0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2123,
@@ -16982,6 +19104,7 @@ export default [
     date: "2021-03-17",
     ave_temperature: 2.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2124,
@@ -16990,6 +19113,7 @@ export default [
     date: "2021-03-18",
     ave_temperature: 6.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2125,
@@ -16998,6 +19122,7 @@ export default [
     date: "2021-03-19",
     ave_temperature: 7.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2126,
@@ -17006,6 +19131,7 @@ export default [
     date: "2021-03-20",
     ave_temperature: 4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2127,
@@ -17014,6 +19140,7 @@ export default [
     date: "2021-03-21",
     ave_temperature: 1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2128,
@@ -17022,6 +19149,7 @@ export default [
     date: "2021-03-22",
     ave_temperature: 4.6,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 2129,
@@ -17030,6 +19158,7 @@ export default [
     date: "2021-03-23",
     ave_temperature: 1.1,
     total_preciptation: 3.3,
+    user_id: null,
   },
   {
     id: 2130,
@@ -17038,6 +19167,7 @@ export default [
     date: "2021-03-24",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2131,
@@ -17046,6 +19176,7 @@ export default [
     date: "2021-03-25",
     ave_temperature: -1.8,
     total_preciptation: 1.1,
+    user_id: null,
   },
   {
     id: 2132,
@@ -17054,6 +19185,7 @@ export default [
     date: "2021-03-26",
     ave_temperature: -2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2133,
@@ -17062,6 +19194,7 @@ export default [
     date: "2021-03-27",
     ave_temperature: 4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2134,
@@ -17070,6 +19203,7 @@ export default [
     date: "2021-03-28",
     ave_temperature: 10.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2135,
@@ -17078,6 +19212,7 @@ export default [
     date: "2021-03-29",
     ave_temperature: -1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2136,
@@ -17086,6 +19221,7 @@ export default [
     date: "2021-03-30",
     ave_temperature: -3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2137,
@@ -17094,6 +19230,7 @@ export default [
     date: "2021-03-31",
     ave_temperature: 4.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2138,
@@ -17102,6 +19239,7 @@ export default [
     date: "2021-04-01",
     ave_temperature: 9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2139,
@@ -17110,6 +19248,7 @@ export default [
     date: "2021-04-02",
     ave_temperature: 9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2140,
@@ -17118,6 +19257,7 @@ export default [
     date: "2021-04-03",
     ave_temperature: 7.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2141,
@@ -17126,6 +19266,7 @@ export default [
     date: "2021-04-04",
     ave_temperature: 7.3,
     total_preciptation: 6.6,
+    user_id: null,
   },
   {
     id: 2142,
@@ -17134,6 +19275,7 @@ export default [
     date: "2021-04-05",
     ave_temperature: 3.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2143,
@@ -17142,6 +19284,7 @@ export default [
     date: "2021-04-06",
     ave_temperature: 7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2144,
@@ -17150,6 +19293,7 @@ export default [
     date: "2021-04-07",
     ave_temperature: 9.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2145,
@@ -17158,6 +19302,7 @@ export default [
     date: "2021-04-08",
     ave_temperature: 1.9,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2146,
@@ -17166,6 +19311,7 @@ export default [
     date: "2021-04-09",
     ave_temperature: 4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2147,
@@ -17174,6 +19320,7 @@ export default [
     date: "2021-04-10",
     ave_temperature: 3.9,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 2148,
@@ -17182,6 +19329,7 @@ export default [
     date: "2021-04-11",
     ave_temperature: -1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2149,
@@ -17190,6 +19338,7 @@ export default [
     date: "2021-04-12",
     ave_temperature: -2.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2150,
@@ -17198,6 +19347,7 @@ export default [
     date: "2021-04-13",
     ave_temperature: -2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2151,
@@ -17206,6 +19356,7 @@ export default [
     date: "2021-04-14",
     ave_temperature: 4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2152,
@@ -17214,6 +19365,7 @@ export default [
     date: "2021-04-15",
     ave_temperature: 3.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2153,
@@ -17222,6 +19374,7 @@ export default [
     date: "2021-04-16",
     ave_temperature: 5.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2154,
@@ -17230,6 +19383,7 @@ export default [
     date: "2021-04-17",
     ave_temperature: 8.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2155,
@@ -17238,6 +19392,7 @@ export default [
     date: "2021-04-18",
     ave_temperature: 1.9,
     total_preciptation: 2.7,
+    user_id: null,
   },
   {
     id: 2156,
@@ -17246,6 +19401,7 @@ export default [
     date: "2021-04-19",
     ave_temperature: 0.3,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 2157,
@@ -17254,6 +19410,7 @@ export default [
     date: "2021-04-20",
     ave_temperature: 3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2158,
@@ -17262,6 +19419,7 @@ export default [
     date: "2021-04-21",
     ave_temperature: 7.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2159,
@@ -17270,6 +19428,7 @@ export default [
     date: "2021-04-22",
     ave_temperature: 3.5,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 2160,
@@ -17278,6 +19437,7 @@ export default [
     date: "2021-04-23",
     ave_temperature: -0.6,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 2161,
@@ -17286,6 +19446,7 @@ export default [
     date: "2021-04-24",
     ave_temperature: 1.1,
     total_preciptation: 2.8,
+    user_id: null,
   },
   {
     id: 2162,
@@ -17294,6 +19455,7 @@ export default [
     date: "2021-04-25",
     ave_temperature: 2.6,
     total_preciptation: 3.8,
+    user_id: null,
   },
   {
     id: 2163,
@@ -17302,6 +19464,7 @@ export default [
     date: "2021-04-26",
     ave_temperature: 6.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2164,
@@ -17310,6 +19473,7 @@ export default [
     date: "2021-04-27",
     ave_temperature: 8.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2165,
@@ -17318,54 +19482,61 @@ export default [
     date: "2021-04-28",
     ave_temperature: 8.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2166,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2021-04-29",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2167,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2021-04-30",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2168,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2021-05-01",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2169,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2021-05-02",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2170,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2021-05-03",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2171,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2021-05-04",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2172,
@@ -17374,6 +19545,7 @@ export default [
     date: "2021-05-05",
     ave_temperature: 8.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2173,
@@ -17382,6 +19554,7 @@ export default [
     date: "2021-05-06",
     ave_temperature: 10.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2174,
@@ -17390,6 +19563,7 @@ export default [
     date: "2021-05-07",
     ave_temperature: 11.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2175,
@@ -17398,6 +19572,7 @@ export default [
     date: "2021-05-08",
     ave_temperature: 5,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 2176,
@@ -17406,6 +19581,7 @@ export default [
     date: "2021-05-09",
     ave_temperature: 2.8,
     total_preciptation: 1.3,
+    user_id: null,
   },
   {
     id: 2177,
@@ -17414,6 +19590,7 @@ export default [
     date: "2021-05-10",
     ave_temperature: 7.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2178,
@@ -17422,6 +19599,7 @@ export default [
     date: "2021-05-11",
     ave_temperature: 6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2179,
@@ -17430,6 +19608,7 @@ export default [
     date: "2021-05-12",
     ave_temperature: 9.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2180,
@@ -17438,6 +19617,7 @@ export default [
     date: "2021-05-13",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2181,
@@ -17446,6 +19626,7 @@ export default [
     date: "2021-05-14",
     ave_temperature: 10.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2182,
@@ -17454,6 +19635,7 @@ export default [
     date: "2021-05-15",
     ave_temperature: 13.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2183,
@@ -17462,6 +19644,7 @@ export default [
     date: "2021-05-16",
     ave_temperature: 15.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2184,
@@ -17470,6 +19653,7 @@ export default [
     date: "2021-05-17",
     ave_temperature: 18.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2185,
@@ -17478,6 +19662,7 @@ export default [
     date: "2021-05-18",
     ave_temperature: 12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2186,
@@ -17486,6 +19671,7 @@ export default [
     date: "2021-05-19",
     ave_temperature: 6.3,
     total_preciptation: 2.1,
+    user_id: null,
   },
   {
     id: 2187,
@@ -17494,6 +19680,7 @@ export default [
     date: "2021-05-20",
     ave_temperature: 0.9,
     total_preciptation: 5.3,
+    user_id: null,
   },
   {
     id: 2188,
@@ -17502,6 +19689,7 @@ export default [
     date: "2021-05-21",
     ave_temperature: 2.5,
     total_preciptation: 1.1,
+    user_id: null,
   },
   {
     id: 2189,
@@ -17510,6 +19698,7 @@ export default [
     date: "2021-05-22",
     ave_temperature: 4.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2190,
@@ -17518,6 +19707,7 @@ export default [
     date: "2021-05-23",
     ave_temperature: 2.7,
     total_preciptation: 19.6,
+    user_id: null,
   },
   {
     id: 2191,
@@ -17526,6 +19716,7 @@ export default [
     date: "2021-05-24",
     ave_temperature: 6.7,
     total_preciptation: 1.7,
+    user_id: null,
   },
   {
     id: 2192,
@@ -17534,6 +19725,7 @@ export default [
     date: "2021-05-25",
     ave_temperature: 10.9,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 2193,
@@ -17542,6 +19734,7 @@ export default [
     date: "2021-05-26",
     ave_temperature: 11.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2194,
@@ -17550,6 +19743,7 @@ export default [
     date: "2021-05-27",
     ave_temperature: 15.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2195,
@@ -17558,6 +19752,7 @@ export default [
     date: "2021-05-28",
     ave_temperature: 10.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2196,
@@ -17566,6 +19761,7 @@ export default [
     date: "2021-05-29",
     ave_temperature: 11.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2197,
@@ -17574,6 +19770,7 @@ export default [
     date: "2021-05-30",
     ave_temperature: 12.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2198,
@@ -17582,6 +19779,7 @@ export default [
     date: "2021-05-31",
     ave_temperature: 16.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2199,
@@ -17590,6 +19788,7 @@ export default [
     date: "2021-06-01",
     ave_temperature: 17.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2200,
@@ -17598,6 +19797,7 @@ export default [
     date: "2021-06-02",
     ave_temperature: 20.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2201,
@@ -17606,6 +19806,7 @@ export default [
     date: "2021-06-03",
     ave_temperature: 23.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2202,
@@ -17614,6 +19815,7 @@ export default [
     date: "2021-06-04",
     ave_temperature: 20.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2203,
@@ -17622,6 +19824,7 @@ export default [
     date: "2021-06-05",
     ave_temperature: 16.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2204,
@@ -17630,6 +19833,7 @@ export default [
     date: "2021-06-06",
     ave_temperature: 11.3,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2205,
@@ -17638,6 +19842,7 @@ export default [
     date: "2021-06-07",
     ave_temperature: 10.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2206,
@@ -17646,6 +19851,7 @@ export default [
     date: "2021-06-08",
     ave_temperature: 8.9,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 2207,
@@ -17654,6 +19860,7 @@ export default [
     date: "2021-06-09",
     ave_temperature: 10.1,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 2208,
@@ -17662,6 +19869,7 @@ export default [
     date: "2021-06-10",
     ave_temperature: 11.2,
     total_preciptation: 0.9,
+    user_id: null,
   },
   {
     id: 2209,
@@ -17670,6 +19878,7 @@ export default [
     date: "2021-06-11",
     ave_temperature: 13.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2210,
@@ -17678,6 +19887,7 @@ export default [
     date: "2021-06-12",
     ave_temperature: 12.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2211,
@@ -17686,6 +19896,7 @@ export default [
     date: "2021-06-13",
     ave_temperature: 18,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2212,
@@ -17694,14 +19905,16 @@ export default [
     date: "2021-06-14",
     ave_temperature: 23.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2213,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2021-06-15",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2214,
@@ -17710,6 +19923,7 @@ export default [
     date: "2021-06-16",
     ave_temperature: 16.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2215,
@@ -17718,6 +19932,7 @@ export default [
     date: "2021-06-17",
     ave_temperature: 16.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2216,
@@ -17726,6 +19941,7 @@ export default [
     date: "2021-06-18",
     ave_temperature: 14.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2217,
@@ -17734,6 +19950,7 @@ export default [
     date: "2021-06-19",
     ave_temperature: 15,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 2218,
@@ -17742,6 +19959,7 @@ export default [
     date: "2021-06-20",
     ave_temperature: 16.1,
     total_preciptation: 0.9,
+    user_id: null,
   },
   {
     id: 2219,
@@ -17750,6 +19968,7 @@ export default [
     date: "2021-06-21",
     ave_temperature: 15.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2220,
@@ -17758,6 +19977,7 @@ export default [
     date: "2021-06-22",
     ave_temperature: 21.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2221,
@@ -17766,6 +19986,7 @@ export default [
     date: "2021-06-23",
     ave_temperature: 21.1,
     total_preciptation: 4.8,
+    user_id: null,
   },
   {
     id: 2222,
@@ -17774,6 +19995,7 @@ export default [
     date: "2021-06-24",
     ave_temperature: 16.1,
     total_preciptation: 4.5,
+    user_id: null,
   },
   {
     id: 2223,
@@ -17782,6 +20004,7 @@ export default [
     date: "2021-06-25",
     ave_temperature: 17.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2224,
@@ -17790,6 +20013,7 @@ export default [
     date: "2021-06-26",
     ave_temperature: 22.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2225,
@@ -17798,6 +20022,7 @@ export default [
     date: "2021-06-27",
     ave_temperature: 22.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2226,
@@ -17806,6 +20031,7 @@ export default [
     date: "2021-06-28",
     ave_temperature: 23.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2227,
@@ -17814,6 +20040,7 @@ export default [
     date: "2021-06-29",
     ave_temperature: 23.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2228,
@@ -17822,6 +20049,7 @@ export default [
     date: "2021-06-30",
     ave_temperature: 23.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2229,
@@ -17830,6 +20058,7 @@ export default [
     date: "2021-07-01",
     ave_temperature: 25.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2230,
@@ -17838,6 +20067,7 @@ export default [
     date: "2021-07-02",
     ave_temperature: 25.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2231,
@@ -17846,6 +20076,7 @@ export default [
     date: "2021-07-03",
     ave_temperature: 20.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2232,
@@ -17854,6 +20085,7 @@ export default [
     date: "2021-07-04",
     ave_temperature: 20.5,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 2233,
@@ -17862,6 +20094,7 @@ export default [
     date: "2021-07-05",
     ave_temperature: 19.3,
     total_preciptation: 8.8,
+    user_id: null,
   },
   {
     id: 2234,
@@ -17870,6 +20103,7 @@ export default [
     date: "2021-07-06",
     ave_temperature: 20,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2235,
@@ -17878,6 +20112,7 @@ export default [
     date: "2021-07-07",
     ave_temperature: 21.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2236,
@@ -17886,6 +20121,7 @@ export default [
     date: "2021-07-08",
     ave_temperature: 18.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2237,
@@ -17894,6 +20130,7 @@ export default [
     date: "2021-07-09",
     ave_temperature: 20.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2238,
@@ -17902,6 +20139,7 @@ export default [
     date: "2021-07-10",
     ave_temperature: 21.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2239,
@@ -17910,6 +20148,7 @@ export default [
     date: "2021-07-11",
     ave_temperature: 19.7,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 2240,
@@ -17918,6 +20157,7 @@ export default [
     date: "2021-07-12",
     ave_temperature: 18.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2241,
@@ -17926,6 +20166,7 @@ export default [
     date: "2021-07-13",
     ave_temperature: 20.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2242,
@@ -17934,6 +20175,7 @@ export default [
     date: "2021-07-14",
     ave_temperature: 22.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2243,
@@ -17942,6 +20184,7 @@ export default [
     date: "2021-07-15",
     ave_temperature: 24.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2244,
@@ -17950,6 +20193,7 @@ export default [
     date: "2021-07-16",
     ave_temperature: 21.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2245,
@@ -17958,6 +20202,7 @@ export default [
     date: "2021-07-17",
     ave_temperature: 22.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2246,
@@ -17966,6 +20211,7 @@ export default [
     date: "2021-07-18",
     ave_temperature: 16.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2247,
@@ -17974,6 +20220,7 @@ export default [
     date: "2021-07-19",
     ave_temperature: 15.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2248,
@@ -17982,6 +20229,7 @@ export default [
     date: "2021-07-20",
     ave_temperature: 24.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2249,
@@ -17990,6 +20238,7 @@ export default [
     date: "2021-07-21",
     ave_temperature: 20.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2250,
@@ -17998,6 +20247,7 @@ export default [
     date: "2021-07-22",
     ave_temperature: 20.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2251,
@@ -18006,6 +20256,7 @@ export default [
     date: "2021-07-23",
     ave_temperature: 19,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2252,
@@ -18014,6 +20265,7 @@ export default [
     date: "2021-07-24",
     ave_temperature: 20,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2253,
@@ -18022,6 +20274,7 @@ export default [
     date: "2021-07-25",
     ave_temperature: 19.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2254,
@@ -18030,6 +20283,7 @@ export default [
     date: "2021-07-26",
     ave_temperature: 21.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2255,
@@ -18038,6 +20292,7 @@ export default [
     date: "2021-07-27",
     ave_temperature: 19.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2256,
@@ -18046,6 +20301,7 @@ export default [
     date: "2021-07-28",
     ave_temperature: 24,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2257,
@@ -18054,6 +20310,7 @@ export default [
     date: "2021-07-29",
     ave_temperature: 23.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2258,
@@ -18062,6 +20319,7 @@ export default [
     date: "2021-07-30",
     ave_temperature: 21.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2259,
@@ -18070,6 +20328,7 @@ export default [
     date: "2021-07-31",
     ave_temperature: 23.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2260,
@@ -18078,6 +20337,7 @@ export default [
     date: "2021-08-01",
     ave_temperature: 24.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2261,
@@ -18086,22 +20346,25 @@ export default [
     date: "2021-08-02",
     ave_temperature: 25.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2262,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2021-08-03",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2263,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2021-08-04",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2264,
@@ -18110,6 +20373,7 @@ export default [
     date: "2021-08-05",
     ave_temperature: 20.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2265,
@@ -18118,6 +20382,7 @@ export default [
     date: "2021-08-06",
     ave_temperature: 22.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2266,
@@ -18126,6 +20391,7 @@ export default [
     date: "2021-08-07",
     ave_temperature: 21.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2267,
@@ -18134,6 +20400,7 @@ export default [
     date: "2021-08-08",
     ave_temperature: 16.1,
     total_preciptation: 12.1,
+    user_id: null,
   },
   {
     id: 2268,
@@ -18142,6 +20409,7 @@ export default [
     date: "2021-08-09",
     ave_temperature: 17.8,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 2269,
@@ -18150,6 +20418,7 @@ export default [
     date: "2021-08-10",
     ave_temperature: 20.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2270,
@@ -18158,6 +20427,7 @@ export default [
     date: "2021-08-11",
     ave_temperature: 21.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2271,
@@ -18166,6 +20436,7 @@ export default [
     date: "2021-08-12",
     ave_temperature: 20,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2272,
@@ -18174,6 +20445,7 @@ export default [
     date: "2021-08-13",
     ave_temperature: 21.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2273,
@@ -18182,6 +20454,7 @@ export default [
     date: "2021-08-14",
     ave_temperature: 24.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2274,
@@ -18190,6 +20463,7 @@ export default [
     date: "2021-08-15",
     ave_temperature: 24.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2275,
@@ -18198,6 +20472,7 @@ export default [
     date: "2021-08-16",
     ave_temperature: 23,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2276,
@@ -18206,6 +20481,7 @@ export default [
     date: "2021-08-17",
     ave_temperature: 12.6,
     total_preciptation: 20.1,
+    user_id: null,
   },
   {
     id: 2277,
@@ -18214,6 +20490,7 @@ export default [
     date: "2021-08-18",
     ave_temperature: 12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2278,
@@ -18222,6 +20499,7 @@ export default [
     date: "2021-08-19",
     ave_temperature: 13.6,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2279,
@@ -18230,6 +20508,7 @@ export default [
     date: "2021-08-20",
     ave_temperature: 14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2280,
@@ -18238,6 +20517,7 @@ export default [
     date: "2021-08-21",
     ave_temperature: 10.7,
     total_preciptation: 2.2,
+    user_id: null,
   },
   {
     id: 2281,
@@ -18246,6 +20526,7 @@ export default [
     date: "2021-08-22",
     ave_temperature: 15.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2282,
@@ -18254,6 +20535,7 @@ export default [
     date: "2021-08-23",
     ave_temperature: 13.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2283,
@@ -18262,6 +20544,7 @@ export default [
     date: "2021-08-24",
     ave_temperature: 11.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2284,
@@ -18270,6 +20553,7 @@ export default [
     date: "2021-08-25",
     ave_temperature: 13.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2285,
@@ -18278,6 +20562,7 @@ export default [
     date: "2021-08-26",
     ave_temperature: 15.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2286,
@@ -18286,6 +20571,7 @@ export default [
     date: "2021-08-27",
     ave_temperature: 16.2,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 2287,
@@ -18294,6 +20580,7 @@ export default [
     date: "2021-08-28",
     ave_temperature: 15.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2288,
@@ -18302,6 +20589,7 @@ export default [
     date: "2021-08-29",
     ave_temperature: 17.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2289,
@@ -18310,6 +20598,7 @@ export default [
     date: "2021-08-30",
     ave_temperature: 18.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2290,
@@ -18318,6 +20607,7 @@ export default [
     date: "2021-08-31",
     ave_temperature: 16.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2291,
@@ -18326,6 +20616,7 @@ export default [
     date: "2021-09-01",
     ave_temperature: 11.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2292,
@@ -18334,6 +20625,7 @@ export default [
     date: "2021-09-02",
     ave_temperature: 10.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2293,
@@ -18342,6 +20634,7 @@ export default [
     date: "2021-09-03",
     ave_temperature: 12.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2294,
@@ -18350,6 +20643,7 @@ export default [
     date: "2021-09-04",
     ave_temperature: 16.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2295,
@@ -18358,6 +20652,7 @@ export default [
     date: "2021-09-05",
     ave_temperature: 21.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2296,
@@ -18366,6 +20661,7 @@ export default [
     date: "2021-09-06",
     ave_temperature: 16.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2297,
@@ -18374,6 +20670,7 @@ export default [
     date: "2021-09-07",
     ave_temperature: 16.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2298,
@@ -18382,6 +20679,7 @@ export default [
     date: "2021-09-08",
     ave_temperature: 18.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2299,
@@ -18390,6 +20688,7 @@ export default [
     date: "2021-09-09",
     ave_temperature: 20,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2300,
@@ -18398,6 +20697,7 @@ export default [
     date: "2021-09-10",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2301,
@@ -18406,6 +20706,7 @@ export default [
     date: "2021-09-11",
     ave_temperature: 12.5,
     total_preciptation: 16.4,
+    user_id: null,
   },
   {
     id: 2302,
@@ -18414,6 +20715,7 @@ export default [
     date: "2021-09-12",
     ave_temperature: 14.3,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2303,
@@ -18422,6 +20724,7 @@ export default [
     date: "2021-09-13",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2304,
@@ -18430,6 +20733,7 @@ export default [
     date: "2021-09-14",
     ave_temperature: 14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2305,
@@ -18438,6 +20742,7 @@ export default [
     date: "2021-09-15",
     ave_temperature: 12.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2306,
@@ -18446,6 +20751,7 @@ export default [
     date: "2021-09-16",
     ave_temperature: 7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2307,
@@ -18454,6 +20760,7 @@ export default [
     date: "2021-09-17",
     ave_temperature: 11.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2308,
@@ -18462,6 +20769,7 @@ export default [
     date: "2021-09-18",
     ave_temperature: 17.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2309,
@@ -18470,6 +20778,7 @@ export default [
     date: "2021-09-19",
     ave_temperature: 13.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2310,
@@ -18478,6 +20787,7 @@ export default [
     date: "2021-09-20",
     ave_temperature: 10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2311,
@@ -18486,6 +20796,7 @@ export default [
     date: "2021-09-21",
     ave_temperature: 14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2312,
@@ -18494,6 +20805,7 @@ export default [
     date: "2021-09-22",
     ave_temperature: 15.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2313,
@@ -18502,6 +20814,7 @@ export default [
     date: "2021-09-23",
     ave_temperature: 11.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2314,
@@ -18510,6 +20823,7 @@ export default [
     date: "2021-09-24",
     ave_temperature: 12.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2315,
@@ -18518,6 +20832,7 @@ export default [
     date: "2021-09-25",
     ave_temperature: 20.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2316,
@@ -18526,6 +20841,7 @@ export default [
     date: "2021-09-26",
     ave_temperature: 18.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2317,
@@ -18534,6 +20850,7 @@ export default [
     date: "2021-09-27",
     ave_temperature: 16.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2318,
@@ -18542,6 +20859,7 @@ export default [
     date: "2021-09-28",
     ave_temperature: 12,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2319,
@@ -18550,6 +20868,7 @@ export default [
     date: "2021-09-29",
     ave_temperature: 10.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2320,
@@ -18558,6 +20877,7 @@ export default [
     date: "2021-09-30",
     ave_temperature: 13.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2321,
@@ -18566,6 +20886,7 @@ export default [
     date: "2021-10-01",
     ave_temperature: 10.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2322,
@@ -18574,6 +20895,7 @@ export default [
     date: "2021-10-02",
     ave_temperature: 10.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2323,
@@ -18582,6 +20904,7 @@ export default [
     date: "2021-10-03",
     ave_temperature: 15.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2324,
@@ -18590,6 +20913,7 @@ export default [
     date: "2021-10-04",
     ave_temperature: 8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2325,
@@ -18598,6 +20922,7 @@ export default [
     date: "2021-10-05",
     ave_temperature: 16.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2326,
@@ -18606,6 +20931,7 @@ export default [
     date: "2021-10-06",
     ave_temperature: 13.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2327,
@@ -18614,6 +20940,7 @@ export default [
     date: "2021-10-07",
     ave_temperature: 6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2328,
@@ -18622,6 +20949,7 @@ export default [
     date: "2021-10-08",
     ave_temperature: 5.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2329,
@@ -18630,6 +20958,7 @@ export default [
     date: "2021-10-09",
     ave_temperature: 8.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2330,
@@ -18638,6 +20967,7 @@ export default [
     date: "2021-10-10",
     ave_temperature: 8.2,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 2331,
@@ -18646,6 +20976,7 @@ export default [
     date: "2021-10-11",
     ave_temperature: 0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2332,
@@ -18654,6 +20985,7 @@ export default [
     date: "2021-10-12",
     ave_temperature: -0.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2333,
@@ -18662,6 +20994,7 @@ export default [
     date: "2021-10-13",
     ave_temperature: 2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2334,
@@ -18670,6 +21003,7 @@ export default [
     date: "2021-10-14",
     ave_temperature: 4.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2335,
@@ -18678,6 +21012,7 @@ export default [
     date: "2021-10-15",
     ave_temperature: 7.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2336,
@@ -18686,6 +21021,7 @@ export default [
     date: "2021-10-16",
     ave_temperature: 12.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2337,
@@ -18694,6 +21030,7 @@ export default [
     date: "2021-10-17",
     ave_temperature: 16.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2338,
@@ -18702,6 +21039,7 @@ export default [
     date: "2021-10-18",
     ave_temperature: 5.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2339,
@@ -18710,6 +21048,7 @@ export default [
     date: "2021-10-19",
     ave_temperature: 7.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2340,
@@ -18718,6 +21057,7 @@ export default [
     date: "2021-10-20",
     ave_temperature: 5.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2341,
@@ -18726,6 +21066,7 @@ export default [
     date: "2021-10-21",
     ave_temperature: 9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2342,
@@ -18734,6 +21075,7 @@ export default [
     date: "2021-10-22",
     ave_temperature: 7.9,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 2343,
@@ -18742,6 +21084,7 @@ export default [
     date: "2021-10-23",
     ave_temperature: 8.2,
     total_preciptation: 6.3,
+    user_id: null,
   },
   {
     id: 2344,
@@ -18750,6 +21093,7 @@ export default [
     date: "2021-10-24",
     ave_temperature: 6.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2345,
@@ -18758,6 +21102,7 @@ export default [
     date: "2021-10-25",
     ave_temperature: 9.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2346,
@@ -18766,6 +21111,7 @@ export default [
     date: "2021-10-26",
     ave_temperature: 5.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2347,
@@ -18774,6 +21120,7 @@ export default [
     date: "2021-10-27",
     ave_temperature: 7.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2348,
@@ -18782,6 +21129,7 @@ export default [
     date: "2021-10-28",
     ave_temperature: 6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2349,
@@ -18790,6 +21138,7 @@ export default [
     date: "2021-10-29",
     ave_temperature: 2.4,
     total_preciptation: 13.8,
+    user_id: null,
   },
   {
     id: 2350,
@@ -18798,6 +21147,7 @@ export default [
     date: "2021-10-30",
     ave_temperature: -6.7,
     total_preciptation: 2.9,
+    user_id: null,
   },
   {
     id: 2351,
@@ -18806,6 +21156,7 @@ export default [
     date: "2021-10-31",
     ave_temperature: -12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2352,
@@ -18814,6 +21165,7 @@ export default [
     date: "2021-11-01",
     ave_temperature: -10.7,
     total_preciptation: 1.5,
+    user_id: null,
   },
   {
     id: 2353,
@@ -18822,6 +21174,7 @@ export default [
     date: "2021-11-02",
     ave_temperature: -1.1,
     total_preciptation: 6.8,
+    user_id: null,
   },
   {
     id: 2354,
@@ -18830,6 +21183,7 @@ export default [
     date: "2021-11-03",
     ave_temperature: 7.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2355,
@@ -18838,6 +21192,7 @@ export default [
     date: "2021-11-04",
     ave_temperature: 10.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2356,
@@ -18846,6 +21201,7 @@ export default [
     date: "2021-11-05",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2357,
@@ -18854,6 +21210,7 @@ export default [
     date: "2021-11-06",
     ave_temperature: 5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2358,
@@ -18862,6 +21219,7 @@ export default [
     date: "2021-11-07",
     ave_temperature: 1.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2359,
@@ -18870,6 +21228,7 @@ export default [
     date: "2021-11-08",
     ave_temperature: 1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2360,
@@ -18878,6 +21237,7 @@ export default [
     date: "2021-11-09",
     ave_temperature: -0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2361,
@@ -18886,6 +21246,7 @@ export default [
     date: "2021-11-10",
     ave_temperature: 3.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2362,
@@ -18894,6 +21255,7 @@ export default [
     date: "2021-11-11",
     ave_temperature: -1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2363,
@@ -18902,6 +21264,7 @@ export default [
     date: "2021-11-12",
     ave_temperature: 4.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2364,
@@ -18910,6 +21273,7 @@ export default [
     date: "2021-11-13",
     ave_temperature: 6.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2365,
@@ -18918,6 +21282,7 @@ export default [
     date: "2021-11-14",
     ave_temperature: 8.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2366,
@@ -18926,6 +21291,7 @@ export default [
     date: "2021-11-15",
     ave_temperature: 9.6,
     total_preciptation: 6.1,
+    user_id: null,
   },
   {
     id: 2367,
@@ -18934,6 +21300,7 @@ export default [
     date: "2021-11-16",
     ave_temperature: 1.7,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2368,
@@ -18942,6 +21309,7 @@ export default [
     date: "2021-11-17",
     ave_temperature: -6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2369,
@@ -18950,6 +21318,7 @@ export default [
     date: "2021-11-18",
     ave_temperature: 0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2370,
@@ -18958,6 +21327,7 @@ export default [
     date: "2021-11-19",
     ave_temperature: -0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2371,
@@ -18966,6 +21336,7 @@ export default [
     date: "2021-11-20",
     ave_temperature: -1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2372,
@@ -18974,6 +21345,7 @@ export default [
     date: "2021-11-21",
     ave_temperature: -0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2373,
@@ -18982,6 +21354,7 @@ export default [
     date: "2021-11-22",
     ave_temperature: 8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2374,
@@ -18990,6 +21363,7 @@ export default [
     date: "2021-11-23",
     ave_temperature: 0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2375,
@@ -18998,6 +21372,7 @@ export default [
     date: "2021-11-24",
     ave_temperature: -7.1,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 2376,
@@ -19006,6 +21381,7 @@ export default [
     date: "2021-11-25",
     ave_temperature: 6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2377,
@@ -19014,6 +21390,7 @@ export default [
     date: "2021-11-26",
     ave_temperature: 7.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2378,
@@ -19022,6 +21399,7 @@ export default [
     date: "2021-11-27",
     ave_temperature: 3.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2379,
@@ -19030,6 +21408,7 @@ export default [
     date: "2021-11-28",
     ave_temperature: 8.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2380,
@@ -19038,6 +21417,7 @@ export default [
     date: "2021-11-29",
     ave_temperature: 5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2381,
@@ -19046,14 +21426,16 @@ export default [
     date: "2021-11-30",
     ave_temperature: 8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2382,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2021-12-01",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2383,
@@ -19062,6 +21444,7 @@ export default [
     date: "2021-12-02",
     ave_temperature: 2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2384,
@@ -19070,6 +21453,7 @@ export default [
     date: "2021-12-03",
     ave_temperature: -6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2385,
@@ -19078,6 +21462,7 @@ export default [
     date: "2021-12-04",
     ave_temperature: -5.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2386,
@@ -19086,6 +21471,7 @@ export default [
     date: "2021-12-05",
     ave_temperature: -14.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2387,
@@ -19094,6 +21480,7 @@ export default [
     date: "2021-12-06",
     ave_temperature: -14.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2388,
@@ -19102,6 +21489,7 @@ export default [
     date: "2021-12-07",
     ave_temperature: -7.6,
     total_preciptation: 4,
+    user_id: null,
   },
   {
     id: 2389,
@@ -19110,6 +21498,7 @@ export default [
     date: "2021-12-08",
     ave_temperature: -0.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2390,
@@ -19118,6 +21507,7 @@ export default [
     date: "2021-12-09",
     ave_temperature: -5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2391,
@@ -19126,6 +21516,7 @@ export default [
     date: "2021-12-10",
     ave_temperature: -5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2392,
@@ -19134,6 +21525,7 @@ export default [
     date: "2021-12-11",
     ave_temperature: 0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2393,
@@ -19142,6 +21534,7 @@ export default [
     date: "2021-12-12",
     ave_temperature: -1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2394,
@@ -19150,6 +21543,7 @@ export default [
     date: "2021-12-13",
     ave_temperature: -4.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2395,
@@ -19158,6 +21552,7 @@ export default [
     date: "2021-12-14",
     ave_temperature: -8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2396,
@@ -19166,6 +21561,7 @@ export default [
     date: "2021-12-15",
     ave_temperature: -16.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2397,
@@ -19174,6 +21570,7 @@ export default [
     date: "2021-12-16",
     ave_temperature: -13.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2398,
@@ -19182,6 +21579,7 @@ export default [
     date: "2021-12-17",
     ave_temperature: -17.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2399,
@@ -19190,6 +21588,7 @@ export default [
     date: "2021-12-18",
     ave_temperature: -4.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2400,
@@ -19198,6 +21597,7 @@ export default [
     date: "2021-12-19",
     ave_temperature: -5.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2401,
@@ -19206,6 +21606,7 @@ export default [
     date: "2021-12-20",
     ave_temperature: -15.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2402,
@@ -19214,6 +21615,7 @@ export default [
     date: "2021-12-21",
     ave_temperature: -8.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2403,
@@ -19222,6 +21624,7 @@ export default [
     date: "2021-12-22",
     ave_temperature: 2.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2404,
@@ -19230,6 +21633,7 @@ export default [
     date: "2021-12-23",
     ave_temperature: -3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2405,
@@ -19238,6 +21642,7 @@ export default [
     date: "2021-12-24",
     ave_temperature: -17.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2406,
@@ -19246,6 +21651,7 @@ export default [
     date: "2021-12-25",
     ave_temperature: -22.8,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2407,
@@ -19254,6 +21660,7 @@ export default [
     date: "2021-12-26",
     ave_temperature: -26.9,
     total_preciptation: 0.9,
+    user_id: null,
   },
   {
     id: 2408,
@@ -19262,6 +21669,7 @@ export default [
     date: "2021-12-27",
     ave_temperature: -30.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2409,
@@ -19270,6 +21678,7 @@ export default [
     date: "2021-12-28",
     ave_temperature: -25.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2410,
@@ -19278,6 +21687,7 @@ export default [
     date: "2021-12-29",
     ave_temperature: -21.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2411,
@@ -19286,6 +21696,7 @@ export default [
     date: "2021-12-30",
     ave_temperature: -16.4,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 2412,
@@ -19294,6 +21705,7 @@ export default [
     date: "2021-12-31",
     ave_temperature: -25.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2413,
@@ -19302,6 +21714,7 @@ export default [
     date: "2022-01-01",
     ave_temperature: -17.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2414,
@@ -19310,6 +21723,7 @@ export default [
     date: "2022-01-02",
     ave_temperature: -4.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2415,
@@ -19318,6 +21732,7 @@ export default [
     date: "2022-01-03",
     ave_temperature: -15.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2416,
@@ -19326,6 +21741,7 @@ export default [
     date: "2022-01-04",
     ave_temperature: -24,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 2417,
@@ -19334,6 +21750,7 @@ export default [
     date: "2022-01-05",
     ave_temperature: -28.5,
     total_preciptation: 1.3,
+    user_id: null,
   },
   {
     id: 2418,
@@ -19342,6 +21759,7 @@ export default [
     date: "2022-01-06",
     ave_temperature: -26.2,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2419,
@@ -19350,6 +21768,7 @@ export default [
     date: "2022-01-07",
     ave_temperature: -19.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2420,
@@ -19358,6 +21777,7 @@ export default [
     date: "2022-01-08",
     ave_temperature: -18,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2421,
@@ -19366,6 +21786,7 @@ export default [
     date: "2022-01-09",
     ave_temperature: -9.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2422,
@@ -19374,6 +21795,7 @@ export default [
     date: "2022-01-10",
     ave_temperature: 2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2423,
@@ -19382,6 +21804,7 @@ export default [
     date: "2022-01-11",
     ave_temperature: 2.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2424,
@@ -19390,6 +21813,7 @@ export default [
     date: "2022-01-12",
     ave_temperature: 5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2425,
@@ -19398,6 +21822,7 @@ export default [
     date: "2022-01-13",
     ave_temperature: 6.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2426,
@@ -19406,6 +21831,7 @@ export default [
     date: "2022-01-14",
     ave_temperature: 1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2427,
@@ -19414,6 +21840,7 @@ export default [
     date: "2022-01-15",
     ave_temperature: 7.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2428,
@@ -19422,6 +21849,7 @@ export default [
     date: "2022-01-16",
     ave_temperature: 3.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2429,
@@ -19430,6 +21858,7 @@ export default [
     date: "2022-01-17",
     ave_temperature: 5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2430,
@@ -19438,6 +21867,7 @@ export default [
     date: "2022-01-18",
     ave_temperature: -11.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2431,
@@ -19446,6 +21876,7 @@ export default [
     date: "2022-01-19",
     ave_temperature: -18.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2432,
@@ -19454,6 +21885,7 @@ export default [
     date: "2022-01-20",
     ave_temperature: -0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2433,
@@ -19462,6 +21894,7 @@ export default [
     date: "2022-01-21",
     ave_temperature: 3.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2434,
@@ -19470,6 +21903,7 @@ export default [
     date: "2022-01-22",
     ave_temperature: 8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2435,
@@ -19478,6 +21912,7 @@ export default [
     date: "2022-01-23",
     ave_temperature: 3.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2436,
@@ -19486,6 +21921,7 @@ export default [
     date: "2022-01-24",
     ave_temperature: -0.6,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2437,
@@ -19494,6 +21930,7 @@ export default [
     date: "2022-01-25",
     ave_temperature: -1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2438,
@@ -19502,6 +21939,7 @@ export default [
     date: "2022-01-26",
     ave_temperature: 0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2439,
@@ -19510,6 +21948,7 @@ export default [
     date: "2022-01-27",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2440,
@@ -19518,6 +21957,7 @@ export default [
     date: "2022-01-28",
     ave_temperature: 5.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2441,
@@ -19526,6 +21966,7 @@ export default [
     date: "2022-01-29",
     ave_temperature: 5.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2442,
@@ -19534,6 +21975,7 @@ export default [
     date: "2022-01-30",
     ave_temperature: 6.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2443,
@@ -19542,6 +21984,7 @@ export default [
     date: "2022-01-31",
     ave_temperature: -4.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2444,
@@ -19550,6 +21993,7 @@ export default [
     date: "2022-02-01",
     ave_temperature: -17.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2445,
@@ -19558,22 +22002,25 @@ export default [
     date: "2022-02-02",
     ave_temperature: -19.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2446,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2022-02-03",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2447,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2022-02-04",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2448,
@@ -19582,6 +22029,7 @@ export default [
     date: "2022-02-05",
     ave_temperature: 2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2449,
@@ -19590,6 +22038,7 @@ export default [
     date: "2022-02-06",
     ave_temperature: 3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2450,
@@ -19598,6 +22047,7 @@ export default [
     date: "2022-02-07",
     ave_temperature: 8.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2451,
@@ -19606,6 +22056,7 @@ export default [
     date: "2022-02-08",
     ave_temperature: 5.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2452,
@@ -19614,6 +22065,7 @@ export default [
     date: "2022-02-09",
     ave_temperature: 8.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2453,
@@ -19622,6 +22074,7 @@ export default [
     date: "2022-02-10",
     ave_temperature: 8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2454,
@@ -19630,6 +22083,7 @@ export default [
     date: "2022-02-11",
     ave_temperature: -3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2455,
@@ -19638,6 +22092,7 @@ export default [
     date: "2022-02-12",
     ave_temperature: 1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2456,
@@ -19646,6 +22101,7 @@ export default [
     date: "2022-02-13",
     ave_temperature: 3.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2457,
@@ -19654,6 +22110,7 @@ export default [
     date: "2022-02-14",
     ave_temperature: 0.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2458,
@@ -19662,6 +22119,7 @@ export default [
     date: "2022-02-15",
     ave_temperature: -1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2459,
@@ -19670,6 +22128,7 @@ export default [
     date: "2022-02-16",
     ave_temperature: -6.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2460,
@@ -19678,6 +22137,7 @@ export default [
     date: "2022-02-17",
     ave_temperature: -4.6,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 2461,
@@ -19686,6 +22146,7 @@ export default [
     date: "2022-02-18",
     ave_temperature: -2.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2462,
@@ -19694,6 +22155,7 @@ export default [
     date: "2022-02-19",
     ave_temperature: 5.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2463,
@@ -19702,6 +22164,7 @@ export default [
     date: "2022-02-20",
     ave_temperature: -8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2464,
@@ -19710,6 +22173,7 @@ export default [
     date: "2022-02-21",
     ave_temperature: -21,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2465,
@@ -19718,6 +22182,7 @@ export default [
     date: "2022-02-22",
     ave_temperature: -24.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2466,
@@ -19726,6 +22191,7 @@ export default [
     date: "2022-02-23",
     ave_temperature: -22.2,
     total_preciptation: 0.1,
+    user_id: null,
   },
   {
     id: 2467,
@@ -19734,6 +22200,7 @@ export default [
     date: "2022-02-24",
     ave_temperature: -11,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2468,
@@ -19742,6 +22209,7 @@ export default [
     date: "2022-02-25",
     ave_temperature: -6.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2469,
@@ -19750,6 +22218,7 @@ export default [
     date: "2022-02-26",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2470,
@@ -19758,6 +22227,7 @@ export default [
     date: "2022-02-27",
     ave_temperature: 4.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2471,
@@ -19766,6 +22236,7 @@ export default [
     date: "2022-02-28",
     ave_temperature: 4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2472,
@@ -19774,6 +22245,7 @@ export default [
     date: "2022-03-01",
     ave_temperature: 4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2473,
@@ -19782,6 +22254,7 @@ export default [
     date: "2022-03-02",
     ave_temperature: -0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2474,
@@ -19790,6 +22263,7 @@ export default [
     date: "2022-03-03",
     ave_temperature: -6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2475,
@@ -19798,6 +22272,7 @@ export default [
     date: "2022-03-04",
     ave_temperature: -12.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2476,
@@ -19806,6 +22281,7 @@ export default [
     date: "2022-03-05",
     ave_temperature: -10.5,
     total_preciptation: 3.3,
+    user_id: null,
   },
   {
     id: 2477,
@@ -19814,6 +22290,7 @@ export default [
     date: "2022-03-06",
     ave_temperature: -5.7,
     total_preciptation: 2.4,
+    user_id: null,
   },
   {
     id: 2478,
@@ -19822,6 +22299,7 @@ export default [
     date: "2022-03-07",
     ave_temperature: -0.4,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 2479,
@@ -19830,6 +22308,7 @@ export default [
     date: "2022-03-08",
     ave_temperature: -9.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2480,
@@ -19838,6 +22317,7 @@ export default [
     date: "2022-03-09",
     ave_temperature: -13.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2481,
@@ -19846,6 +22326,7 @@ export default [
     date: "2022-03-10",
     ave_temperature: -8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2482,
@@ -19854,6 +22335,7 @@ export default [
     date: "2022-03-11",
     ave_temperature: -6.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2483,
@@ -19862,6 +22344,7 @@ export default [
     date: "2022-03-12",
     ave_temperature: 4.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2484,
@@ -19870,6 +22353,7 @@ export default [
     date: "2022-03-13",
     ave_temperature: 4.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2485,
@@ -19878,6 +22362,7 @@ export default [
     date: "2022-03-14",
     ave_temperature: 7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2486,
@@ -19886,6 +22371,7 @@ export default [
     date: "2022-03-15",
     ave_temperature: 6.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2487,
@@ -19894,6 +22380,7 @@ export default [
     date: "2022-03-16",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2488,
@@ -19902,6 +22389,7 @@ export default [
     date: "2022-03-17",
     ave_temperature: 4.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2489,
@@ -19910,6 +22398,7 @@ export default [
     date: "2022-03-18",
     ave_temperature: 5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2490,
@@ -19918,6 +22407,7 @@ export default [
     date: "2022-03-19",
     ave_temperature: 6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2491,
@@ -19926,6 +22416,7 @@ export default [
     date: "2022-03-20",
     ave_temperature: 1.9,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 2492,
@@ -19934,6 +22425,7 @@ export default [
     date: "2022-03-21",
     ave_temperature: 4.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2493,
@@ -19942,6 +22434,7 @@ export default [
     date: "2022-03-22",
     ave_temperature: 7.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2494,
@@ -19950,6 +22443,7 @@ export default [
     date: "2022-03-23",
     ave_temperature: 11.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2495,
@@ -19958,6 +22452,7 @@ export default [
     date: "2022-03-24",
     ave_temperature: 3,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 2496,
@@ -19966,6 +22461,7 @@ export default [
     date: "2022-03-25",
     ave_temperature: 2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2497,
@@ -19974,6 +22470,7 @@ export default [
     date: "2022-03-26",
     ave_temperature: 4.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2498,
@@ -19982,6 +22479,7 @@ export default [
     date: "2022-03-27",
     ave_temperature: 7.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2499,
@@ -19990,6 +22488,7 @@ export default [
     date: "2022-03-28",
     ave_temperature: 6.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2500,
@@ -19998,6 +22497,7 @@ export default [
     date: "2022-03-29",
     ave_temperature: 2.4,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2501,
@@ -20006,6 +22506,7 @@ export default [
     date: "2022-03-30",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2502,
@@ -20014,6 +22515,7 @@ export default [
     date: "2022-03-31",
     ave_temperature: 4.9,
     total_preciptation: 4,
+    user_id: null,
   },
   {
     id: 2503,
@@ -20022,6 +22524,7 @@ export default [
     date: "2022-04-01",
     ave_temperature: 5.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2504,
@@ -20030,6 +22533,7 @@ export default [
     date: "2022-04-02",
     ave_temperature: 6,
     total_preciptation: 3,
+    user_id: null,
   },
   {
     id: 2505,
@@ -20038,6 +22542,7 @@ export default [
     date: "2022-04-03",
     ave_temperature: 4.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2506,
@@ -20046,6 +22551,7 @@ export default [
     date: "2022-04-04",
     ave_temperature: 6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2507,
@@ -20054,6 +22560,7 @@ export default [
     date: "2022-04-05",
     ave_temperature: 6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2508,
@@ -20062,6 +22569,7 @@ export default [
     date: "2022-04-06",
     ave_temperature: 3.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2509,
@@ -20070,6 +22578,7 @@ export default [
     date: "2022-04-07",
     ave_temperature: 5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2510,
@@ -20078,6 +22587,7 @@ export default [
     date: "2022-04-08",
     ave_temperature: 13.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2511,
@@ -20086,6 +22596,7 @@ export default [
     date: "2022-04-09",
     ave_temperature: 3.7,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 2512,
@@ -20094,6 +22605,7 @@ export default [
     date: "2022-04-10",
     ave_temperature: -1.6,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 2513,
@@ -20102,6 +22614,7 @@ export default [
     date: "2022-04-11",
     ave_temperature: -5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2514,
@@ -20110,6 +22623,7 @@ export default [
     date: "2022-04-12",
     ave_temperature: -6.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2515,
@@ -20118,6 +22632,7 @@ export default [
     date: "2022-04-13",
     ave_temperature: -8.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2516,
@@ -20126,6 +22641,7 @@ export default [
     date: "2022-04-14",
     ave_temperature: -8.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2517,
@@ -20134,6 +22650,7 @@ export default [
     date: "2022-04-15",
     ave_temperature: -5.5,
     total_preciptation: 0.9,
+    user_id: null,
   },
   {
     id: 2518,
@@ -20142,6 +22659,7 @@ export default [
     date: "2022-04-16",
     ave_temperature: -4.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2519,
@@ -20150,6 +22668,7 @@ export default [
     date: "2022-04-17",
     ave_temperature: 0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2520,
@@ -20158,6 +22677,7 @@ export default [
     date: "2022-04-18",
     ave_temperature: 1.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2521,
@@ -20166,6 +22686,7 @@ export default [
     date: "2022-04-19",
     ave_temperature: 5.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2522,
@@ -20174,6 +22695,7 @@ export default [
     date: "2022-04-20",
     ave_temperature: 2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2523,
@@ -20182,6 +22704,7 @@ export default [
     date: "2022-04-21",
     ave_temperature: 3.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2524,
@@ -20190,6 +22713,7 @@ export default [
     date: "2022-04-22",
     ave_temperature: 5.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2525,
@@ -20198,6 +22722,7 @@ export default [
     date: "2022-04-23",
     ave_temperature: 4.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2526,
@@ -20206,6 +22731,7 @@ export default [
     date: "2022-04-24",
     ave_temperature: 6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2527,
@@ -20214,6 +22740,7 @@ export default [
     date: "2022-04-25",
     ave_temperature: 10,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2528,
@@ -20222,6 +22749,7 @@ export default [
     date: "2022-04-26",
     ave_temperature: 11.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2529,
@@ -20230,6 +22758,7 @@ export default [
     date: "2022-04-27",
     ave_temperature: 8.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2530,
@@ -20238,6 +22767,7 @@ export default [
     date: "2022-04-28",
     ave_temperature: 5.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2531,
@@ -20246,6 +22776,7 @@ export default [
     date: "2022-04-29",
     ave_temperature: 6.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2532,
@@ -20254,6 +22785,7 @@ export default [
     date: "2022-04-30",
     ave_temperature: 6.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2533,
@@ -20262,6 +22794,7 @@ export default [
     date: "2022-05-01",
     ave_temperature: 10,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2534,
@@ -20270,6 +22803,7 @@ export default [
     date: "2022-05-02",
     ave_temperature: 9.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2535,
@@ -20278,6 +22812,7 @@ export default [
     date: "2022-05-03",
     ave_temperature: 10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2536,
@@ -20286,6 +22821,7 @@ export default [
     date: "2022-05-04",
     ave_temperature: 13.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2537,
@@ -20294,6 +22830,7 @@ export default [
     date: "2022-05-05",
     ave_temperature: 16.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2538,
@@ -20302,6 +22839,7 @@ export default [
     date: "2022-05-06",
     ave_temperature: 12.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2539,
@@ -20310,6 +22848,7 @@ export default [
     date: "2022-05-07",
     ave_temperature: 9.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2540,
@@ -20318,6 +22857,7 @@ export default [
     date: "2022-05-08",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2541,
@@ -20326,6 +22866,7 @@ export default [
     date: "2022-05-09",
     ave_temperature: 2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2542,
@@ -20334,6 +22875,7 @@ export default [
     date: "2022-05-10",
     ave_temperature: 9.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2543,
@@ -20342,6 +22884,7 @@ export default [
     date: "2022-05-11",
     ave_temperature: 8.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2544,
@@ -20350,6 +22893,7 @@ export default [
     date: "2022-05-12",
     ave_temperature: 6.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2545,
@@ -20358,6 +22902,7 @@ export default [
     date: "2022-05-13",
     ave_temperature: 6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2546,
@@ -20366,6 +22911,7 @@ export default [
     date: "2022-05-14",
     ave_temperature: 10.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2547,
@@ -20374,6 +22920,7 @@ export default [
     date: "2022-05-15",
     ave_temperature: 13.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2548,
@@ -20382,6 +22929,7 @@ export default [
     date: "2022-05-16",
     ave_temperature: 13.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2549,
@@ -20390,6 +22938,7 @@ export default [
     date: "2022-05-17",
     ave_temperature: 10.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2550,
@@ -20398,6 +22947,7 @@ export default [
     date: "2022-05-18",
     ave_temperature: 9.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2551,
@@ -20406,6 +22956,7 @@ export default [
     date: "2022-05-19",
     ave_temperature: 6.7,
     total_preciptation: 3.1,
+    user_id: null,
   },
   {
     id: 2552,
@@ -20414,6 +22965,7 @@ export default [
     date: "2022-05-20",
     ave_temperature: 5.3,
     total_preciptation: 3,
+    user_id: null,
   },
   {
     id: 2553,
@@ -20422,6 +22974,7 @@ export default [
     date: "2022-05-21",
     ave_temperature: 4.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2554,
@@ -20430,6 +22983,7 @@ export default [
     date: "2022-05-22",
     ave_temperature: 7.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2555,
@@ -20438,6 +22992,7 @@ export default [
     date: "2022-05-23",
     ave_temperature: 11.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2556,
@@ -20446,6 +23001,7 @@ export default [
     date: "2022-05-24",
     ave_temperature: 14.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2557,
@@ -20454,6 +23010,7 @@ export default [
     date: "2022-05-25",
     ave_temperature: 13.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2558,
@@ -20462,6 +23019,7 @@ export default [
     date: "2022-05-26",
     ave_temperature: 15.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2559,
@@ -20470,6 +23028,7 @@ export default [
     date: "2022-05-27",
     ave_temperature: 16.7,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 2560,
@@ -20478,6 +23037,7 @@ export default [
     date: "2022-05-28",
     ave_temperature: 13.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2561,
@@ -20486,6 +23046,7 @@ export default [
     date: "2022-05-29",
     ave_temperature: 11.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2562,
@@ -20494,6 +23055,7 @@ export default [
     date: "2022-05-30",
     ave_temperature: 11,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2563,
@@ -20502,6 +23064,7 @@ export default [
     date: "2022-05-31",
     ave_temperature: 9.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2564,
@@ -20510,6 +23073,7 @@ export default [
     date: "2022-06-01",
     ave_temperature: 11.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2565,
@@ -20518,6 +23082,7 @@ export default [
     date: "2022-06-02",
     ave_temperature: 11.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2566,
@@ -20526,6 +23091,7 @@ export default [
     date: "2022-06-03",
     ave_temperature: 11.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2567,
@@ -20534,6 +23100,7 @@ export default [
     date: "2022-06-04",
     ave_temperature: 12.5,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 2568,
@@ -20542,6 +23109,7 @@ export default [
     date: "2022-06-05",
     ave_temperature: 15.7,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2569,
@@ -20550,6 +23118,7 @@ export default [
     date: "2022-06-06",
     ave_temperature: 13.5,
     total_preciptation: 3.7,
+    user_id: null,
   },
   {
     id: 2570,
@@ -20558,6 +23127,7 @@ export default [
     date: "2022-06-07",
     ave_temperature: 11.7,
     total_preciptation: 9.9,
+    user_id: null,
   },
   {
     id: 2571,
@@ -20566,6 +23136,7 @@ export default [
     date: "2022-06-08",
     ave_temperature: 13.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2572,
@@ -20574,6 +23145,7 @@ export default [
     date: "2022-06-09",
     ave_temperature: 17.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2573,
@@ -20582,6 +23154,7 @@ export default [
     date: "2022-06-10",
     ave_temperature: 18.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2574,
@@ -20590,6 +23163,7 @@ export default [
     date: "2022-06-11",
     ave_temperature: 19.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2575,
@@ -20598,6 +23172,7 @@ export default [
     date: "2022-06-12",
     ave_temperature: 15.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2576,
@@ -20606,6 +23181,7 @@ export default [
     date: "2022-06-13",
     ave_temperature: 9.8,
     total_preciptation: 27.5,
+    user_id: null,
   },
   {
     id: 2577,
@@ -20614,6 +23190,7 @@ export default [
     date: "2022-06-14",
     ave_temperature: 9,
     total_preciptation: 40.6,
+    user_id: null,
   },
   {
     id: 2578,
@@ -20622,6 +23199,7 @@ export default [
     date: "2022-06-15",
     ave_temperature: 12.9,
     total_preciptation: 10,
+    user_id: null,
   },
   {
     id: 2579,
@@ -20630,6 +23208,7 @@ export default [
     date: "2022-06-16",
     ave_temperature: 14.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2580,
@@ -20638,6 +23217,7 @@ export default [
     date: "2022-06-17",
     ave_temperature: 16.7,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 2581,
@@ -20646,6 +23226,7 @@ export default [
     date: "2022-06-18",
     ave_temperature: 18.1,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 2582,
@@ -20654,6 +23235,7 @@ export default [
     date: "2022-06-19",
     ave_temperature: 18,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2583,
@@ -20662,6 +23244,7 @@ export default [
     date: "2022-06-20",
     ave_temperature: 13.3,
     total_preciptation: 14.1,
+    user_id: null,
   },
   {
     id: 2584,
@@ -20670,6 +23253,7 @@ export default [
     date: "2022-06-21",
     ave_temperature: 16.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2585,
@@ -20678,6 +23262,7 @@ export default [
     date: "2022-06-22",
     ave_temperature: 18.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2586,
@@ -20686,6 +23271,7 @@ export default [
     date: "2022-06-23",
     ave_temperature: 14.9,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2587,
@@ -20694,6 +23280,7 @@ export default [
     date: "2022-06-24",
     ave_temperature: 7.8,
     total_preciptation: 8.5,
+    user_id: null,
   },
   {
     id: 2588,
@@ -20702,6 +23289,7 @@ export default [
     date: "2022-06-25",
     ave_temperature: 12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2589,
@@ -20710,6 +23298,7 @@ export default [
     date: "2022-06-26",
     ave_temperature: 14.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2590,
@@ -20718,6 +23307,7 @@ export default [
     date: "2022-06-27",
     ave_temperature: 17.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2591,
@@ -20726,6 +23316,7 @@ export default [
     date: "2022-06-28",
     ave_temperature: 17.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2592,
@@ -20734,6 +23325,7 @@ export default [
     date: "2022-06-29",
     ave_temperature: 15.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2593,
@@ -20742,6 +23334,7 @@ export default [
     date: "2022-06-30",
     ave_temperature: 14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2594,
@@ -20750,6 +23343,7 @@ export default [
     date: "2022-07-01",
     ave_temperature: 16.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2595,
@@ -20758,6 +23352,7 @@ export default [
     date: "2022-07-02",
     ave_temperature: 15.7,
     total_preciptation: 3.3,
+    user_id: null,
   },
   {
     id: 2596,
@@ -20766,6 +23361,7 @@ export default [
     date: "2022-07-03",
     ave_temperature: 12.8,
     total_preciptation: 13.2,
+    user_id: null,
   },
   {
     id: 2597,
@@ -20774,6 +23370,7 @@ export default [
     date: "2022-07-04",
     ave_temperature: 15.5,
     total_preciptation: 23.6,
+    user_id: null,
   },
   {
     id: 2598,
@@ -20782,6 +23379,7 @@ export default [
     date: "2022-07-05",
     ave_temperature: 14.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2599,
@@ -20790,6 +23388,7 @@ export default [
     date: "2022-07-06",
     ave_temperature: 14.2,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 2600,
@@ -20798,6 +23397,7 @@ export default [
     date: "2022-07-07",
     ave_temperature: 17.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2601,
@@ -20806,6 +23406,7 @@ export default [
     date: "2022-07-08",
     ave_temperature: 19.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2602,
@@ -20814,6 +23415,7 @@ export default [
     date: "2022-07-09",
     ave_temperature: 19.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2603,
@@ -20822,6 +23424,7 @@ export default [
     date: "2022-07-10",
     ave_temperature: 17.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2604,
@@ -20830,6 +23433,7 @@ export default [
     date: "2022-07-11",
     ave_temperature: 16.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2605,
@@ -20838,6 +23442,7 @@ export default [
     date: "2022-07-12",
     ave_temperature: 19.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2606,
@@ -20846,6 +23451,7 @@ export default [
     date: "2022-07-13",
     ave_temperature: 20.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2607,
@@ -20854,6 +23460,7 @@ export default [
     date: "2022-07-14",
     ave_temperature: 19.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2608,
@@ -20862,6 +23469,7 @@ export default [
     date: "2022-07-15",
     ave_temperature: 18.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2609,
@@ -20870,6 +23478,7 @@ export default [
     date: "2022-07-16",
     ave_temperature: 22.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2610,
@@ -20878,6 +23487,7 @@ export default [
     date: "2022-07-17",
     ave_temperature: 19.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2611,
@@ -20886,6 +23496,7 @@ export default [
     date: "2022-07-18",
     ave_temperature: 15.7,
     total_preciptation: 13.4,
+    user_id: null,
   },
   {
     id: 2612,
@@ -20894,6 +23505,7 @@ export default [
     date: "2022-07-19",
     ave_temperature: 21.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2613,
@@ -20901,7 +23513,8 @@ export default [
     climate_id: 3033875,
     date: "2022-07-20",
     ave_temperature: 19.9,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2614,
@@ -20910,6 +23523,7 @@ export default [
     date: "2022-07-21",
     ave_temperature: 21.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2615,
@@ -20918,6 +23532,7 @@ export default [
     date: "2022-07-22",
     ave_temperature: 18.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2616,
@@ -20926,6 +23541,7 @@ export default [
     date: "2022-07-23",
     ave_temperature: 17.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2617,
@@ -20934,6 +23550,7 @@ export default [
     date: "2022-07-24",
     ave_temperature: 20.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2618,
@@ -20942,6 +23559,7 @@ export default [
     date: "2022-07-25",
     ave_temperature: 18.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2619,
@@ -20950,6 +23568,7 @@ export default [
     date: "2022-07-26",
     ave_temperature: 18.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2620,
@@ -20958,6 +23577,7 @@ export default [
     date: "2022-07-27",
     ave_temperature: 20.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2621,
@@ -20966,6 +23586,7 @@ export default [
     date: "2022-07-28",
     ave_temperature: 22.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2622,
@@ -20974,6 +23595,7 @@ export default [
     date: "2022-07-29",
     ave_temperature: 23.4,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 2623,
@@ -20982,6 +23604,7 @@ export default [
     date: "2022-07-30",
     ave_temperature: 21.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2624,
@@ -20990,6 +23613,7 @@ export default [
     date: "2022-07-31",
     ave_temperature: 22.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2625,
@@ -20998,6 +23622,7 @@ export default [
     date: "2022-08-01",
     ave_temperature: 25.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2626,
@@ -21006,22 +23631,25 @@ export default [
     date: "2022-08-02",
     ave_temperature: 18.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2627,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2022-08-03",
-    ave_temperature: 0,
+    ave_temperature: null,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2628,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2022-08-04",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2629,
@@ -21030,6 +23658,7 @@ export default [
     date: "2022-08-05",
     ave_temperature: 13.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2630,
@@ -21038,6 +23667,7 @@ export default [
     date: "2022-08-06",
     ave_temperature: 15.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2631,
@@ -21046,6 +23676,7 @@ export default [
     date: "2022-08-07",
     ave_temperature: 20,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2632,
@@ -21054,6 +23685,7 @@ export default [
     date: "2022-08-08",
     ave_temperature: 23.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2633,
@@ -21062,22 +23694,25 @@ export default [
     date: "2022-08-09",
     ave_temperature: 19.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2634,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2022-08-10",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2635,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2022-08-11",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2636,
@@ -21086,6 +23721,7 @@ export default [
     date: "2022-08-12",
     ave_temperature: 23.2,
     total_preciptation: 2.7,
+    user_id: null,
   },
   {
     id: 2637,
@@ -21094,6 +23730,7 @@ export default [
     date: "2022-08-13",
     ave_temperature: 23.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2638,
@@ -21102,6 +23739,7 @@ export default [
     date: "2022-08-14",
     ave_temperature: 21.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2639,
@@ -21110,6 +23748,7 @@ export default [
     date: "2022-08-15",
     ave_temperature: 19.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2640,
@@ -21118,6 +23757,7 @@ export default [
     date: "2022-08-16",
     ave_temperature: 21.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2641,
@@ -21126,6 +23766,7 @@ export default [
     date: "2022-08-17",
     ave_temperature: 21.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2642,
@@ -21134,6 +23775,7 @@ export default [
     date: "2022-08-18",
     ave_temperature: 21.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2643,
@@ -21142,6 +23784,7 @@ export default [
     date: "2022-08-19",
     ave_temperature: 21.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2644,
@@ -21150,6 +23793,7 @@ export default [
     date: "2022-08-20",
     ave_temperature: 21,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2645,
@@ -21158,6 +23802,7 @@ export default [
     date: "2022-08-21",
     ave_temperature: 22.6,
     total_preciptation: 6.6,
+    user_id: null,
   },
   {
     id: 2646,
@@ -21166,6 +23811,7 @@ export default [
     date: "2022-08-22",
     ave_temperature: 21.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2647,
@@ -21174,6 +23820,7 @@ export default [
     date: "2022-08-23",
     ave_temperature: 19.4,
     total_preciptation: 3.4,
+    user_id: null,
   },
   {
     id: 2648,
@@ -21182,6 +23829,7 @@ export default [
     date: "2022-08-24",
     ave_temperature: 19.8,
     total_preciptation: 3,
+    user_id: null,
   },
   {
     id: 2649,
@@ -21190,6 +23838,7 @@ export default [
     date: "2022-08-25",
     ave_temperature: 19.2,
     total_preciptation: 34.5,
+    user_id: null,
   },
   {
     id: 2650,
@@ -21198,6 +23847,7 @@ export default [
     date: "2022-08-26",
     ave_temperature: 20,
     total_preciptation: 6,
+    user_id: null,
   },
   {
     id: 2651,
@@ -21206,6 +23856,7 @@ export default [
     date: "2022-08-27",
     ave_temperature: 18.3,
     total_preciptation: 2.4,
+    user_id: null,
   },
   {
     id: 2652,
@@ -21214,6 +23865,7 @@ export default [
     date: "2022-08-28",
     ave_temperature: 17.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2653,
@@ -21222,6 +23874,7 @@ export default [
     date: "2022-08-29",
     ave_temperature: 19,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2654,
@@ -21230,6 +23883,7 @@ export default [
     date: "2022-08-30",
     ave_temperature: 22.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2655,
@@ -21238,6 +23892,7 @@ export default [
     date: "2022-08-31",
     ave_temperature: 23.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2656,
@@ -21246,6 +23901,7 @@ export default [
     date: "2022-09-01",
     ave_temperature: 23.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2657,
@@ -21254,6 +23910,7 @@ export default [
     date: "2022-09-02",
     ave_temperature: 19.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2658,
@@ -21262,6 +23919,7 @@ export default [
     date: "2022-09-03",
     ave_temperature: 21.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2659,
@@ -21270,6 +23928,7 @@ export default [
     date: "2022-09-04",
     ave_temperature: 23.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2660,
@@ -21278,6 +23937,7 @@ export default [
     date: "2022-09-05",
     ave_temperature: 20.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2661,
@@ -21286,6 +23946,7 @@ export default [
     date: "2022-09-06",
     ave_temperature: 15.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2662,
@@ -21294,6 +23955,7 @@ export default [
     date: "2022-09-07",
     ave_temperature: 21.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2663,
@@ -21302,6 +23964,7 @@ export default [
     date: "2022-09-08",
     ave_temperature: 11.3,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 2664,
@@ -21310,6 +23973,7 @@ export default [
     date: "2022-09-09",
     ave_temperature: 10.2,
     total_preciptation: 5.7,
+    user_id: null,
   },
   {
     id: 2665,
@@ -21318,6 +23982,7 @@ export default [
     date: "2022-09-10",
     ave_temperature: 14.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2666,
@@ -21326,6 +23991,7 @@ export default [
     date: "2022-09-11",
     ave_temperature: 18.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2667,
@@ -21334,6 +24000,7 @@ export default [
     date: "2022-09-12",
     ave_temperature: 16.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2668,
@@ -21342,6 +24009,7 @@ export default [
     date: "2022-09-13",
     ave_temperature: 15.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2669,
@@ -21350,6 +24018,7 @@ export default [
     date: "2022-09-14",
     ave_temperature: 14.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2670,
@@ -21358,6 +24027,7 @@ export default [
     date: "2022-09-15",
     ave_temperature: 14.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2671,
@@ -21366,6 +24036,7 @@ export default [
     date: "2022-09-16",
     ave_temperature: 15.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2672,
@@ -21374,6 +24045,7 @@ export default [
     date: "2022-09-17",
     ave_temperature: 12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2673,
@@ -21382,6 +24054,7 @@ export default [
     date: "2022-09-18",
     ave_temperature: 10,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2674,
@@ -21390,6 +24063,7 @@ export default [
     date: "2022-09-19",
     ave_temperature: 11.9,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 2675,
@@ -21398,6 +24072,7 @@ export default [
     date: "2022-09-20",
     ave_temperature: 7.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2676,
@@ -21406,6 +24081,7 @@ export default [
     date: "2022-09-21",
     ave_temperature: 7.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2677,
@@ -21414,6 +24090,7 @@ export default [
     date: "2022-09-22",
     ave_temperature: 8.2,
     total_preciptation: 2.3,
+    user_id: null,
   },
   {
     id: 2678,
@@ -21422,6 +24099,7 @@ export default [
     date: "2022-09-23",
     ave_temperature: 13.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2679,
@@ -21430,6 +24108,7 @@ export default [
     date: "2022-09-24",
     ave_temperature: 14,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2680,
@@ -21438,6 +24117,7 @@ export default [
     date: "2022-09-25",
     ave_temperature: 15.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2681,
@@ -21446,6 +24126,7 @@ export default [
     date: "2022-09-26",
     ave_temperature: 15.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2682,
@@ -21454,6 +24135,7 @@ export default [
     date: "2022-09-27",
     ave_temperature: 17.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2683,
@@ -21462,6 +24144,7 @@ export default [
     date: "2022-09-28",
     ave_temperature: 19.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2684,
@@ -21470,6 +24153,7 @@ export default [
     date: "2022-09-29",
     ave_temperature: 17.7,
     total_preciptation: 7.2,
+    user_id: null,
   },
   {
     id: 2685,
@@ -21478,6 +24162,7 @@ export default [
     date: "2022-09-30",
     ave_temperature: 12.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2686,
@@ -21486,6 +24171,7 @@ export default [
     date: "2022-10-01",
     ave_temperature: 12.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2687,
@@ -21494,6 +24180,7 @@ export default [
     date: "2022-10-02",
     ave_temperature: 12.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2688,
@@ -21502,6 +24189,7 @@ export default [
     date: "2022-10-03",
     ave_temperature: 14.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2689,
@@ -21510,6 +24198,7 @@ export default [
     date: "2022-10-04",
     ave_temperature: 16.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2690,
@@ -21518,6 +24207,7 @@ export default [
     date: "2022-10-05",
     ave_temperature: 12.1,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 2691,
@@ -21526,6 +24216,7 @@ export default [
     date: "2022-10-06",
     ave_temperature: 8.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2692,
@@ -21534,6 +24225,7 @@ export default [
     date: "2022-10-07",
     ave_temperature: 11.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2693,
@@ -21542,6 +24234,7 @@ export default [
     date: "2022-10-08",
     ave_temperature: 12.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2694,
@@ -21550,6 +24243,7 @@ export default [
     date: "2022-10-09",
     ave_temperature: 11.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2695,
@@ -21558,6 +24252,7 @@ export default [
     date: "2022-10-10",
     ave_temperature: 16.1,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2696,
@@ -21566,6 +24261,7 @@ export default [
     date: "2022-10-11",
     ave_temperature: 9.8,
     total_preciptation: 2.8,
+    user_id: null,
   },
   {
     id: 2697,
@@ -21574,6 +24270,7 @@ export default [
     date: "2022-10-12",
     ave_temperature: 8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2698,
@@ -21582,6 +24279,7 @@ export default [
     date: "2022-10-13",
     ave_temperature: 10.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2699,
@@ -21590,6 +24288,7 @@ export default [
     date: "2022-10-14",
     ave_temperature: 12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2700,
@@ -21598,6 +24297,7 @@ export default [
     date: "2022-10-15",
     ave_temperature: 8.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2701,
@@ -21606,6 +24306,7 @@ export default [
     date: "2022-10-16",
     ave_temperature: 11.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2702,
@@ -21614,6 +24315,7 @@ export default [
     date: "2022-10-17",
     ave_temperature: 13.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2703,
@@ -21622,14 +24324,16 @@ export default [
     date: "2022-10-18",
     ave_temperature: 12.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2704,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2022-10-19",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2705,
@@ -21638,6 +24342,7 @@ export default [
     date: "2022-10-20",
     ave_temperature: 11.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2706,
@@ -21646,6 +24351,7 @@ export default [
     date: "2022-10-21",
     ave_temperature: 3.8,
     total_preciptation: 12.9,
+    user_id: null,
   },
   {
     id: 2707,
@@ -21654,6 +24360,7 @@ export default [
     date: "2022-10-22",
     ave_temperature: 1.4,
     total_preciptation: 20,
+    user_id: null,
   },
   {
     id: 2708,
@@ -21662,6 +24369,7 @@ export default [
     date: "2022-10-23",
     ave_temperature: -0.7,
     total_preciptation: 12.9,
+    user_id: null,
   },
   {
     id: 2709,
@@ -21670,6 +24378,7 @@ export default [
     date: "2022-10-24",
     ave_temperature: 1.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2710,
@@ -21678,6 +24387,7 @@ export default [
     date: "2022-10-25",
     ave_temperature: 3.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2711,
@@ -21686,6 +24396,7 @@ export default [
     date: "2022-10-26",
     ave_temperature: 3.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2712,
@@ -21694,6 +24405,7 @@ export default [
     date: "2022-10-27",
     ave_temperature: 6.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2713,
@@ -21702,6 +24414,7 @@ export default [
     date: "2022-10-28",
     ave_temperature: 6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2714,
@@ -21710,6 +24423,7 @@ export default [
     date: "2022-10-29",
     ave_temperature: 5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2715,
@@ -21718,6 +24432,7 @@ export default [
     date: "2022-10-30",
     ave_temperature: 9.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2716,
@@ -21726,6 +24441,7 @@ export default [
     date: "2022-10-31",
     ave_temperature: 4.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2717,
@@ -21734,6 +24450,7 @@ export default [
     date: "2022-11-01",
     ave_temperature: 3.8,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 2718,
@@ -21742,6 +24459,7 @@ export default [
     date: "2022-11-02",
     ave_temperature: -5.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2719,
@@ -21750,6 +24468,7 @@ export default [
     date: "2022-11-03",
     ave_temperature: -8.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2720,
@@ -21758,6 +24477,7 @@ export default [
     date: "2022-11-04",
     ave_temperature: 2.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2721,
@@ -21766,6 +24486,7 @@ export default [
     date: "2022-11-05",
     ave_temperature: -0.8,
     total_preciptation: 1.9,
+    user_id: null,
   },
   {
     id: 2722,
@@ -21774,6 +24495,7 @@ export default [
     date: "2022-11-06",
     ave_temperature: -10.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2723,
@@ -21782,6 +24504,7 @@ export default [
     date: "2022-11-07",
     ave_temperature: -16,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2724,
@@ -21790,6 +24513,7 @@ export default [
     date: "2022-11-08",
     ave_temperature: -22.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2725,
@@ -21798,6 +24522,7 @@ export default [
     date: "2022-11-09",
     ave_temperature: -23.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2726,
@@ -21806,6 +24531,7 @@ export default [
     date: "2022-11-10",
     ave_temperature: -17.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2727,
@@ -21814,6 +24540,7 @@ export default [
     date: "2022-11-11",
     ave_temperature: -9.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2728,
@@ -21822,6 +24549,7 @@ export default [
     date: "2022-11-12",
     ave_temperature: -11,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2729,
@@ -21830,6 +24558,7 @@ export default [
     date: "2022-11-13",
     ave_temperature: -7.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2730,
@@ -21838,6 +24567,7 @@ export default [
     date: "2022-11-14",
     ave_temperature: -5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2731,
@@ -21846,6 +24576,7 @@ export default [
     date: "2022-11-15",
     ave_temperature: -3.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2732,
@@ -21854,6 +24585,7 @@ export default [
     date: "2022-11-16",
     ave_temperature: -4.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2733,
@@ -21862,6 +24594,7 @@ export default [
     date: "2022-11-17",
     ave_temperature: -12.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2734,
@@ -21870,6 +24603,7 @@ export default [
     date: "2022-11-18",
     ave_temperature: -8.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2735,
@@ -21878,6 +24612,7 @@ export default [
     date: "2022-11-19",
     ave_temperature: -6.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2736,
@@ -21886,6 +24621,7 @@ export default [
     date: "2022-11-20",
     ave_temperature: -0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2737,
@@ -21894,6 +24630,7 @@ export default [
     date: "2022-11-21",
     ave_temperature: 0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2738,
@@ -21902,6 +24639,7 @@ export default [
     date: "2022-11-22",
     ave_temperature: 2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2739,
@@ -21910,6 +24648,7 @@ export default [
     date: "2022-11-23",
     ave_temperature: 1.4,
     total_preciptation: 3.9,
+    user_id: null,
   },
   {
     id: 2740,
@@ -21918,6 +24657,7 @@ export default [
     date: "2022-11-24",
     ave_temperature: 5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2741,
@@ -21926,6 +24666,7 @@ export default [
     date: "2022-11-25",
     ave_temperature: 6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2742,
@@ -21934,6 +24675,7 @@ export default [
     date: "2022-11-26",
     ave_temperature: 0.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2743,
@@ -21942,6 +24684,7 @@ export default [
     date: "2022-11-27",
     ave_temperature: -2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2744,
@@ -21950,6 +24693,7 @@ export default [
     date: "2022-11-28",
     ave_temperature: -12.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2745,
@@ -21958,6 +24702,7 @@ export default [
     date: "2022-11-29",
     ave_temperature: -16.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2746,
@@ -21966,6 +24711,7 @@ export default [
     date: "2022-11-30",
     ave_temperature: -15.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2747,
@@ -21974,6 +24720,7 @@ export default [
     date: "2022-12-01",
     ave_temperature: -19.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2748,
@@ -21982,6 +24729,7 @@ export default [
     date: "2022-12-02",
     ave_temperature: -20.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2749,
@@ -21990,6 +24738,7 @@ export default [
     date: "2022-12-03",
     ave_temperature: -12,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2750,
@@ -21998,6 +24747,7 @@ export default [
     date: "2022-12-04",
     ave_temperature: -3.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2751,
@@ -22006,6 +24756,7 @@ export default [
     date: "2022-12-05",
     ave_temperature: -9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2752,
@@ -22014,6 +24765,7 @@ export default [
     date: "2022-12-06",
     ave_temperature: -18.6,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 2753,
@@ -22022,6 +24774,7 @@ export default [
     date: "2022-12-07",
     ave_temperature: -10.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2754,
@@ -22030,6 +24783,7 @@ export default [
     date: "2022-12-08",
     ave_temperature: -1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2755,
@@ -22038,6 +24792,7 @@ export default [
     date: "2022-12-09",
     ave_temperature: -3.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2756,
@@ -22046,6 +24801,7 @@ export default [
     date: "2022-12-10",
     ave_temperature: -3.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2757,
@@ -22054,6 +24810,7 @@ export default [
     date: "2022-12-11",
     ave_temperature: -8.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2758,
@@ -22062,6 +24819,7 @@ export default [
     date: "2022-12-12",
     ave_temperature: -17.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2759,
@@ -22070,6 +24828,7 @@ export default [
     date: "2022-12-13",
     ave_temperature: -15.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2760,
@@ -22078,6 +24837,7 @@ export default [
     date: "2022-12-14",
     ave_temperature: -9.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2761,
@@ -22086,6 +24846,7 @@ export default [
     date: "2022-12-15",
     ave_temperature: -11.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2762,
@@ -22094,6 +24855,7 @@ export default [
     date: "2022-12-16",
     ave_temperature: -7.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2763,
@@ -22102,6 +24864,7 @@ export default [
     date: "2022-12-17",
     ave_temperature: -11.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2764,
@@ -22110,6 +24873,7 @@ export default [
     date: "2022-12-18",
     ave_temperature: -21.8,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 2765,
@@ -22118,6 +24882,7 @@ export default [
     date: "2022-12-19",
     ave_temperature: -29.6,
     total_preciptation: 0.3,
+    user_id: null,
   },
   {
     id: 2766,
@@ -22126,6 +24891,7 @@ export default [
     date: "2022-12-20",
     ave_temperature: -31.7,
     total_preciptation: 3.6,
+    user_id: null,
   },
   {
     id: 2767,
@@ -22134,6 +24900,7 @@ export default [
     date: "2022-12-21",
     ave_temperature: -31.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2768,
@@ -22142,6 +24909,7 @@ export default [
     date: "2022-12-22",
     ave_temperature: -32.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2769,
@@ -22150,6 +24918,7 @@ export default [
     date: "2022-12-23",
     ave_temperature: -21.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2770,
@@ -22158,6 +24927,7 @@ export default [
     date: "2022-12-24",
     ave_temperature: -5.4,
     total_preciptation: 11.6,
+    user_id: null,
   },
   {
     id: 2771,
@@ -22166,6 +24936,7 @@ export default [
     date: "2022-12-25",
     ave_temperature: 0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2772,
@@ -22174,6 +24945,7 @@ export default [
     date: "2022-12-26",
     ave_temperature: 4.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2773,
@@ -22182,6 +24954,7 @@ export default [
     date: "2022-12-27",
     ave_temperature: 3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2774,
@@ -22190,6 +24963,7 @@ export default [
     date: "2022-12-28",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2775,
@@ -22198,6 +24972,7 @@ export default [
     date: "2022-12-29",
     ave_temperature: -1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2776,
@@ -22206,6 +24981,7 @@ export default [
     date: "2022-12-30",
     ave_temperature: -1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2777,
@@ -22214,6 +24990,7 @@ export default [
     date: "2022-12-31",
     ave_temperature: 1.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2778,
@@ -22222,6 +24999,7 @@ export default [
     date: "2023-01-01",
     ave_temperature: -0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2779,
@@ -22230,6 +25008,7 @@ export default [
     date: "2023-01-02",
     ave_temperature: -2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2780,
@@ -22238,6 +25017,7 @@ export default [
     date: "2023-01-03",
     ave_temperature: -2.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2781,
@@ -22246,6 +25026,7 @@ export default [
     date: "2023-01-04",
     ave_temperature: -3.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2782,
@@ -22254,6 +25035,7 @@ export default [
     date: "2023-01-05",
     ave_temperature: -6.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2783,
@@ -22262,6 +25044,7 @@ export default [
     date: "2023-01-06",
     ave_temperature: 2.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2784,
@@ -22270,6 +25053,7 @@ export default [
     date: "2023-01-07",
     ave_temperature: 2.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2785,
@@ -22278,6 +25062,7 @@ export default [
     date: "2023-01-08",
     ave_temperature: 0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2786,
@@ -22286,6 +25071,7 @@ export default [
     date: "2023-01-09",
     ave_temperature: 2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2787,
@@ -22294,6 +25080,7 @@ export default [
     date: "2023-01-10",
     ave_temperature: 0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2788,
@@ -22302,6 +25089,7 @@ export default [
     date: "2023-01-11",
     ave_temperature: -4.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2789,
@@ -22310,6 +25098,7 @@ export default [
     date: "2023-01-12",
     ave_temperature: 1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2790,
@@ -22318,6 +25107,7 @@ export default [
     date: "2023-01-13",
     ave_temperature: 6.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2791,
@@ -22326,6 +25116,7 @@ export default [
     date: "2023-01-14",
     ave_temperature: 3.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2792,
@@ -22334,6 +25125,7 @@ export default [
     date: "2023-01-15",
     ave_temperature: -3.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2793,
@@ -22342,6 +25134,7 @@ export default [
     date: "2023-01-16",
     ave_temperature: -0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2794,
@@ -22350,6 +25143,7 @@ export default [
     date: "2023-01-17",
     ave_temperature: -0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2795,
@@ -22358,6 +25152,7 @@ export default [
     date: "2023-01-18",
     ave_temperature: 1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2796,
@@ -22366,6 +25161,7 @@ export default [
     date: "2023-01-19",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2797,
@@ -22374,6 +25170,7 @@ export default [
     date: "2023-01-20",
     ave_temperature: -0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2798,
@@ -22382,6 +25179,7 @@ export default [
     date: "2023-01-21",
     ave_temperature: 4.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2799,
@@ -22390,6 +25188,7 @@ export default [
     date: "2023-01-22",
     ave_temperature: -3,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 2800,
@@ -22398,6 +25197,7 @@ export default [
     date: "2023-01-23",
     ave_temperature: -3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2801,
@@ -22406,6 +25206,7 @@ export default [
     date: "2023-01-24",
     ave_temperature: 0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2802,
@@ -22414,6 +25215,7 @@ export default [
     date: "2023-01-25",
     ave_temperature: -1.1,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 2803,
@@ -22422,6 +25224,7 @@ export default [
     date: "2023-01-26",
     ave_temperature: 5.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2804,
@@ -22430,6 +25233,7 @@ export default [
     date: "2023-01-27",
     ave_temperature: -4.8,
     total_preciptation: 1.7,
+    user_id: null,
   },
   {
     id: 2805,
@@ -22438,6 +25242,7 @@ export default [
     date: "2023-01-28",
     ave_temperature: -16.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2806,
@@ -22446,6 +25251,7 @@ export default [
     date: "2023-01-29",
     ave_temperature: -16.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2807,
@@ -22454,6 +25260,7 @@ export default [
     date: "2023-01-30",
     ave_temperature: -10.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2808,
@@ -22462,6 +25269,7 @@ export default [
     date: "2023-01-31",
     ave_temperature: -6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2809,
@@ -22470,6 +25278,7 @@ export default [
     date: "2023-02-01",
     ave_temperature: -7.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2810,
@@ -22478,6 +25287,7 @@ export default [
     date: "2023-02-02",
     ave_temperature: -5.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2811,
@@ -22486,6 +25296,7 @@ export default [
     date: "2023-02-03",
     ave_temperature: 3.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2812,
@@ -22494,6 +25305,7 @@ export default [
     date: "2023-02-04",
     ave_temperature: 4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2813,
@@ -22502,6 +25314,7 @@ export default [
     date: "2023-02-05",
     ave_temperature: 2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2814,
@@ -22510,6 +25323,7 @@ export default [
     date: "2023-02-06",
     ave_temperature: 2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2815,
@@ -22518,6 +25332,7 @@ export default [
     date: "2023-02-07",
     ave_temperature: 3.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2816,
@@ -22526,6 +25341,7 @@ export default [
     date: "2023-02-08",
     ave_temperature: -0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2817,
@@ -22534,6 +25350,7 @@ export default [
     date: "2023-02-09",
     ave_temperature: 1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2818,
@@ -22542,6 +25359,7 @@ export default [
     date: "2023-02-10",
     ave_temperature: 2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2819,
@@ -22550,6 +25368,7 @@ export default [
     date: "2023-02-11",
     ave_temperature: 3.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2820,
@@ -22558,6 +25377,7 @@ export default [
     date: "2023-02-12",
     ave_temperature: 4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2821,
@@ -22566,6 +25386,7 @@ export default [
     date: "2023-02-13",
     ave_temperature: 2.1,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2822,
@@ -22574,6 +25395,7 @@ export default [
     date: "2023-02-14",
     ave_temperature: -6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2823,
@@ -22582,6 +25404,7 @@ export default [
     date: "2023-02-15",
     ave_temperature: -2.8,
     total_preciptation: 0.5,
+    user_id: null,
   },
   {
     id: 2824,
@@ -22590,6 +25413,7 @@ export default [
     date: "2023-02-16",
     ave_temperature: 0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2825,
@@ -22598,6 +25422,7 @@ export default [
     date: "2023-02-17",
     ave_temperature: 3.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2826,
@@ -22606,6 +25431,7 @@ export default [
     date: "2023-02-18",
     ave_temperature: 1.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2827,
@@ -22614,6 +25440,7 @@ export default [
     date: "2023-02-19",
     ave_temperature: 0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2828,
@@ -22622,6 +25449,7 @@ export default [
     date: "2023-02-20",
     ave_temperature: -4.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2829,
@@ -22630,6 +25458,7 @@ export default [
     date: "2023-02-21",
     ave_temperature: -13.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2830,
@@ -22638,6 +25467,7 @@ export default [
     date: "2023-02-22",
     ave_temperature: -22,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2831,
@@ -22646,6 +25476,7 @@ export default [
     date: "2023-02-23",
     ave_temperature: -26.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2832,
@@ -22654,6 +25485,7 @@ export default [
     date: "2023-02-24",
     ave_temperature: -20.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2833,
@@ -22662,6 +25494,7 @@ export default [
     date: "2023-02-25",
     ave_temperature: -8.9,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 2834,
@@ -22670,6 +25503,7 @@ export default [
     date: "2023-02-26",
     ave_temperature: -0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2835,
@@ -22678,6 +25512,7 @@ export default [
     date: "2023-02-27",
     ave_temperature: -4.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2836,
@@ -22686,6 +25521,7 @@ export default [
     date: "2023-02-28",
     ave_temperature: -7.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2837,
@@ -22694,6 +25530,7 @@ export default [
     date: "2023-03-01",
     ave_temperature: -5.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2838,
@@ -22702,6 +25539,7 @@ export default [
     date: "2023-03-02",
     ave_temperature: 0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2839,
@@ -22710,6 +25548,7 @@ export default [
     date: "2023-03-03",
     ave_temperature: -3.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2840,
@@ -22718,6 +25557,7 @@ export default [
     date: "2023-03-04",
     ave_temperature: -5.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2841,
@@ -22726,6 +25566,7 @@ export default [
     date: "2023-03-05",
     ave_temperature: -10.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2842,
@@ -22734,6 +25575,7 @@ export default [
     date: "2023-03-06",
     ave_temperature: -14.7,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 2843,
@@ -22742,6 +25584,7 @@ export default [
     date: "2023-03-07",
     ave_temperature: -14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2844,
@@ -22750,6 +25593,7 @@ export default [
     date: "2023-03-08",
     ave_temperature: -13.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2845,
@@ -22758,6 +25602,7 @@ export default [
     date: "2023-03-09",
     ave_temperature: -17,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2846,
@@ -22766,6 +25611,7 @@ export default [
     date: "2023-03-10",
     ave_temperature: -15,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2847,
@@ -22774,6 +25620,7 @@ export default [
     date: "2023-03-11",
     ave_temperature: -15,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2848,
@@ -22782,6 +25629,7 @@ export default [
     date: "2023-03-12",
     ave_temperature: -15.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2849,
@@ -22790,6 +25638,7 @@ export default [
     date: "2023-03-13",
     ave_temperature: -1.1,
     total_preciptation: 2.2,
+    user_id: null,
   },
   {
     id: 2850,
@@ -22798,6 +25647,7 @@ export default [
     date: "2023-03-14",
     ave_temperature: -2,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2851,
@@ -22806,6 +25656,7 @@ export default [
     date: "2023-03-15",
     ave_temperature: -1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2852,
@@ -22814,6 +25665,7 @@ export default [
     date: "2023-03-16",
     ave_temperature: -2.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2853,
@@ -22822,6 +25674,7 @@ export default [
     date: "2023-03-17",
     ave_temperature: -1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2854,
@@ -22830,6 +25683,7 @@ export default [
     date: "2023-03-18",
     ave_temperature: 2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2855,
@@ -22838,6 +25692,7 @@ export default [
     date: "2023-03-19",
     ave_temperature: -0.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2856,
@@ -22846,6 +25701,7 @@ export default [
     date: "2023-03-20",
     ave_temperature: -2.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2857,
@@ -22854,6 +25710,7 @@ export default [
     date: "2023-03-21",
     ave_temperature: -2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2858,
@@ -22862,6 +25719,7 @@ export default [
     date: "2023-03-22",
     ave_temperature: 1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2859,
@@ -22870,6 +25728,7 @@ export default [
     date: "2023-03-23",
     ave_temperature: 3.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2860,
@@ -22878,6 +25737,7 @@ export default [
     date: "2023-03-24",
     ave_temperature: 0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2861,
@@ -22886,6 +25746,7 @@ export default [
     date: "2023-03-25",
     ave_temperature: -0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2862,
@@ -22894,6 +25755,7 @@ export default [
     date: "2023-03-26",
     ave_temperature: -1.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2863,
@@ -22902,6 +25764,7 @@ export default [
     date: "2023-03-27",
     ave_temperature: -5.1,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2864,
@@ -22910,6 +25773,7 @@ export default [
     date: "2023-03-28",
     ave_temperature: -6.2,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 2865,
@@ -22918,6 +25782,7 @@ export default [
     date: "2023-03-29",
     ave_temperature: -0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2866,
@@ -22926,6 +25791,7 @@ export default [
     date: "2023-03-30",
     ave_temperature: -1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2867,
@@ -22934,6 +25800,7 @@ export default [
     date: "2023-03-31",
     ave_temperature: 2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2868,
@@ -22942,6 +25809,7 @@ export default [
     date: "2023-04-01",
     ave_temperature: 5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2869,
@@ -22950,6 +25818,7 @@ export default [
     date: "2023-04-02",
     ave_temperature: -0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2870,
@@ -22958,6 +25827,7 @@ export default [
     date: "2023-04-03",
     ave_temperature: -3.9,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 2871,
@@ -22966,6 +25836,7 @@ export default [
     date: "2023-04-04",
     ave_temperature: -4.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2872,
@@ -22974,6 +25845,7 @@ export default [
     date: "2023-04-05",
     ave_temperature: -1.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2873,
@@ -22982,6 +25854,7 @@ export default [
     date: "2023-04-06",
     ave_temperature: 5.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2874,
@@ -22990,6 +25863,7 @@ export default [
     date: "2023-04-07",
     ave_temperature: 8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2875,
@@ -22998,6 +25872,7 @@ export default [
     date: "2023-04-08",
     ave_temperature: 7.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2876,
@@ -23006,6 +25881,7 @@ export default [
     date: "2023-04-09",
     ave_temperature: 10.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2877,
@@ -23014,6 +25890,7 @@ export default [
     date: "2023-04-10",
     ave_temperature: 12.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2878,
@@ -23022,6 +25899,7 @@ export default [
     date: "2023-04-11",
     ave_temperature: 7.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2879,
@@ -23030,6 +25908,7 @@ export default [
     date: "2023-04-12",
     ave_temperature: 0.6,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2880,
@@ -23038,6 +25917,7 @@ export default [
     date: "2023-04-13",
     ave_temperature: 1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2881,
@@ -23046,6 +25926,7 @@ export default [
     date: "2023-04-14",
     ave_temperature: 1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2882,
@@ -23054,6 +25935,7 @@ export default [
     date: "2023-04-15",
     ave_temperature: 4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2883,
@@ -23062,6 +25944,7 @@ export default [
     date: "2023-04-16",
     ave_temperature: 8.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2884,
@@ -23070,6 +25953,7 @@ export default [
     date: "2023-04-17",
     ave_temperature: 4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2885,
@@ -23078,6 +25962,7 @@ export default [
     date: "2023-04-18",
     ave_temperature: -0.2,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2886,
@@ -23086,6 +25971,7 @@ export default [
     date: "2023-04-19",
     ave_temperature: 0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2887,
@@ -23094,6 +25980,7 @@ export default [
     date: "2023-04-20",
     ave_temperature: -0.9,
     total_preciptation: 4.2,
+    user_id: null,
   },
   {
     id: 2888,
@@ -23102,6 +25989,7 @@ export default [
     date: "2023-04-21",
     ave_temperature: 0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2889,
@@ -23110,6 +25998,7 @@ export default [
     date: "2023-04-22",
     ave_temperature: 3.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2890,
@@ -23118,6 +26007,7 @@ export default [
     date: "2023-04-23",
     ave_temperature: 8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2891,
@@ -23126,6 +26016,7 @@ export default [
     date: "2023-04-24",
     ave_temperature: 10,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2892,
@@ -23134,6 +26025,7 @@ export default [
     date: "2023-04-25",
     ave_temperature: 9.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2893,
@@ -23142,6 +26034,7 @@ export default [
     date: "2023-04-26",
     ave_temperature: 7.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2894,
@@ -23150,6 +26043,7 @@ export default [
     date: "2023-04-27",
     ave_temperature: 8.1,
     total_preciptation: 2.4,
+    user_id: null,
   },
   {
     id: 2895,
@@ -23158,6 +26052,7 @@ export default [
     date: "2023-04-28",
     ave_temperature: 10.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2896,
@@ -23166,6 +26061,7 @@ export default [
     date: "2023-04-29",
     ave_temperature: 11.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2897,
@@ -23174,6 +26070,7 @@ export default [
     date: "2023-04-30",
     ave_temperature: 13.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2898,
@@ -23182,6 +26079,7 @@ export default [
     date: "2023-05-01",
     ave_temperature: 14.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2899,
@@ -23190,6 +26088,7 @@ export default [
     date: "2023-05-02",
     ave_temperature: 13.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2900,
@@ -23198,6 +26097,7 @@ export default [
     date: "2023-05-03",
     ave_temperature: 16,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2901,
@@ -23206,6 +26106,7 @@ export default [
     date: "2023-05-04",
     ave_temperature: 16.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2902,
@@ -23214,6 +26115,7 @@ export default [
     date: "2023-05-05",
     ave_temperature: 16.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2903,
@@ -23222,6 +26124,7 @@ export default [
     date: "2023-05-06",
     ave_temperature: 9.8,
     total_preciptation: 3.7,
+    user_id: null,
   },
   {
     id: 2904,
@@ -23230,6 +26133,7 @@ export default [
     date: "2023-05-07",
     ave_temperature: 11.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2905,
@@ -23238,6 +26142,7 @@ export default [
     date: "2023-05-08",
     ave_temperature: 11.3,
     total_preciptation: 4.3,
+    user_id: null,
   },
   {
     id: 2906,
@@ -23246,6 +26151,7 @@ export default [
     date: "2023-05-09",
     ave_temperature: 9.8,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2907,
@@ -23254,6 +26160,7 @@ export default [
     date: "2023-05-10",
     ave_temperature: 10.9,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2908,
@@ -23262,6 +26169,7 @@ export default [
     date: "2023-05-11",
     ave_temperature: 12.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2909,
@@ -23270,6 +26178,7 @@ export default [
     date: "2023-05-12",
     ave_temperature: 11.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2910,
@@ -23278,6 +26187,7 @@ export default [
     date: "2023-05-13",
     ave_temperature: 12.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2911,
@@ -23286,6 +26196,7 @@ export default [
     date: "2023-05-14",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2912,
@@ -23294,6 +26205,7 @@ export default [
     date: "2023-05-15",
     ave_temperature: 17.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2913,
@@ -23302,6 +26214,7 @@ export default [
     date: "2023-05-16",
     ave_temperature: 17.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2914,
@@ -23310,6 +26223,7 @@ export default [
     date: "2023-05-17",
     ave_temperature: 12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2915,
@@ -23318,6 +26232,7 @@ export default [
     date: "2023-05-18",
     ave_temperature: 10,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2916,
@@ -23326,6 +26241,7 @@ export default [
     date: "2023-05-19",
     ave_temperature: 17.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2917,
@@ -23334,22 +26250,25 @@ export default [
     date: "2023-05-20",
     ave_temperature: 18.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2918,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2023-05-21",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2919,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2023-05-22",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 2920,
@@ -23358,6 +26277,7 @@ export default [
     date: "2023-05-23",
     ave_temperature: 14.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2921,
@@ -23366,6 +26286,7 @@ export default [
     date: "2023-05-24",
     ave_temperature: 14.4,
     total_preciptation: 4.2,
+    user_id: null,
   },
   {
     id: 2922,
@@ -23374,6 +26295,7 @@ export default [
     date: "2023-05-25",
     ave_temperature: 13.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2923,
@@ -23382,6 +26304,7 @@ export default [
     date: "2023-05-26",
     ave_temperature: 15.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2924,
@@ -23390,6 +26313,7 @@ export default [
     date: "2023-05-27",
     ave_temperature: 12.7,
     total_preciptation: 2.6,
+    user_id: null,
   },
   {
     id: 2925,
@@ -23398,6 +26322,7 @@ export default [
     date: "2023-05-28",
     ave_temperature: 16.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2926,
@@ -23406,6 +26331,7 @@ export default [
     date: "2023-05-29",
     ave_temperature: 20,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 2927,
@@ -23414,6 +26340,7 @@ export default [
     date: "2023-05-30",
     ave_temperature: 18.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2928,
@@ -23422,6 +26349,7 @@ export default [
     date: "2023-05-31",
     ave_temperature: 16.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2929,
@@ -23430,6 +26358,7 @@ export default [
     date: "2023-06-01",
     ave_temperature: 12.6,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2930,
@@ -23438,6 +26367,7 @@ export default [
     date: "2023-06-02",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2931,
@@ -23446,6 +26376,7 @@ export default [
     date: "2023-06-03",
     ave_temperature: 15.1,
     total_preciptation: 1.7,
+    user_id: null,
   },
   {
     id: 2932,
@@ -23454,6 +26385,7 @@ export default [
     date: "2023-06-04",
     ave_temperature: 17.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2933,
@@ -23462,6 +26394,7 @@ export default [
     date: "2023-06-05",
     ave_temperature: 20.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2934,
@@ -23470,6 +26403,7 @@ export default [
     date: "2023-06-06",
     ave_temperature: 15.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2935,
@@ -23478,6 +26412,7 @@ export default [
     date: "2023-06-07",
     ave_temperature: 17.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2936,
@@ -23486,6 +26421,7 @@ export default [
     date: "2023-06-08",
     ave_temperature: 20.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2937,
@@ -23494,6 +26430,7 @@ export default [
     date: "2023-06-09",
     ave_temperature: 19.6,
     total_preciptation: 7,
+    user_id: null,
   },
   {
     id: 2938,
@@ -23502,6 +26439,7 @@ export default [
     date: "2023-06-10",
     ave_temperature: 20,
     total_preciptation: 9,
+    user_id: null,
   },
   {
     id: 2939,
@@ -23510,6 +26448,7 @@ export default [
     date: "2023-06-11",
     ave_temperature: 19.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2940,
@@ -23518,6 +26457,7 @@ export default [
     date: "2023-06-12",
     ave_temperature: 20,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2941,
@@ -23526,6 +26466,7 @@ export default [
     date: "2023-06-13",
     ave_temperature: 20.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2942,
@@ -23534,6 +26475,7 @@ export default [
     date: "2023-06-14",
     ave_temperature: 14.5,
     total_preciptation: 4,
+    user_id: null,
   },
   {
     id: 2943,
@@ -23542,6 +26484,7 @@ export default [
     date: "2023-06-15",
     ave_temperature: 13,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 2944,
@@ -23550,6 +26493,7 @@ export default [
     date: "2023-06-16",
     ave_temperature: 17,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2945,
@@ -23558,6 +26502,7 @@ export default [
     date: "2023-06-17",
     ave_temperature: 19.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2946,
@@ -23566,6 +26511,7 @@ export default [
     date: "2023-06-18",
     ave_temperature: 13.8,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 2947,
@@ -23574,6 +26520,7 @@ export default [
     date: "2023-06-19",
     ave_temperature: 11.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2948,
@@ -23582,6 +26529,7 @@ export default [
     date: "2023-06-20",
     ave_temperature: 10.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2949,
@@ -23590,6 +26538,7 @@ export default [
     date: "2023-06-21",
     ave_temperature: 11.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2950,
@@ -23598,6 +26547,7 @@ export default [
     date: "2023-06-22",
     ave_temperature: 12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2951,
@@ -23606,6 +26556,7 @@ export default [
     date: "2023-06-23",
     ave_temperature: 15,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2952,
@@ -23614,6 +26565,7 @@ export default [
     date: "2023-06-24",
     ave_temperature: 16.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2953,
@@ -23622,6 +26574,7 @@ export default [
     date: "2023-06-25",
     ave_temperature: 17.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2954,
@@ -23630,6 +26583,7 @@ export default [
     date: "2023-06-26",
     ave_temperature: 17.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2955,
@@ -23638,6 +26592,7 @@ export default [
     date: "2023-06-27",
     ave_temperature: 18.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2956,
@@ -23646,6 +26601,7 @@ export default [
     date: "2023-06-28",
     ave_temperature: 20.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2957,
@@ -23654,6 +26610,7 @@ export default [
     date: "2023-06-29",
     ave_temperature: 21.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2958,
@@ -23662,6 +26619,7 @@ export default [
     date: "2023-06-30",
     ave_temperature: 22.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2959,
@@ -23670,6 +26628,7 @@ export default [
     date: "2023-07-01",
     ave_temperature: 22.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2960,
@@ -23678,6 +26637,7 @@ export default [
     date: "2023-07-02",
     ave_temperature: 14.7,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 2961,
@@ -23686,6 +26646,7 @@ export default [
     date: "2023-07-03",
     ave_temperature: 15.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2962,
@@ -23694,6 +26655,7 @@ export default [
     date: "2023-07-04",
     ave_temperature: 15.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2963,
@@ -23702,6 +26664,7 @@ export default [
     date: "2023-07-05",
     ave_temperature: 16,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2964,
@@ -23710,6 +26673,7 @@ export default [
     date: "2023-07-06",
     ave_temperature: 16.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2965,
@@ -23718,6 +26682,7 @@ export default [
     date: "2023-07-07",
     ave_temperature: 18.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2966,
@@ -23726,6 +26691,7 @@ export default [
     date: "2023-07-08",
     ave_temperature: 18.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2967,
@@ -23734,6 +26700,7 @@ export default [
     date: "2023-07-09",
     ave_temperature: 21.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2968,
@@ -23742,6 +26709,7 @@ export default [
     date: "2023-07-10",
     ave_temperature: 21.2,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 2969,
@@ -23750,6 +26718,7 @@ export default [
     date: "2023-07-11",
     ave_temperature: 16.4,
     total_preciptation: 3.8,
+    user_id: null,
   },
   {
     id: 2970,
@@ -23758,6 +26727,7 @@ export default [
     date: "2023-07-12",
     ave_temperature: 19,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2971,
@@ -23766,6 +26736,7 @@ export default [
     date: "2023-07-13",
     ave_temperature: 17.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2972,
@@ -23774,6 +26745,7 @@ export default [
     date: "2023-07-14",
     ave_temperature: 18.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2973,
@@ -23782,6 +26754,7 @@ export default [
     date: "2023-07-15",
     ave_temperature: 18.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2974,
@@ -23790,6 +26763,7 @@ export default [
     date: "2023-07-16",
     ave_temperature: 22.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2975,
@@ -23798,6 +26772,7 @@ export default [
     date: "2023-07-17",
     ave_temperature: 24.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2976,
@@ -23806,6 +26781,7 @@ export default [
     date: "2023-07-18",
     ave_temperature: 18.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2977,
@@ -23814,6 +26790,7 @@ export default [
     date: "2023-07-19",
     ave_temperature: 16.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2978,
@@ -23822,6 +26799,7 @@ export default [
     date: "2023-07-20",
     ave_temperature: 19.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2979,
@@ -23830,6 +26808,7 @@ export default [
     date: "2023-07-21",
     ave_temperature: 22.3,
     total_preciptation: 2.3,
+    user_id: null,
   },
   {
     id: 2980,
@@ -23838,6 +26817,7 @@ export default [
     date: "2023-07-22",
     ave_temperature: 23.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2981,
@@ -23846,6 +26826,7 @@ export default [
     date: "2023-07-23",
     ave_temperature: 23.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2982,
@@ -23854,6 +26835,7 @@ export default [
     date: "2023-07-24",
     ave_temperature: 25.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2983,
@@ -23862,6 +26844,7 @@ export default [
     date: "2023-07-25",
     ave_temperature: 22.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2984,
@@ -23870,6 +26853,7 @@ export default [
     date: "2023-07-26",
     ave_temperature: 18.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2985,
@@ -23878,6 +26862,7 @@ export default [
     date: "2023-07-27",
     ave_temperature: 14.4,
     total_preciptation: 2.9,
+    user_id: null,
   },
   {
     id: 2986,
@@ -23886,6 +26871,7 @@ export default [
     date: "2023-07-28",
     ave_temperature: 15.8,
     total_preciptation: 3.7,
+    user_id: null,
   },
   {
     id: 2987,
@@ -23894,6 +26880,7 @@ export default [
     date: "2023-07-29",
     ave_temperature: 19.3,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 2988,
@@ -23902,6 +26889,7 @@ export default [
     date: "2023-07-30",
     ave_temperature: 22.9,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 2989,
@@ -23910,6 +26898,7 @@ export default [
     date: "2023-07-31",
     ave_temperature: 20.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2990,
@@ -23918,6 +26907,7 @@ export default [
     date: "2023-08-01",
     ave_temperature: 20.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2991,
@@ -23926,6 +26916,7 @@ export default [
     date: "2023-08-02",
     ave_temperature: 19.5,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 2992,
@@ -23934,6 +26925,7 @@ export default [
     date: "2023-08-03",
     ave_temperature: 22.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2993,
@@ -23942,6 +26934,7 @@ export default [
     date: "2023-08-04",
     ave_temperature: 20.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2994,
@@ -23950,6 +26943,7 @@ export default [
     date: "2023-08-05",
     ave_temperature: 19.5,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 2995,
@@ -23958,6 +26952,7 @@ export default [
     date: "2023-08-06",
     ave_temperature: 19.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2996,
@@ -23966,6 +26961,7 @@ export default [
     date: "2023-08-07",
     ave_temperature: 19,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2997,
@@ -23974,6 +26970,7 @@ export default [
     date: "2023-08-08",
     ave_temperature: 20.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 2998,
@@ -23982,6 +26979,7 @@ export default [
     date: "2023-08-09",
     ave_temperature: 19.1,
     total_preciptation: 1.3,
+    user_id: null,
   },
   {
     id: 2999,
@@ -23990,6 +26988,7 @@ export default [
     date: "2023-08-10",
     ave_temperature: 19.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3000,
@@ -23998,6 +26997,7 @@ export default [
     date: "2023-08-11",
     ave_temperature: 16.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3001,
@@ -24006,6 +27006,7 @@ export default [
     date: "2023-08-12",
     ave_temperature: 16.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3002,
@@ -24014,6 +27015,7 @@ export default [
     date: "2023-08-13",
     ave_temperature: 19,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3003,
@@ -24022,6 +27024,7 @@ export default [
     date: "2023-08-14",
     ave_temperature: 23,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3004,
@@ -24030,6 +27033,7 @@ export default [
     date: "2023-08-15",
     ave_temperature: 25,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3005,
@@ -24038,6 +27042,7 @@ export default [
     date: "2023-08-16",
     ave_temperature: 20.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3006,
@@ -24046,6 +27051,7 @@ export default [
     date: "2023-08-17",
     ave_temperature: 25.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3007,
@@ -24054,6 +27060,7 @@ export default [
     date: "2023-08-18",
     ave_temperature: 18.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3008,
@@ -24062,6 +27069,7 @@ export default [
     date: "2023-08-19",
     ave_temperature: 9.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3009,
@@ -24070,6 +27078,7 @@ export default [
     date: "2023-08-20",
     ave_temperature: 14.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3010,
@@ -24078,6 +27087,7 @@ export default [
     date: "2023-08-21",
     ave_temperature: 14.6,
     total_preciptation: 10.2,
+    user_id: null,
   },
   {
     id: 3011,
@@ -24086,6 +27096,7 @@ export default [
     date: "2023-08-22",
     ave_temperature: 19.5,
     total_preciptation: 1.9,
+    user_id: null,
   },
   {
     id: 3012,
@@ -24094,14 +27105,16 @@ export default [
     date: "2023-08-23",
     ave_temperature: 17.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3013,
     city_name: "Lethbridge",
     climate_id: 3033875,
     date: "2023-08-24",
-    ave_temperature: 0,
-    total_preciptation: 0,
+    ave_temperature: null,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3014,
@@ -24110,6 +27123,7 @@ export default [
     date: "2023-08-25",
     ave_temperature: 16,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3015,
@@ -24118,6 +27132,7 @@ export default [
     date: "2023-08-26",
     ave_temperature: 21.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3016,
@@ -24126,6 +27141,7 @@ export default [
     date: "2023-08-27",
     ave_temperature: 18.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3017,
@@ -24134,6 +27150,7 @@ export default [
     date: "2023-08-28",
     ave_temperature: 20.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3018,
@@ -24142,6 +27159,7 @@ export default [
     date: "2023-08-29",
     ave_temperature: 20.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3019,
@@ -24150,6 +27168,7 @@ export default [
     date: "2023-08-30",
     ave_temperature: 17.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3020,
@@ -24158,6 +27177,7 @@ export default [
     date: "2023-08-31",
     ave_temperature: 17.4,
     total_preciptation: 7.8,
+    user_id: null,
   },
   {
     id: 3021,
@@ -24166,6 +27186,7 @@ export default [
     date: "2023-09-01",
     ave_temperature: 16.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3022,
@@ -24174,6 +27195,7 @@ export default [
     date: "2023-09-02",
     ave_temperature: 22.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3023,
@@ -24182,6 +27204,7 @@ export default [
     date: "2023-09-03",
     ave_temperature: 20.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3024,
@@ -24190,6 +27213,7 @@ export default [
     date: "2023-09-04",
     ave_temperature: 12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3025,
@@ -24198,6 +27222,7 @@ export default [
     date: "2023-09-05",
     ave_temperature: 16.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3026,
@@ -24206,6 +27231,7 @@ export default [
     date: "2023-09-06",
     ave_temperature: 14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3027,
@@ -24214,6 +27240,7 @@ export default [
     date: "2023-09-07",
     ave_temperature: 13.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3028,
@@ -24222,6 +27249,7 @@ export default [
     date: "2023-09-08",
     ave_temperature: 13.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3029,
@@ -24230,6 +27258,7 @@ export default [
     date: "2023-09-09",
     ave_temperature: 12.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3030,
@@ -24238,6 +27267,7 @@ export default [
     date: "2023-09-10",
     ave_temperature: 14,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3031,
@@ -24246,6 +27276,7 @@ export default [
     date: "2023-09-11",
     ave_temperature: 16.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3032,
@@ -24254,6 +27285,7 @@ export default [
     date: "2023-09-12",
     ave_temperature: 19.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3033,
@@ -24262,6 +27294,7 @@ export default [
     date: "2023-09-13",
     ave_temperature: 16.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3034,
@@ -24270,6 +27303,7 @@ export default [
     date: "2023-09-14",
     ave_temperature: 13.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3035,
@@ -24278,6 +27312,7 @@ export default [
     date: "2023-09-15",
     ave_temperature: 15.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3036,
@@ -24286,6 +27321,7 @@ export default [
     date: "2023-09-16",
     ave_temperature: 19.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3037,
@@ -24294,6 +27330,7 @@ export default [
     date: "2023-09-17",
     ave_temperature: 19.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3038,
@@ -24302,6 +27339,7 @@ export default [
     date: "2023-09-18",
     ave_temperature: 17.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3039,
@@ -24310,6 +27348,7 @@ export default [
     date: "2023-09-19",
     ave_temperature: 9.8,
     total_preciptation: 3.5,
+    user_id: null,
   },
   {
     id: 3040,
@@ -24318,6 +27357,7 @@ export default [
     date: "2023-09-20",
     ave_temperature: 8.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3041,
@@ -24326,6 +27366,7 @@ export default [
     date: "2023-09-21",
     ave_temperature: 10.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3042,
@@ -24334,6 +27375,7 @@ export default [
     date: "2023-09-22",
     ave_temperature: 10.3,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 3043,
@@ -24342,6 +27384,7 @@ export default [
     date: "2023-09-23",
     ave_temperature: 12.6,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 3044,
@@ -24350,6 +27393,7 @@ export default [
     date: "2023-09-24",
     ave_temperature: 13.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3045,
@@ -24358,6 +27402,7 @@ export default [
     date: "2023-09-25",
     ave_temperature: 15.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3046,
@@ -24366,6 +27411,7 @@ export default [
     date: "2023-09-26",
     ave_temperature: 15,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3047,
@@ -24374,6 +27420,7 @@ export default [
     date: "2023-09-27",
     ave_temperature: 10.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3048,
@@ -24382,6 +27429,7 @@ export default [
     date: "2023-09-28",
     ave_temperature: 11.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3049,
@@ -24390,6 +27438,7 @@ export default [
     date: "2023-09-29",
     ave_temperature: 7.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3050,
@@ -24398,6 +27447,7 @@ export default [
     date: "2023-09-30",
     ave_temperature: 7,
     total_preciptation: 15.7,
+    user_id: null,
   },
   {
     id: 3051,
@@ -24406,6 +27456,7 @@ export default [
     date: "2023-10-01",
     ave_temperature: 7,
     total_preciptation: 2.3,
+    user_id: null,
   },
   {
     id: 3052,
@@ -24414,6 +27465,7 @@ export default [
     date: "2023-10-02",
     ave_temperature: 9.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3053,
@@ -24422,6 +27474,7 @@ export default [
     date: "2023-10-03",
     ave_temperature: 11.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3054,
@@ -24430,6 +27483,7 @@ export default [
     date: "2023-10-04",
     ave_temperature: 10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3055,
@@ -24438,6 +27492,7 @@ export default [
     date: "2023-10-05",
     ave_temperature: 7.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3056,
@@ -24446,6 +27501,7 @@ export default [
     date: "2023-10-06",
     ave_temperature: 9.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3057,
@@ -24454,6 +27510,7 @@ export default [
     date: "2023-10-07",
     ave_temperature: 13.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3058,
@@ -24462,6 +27519,7 @@ export default [
     date: "2023-10-08",
     ave_temperature: 15.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3059,
@@ -24470,6 +27528,7 @@ export default [
     date: "2023-10-09",
     ave_temperature: 15.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3060,
@@ -24478,6 +27537,7 @@ export default [
     date: "2023-10-10",
     ave_temperature: 14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3061,
@@ -24486,6 +27546,7 @@ export default [
     date: "2023-10-11",
     ave_temperature: 11.3,
     total_preciptation: 2.4,
+    user_id: null,
   },
   {
     id: 3062,
@@ -24494,6 +27555,7 @@ export default [
     date: "2023-10-12",
     ave_temperature: 7.3,
     total_preciptation: 1.9,
+    user_id: null,
   },
   {
     id: 3063,
@@ -24502,6 +27564,7 @@ export default [
     date: "2023-10-13",
     ave_temperature: 7.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3064,
@@ -24510,6 +27573,7 @@ export default [
     date: "2023-10-14",
     ave_temperature: 9.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3065,
@@ -24518,6 +27582,7 @@ export default [
     date: "2023-10-15",
     ave_temperature: 12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3066,
@@ -24526,6 +27591,7 @@ export default [
     date: "2023-10-16",
     ave_temperature: 12,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3067,
@@ -24534,6 +27600,7 @@ export default [
     date: "2023-10-17",
     ave_temperature: 11.3,
     total_preciptation: 8.4,
+    user_id: null,
   },
   {
     id: 3068,
@@ -24542,6 +27609,7 @@ export default [
     date: "2023-10-18",
     ave_temperature: 12.6,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 3069,
@@ -24550,6 +27618,7 @@ export default [
     date: "2023-10-19",
     ave_temperature: 17,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3070,
@@ -24558,6 +27627,7 @@ export default [
     date: "2023-10-20",
     ave_temperature: 10.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3071,
@@ -24566,6 +27636,7 @@ export default [
     date: "2023-10-21",
     ave_temperature: 6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3072,
@@ -24574,6 +27645,7 @@ export default [
     date: "2023-10-22",
     ave_temperature: 3.6,
     total_preciptation: 4.5,
+    user_id: null,
   },
   {
     id: 3073,
@@ -24582,6 +27654,7 @@ export default [
     date: "2023-10-23",
     ave_temperature: -0.4,
     total_preciptation: 0.9,
+    user_id: null,
   },
   {
     id: 3074,
@@ -24590,6 +27663,7 @@ export default [
     date: "2023-10-24",
     ave_temperature: -7.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3075,
@@ -24598,6 +27672,7 @@ export default [
     date: "2023-10-25",
     ave_temperature: -15.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3076,
@@ -24606,6 +27681,7 @@ export default [
     date: "2023-10-26",
     ave_temperature: -15.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3077,
@@ -24614,6 +27690,7 @@ export default [
     date: "2023-10-27",
     ave_temperature: -11.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3078,
@@ -24622,6 +27699,7 @@ export default [
     date: "2023-10-28",
     ave_temperature: -7.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3079,
@@ -24630,6 +27708,7 @@ export default [
     date: "2023-10-29",
     ave_temperature: -5.6,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 3080,
@@ -24638,6 +27717,7 @@ export default [
     date: "2023-10-30",
     ave_temperature: -2.4,
     total_preciptation: 4.9,
+    user_id: null,
   },
   {
     id: 3081,
@@ -24646,6 +27726,7 @@ export default [
     date: "2023-10-31",
     ave_temperature: -0.5,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 3082,
@@ -24654,6 +27735,7 @@ export default [
     date: "2023-11-01",
     ave_temperature: -2.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3083,
@@ -24662,6 +27744,7 @@ export default [
     date: "2023-11-02",
     ave_temperature: 1.9,
     total_preciptation: 0.8,
+    user_id: null,
   },
   {
     id: 3084,
@@ -24670,6 +27753,7 @@ export default [
     date: "2023-11-03",
     ave_temperature: 5.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3085,
@@ -24678,6 +27762,7 @@ export default [
     date: "2023-11-04",
     ave_temperature: 5.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3086,
@@ -24686,6 +27771,7 @@ export default [
     date: "2023-11-05",
     ave_temperature: 8.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3087,
@@ -24694,6 +27780,7 @@ export default [
     date: "2023-11-06",
     ave_temperature: 4,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 3088,
@@ -24702,6 +27789,7 @@ export default [
     date: "2023-11-07",
     ave_temperature: 5.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3089,
@@ -24710,6 +27798,7 @@ export default [
     date: "2023-11-08",
     ave_temperature: 2.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3090,
@@ -24718,6 +27807,7 @@ export default [
     date: "2023-11-09",
     ave_temperature: 1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3091,
@@ -24726,6 +27816,7 @@ export default [
     date: "2023-11-10",
     ave_temperature: 3.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3092,
@@ -24734,6 +27825,7 @@ export default [
     date: "2023-11-11",
     ave_temperature: 6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3093,
@@ -24742,6 +27834,7 @@ export default [
     date: "2023-11-12",
     ave_temperature: 4.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3094,
@@ -24750,6 +27843,7 @@ export default [
     date: "2023-11-13",
     ave_temperature: 6.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3095,
@@ -24758,6 +27852,7 @@ export default [
     date: "2023-11-14",
     ave_temperature: 1.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3096,
@@ -24766,6 +27861,7 @@ export default [
     date: "2023-11-15",
     ave_temperature: 1.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3097,
@@ -24774,6 +27870,7 @@ export default [
     date: "2023-11-16",
     ave_temperature: -2.6,
     total_preciptation: 1,
+    user_id: null,
   },
   {
     id: 3098,
@@ -24782,6 +27879,7 @@ export default [
     date: "2023-11-17",
     ave_temperature: 8.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3099,
@@ -24790,6 +27888,7 @@ export default [
     date: "2023-11-18",
     ave_temperature: 6.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3100,
@@ -24798,6 +27897,7 @@ export default [
     date: "2023-11-19",
     ave_temperature: 6.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3101,
@@ -24806,6 +27906,7 @@ export default [
     date: "2023-11-20",
     ave_temperature: 2.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3102,
@@ -24814,6 +27915,7 @@ export default [
     date: "2023-11-21",
     ave_temperature: 8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3103,
@@ -24822,6 +27924,7 @@ export default [
     date: "2023-11-22",
     ave_temperature: 3.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3104,
@@ -24830,6 +27933,7 @@ export default [
     date: "2023-11-23",
     ave_temperature: -2.6,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 3105,
@@ -24838,6 +27942,7 @@ export default [
     date: "2023-11-24",
     ave_temperature: -5.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3106,
@@ -24846,6 +27951,7 @@ export default [
     date: "2023-11-25",
     ave_temperature: -1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3107,
@@ -24854,6 +27960,7 @@ export default [
     date: "2023-11-26",
     ave_temperature: -0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3108,
@@ -24862,6 +27969,7 @@ export default [
     date: "2023-11-27",
     ave_temperature: -0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3109,
@@ -24870,6 +27978,7 @@ export default [
     date: "2023-11-28",
     ave_temperature: 5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3110,
@@ -24878,6 +27987,7 @@ export default [
     date: "2023-11-29",
     ave_temperature: -1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3111,
@@ -24886,6 +27996,7 @@ export default [
     date: "2023-11-30",
     ave_temperature: -3.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3112,
@@ -24894,6 +28005,7 @@ export default [
     date: "2023-12-01",
     ave_temperature: -2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3113,
@@ -24902,6 +28014,7 @@ export default [
     date: "2023-12-02",
     ave_temperature: 2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3114,
@@ -24910,6 +28023,7 @@ export default [
     date: "2023-12-03",
     ave_temperature: 0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3115,
@@ -24918,6 +28032,7 @@ export default [
     date: "2023-12-04",
     ave_temperature: 4.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3116,
@@ -24926,6 +28041,7 @@ export default [
     date: "2023-12-05",
     ave_temperature: 9.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3117,
@@ -24934,6 +28050,7 @@ export default [
     date: "2023-12-06",
     ave_temperature: 6.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3118,
@@ -24942,6 +28059,7 @@ export default [
     date: "2023-12-07",
     ave_temperature: 0.5,
     total_preciptation: 2.7,
+    user_id: null,
   },
   {
     id: 3119,
@@ -24950,6 +28068,7 @@ export default [
     date: "2023-12-08",
     ave_temperature: -2.4,
     total_preciptation: 1.9,
+    user_id: null,
   },
   {
     id: 3120,
@@ -24958,6 +28077,7 @@ export default [
     date: "2023-12-09",
     ave_temperature: -6.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3121,
@@ -24966,6 +28086,7 @@ export default [
     date: "2023-12-10",
     ave_temperature: 2.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3122,
@@ -24974,6 +28095,7 @@ export default [
     date: "2023-12-11",
     ave_temperature: -1.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3123,
@@ -24982,6 +28104,7 @@ export default [
     date: "2023-12-12",
     ave_temperature: -1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3124,
@@ -24990,6 +28113,7 @@ export default [
     date: "2023-12-13",
     ave_temperature: 4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3125,
@@ -24998,6 +28122,7 @@ export default [
     date: "2023-12-14",
     ave_temperature: 1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3126,
@@ -25006,6 +28131,7 @@ export default [
     date: "2023-12-15",
     ave_temperature: -0.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3127,
@@ -25014,6 +28140,7 @@ export default [
     date: "2023-12-16",
     ave_temperature: 4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3128,
@@ -25022,6 +28149,7 @@ export default [
     date: "2023-12-17",
     ave_temperature: -0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3129,
@@ -25030,6 +28158,7 @@ export default [
     date: "2023-12-18",
     ave_temperature: 4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3130,
@@ -25038,6 +28167,7 @@ export default [
     date: "2023-12-19",
     ave_temperature: 1.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3131,
@@ -25046,6 +28176,7 @@ export default [
     date: "2023-12-20",
     ave_temperature: 6.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3132,
@@ -25054,6 +28185,7 @@ export default [
     date: "2023-12-21",
     ave_temperature: 6.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3133,
@@ -25062,6 +28194,7 @@ export default [
     date: "2023-12-22",
     ave_temperature: 6.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3134,
@@ -25070,6 +28203,7 @@ export default [
     date: "2023-12-23",
     ave_temperature: -2.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3135,
@@ -25078,6 +28212,7 @@ export default [
     date: "2023-12-24",
     ave_temperature: -4.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3136,
@@ -25086,6 +28221,7 @@ export default [
     date: "2023-12-25",
     ave_temperature: -1.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3137,
@@ -25094,6 +28230,7 @@ export default [
     date: "2023-12-26",
     ave_temperature: 4.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3138,
@@ -25102,6 +28239,7 @@ export default [
     date: "2023-12-27",
     ave_temperature: 2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3139,
@@ -25110,6 +28248,7 @@ export default [
     date: "2023-12-28",
     ave_temperature: 4.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3140,
@@ -25118,6 +28257,7 @@ export default [
     date: "2023-12-29",
     ave_temperature: 2.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3141,
@@ -25126,6 +28266,7 @@ export default [
     date: "2023-12-30",
     ave_temperature: 1.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3142,
@@ -25134,6 +28275,7 @@ export default [
     date: "2023-12-31",
     ave_temperature: 6.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3143,
@@ -25142,6 +28284,7 @@ export default [
     date: "2024-01-01",
     ave_temperature: 1.8,
     total_preciptation: 3.4,
+    user_id: null,
   },
   {
     id: 3144,
@@ -25150,6 +28293,7 @@ export default [
     date: "2024-01-02",
     ave_temperature: -0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3145,
@@ -25158,6 +28302,7 @@ export default [
     date: "2024-01-03",
     ave_temperature: -2.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3146,
@@ -25166,6 +28311,7 @@ export default [
     date: "2024-01-04",
     ave_temperature: -0.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3147,
@@ -25174,6 +28320,7 @@ export default [
     date: "2024-01-05",
     ave_temperature: 0.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3148,
@@ -25182,6 +28329,7 @@ export default [
     date: "2024-01-06",
     ave_temperature: -0.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3149,
@@ -25190,6 +28338,7 @@ export default [
     date: "2024-01-07",
     ave_temperature: -15.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3150,
@@ -25198,6 +28347,7 @@ export default [
     date: "2024-01-08",
     ave_temperature: -13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3151,
@@ -25206,6 +28356,7 @@ export default [
     date: "2024-01-09",
     ave_temperature: -5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3152,
@@ -25214,6 +28365,7 @@ export default [
     date: "2024-01-10",
     ave_temperature: -17.7,
     total_preciptation: 0.6,
+    user_id: null,
   },
   {
     id: 3153,
@@ -25222,6 +28374,7 @@ export default [
     date: "2024-01-11",
     ave_temperature: -26.1,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 3154,
@@ -25230,6 +28383,7 @@ export default [
     date: "2024-01-12",
     ave_temperature: -35.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3155,
@@ -25238,6 +28392,7 @@ export default [
     date: "2024-01-13",
     ave_temperature: -35.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3156,
@@ -25246,6 +28401,7 @@ export default [
     date: "2024-01-14",
     ave_temperature: -35.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3157,
@@ -25254,6 +28410,7 @@ export default [
     date: "2024-01-15",
     ave_temperature: -24.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3158,
@@ -25262,6 +28419,7 @@ export default [
     date: "2024-01-16",
     ave_temperature: -8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3159,
@@ -25270,6 +28428,7 @@ export default [
     date: "2024-01-17",
     ave_temperature: -14.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3160,
@@ -25278,6 +28437,7 @@ export default [
     date: "2024-01-18",
     ave_temperature: -23.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3161,
@@ -25286,6 +28446,7 @@ export default [
     date: "2024-01-19",
     ave_temperature: -20.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3162,
@@ -25294,6 +28455,7 @@ export default [
     date: "2024-01-20",
     ave_temperature: -12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3163,
@@ -25302,6 +28464,7 @@ export default [
     date: "2024-01-21",
     ave_temperature: -13.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3164,
@@ -25310,6 +28473,7 @@ export default [
     date: "2024-01-22",
     ave_temperature: -12.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3165,
@@ -25318,6 +28482,7 @@ export default [
     date: "2024-01-23",
     ave_temperature: -1,
     total_preciptation: 11.3,
+    user_id: null,
   },
   {
     id: 3166,
@@ -25326,6 +28491,7 @@ export default [
     date: "2024-01-24",
     ave_temperature: 0.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3167,
@@ -25334,6 +28500,7 @@ export default [
     date: "2024-01-25",
     ave_temperature: -0.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3168,
@@ -25342,6 +28509,7 @@ export default [
     date: "2024-01-26",
     ave_temperature: 2.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3169,
@@ -25350,6 +28518,7 @@ export default [
     date: "2024-01-27",
     ave_temperature: 2.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3170,
@@ -25358,6 +28527,7 @@ export default [
     date: "2024-01-28",
     ave_temperature: 6.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3171,
@@ -25366,6 +28536,7 @@ export default [
     date: "2024-01-29",
     ave_temperature: 8.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3172,
@@ -25374,6 +28545,7 @@ export default [
     date: "2024-01-30",
     ave_temperature: 8.8,
     total_preciptation: 2.5,
+    user_id: null,
   },
   {
     id: 3173,
@@ -25382,6 +28554,7 @@ export default [
     date: "2024-01-31",
     ave_temperature: 6.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3174,
@@ -25390,6 +28563,7 @@ export default [
     date: "2024-02-01",
     ave_temperature: 7.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3175,
@@ -25398,6 +28572,7 @@ export default [
     date: "2024-02-02",
     ave_temperature: 7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3176,
@@ -25405,7 +28580,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-03",
     ave_temperature: 2,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3177,
@@ -25413,7 +28589,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-04",
     ave_temperature: -7.8,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3178,
@@ -25421,7 +28598,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-05",
     ave_temperature: -11.7,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3179,
@@ -25429,7 +28607,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-06",
     ave_temperature: -6.6,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3180,
@@ -25437,7 +28616,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-07",
     ave_temperature: -6.6,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3181,
@@ -25445,7 +28625,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-08",
     ave_temperature: -4.7,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3182,
@@ -25453,7 +28634,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-09",
     ave_temperature: -10.8,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3183,
@@ -25461,7 +28643,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-10",
     ave_temperature: -9.9,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3184,
@@ -25469,7 +28652,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-11",
     ave_temperature: -1.2,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3185,
@@ -25477,7 +28661,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-12",
     ave_temperature: -1.6,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3186,
@@ -25485,7 +28670,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-13",
     ave_temperature: -6,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3187,
@@ -25493,7 +28679,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-14",
     ave_temperature: -14.2,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3188,
@@ -25502,6 +28689,7 @@ export default [
     date: "2024-02-15",
     ave_temperature: -17.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3189,
@@ -25510,6 +28698,7 @@ export default [
     date: "2024-02-16",
     ave_temperature: -15.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3190,
@@ -25517,7 +28706,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-17",
     ave_temperature: -7.6,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3191,
@@ -25525,7 +28715,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-18",
     ave_temperature: -5.3,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3192,
@@ -25533,7 +28724,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-19",
     ave_temperature: -3.3,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3193,
@@ -25542,6 +28734,7 @@ export default [
     date: "2024-02-20",
     ave_temperature: 1.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3194,
@@ -25550,6 +28743,7 @@ export default [
     date: "2024-02-21",
     ave_temperature: -1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3195,
@@ -25558,6 +28752,7 @@ export default [
     date: "2024-02-22",
     ave_temperature: 2.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3196,
@@ -25566,6 +28761,7 @@ export default [
     date: "2024-02-23",
     ave_temperature: 5.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3197,
@@ -25574,6 +28770,7 @@ export default [
     date: "2024-02-24",
     ave_temperature: 0.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3198,
@@ -25582,6 +28779,7 @@ export default [
     date: "2024-02-25",
     ave_temperature: 1.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3199,
@@ -25590,6 +28788,7 @@ export default [
     date: "2024-02-26",
     ave_temperature: -9.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3200,
@@ -25598,6 +28797,7 @@ export default [
     date: "2024-02-27",
     ave_temperature: -20.9,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 3201,
@@ -25605,7 +28805,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-28",
     ave_temperature: -7.3,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3202,
@@ -25613,7 +28814,8 @@ export default [
     climate_id: 3033875,
     date: "2024-02-29",
     ave_temperature: 2,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3203,
@@ -25622,6 +28824,7 @@ export default [
     date: "2024-03-01",
     ave_temperature: -8.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3204,
@@ -25630,6 +28833,7 @@ export default [
     date: "2024-03-02",
     ave_temperature: -12.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3205,
@@ -25638,6 +28842,7 @@ export default [
     date: "2024-03-03",
     ave_temperature: -19.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3206,
@@ -25646,6 +28851,7 @@ export default [
     date: "2024-03-04",
     ave_temperature: -19.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3207,
@@ -25654,6 +28860,7 @@ export default [
     date: "2024-03-05",
     ave_temperature: -16.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3208,
@@ -25662,6 +28869,7 @@ export default [
     date: "2024-03-06",
     ave_temperature: -13.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3209,
@@ -25669,7 +28877,8 @@ export default [
     climate_id: 3033875,
     date: "2024-03-07",
     ave_temperature: -12.7,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3210,
@@ -25677,7 +28886,8 @@ export default [
     climate_id: 3033875,
     date: "2024-03-08",
     ave_temperature: -0.2,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3211,
@@ -25686,6 +28896,7 @@ export default [
     date: "2024-03-09",
     ave_temperature: 6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3212,
@@ -25694,6 +28905,7 @@ export default [
     date: "2024-03-10",
     ave_temperature: 5.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3213,
@@ -25702,6 +28914,7 @@ export default [
     date: "2024-03-11",
     ave_temperature: 5.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3214,
@@ -25710,6 +28923,7 @@ export default [
     date: "2024-03-12",
     ave_temperature: 5.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3215,
@@ -25718,6 +28932,7 @@ export default [
     date: "2024-03-13",
     ave_temperature: 3.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3216,
@@ -25726,6 +28941,7 @@ export default [
     date: "2024-03-14",
     ave_temperature: 2.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3217,
@@ -25734,6 +28950,7 @@ export default [
     date: "2024-03-15",
     ave_temperature: 6.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3218,
@@ -25742,6 +28959,7 @@ export default [
     date: "2024-03-16",
     ave_temperature: 6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3219,
@@ -25750,6 +28968,7 @@ export default [
     date: "2024-03-17",
     ave_temperature: 8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3220,
@@ -25758,6 +28977,7 @@ export default [
     date: "2024-03-18",
     ave_temperature: 10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3221,
@@ -25766,6 +28986,7 @@ export default [
     date: "2024-03-19",
     ave_temperature: 3.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3222,
@@ -25774,6 +28995,7 @@ export default [
     date: "2024-03-20",
     ave_temperature: -4.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3223,
@@ -25782,6 +29004,7 @@ export default [
     date: "2024-03-21",
     ave_temperature: -7.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3224,
@@ -25790,6 +29013,7 @@ export default [
     date: "2024-03-22",
     ave_temperature: -7.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3225,
@@ -25798,6 +29022,7 @@ export default [
     date: "2024-03-23",
     ave_temperature: -7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3226,
@@ -25805,7 +29030,8 @@ export default [
     climate_id: 3033875,
     date: "2024-03-24",
     ave_temperature: -8.1,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3227,
@@ -25813,7 +29039,8 @@ export default [
     climate_id: 3033875,
     date: "2024-03-25",
     ave_temperature: -10.7,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3228,
@@ -25821,7 +29048,8 @@ export default [
     climate_id: 3033875,
     date: "2024-03-26",
     ave_temperature: -6.9,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3229,
@@ -25829,7 +29057,8 @@ export default [
     climate_id: 3033875,
     date: "2024-03-27",
     ave_temperature: -1.2,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3230,
@@ -25837,7 +29066,8 @@ export default [
     climate_id: 3033875,
     date: "2024-03-28",
     ave_temperature: -0.4,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3231,
@@ -25846,6 +29076,7 @@ export default [
     date: "2024-03-29",
     ave_temperature: -4.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3232,
@@ -25853,7 +29084,8 @@ export default [
     climate_id: 3033875,
     date: "2024-03-30",
     ave_temperature: -5.3,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3233,
@@ -25861,7 +29093,8 @@ export default [
     climate_id: 3033875,
     date: "2024-03-31",
     ave_temperature: 0.4,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3234,
@@ -25869,7 +29102,8 @@ export default [
     climate_id: 3033875,
     date: "2024-04-01",
     ave_temperature: 7.9,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3235,
@@ -25878,6 +29112,7 @@ export default [
     date: "2024-04-02",
     ave_temperature: 10.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3236,
@@ -25885,7 +29120,8 @@ export default [
     climate_id: 3033875,
     date: "2024-04-03",
     ave_temperature: 11.6,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3237,
@@ -25893,7 +29129,8 @@ export default [
     climate_id: 3033875,
     date: "2024-04-04",
     ave_temperature: 2.1,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3238,
@@ -25901,7 +29138,8 @@ export default [
     climate_id: 3033875,
     date: "2024-04-05",
     ave_temperature: 0.9,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3239,
@@ -25909,7 +29147,8 @@ export default [
     climate_id: 3033875,
     date: "2024-04-06",
     ave_temperature: 3,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3240,
@@ -25917,7 +29156,8 @@ export default [
     climate_id: 3033875,
     date: "2024-04-07",
     ave_temperature: 6,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3241,
@@ -25925,7 +29165,8 @@ export default [
     climate_id: 3033875,
     date: "2024-04-08",
     ave_temperature: 6.3,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3242,
@@ -25934,6 +29175,7 @@ export default [
     date: "2024-04-09",
     ave_temperature: 8.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3243,
@@ -25942,6 +29184,7 @@ export default [
     date: "2024-04-10",
     ave_temperature: 3.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3244,
@@ -25950,6 +29193,7 @@ export default [
     date: "2024-04-11",
     ave_temperature: 7.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3245,
@@ -25958,6 +29202,7 @@ export default [
     date: "2024-04-12",
     ave_temperature: 9.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3246,
@@ -25966,6 +29211,7 @@ export default [
     date: "2024-04-13",
     ave_temperature: 11.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3247,
@@ -25974,6 +29220,7 @@ export default [
     date: "2024-04-14",
     ave_temperature: 10,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3248,
@@ -25982,6 +29229,7 @@ export default [
     date: "2024-04-15",
     ave_temperature: 11.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3249,
@@ -25989,7 +29237,8 @@ export default [
     climate_id: 3033875,
     date: "2024-04-16",
     ave_temperature: 4.2,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3250,
@@ -25997,7 +29246,8 @@ export default [
     climate_id: 3033875,
     date: "2024-04-17",
     ave_temperature: 0.4,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3251,
@@ -26006,6 +29256,7 @@ export default [
     date: "2024-04-18",
     ave_temperature: -0.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3252,
@@ -26014,6 +29265,7 @@ export default [
     date: "2024-04-19",
     ave_temperature: -1.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3253,
@@ -26022,6 +29274,7 @@ export default [
     date: "2024-04-20",
     ave_temperature: 0.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3254,
@@ -26030,6 +29283,7 @@ export default [
     date: "2024-04-21",
     ave_temperature: 7.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3255,
@@ -26038,6 +29292,7 @@ export default [
     date: "2024-04-22",
     ave_temperature: 8.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3256,
@@ -26046,6 +29301,7 @@ export default [
     date: "2024-04-23",
     ave_temperature: 7.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3257,
@@ -26054,6 +29310,7 @@ export default [
     date: "2024-04-24",
     ave_temperature: 8.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3258,
@@ -26062,6 +29319,7 @@ export default [
     date: "2024-04-25",
     ave_temperature: 10.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3259,
@@ -26070,6 +29328,7 @@ export default [
     date: "2024-04-26",
     ave_temperature: 7.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3260,
@@ -26078,6 +29337,7 @@ export default [
     date: "2024-04-27",
     ave_temperature: 7.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3261,
@@ -26086,6 +29346,7 @@ export default [
     date: "2024-04-28",
     ave_temperature: 10.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3262,
@@ -26094,6 +29355,7 @@ export default [
     date: "2024-04-29",
     ave_temperature: 8.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3263,
@@ -26101,7 +29363,8 @@ export default [
     climate_id: 3033875,
     date: "2024-04-30",
     ave_temperature: 0.8,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3264,
@@ -26109,7 +29372,8 @@ export default [
     climate_id: 3033875,
     date: "2024-05-01",
     ave_temperature: 2.4,
-    total_preciptation: 0,
+    total_preciptation: null,
+    user_id: null,
   },
   {
     id: 3265,
@@ -26118,6 +29382,7 @@ export default [
     date: "2024-05-02",
     ave_temperature: 3.3,
     total_preciptation: 6.9,
+    user_id: null,
   },
   {
     id: 3266,
@@ -26126,6 +29391,7 @@ export default [
     date: "2024-05-03",
     ave_temperature: 5.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3267,
@@ -26134,6 +29400,7 @@ export default [
     date: "2024-05-04",
     ave_temperature: 7.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3268,
@@ -26142,6 +29409,7 @@ export default [
     date: "2024-05-05",
     ave_temperature: 7.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3269,
@@ -26150,6 +29418,7 @@ export default [
     date: "2024-05-06",
     ave_temperature: 9.9,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 3270,
@@ -26158,6 +29427,7 @@ export default [
     date: "2024-05-07",
     ave_temperature: 4.9,
     total_preciptation: 42,
+    user_id: null,
   },
   {
     id: 3271,
@@ -26166,6 +29436,7 @@ export default [
     date: "2024-05-08",
     ave_temperature: 7.9,
     total_preciptation: 14.8,
+    user_id: null,
   },
   {
     id: 3272,
@@ -26174,6 +29445,7 @@ export default [
     date: "2024-05-09",
     ave_temperature: 10.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3273,
@@ -26182,6 +29454,7 @@ export default [
     date: "2024-05-10",
     ave_temperature: 15,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3274,
@@ -26190,6 +29463,7 @@ export default [
     date: "2024-05-11",
     ave_temperature: 16.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3275,
@@ -26198,6 +29472,7 @@ export default [
     date: "2024-05-12",
     ave_temperature: 16.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3276,
@@ -26206,6 +29481,7 @@ export default [
     date: "2024-05-13",
     ave_temperature: 13.5,
     total_preciptation: 1.5,
+    user_id: null,
   },
   {
     id: 3277,
@@ -26214,6 +29490,7 @@ export default [
     date: "2024-05-14",
     ave_temperature: 13,
     total_preciptation: 13.1,
+    user_id: null,
   },
   {
     id: 3278,
@@ -26222,6 +29499,7 @@ export default [
     date: "2024-05-15",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3279,
@@ -26230,6 +29508,7 @@ export default [
     date: "2024-05-16",
     ave_temperature: 14.5,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 3280,
@@ -26238,6 +29517,7 @@ export default [
     date: "2024-05-17",
     ave_temperature: 7,
     total_preciptation: 6.9,
+    user_id: null,
   },
   {
     id: 3281,
@@ -26246,6 +29526,7 @@ export default [
     date: "2024-05-18",
     ave_temperature: 8.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3282,
@@ -26254,6 +29535,7 @@ export default [
     date: "2024-05-19",
     ave_temperature: 6.5,
     total_preciptation: 0.9,
+    user_id: null,
   },
   {
     id: 3283,
@@ -26262,6 +29544,7 @@ export default [
     date: "2024-05-20",
     ave_temperature: 8.2,
     total_preciptation: 2.9,
+    user_id: null,
   },
   {
     id: 3284,
@@ -26270,6 +29553,7 @@ export default [
     date: "2024-05-21",
     ave_temperature: 11.5,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 3285,
@@ -26278,6 +29562,7 @@ export default [
     date: "2024-05-22",
     ave_temperature: 8.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3286,
@@ -26286,6 +29571,7 @@ export default [
     date: "2024-05-23",
     ave_temperature: 7.7,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 3287,
@@ -26294,6 +29580,7 @@ export default [
     date: "2024-05-24",
     ave_temperature: 11.1,
     total_preciptation: 2.4,
+    user_id: null,
   },
   {
     id: 3288,
@@ -26302,6 +29589,7 @@ export default [
     date: "2024-05-25",
     ave_temperature: 10.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3289,
@@ -26310,6 +29598,7 @@ export default [
     date: "2024-05-26",
     ave_temperature: 13.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3290,
@@ -26318,6 +29607,7 @@ export default [
     date: "2024-05-27",
     ave_temperature: 14.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3291,
@@ -26326,6 +29616,7 @@ export default [
     date: "2024-05-28",
     ave_temperature: 17.1,
     total_preciptation: 1.8,
+    user_id: null,
   },
   {
     id: 3292,
@@ -26334,6 +29625,7 @@ export default [
     date: "2024-05-29",
     ave_temperature: 12.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3293,
@@ -26342,6 +29634,7 @@ export default [
     date: "2024-05-30",
     ave_temperature: 10.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3294,
@@ -26350,6 +29643,7 @@ export default [
     date: "2024-05-31",
     ave_temperature: 11.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3295,
@@ -26358,6 +29652,7 @@ export default [
     date: "2024-06-01",
     ave_temperature: 10.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3296,
@@ -26366,6 +29661,7 @@ export default [
     date: "2024-06-02",
     ave_temperature: 14.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3297,
@@ -26374,6 +29670,7 @@ export default [
     date: "2024-06-03",
     ave_temperature: 14.5,
     total_preciptation: 0.7,
+    user_id: null,
   },
   {
     id: 3298,
@@ -26382,6 +29679,7 @@ export default [
     date: "2024-06-04",
     ave_temperature: 14.2,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 3299,
@@ -26390,6 +29688,7 @@ export default [
     date: "2024-06-05",
     ave_temperature: 13.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3300,
@@ -26398,6 +29697,7 @@ export default [
     date: "2024-06-06",
     ave_temperature: 13.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3301,
@@ -26406,6 +29706,7 @@ export default [
     date: "2024-06-07",
     ave_temperature: 15.2,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3302,
@@ -26414,6 +29715,7 @@ export default [
     date: "2024-06-08",
     ave_temperature: 13.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3303,
@@ -26422,6 +29724,7 @@ export default [
     date: "2024-06-09",
     ave_temperature: 14.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3304,
@@ -26430,6 +29733,7 @@ export default [
     date: "2024-06-10",
     ave_temperature: 18,
     total_preciptation: 3.2,
+    user_id: null,
   },
   {
     id: 3305,
@@ -26438,6 +29742,7 @@ export default [
     date: "2024-06-11",
     ave_temperature: 18.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3306,
@@ -26446,6 +29751,7 @@ export default [
     date: "2024-06-12",
     ave_temperature: 15.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3307,
@@ -26454,6 +29760,7 @@ export default [
     date: "2024-06-13",
     ave_temperature: 13,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3308,
@@ -26462,6 +29769,7 @@ export default [
     date: "2024-06-14",
     ave_temperature: 18,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3309,
@@ -26470,6 +29778,7 @@ export default [
     date: "2024-06-15",
     ave_temperature: 14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3310,
@@ -26478,6 +29787,7 @@ export default [
     date: "2024-06-16",
     ave_temperature: 7.8,
     total_preciptation: 12.1,
+    user_id: null,
   },
   {
     id: 3311,
@@ -26486,6 +29796,7 @@ export default [
     date: "2024-06-17",
     ave_temperature: 7.9,
     total_preciptation: 7.7,
+    user_id: null,
   },
   {
     id: 3312,
@@ -26494,6 +29805,7 @@ export default [
     date: "2024-06-18",
     ave_temperature: 6.9,
     total_preciptation: 2,
+    user_id: null,
   },
   {
     id: 3313,
@@ -26502,6 +29814,7 @@ export default [
     date: "2024-06-19",
     ave_temperature: 9.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3314,
@@ -26510,6 +29823,7 @@ export default [
     date: "2024-06-20",
     ave_temperature: 13.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3315,
@@ -26518,6 +29832,7 @@ export default [
     date: "2024-06-21",
     ave_temperature: 15.5,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 3316,
@@ -26526,6 +29841,7 @@ export default [
     date: "2024-06-22",
     ave_temperature: 17.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3317,
@@ -26534,6 +29850,7 @@ export default [
     date: "2024-06-23",
     ave_temperature: 18.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3318,
@@ -26542,6 +29859,7 @@ export default [
     date: "2024-06-24",
     ave_temperature: 16.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3319,
@@ -26550,6 +29868,7 @@ export default [
     date: "2024-06-25",
     ave_temperature: 15.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3320,
@@ -26558,6 +29877,7 @@ export default [
     date: "2024-06-26",
     ave_temperature: 16.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3321,
@@ -26566,6 +29886,7 @@ export default [
     date: "2024-06-27",
     ave_temperature: 15.5,
     total_preciptation: 9.6,
+    user_id: null,
   },
   {
     id: 3322,
@@ -26574,6 +29895,7 @@ export default [
     date: "2024-06-28",
     ave_temperature: 14.1,
     total_preciptation: 15.3,
+    user_id: null,
   },
   {
     id: 3323,
@@ -26582,6 +29904,7 @@ export default [
     date: "2024-06-29",
     ave_temperature: 14.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3324,
@@ -26590,6 +29913,7 @@ export default [
     date: "2024-06-30",
     ave_temperature: 16.1,
     total_preciptation: 4.1,
+    user_id: null,
   },
   {
     id: 3325,
@@ -26598,6 +29922,7 @@ export default [
     date: "2024-07-01",
     ave_temperature: 16.2,
     total_preciptation: 4.6,
+    user_id: null,
   },
   {
     id: 3326,
@@ -26606,6 +29931,7 @@ export default [
     date: "2024-07-02",
     ave_temperature: 16.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3327,
@@ -26614,6 +29940,7 @@ export default [
     date: "2024-07-03",
     ave_temperature: 13.6,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 3328,
@@ -26622,6 +29949,7 @@ export default [
     date: "2024-07-04",
     ave_temperature: 17.4,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 3329,
@@ -26630,6 +29958,7 @@ export default [
     date: "2024-07-05",
     ave_temperature: 16.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3330,
@@ -26638,6 +29967,7 @@ export default [
     date: "2024-07-06",
     ave_temperature: 17.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3331,
@@ -26646,6 +29976,7 @@ export default [
     date: "2024-07-07",
     ave_temperature: 19.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3332,
@@ -26654,6 +29985,7 @@ export default [
     date: "2024-07-08",
     ave_temperature: 21.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3333,
@@ -26662,6 +29994,7 @@ export default [
     date: "2024-07-09",
     ave_temperature: 21.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3334,
@@ -26670,6 +30003,7 @@ export default [
     date: "2024-07-10",
     ave_temperature: 24.9,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3335,
@@ -26678,6 +30012,7 @@ export default [
     date: "2024-07-11",
     ave_temperature: 25.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3336,
@@ -26686,6 +30021,7 @@ export default [
     date: "2024-07-12",
     ave_temperature: 20.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3337,
@@ -26694,6 +30030,7 @@ export default [
     date: "2024-07-13",
     ave_temperature: 20.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3338,
@@ -26702,6 +30039,7 @@ export default [
     date: "2024-07-14",
     ave_temperature: 20.3,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3339,
@@ -26710,6 +30048,7 @@ export default [
     date: "2024-07-15",
     ave_temperature: 20.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3340,
@@ -26718,6 +30057,7 @@ export default [
     date: "2024-07-16",
     ave_temperature: 22.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3341,
@@ -26726,6 +30066,7 @@ export default [
     date: "2024-07-17",
     ave_temperature: 24.2,
     total_preciptation: 8.5,
+    user_id: null,
   },
   {
     id: 3342,
@@ -26734,6 +30075,7 @@ export default [
     date: "2024-07-18",
     ave_temperature: 21.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3343,
@@ -26742,6 +30084,7 @@ export default [
     date: "2024-07-19",
     ave_temperature: 21.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3344,
@@ -26750,6 +30093,7 @@ export default [
     date: "2024-07-20",
     ave_temperature: 22.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3345,
@@ -26758,6 +30102,7 @@ export default [
     date: "2024-07-21",
     ave_temperature: 23.1,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3346,
@@ -26766,6 +30111,7 @@ export default [
     date: "2024-07-22",
     ave_temperature: 22.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3347,
@@ -26774,6 +30120,7 @@ export default [
     date: "2024-07-23",
     ave_temperature: 24.8,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3348,
@@ -26782,6 +30129,7 @@ export default [
     date: "2024-07-24",
     ave_temperature: 22.7,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3349,
@@ -26790,6 +30138,7 @@ export default [
     date: "2024-07-25",
     ave_temperature: 20.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3350,
@@ -26798,6 +30147,7 @@ export default [
     date: "2024-07-26",
     ave_temperature: 18.6,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3351,
@@ -26806,6 +30156,7 @@ export default [
     date: "2024-07-27",
     ave_temperature: 14.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3352,
@@ -26814,6 +30165,7 @@ export default [
     date: "2024-07-28",
     ave_temperature: 18.6,
     total_preciptation: 0.2,
+    user_id: null,
   },
   {
     id: 3353,
@@ -26822,6 +30174,7 @@ export default [
     date: "2024-07-29",
     ave_temperature: 21.4,
     total_preciptation: 1.3,
+    user_id: null,
   },
   {
     id: 3354,
@@ -26830,6 +30183,7 @@ export default [
     date: "2024-07-30",
     ave_temperature: 22.2,
     total_preciptation: 0.4,
+    user_id: null,
   },
   {
     id: 3355,
@@ -26838,6 +30192,7 @@ export default [
     date: "2024-07-31",
     ave_temperature: 22,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3356,
@@ -26846,6 +30201,7 @@ export default [
     date: "2024-08-01",
     ave_temperature: 22.5,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3357,
@@ -26854,6 +30210,7 @@ export default [
     date: "2024-08-02",
     ave_temperature: 22,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3358,
@@ -26862,6 +30219,7 @@ export default [
     date: "2024-08-03",
     ave_temperature: 21.4,
     total_preciptation: 0,
+    user_id: null,
   },
   {
     id: 3359,
@@ -26870,6 +30228,7 @@ export default [
     date: "2024-08-04",
     ave_temperature: 18.2,
     total_preciptation: 1.6,
+    user_id: null,
   },
   {
     id: 3360,
@@ -26878,6 +30237,7 @@ export default [
     date: "2024-08-05",
     ave_temperature: 19.5,
     total_preciptation: 0.9,
+    user_id: null,
   },
   {
     id: 3361,
@@ -26886,6 +30246,7 @@ export default [
     date: "2024-08-06",
     ave_temperature: 17.1,
     total_preciptation: 1.2,
+    user_id: null,
   },
   {
     id: 3362,
@@ -26894,5 +30255,6 @@ export default [
     date: "2024-08-07",
     ave_temperature: 16.4,
     total_preciptation: 4.6,
+    user_id: null,
   },
 ];

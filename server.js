@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 8080;
 import signupRoute from "./routes/signup.js";
 import loginRoute from "./routes/login.js";
 import profileRoute from "./routes/profile.js";
-
+import uploadRoute from "./routes/upload.js";
 import sitesRoute from "./routes/sites.js";
 import riversRoute from "./routes/rivers.js";
 
@@ -22,7 +22,8 @@ app.get("/", (_req, res) => {
 });
 app.use("/users", signupRoute);
 app.use("/users", loginRoute);
-app.use("/users", profileRoute);
+app.use("/users/:userName", profileRoute);
+app.use("/users/:userName", uploadRoute);
 
 app.use("/sites", sitesRoute);
 app.use("/rivers", riversRoute);

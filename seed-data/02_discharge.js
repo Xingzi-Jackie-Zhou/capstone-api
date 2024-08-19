@@ -3,953 +3,1089 @@ export default [
     id: 1,
     station_id: "05AB019",
     date: "2020-12-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2,
     station_id: "05AB019",
     date: "2020-12-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 3,
     station_id: "05AB019",
     date: "2020-12-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 4,
     station_id: "05AB019",
     date: "2020-12-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 5,
     station_id: "05AB019",
     date: "2020-12-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 6,
     station_id: "05AB019",
     date: "2020-12-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 7,
     station_id: "05AB019",
     date: "2020-12-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 8,
     station_id: "05AB019",
     date: "2020-12-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 9,
     station_id: "05AB019",
     date: "2020-12-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 10,
     station_id: "05AB019",
     date: "2020-12-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 11,
     station_id: "05AB019",
     date: "2020-12-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 12,
     station_id: "05AB019",
     date: "2020-12-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 13,
     station_id: "05AB019",
     date: "2020-12-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 14,
     station_id: "05AB019",
     date: "2020-12-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 15,
     station_id: "05AB019",
     date: "2020-12-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 16,
     station_id: "05AB019",
     date: "2020-12-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 17,
     station_id: "05AB019",
     date: "2020-12-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 18,
     station_id: "05AB019",
     date: "2020-12-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 19,
     station_id: "05AB019",
     date: "2020-12-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 20,
     station_id: "05AB019",
     date: "2020-12-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 21,
     station_id: "05AB019",
     date: "2020-12-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 22,
     station_id: "05AB019",
     date: "2020-12-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 23,
     station_id: "05AB019",
     date: "2020-12-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 24,
     station_id: "05AB019",
     date: "2020-12-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 25,
     station_id: "05AB019",
     date: "2020-12-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 26,
     station_id: "05AB019",
     date: "2020-12-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 27,
     station_id: "05AB019",
     date: "2020-12-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 28,
     station_id: "05AB019",
     date: "2020-12-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 29,
     station_id: "05AB019",
     date: "2020-12-29",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 30,
     station_id: "05AB019",
     date: "2020-12-30",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 31,
     station_id: "05AB019",
     date: "2020-12-31",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 32,
     station_id: "05AB019",
     date: "2021-01-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 33,
     station_id: "05AB019",
     date: "2021-01-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 34,
     station_id: "05AB019",
     date: "2021-01-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 35,
     station_id: "05AB019",
     date: "2021-01-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 36,
     station_id: "05AB019",
     date: "2021-01-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 37,
     station_id: "05AB019",
     date: "2021-01-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 38,
     station_id: "05AB019",
     date: "2021-01-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 39,
     station_id: "05AB019",
     date: "2021-01-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 40,
     station_id: "05AB019",
     date: "2021-01-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 41,
     station_id: "05AB019",
     date: "2021-01-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 42,
     station_id: "05AB019",
     date: "2021-01-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 43,
     station_id: "05AB019",
     date: "2021-01-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 44,
     station_id: "05AB019",
     date: "2021-01-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 45,
     station_id: "05AB019",
     date: "2021-01-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 46,
     station_id: "05AB019",
     date: "2021-01-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 47,
     station_id: "05AB019",
     date: "2021-01-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 48,
     station_id: "05AB019",
     date: "2021-01-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 49,
     station_id: "05AB019",
     date: "2021-01-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 50,
     station_id: "05AB019",
     date: "2021-01-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 51,
     station_id: "05AB019",
     date: "2021-01-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 52,
     station_id: "05AB019",
     date: "2021-01-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 53,
     station_id: "05AB019",
     date: "2021-01-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 54,
     station_id: "05AB019",
     date: "2021-01-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 55,
     station_id: "05AB019",
     date: "2021-01-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 56,
     station_id: "05AB019",
     date: "2021-01-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 57,
     station_id: "05AB019",
     date: "2021-01-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 58,
     station_id: "05AB019",
     date: "2021-01-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 59,
     station_id: "05AB019",
     date: "2021-01-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 60,
     station_id: "05AB019",
     date: "2021-01-29",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 61,
     station_id: "05AB019",
     date: "2021-01-30",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 62,
     station_id: "05AB019",
     date: "2021-01-31",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 63,
     station_id: "05AB019",
     date: "2021-02-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 64,
     station_id: "05AB019",
     date: "2021-02-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 65,
     station_id: "05AB019",
     date: "2021-02-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 66,
     station_id: "05AB019",
     date: "2021-02-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 67,
     station_id: "05AB019",
     date: "2021-02-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 68,
     station_id: "05AB019",
     date: "2021-02-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 69,
     station_id: "05AB019",
     date: "2021-02-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 70,
     station_id: "05AB019",
     date: "2021-02-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 71,
     station_id: "05AB019",
     date: "2021-02-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 72,
     station_id: "05AB019",
     date: "2021-02-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 73,
     station_id: "05AB019",
     date: "2021-02-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 74,
     station_id: "05AB019",
     date: "2021-02-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 75,
     station_id: "05AB019",
     date: "2021-02-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 76,
     station_id: "05AB019",
     date: "2021-02-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 77,
     station_id: "05AB019",
     date: "2021-02-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 78,
     station_id: "05AB019",
     date: "2021-02-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 79,
     station_id: "05AB019",
     date: "2021-02-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 80,
     station_id: "05AB019",
     date: "2021-02-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 81,
     station_id: "05AB019",
     date: "2021-02-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 82,
     station_id: "05AB019",
     date: "2021-02-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 83,
     station_id: "05AB019",
     date: "2021-02-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 84,
     station_id: "05AB019",
     date: "2021-02-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 85,
     station_id: "05AB019",
     date: "2021-02-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 86,
     station_id: "05AB019",
     date: "2021-02-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 87,
     station_id: "05AB019",
     date: "2021-02-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 88,
     station_id: "05AB019",
     date: "2021-02-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 89,
     station_id: "05AB019",
     date: "2021-02-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 90,
     station_id: "05AB019",
     date: "2021-02-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 91,
     station_id: "05AB019",
     date: "2021-03-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 92,
     station_id: "05AB019",
     date: "2021-03-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 93,
     station_id: "05AB019",
     date: "2021-03-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 94,
     station_id: "05AB019",
     date: "2021-03-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 95,
     station_id: "05AB019",
     date: "2021-03-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 96,
     station_id: "05AB019",
     date: "2021-03-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 97,
     station_id: "05AB019",
     date: "2021-03-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 98,
     station_id: "05AB019",
     date: "2021-03-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 99,
     station_id: "05AB019",
     date: "2021-03-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 100,
     station_id: "05AB019",
     date: "2021-03-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 101,
     station_id: "05AB019",
     date: "2021-03-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 102,
     station_id: "05AB019",
     date: "2021-03-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 103,
     station_id: "05AB019",
     date: "2021-03-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 104,
     station_id: "05AB019",
     date: "2021-03-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 105,
     station_id: "05AB019",
     date: "2021-03-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 106,
     station_id: "05AB019",
     date: "2021-03-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 107,
     station_id: "05AB019",
     date: "2021-03-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 108,
     station_id: "05AB019",
     date: "2021-03-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 109,
     station_id: "05AB019",
     date: "2021-03-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 110,
     station_id: "05AB019",
     date: "2021-03-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 111,
     station_id: "05AB019",
     date: "2021-03-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 112,
     station_id: "05AB019",
     date: "2021-03-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 113,
     station_id: "05AB019",
     date: "2021-03-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 114,
     station_id: "05AB019",
     date: "2021-03-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 115,
     station_id: "05AB019",
     date: "2021-03-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 116,
     station_id: "05AB019",
     date: "2021-03-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 117,
     station_id: "05AB019",
     date: "2021-03-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 118,
     station_id: "05AB019",
     date: "2021-03-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 119,
     station_id: "05AB019",
     date: "2021-03-29",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 120,
     station_id: "05AB019",
     date: "2021-03-30",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 121,
     station_id: "05AB019",
     date: "2021-03-31",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 122,
     station_id: "05AB019",
     date: "2021-04-01",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 123,
     station_id: "05AB019",
     date: "2021-04-02",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 124,
     station_id: "05AB019",
     date: "2021-04-03",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 125,
     station_id: "05AB019",
     date: "2021-04-04",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 126,
     station_id: "05AB019",
     date: "2021-04-05",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 127,
     station_id: "05AB019",
     date: "2021-04-06",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 128,
     station_id: "05AB019",
     date: "2021-04-07",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 129,
     station_id: "05AB019",
     date: "2021-04-08",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 130,
     station_id: "05AB019",
     date: "2021-04-09",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 131,
     station_id: "05AB019",
     date: "2021-04-10",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 132,
     station_id: "05AB019",
     date: "2021-04-11",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 133,
     station_id: "05AB019",
     date: "2021-04-12",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 134,
     station_id: "05AB019",
     date: "2021-04-13",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 135,
     station_id: "05AB019",
     date: "2021-04-14",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 136,
     station_id: "05AB019",
     date: "2021-04-15",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 137,
@@ -957,6 +1093,7 @@ export default [
     date: "2021-04-16",
     discharge: 2.94,
     water_level: 0.581,
+    user_id: null,
   },
   {
     id: 138,
@@ -964,6 +1101,7 @@ export default [
     date: "2021-04-17",
     discharge: 4.18,
     water_level: 0.502,
+    user_id: null,
   },
   {
     id: 139,
@@ -971,6 +1109,7 @@ export default [
     date: "2021-04-18",
     discharge: 2.85,
     water_level: 0.429,
+    user_id: null,
   },
   {
     id: 140,
@@ -978,6 +1117,7 @@ export default [
     date: "2021-04-19",
     discharge: 2.89,
     water_level: 0.431,
+    user_id: null,
   },
   {
     id: 141,
@@ -985,6 +1125,7 @@ export default [
     date: "2021-04-20",
     discharge: 2.54,
     water_level: 0.415,
+    user_id: null,
   },
   {
     id: 142,
@@ -992,6 +1133,7 @@ export default [
     date: "2021-04-21",
     discharge: 2.76,
     water_level: 0.422,
+    user_id: null,
   },
   {
     id: 143,
@@ -999,6 +1141,7 @@ export default [
     date: "2021-04-22",
     discharge: 3.01,
     water_level: 0.438,
+    user_id: null,
   },
   {
     id: 144,
@@ -1006,6 +1149,7 @@ export default [
     date: "2021-04-23",
     discharge: 3,
     water_level: 0.438,
+    user_id: null,
   },
   {
     id: 145,
@@ -1013,6 +1157,7 @@ export default [
     date: "2021-04-24",
     discharge: 3.02,
     water_level: 0.439,
+    user_id: null,
   },
   {
     id: 146,
@@ -1020,6 +1165,7 @@ export default [
     date: "2021-04-25",
     discharge: 3.02,
     water_level: 0.439,
+    user_id: null,
   },
   {
     id: 147,
@@ -1027,6 +1173,7 @@ export default [
     date: "2021-04-26",
     discharge: 4.85,
     water_level: 0.54,
+    user_id: null,
   },
   {
     id: 148,
@@ -1034,6 +1181,7 @@ export default [
     date: "2021-04-27",
     discharge: 8.5,
     water_level: 0.72,
+    user_id: null,
   },
   {
     id: 149,
@@ -1041,6 +1189,7 @@ export default [
     date: "2021-04-28",
     discharge: 11.4,
     water_level: 0.844,
+    user_id: null,
   },
   {
     id: 150,
@@ -1048,6 +1197,7 @@ export default [
     date: "2021-04-29",
     discharge: 12.7,
     water_level: 0.899,
+    user_id: null,
   },
   {
     id: 151,
@@ -1055,6 +1205,7 @@ export default [
     date: "2021-04-30",
     discharge: 19.1,
     water_level: 1.131,
+    user_id: null,
   },
   {
     id: 152,
@@ -1062,6 +1213,7 @@ export default [
     date: "2021-05-01",
     discharge: 24.1,
     water_level: 1.305,
+    user_id: null,
   },
   {
     id: 153,
@@ -1069,6 +1221,7 @@ export default [
     date: "2021-05-02",
     discharge: 25,
     water_level: 1.334,
+    user_id: null,
   },
   {
     id: 154,
@@ -1076,6 +1229,7 @@ export default [
     date: "2021-05-03",
     discharge: 25.3,
     water_level: 1.345,
+    user_id: null,
   },
   {
     id: 155,
@@ -1083,6 +1237,7 @@ export default [
     date: "2021-05-04",
     discharge: 25.1,
     water_level: 1.338,
+    user_id: null,
   },
   {
     id: 156,
@@ -1090,6 +1245,7 @@ export default [
     date: "2021-05-05",
     discharge: 21.3,
     water_level: 1.213,
+    user_id: null,
   },
   {
     id: 157,
@@ -1097,6 +1253,7 @@ export default [
     date: "2021-05-06",
     discharge: 17.2,
     water_level: 1.068,
+    user_id: null,
   },
   {
     id: 158,
@@ -1104,6 +1261,7 @@ export default [
     date: "2021-05-07",
     discharge: 12.9,
     water_level: 0.905,
+    user_id: null,
   },
   {
     id: 159,
@@ -1111,6 +1269,7 @@ export default [
     date: "2021-05-08",
     discharge: 10.6,
     water_level: 0.814,
+    user_id: null,
   },
   {
     id: 160,
@@ -1118,6 +1277,7 @@ export default [
     date: "2021-05-09",
     discharge: 10.2,
     water_level: 0.794,
+    user_id: null,
   },
   {
     id: 161,
@@ -1125,6 +1285,7 @@ export default [
     date: "2021-05-10",
     discharge: 10.5,
     water_level: 0.807,
+    user_id: null,
   },
   {
     id: 162,
@@ -1132,6 +1293,7 @@ export default [
     date: "2021-05-11",
     discharge: 11,
     water_level: 0.828,
+    user_id: null,
   },
   {
     id: 163,
@@ -1139,6 +1301,7 @@ export default [
     date: "2021-05-12",
     discharge: 10.9,
     water_level: 0.827,
+    user_id: null,
   },
   {
     id: 164,
@@ -1146,6 +1309,7 @@ export default [
     date: "2021-05-13",
     discharge: 10.9,
     water_level: 0.827,
+    user_id: null,
   },
   {
     id: 165,
@@ -1153,6 +1317,7 @@ export default [
     date: "2021-05-14",
     discharge: 10.9,
     water_level: 0.827,
+    user_id: null,
   },
   {
     id: 166,
@@ -1160,6 +1325,7 @@ export default [
     date: "2021-05-15",
     discharge: 10.9,
     water_level: 0.827,
+    user_id: null,
   },
   {
     id: 167,
@@ -1167,6 +1333,7 @@ export default [
     date: "2021-05-16",
     discharge: 10.9,
     water_level: 0.827,
+    user_id: null,
   },
   {
     id: 168,
@@ -1174,6 +1341,7 @@ export default [
     date: "2021-05-17",
     discharge: 10.9,
     water_level: 0.827,
+    user_id: null,
   },
   {
     id: 169,
@@ -1181,6 +1349,7 @@ export default [
     date: "2021-05-18",
     discharge: 11,
     water_level: 0.829,
+    user_id: null,
   },
   {
     id: 170,
@@ -1188,6 +1357,7 @@ export default [
     date: "2021-05-19",
     discharge: 15.6,
     water_level: 1.006,
+    user_id: null,
   },
   {
     id: 171,
@@ -1195,6 +1365,7 @@ export default [
     date: "2021-05-20",
     discharge: 17.9,
     water_level: 1.094,
+    user_id: null,
   },
   {
     id: 172,
@@ -1202,6 +1373,7 @@ export default [
     date: "2021-05-21",
     discharge: 13.8,
     water_level: 0.936,
+    user_id: null,
   },
   {
     id: 173,
@@ -1209,6 +1381,7 @@ export default [
     date: "2021-05-22",
     discharge: 10.9,
     water_level: 0.823,
+    user_id: null,
   },
   {
     id: 174,
@@ -1216,6 +1389,7 @@ export default [
     date: "2021-05-23",
     discharge: 10.8,
     water_level: 0.822,
+    user_id: null,
   },
   {
     id: 175,
@@ -1223,6 +1397,7 @@ export default [
     date: "2021-05-24",
     discharge: 10.8,
     water_level: 0.821,
+    user_id: null,
   },
   {
     id: 176,
@@ -1230,6 +1405,7 @@ export default [
     date: "2021-05-25",
     discharge: 10.8,
     water_level: 0.821,
+    user_id: null,
   },
   {
     id: 177,
@@ -1237,6 +1413,7 @@ export default [
     date: "2021-05-26",
     discharge: 10.8,
     water_level: 0.821,
+    user_id: null,
   },
   {
     id: 178,
@@ -1244,6 +1421,7 @@ export default [
     date: "2021-05-27",
     discharge: 10.8,
     water_level: 0.821,
+    user_id: null,
   },
   {
     id: 179,
@@ -1251,6 +1429,7 @@ export default [
     date: "2021-05-28",
     discharge: 11,
     water_level: 0.83,
+    user_id: null,
   },
   {
     id: 180,
@@ -1258,6 +1437,7 @@ export default [
     date: "2021-05-29",
     discharge: 11,
     water_level: 0.831,
+    user_id: null,
   },
   {
     id: 181,
@@ -1265,6 +1445,7 @@ export default [
     date: "2021-05-30",
     discharge: 11,
     water_level: 0.829,
+    user_id: null,
   },
   {
     id: 182,
@@ -1272,6 +1453,7 @@ export default [
     date: "2021-05-31",
     discharge: 14.4,
     water_level: 0.96,
+    user_id: null,
   },
   {
     id: 183,
@@ -1279,6 +1461,7 @@ export default [
     date: "2021-06-01",
     discharge: 17,
     water_level: 1.062,
+    user_id: null,
   },
   {
     id: 184,
@@ -1286,6 +1469,7 @@ export default [
     date: "2021-06-02",
     discharge: 24.1,
     water_level: 1.3,
+    user_id: null,
   },
   {
     id: 185,
@@ -1293,6 +1477,7 @@ export default [
     date: "2021-06-03",
     discharge: 27.3,
     water_level: 1.405,
+    user_id: null,
   },
   {
     id: 186,
@@ -1300,6 +1485,7 @@ export default [
     date: "2021-06-04",
     discharge: 29.6,
     water_level: 1.477,
+    user_id: null,
   },
   {
     id: 187,
@@ -1307,6 +1493,7 @@ export default [
     date: "2021-06-05",
     discharge: 32,
     water_level: 1.551,
+    user_id: null,
   },
   {
     id: 188,
@@ -1314,6 +1501,7 @@ export default [
     date: "2021-06-06",
     discharge: 32.4,
     water_level: 1.564,
+    user_id: null,
   },
   {
     id: 189,
@@ -1321,6 +1509,7 @@ export default [
     date: "2021-06-07",
     discharge: 31.7,
     water_level: 1.543,
+    user_id: null,
   },
   {
     id: 190,
@@ -1328,6 +1517,7 @@ export default [
     date: "2021-06-08",
     discharge: 31.5,
     water_level: 1.538,
+    user_id: null,
   },
   {
     id: 191,
@@ -1335,6 +1525,7 @@ export default [
     date: "2021-06-09",
     discharge: 31.3,
     water_level: 1.531,
+    user_id: null,
   },
   {
     id: 192,
@@ -1342,6 +1533,7 @@ export default [
     date: "2021-06-10",
     discharge: 26.5,
     water_level: 1.382,
+    user_id: null,
   },
   {
     id: 193,
@@ -1349,6 +1541,7 @@ export default [
     date: "2021-06-11",
     discharge: 20.9,
     water_level: 1.199,
+    user_id: null,
   },
   {
     id: 194,
@@ -1356,6 +1549,7 @@ export default [
     date: "2021-06-12",
     discharge: 19.2,
     water_level: 1.141,
+    user_id: null,
   },
   {
     id: 195,
@@ -1363,6 +1557,7 @@ export default [
     date: "2021-06-13",
     discharge: 19.4,
     water_level: 1.146,
+    user_id: null,
   },
   {
     id: 196,
@@ -1370,6 +1565,7 @@ export default [
     date: "2021-06-14",
     discharge: 26.4,
     water_level: 1.375,
+    user_id: null,
   },
   {
     id: 197,
@@ -1377,6 +1573,7 @@ export default [
     date: "2021-06-15",
     discharge: 37,
     water_level: 1.696,
+    user_id: null,
   },
   {
     id: 198,
@@ -1384,6 +1581,7 @@ export default [
     date: "2021-06-16",
     discharge: 41.7,
     water_level: 1.83,
+    user_id: null,
   },
   {
     id: 199,
@@ -1391,6 +1589,7 @@ export default [
     date: "2021-06-17",
     discharge: 41.5,
     water_level: 1.827,
+    user_id: null,
   },
   {
     id: 200,
@@ -1398,6 +1597,7 @@ export default [
     date: "2021-06-18",
     discharge: 40.5,
     water_level: 1.797,
+    user_id: null,
   },
   {
     id: 201,
@@ -1405,6 +1605,7 @@ export default [
     date: "2021-06-19",
     discharge: 40.1,
     water_level: 1.786,
+    user_id: null,
   },
   {
     id: 202,
@@ -1412,6 +1613,7 @@ export default [
     date: "2021-06-20",
     discharge: 40.4,
     water_level: 1.795,
+    user_id: null,
   },
   {
     id: 203,
@@ -1419,6 +1621,7 @@ export default [
     date: "2021-06-21",
     discharge: 41.4,
     water_level: 1.821,
+    user_id: null,
   },
   {
     id: 204,
@@ -1426,6 +1629,7 @@ export default [
     date: "2021-06-22",
     discharge: 41.3,
     water_level: 1.821,
+    user_id: null,
   },
   {
     id: 205,
@@ -1433,6 +1637,7 @@ export default [
     date: "2021-06-23",
     discharge: 40.9,
     water_level: 1.808,
+    user_id: null,
   },
   {
     id: 206,
@@ -1440,6 +1645,7 @@ export default [
     date: "2021-06-24",
     discharge: 40.3,
     water_level: 1.793,
+    user_id: null,
   },
   {
     id: 207,
@@ -1447,6 +1653,7 @@ export default [
     date: "2021-06-25",
     discharge: 39.9,
     water_level: 1.782,
+    user_id: null,
   },
   {
     id: 208,
@@ -1454,6 +1661,7 @@ export default [
     date: "2021-06-26",
     discharge: 37.5,
     water_level: 1.713,
+    user_id: null,
   },
   {
     id: 209,
@@ -1461,6 +1669,7 @@ export default [
     date: "2021-06-27",
     discharge: 32.6,
     water_level: 1.57,
+    user_id: null,
   },
   {
     id: 210,
@@ -1468,6 +1677,7 @@ export default [
     date: "2021-06-28",
     discharge: 30.3,
     water_level: 1.5,
+    user_id: null,
   },
   {
     id: 211,
@@ -1475,6 +1685,7 @@ export default [
     date: "2021-06-29",
     discharge: 30,
     water_level: 1.493,
+    user_id: null,
   },
   {
     id: 212,
@@ -1482,6 +1693,7 @@ export default [
     date: "2021-06-30",
     discharge: 31.4,
     water_level: 1.534,
+    user_id: null,
   },
   {
     id: 213,
@@ -1489,6 +1701,7 @@ export default [
     date: "2021-07-01",
     discharge: 33.1,
     water_level: 1.585,
+    user_id: null,
   },
   {
     id: 214,
@@ -1496,6 +1709,7 @@ export default [
     date: "2021-07-02",
     discharge: 35.8,
     water_level: 1.665,
+    user_id: null,
   },
   {
     id: 215,
@@ -1503,6 +1717,7 @@ export default [
     date: "2021-07-03",
     discharge: 36.9,
     water_level: 1.697,
+    user_id: null,
   },
   {
     id: 216,
@@ -1510,6 +1725,7 @@ export default [
     date: "2021-07-04",
     discharge: 38.9,
     water_level: 1.752,
+    user_id: null,
   },
   {
     id: 217,
@@ -1517,6 +1733,7 @@ export default [
     date: "2021-07-05",
     discharge: 40,
     water_level: 1.784,
+    user_id: null,
   },
   {
     id: 218,
@@ -1524,6 +1741,7 @@ export default [
     date: "2021-07-06",
     discharge: 40,
     water_level: 1.785,
+    user_id: null,
   },
   {
     id: 219,
@@ -1531,6 +1749,7 @@ export default [
     date: "2021-07-07",
     discharge: 39.8,
     water_level: 1.778,
+    user_id: null,
   },
   {
     id: 220,
@@ -1538,6 +1757,7 @@ export default [
     date: "2021-07-08",
     discharge: 40.2,
     water_level: 1.79,
+    user_id: null,
   },
   {
     id: 221,
@@ -1545,6 +1765,7 @@ export default [
     date: "2021-07-09",
     discharge: 40.2,
     water_level: 1.789,
+    user_id: null,
   },
   {
     id: 222,
@@ -1552,6 +1773,7 @@ export default [
     date: "2021-07-10",
     discharge: 40,
     water_level: 1.785,
+    user_id: null,
   },
   {
     id: 223,
@@ -1559,6 +1781,7 @@ export default [
     date: "2021-07-11",
     discharge: 39.9,
     water_level: 1.78,
+    user_id: null,
   },
   {
     id: 224,
@@ -1566,6 +1789,7 @@ export default [
     date: "2021-07-12",
     discharge: 40,
     water_level: 1.782,
+    user_id: null,
   },
   {
     id: 225,
@@ -1573,6 +1797,7 @@ export default [
     date: "2021-07-13",
     discharge: 40.6,
     water_level: 1.799,
+    user_id: null,
   },
   {
     id: 226,
@@ -1580,6 +1805,7 @@ export default [
     date: "2021-07-14",
     discharge: 40.1,
     water_level: 1.787,
+    user_id: null,
   },
   {
     id: 227,
@@ -1587,6 +1813,7 @@ export default [
     date: "2021-07-15",
     discharge: 39.8,
     water_level: 1.779,
+    user_id: null,
   },
   {
     id: 228,
@@ -1594,6 +1821,7 @@ export default [
     date: "2021-07-16",
     discharge: 40.5,
     water_level: 1.798,
+    user_id: null,
   },
   {
     id: 229,
@@ -1601,6 +1829,7 @@ export default [
     date: "2021-07-17",
     discharge: 40.6,
     water_level: 1.8,
+    user_id: null,
   },
   {
     id: 230,
@@ -1608,6 +1837,7 @@ export default [
     date: "2021-07-18",
     discharge: 40.3,
     water_level: 1.793,
+    user_id: null,
   },
   {
     id: 231,
@@ -1615,6 +1845,7 @@ export default [
     date: "2021-07-19",
     discharge: 40.2,
     water_level: 1.79,
+    user_id: null,
   },
   {
     id: 232,
@@ -1622,6 +1853,7 @@ export default [
     date: "2021-07-20",
     discharge: 40.1,
     water_level: 1.787,
+    user_id: null,
   },
   {
     id: 233,
@@ -1629,6 +1861,7 @@ export default [
     date: "2021-07-21",
     discharge: 40.2,
     water_level: 1.789,
+    user_id: null,
   },
   {
     id: 234,
@@ -1636,6 +1869,7 @@ export default [
     date: "2021-07-22",
     discharge: 40.9,
     water_level: 1.808,
+    user_id: null,
   },
   {
     id: 235,
@@ -1643,6 +1877,7 @@ export default [
     date: "2021-07-23",
     discharge: 40.8,
     water_level: 1.807,
+    user_id: null,
   },
   {
     id: 236,
@@ -1650,6 +1885,7 @@ export default [
     date: "2021-07-24",
     discharge: 40.7,
     water_level: 1.803,
+    user_id: null,
   },
   {
     id: 237,
@@ -1657,6 +1893,7 @@ export default [
     date: "2021-07-25",
     discharge: 40.4,
     water_level: 1.796,
+    user_id: null,
   },
   {
     id: 238,
@@ -1664,6 +1901,7 @@ export default [
     date: "2021-07-26",
     discharge: 40.5,
     water_level: 1.796,
+    user_id: null,
   },
   {
     id: 239,
@@ -1671,6 +1909,7 @@ export default [
     date: "2021-07-27",
     discharge: 40.8,
     water_level: 1.807,
+    user_id: null,
   },
   {
     id: 240,
@@ -1678,6 +1917,7 @@ export default [
     date: "2021-07-28",
     discharge: 40.1,
     water_level: 1.787,
+    user_id: null,
   },
   {
     id: 241,
@@ -1685,6 +1925,7 @@ export default [
     date: "2021-07-29",
     discharge: 39.6,
     water_level: 1.773,
+    user_id: null,
   },
   {
     id: 242,
@@ -1692,6 +1933,7 @@ export default [
     date: "2021-07-30",
     discharge: 39.9,
     water_level: 1.781,
+    user_id: null,
   },
   {
     id: 243,
@@ -1699,6 +1941,7 @@ export default [
     date: "2021-07-31",
     discharge: 40.7,
     water_level: 1.804,
+    user_id: null,
   },
   {
     id: 244,
@@ -1706,6 +1949,7 @@ export default [
     date: "2021-08-01",
     discharge: 40.3,
     water_level: 1.791,
+    user_id: null,
   },
   {
     id: 245,
@@ -1713,6 +1957,7 @@ export default [
     date: "2021-08-02",
     discharge: 40.2,
     water_level: 1.79,
+    user_id: null,
   },
   {
     id: 246,
@@ -1720,6 +1965,7 @@ export default [
     date: "2021-08-03",
     discharge: 40.2,
     water_level: 1.789,
+    user_id: null,
   },
   {
     id: 247,
@@ -1727,6 +1973,7 @@ export default [
     date: "2021-08-04",
     discharge: 40.6,
     water_level: 1.802,
+    user_id: null,
   },
   {
     id: 248,
@@ -1734,6 +1981,7 @@ export default [
     date: "2021-08-05",
     discharge: 40.6,
     water_level: 1.8,
+    user_id: null,
   },
   {
     id: 249,
@@ -1741,6 +1989,7 @@ export default [
     date: "2021-08-06",
     discharge: 40.2,
     water_level: 1.789,
+    user_id: null,
   },
   {
     id: 250,
@@ -1748,6 +1997,7 @@ export default [
     date: "2021-08-07",
     discharge: 40.4,
     water_level: 1.794,
+    user_id: null,
   },
   {
     id: 251,
@@ -1755,6 +2005,7 @@ export default [
     date: "2021-08-08",
     discharge: 37,
     water_level: 1.7,
+    user_id: null,
   },
   {
     id: 252,
@@ -1762,6 +2013,7 @@ export default [
     date: "2021-08-09",
     discharge: 34.8,
     water_level: 1.635,
+    user_id: null,
   },
   {
     id: 253,
@@ -1769,6 +2021,7 @@ export default [
     date: "2021-08-10",
     discharge: 32.2,
     water_level: 1.558,
+    user_id: null,
   },
   {
     id: 254,
@@ -1776,6 +2029,7 @@ export default [
     date: "2021-08-11",
     discharge: 29.7,
     water_level: 1.483,
+    user_id: null,
   },
   {
     id: 255,
@@ -1783,6 +2037,7 @@ export default [
     date: "2021-08-12",
     discharge: 27.2,
     water_level: 1.404,
+    user_id: null,
   },
   {
     id: 256,
@@ -1790,6 +2045,7 @@ export default [
     date: "2021-08-13",
     discharge: 25,
     water_level: 1.335,
+    user_id: null,
   },
   {
     id: 257,
@@ -1797,6 +2053,7 @@ export default [
     date: "2021-08-14",
     discharge: 24.8,
     water_level: 1.329,
+    user_id: null,
   },
   {
     id: 258,
@@ -1804,6 +2061,7 @@ export default [
     date: "2021-08-15",
     discharge: 24.8,
     water_level: 1.328,
+    user_id: null,
   },
   {
     id: 259,
@@ -1811,6 +2069,7 @@ export default [
     date: "2021-08-16",
     discharge: 21.7,
     water_level: 1.226,
+    user_id: null,
   },
   {
     id: 260,
@@ -1818,6 +2077,7 @@ export default [
     date: "2021-08-17",
     discharge: 15.4,
     water_level: 0.998,
+    user_id: null,
   },
   {
     id: 261,
@@ -1825,6 +2085,7 @@ export default [
     date: "2021-08-18",
     discharge: 9.22,
     water_level: 0.751,
+    user_id: null,
   },
   {
     id: 262,
@@ -1832,6 +2093,7 @@ export default [
     date: "2021-08-19",
     discharge: 8.08,
     water_level: 0.702,
+    user_id: null,
   },
   {
     id: 263,
@@ -1839,6 +2101,7 @@ export default [
     date: "2021-08-20",
     discharge: 6.53,
     water_level: 0.628,
+    user_id: null,
   },
   {
     id: 264,
@@ -1846,6 +2109,7 @@ export default [
     date: "2021-08-21",
     discharge: 5.55,
     water_level: 0.58,
+    user_id: null,
   },
   {
     id: 265,
@@ -1853,6 +2117,7 @@ export default [
     date: "2021-08-22",
     discharge: 5.45,
     water_level: 0.575,
+    user_id: null,
   },
   {
     id: 266,
@@ -1860,6 +2125,7 @@ export default [
     date: "2021-08-23",
     discharge: 6.01,
     water_level: 0.6,
+    user_id: null,
   },
   {
     id: 267,
@@ -1867,6 +2133,7 @@ export default [
     date: "2021-08-24",
     discharge: 7.24,
     water_level: 0.663,
+    user_id: null,
   },
   {
     id: 268,
@@ -1874,6 +2141,7 @@ export default [
     date: "2021-08-25",
     discharge: 8.16,
     water_level: 0.705,
+    user_id: null,
   },
   {
     id: 269,
@@ -1881,6 +2149,7 @@ export default [
     date: "2021-08-26",
     discharge: 8.52,
     water_level: 0.722,
+    user_id: null,
   },
   {
     id: 270,
@@ -1888,6 +2157,7 @@ export default [
     date: "2021-08-27",
     discharge: 8.03,
     water_level: 0.7,
+    user_id: null,
   },
   {
     id: 271,
@@ -1895,6 +2165,7 @@ export default [
     date: "2021-08-28",
     discharge: 8.02,
     water_level: 0.7,
+    user_id: null,
   },
   {
     id: 272,
@@ -1902,6 +2173,7 @@ export default [
     date: "2021-08-29",
     discharge: 7.38,
     water_level: 0.67,
+    user_id: null,
   },
   {
     id: 273,
@@ -1909,6 +2181,7 @@ export default [
     date: "2021-08-30",
     discharge: 6.97,
     water_level: 0.65,
+    user_id: null,
   },
   {
     id: 274,
@@ -1916,6 +2189,7 @@ export default [
     date: "2021-08-31",
     discharge: 7.58,
     water_level: 0.678,
+    user_id: null,
   },
   {
     id: 275,
@@ -1923,6 +2197,7 @@ export default [
     date: "2021-09-01",
     discharge: 10.1,
     water_level: 0.79,
+    user_id: null,
   },
   {
     id: 276,
@@ -1930,6 +2205,7 @@ export default [
     date: "2021-09-02",
     discharge: 10.1,
     water_level: 0.79,
+    user_id: null,
   },
   {
     id: 277,
@@ -1937,6 +2213,7 @@ export default [
     date: "2021-09-03",
     discharge: 10.1,
     water_level: 0.79,
+    user_id: null,
   },
   {
     id: 278,
@@ -1944,6 +2221,7 @@ export default [
     date: "2021-09-04",
     discharge: 10,
     water_level: 0.788,
+    user_id: null,
   },
   {
     id: 279,
@@ -1951,6 +2229,7 @@ export default [
     date: "2021-09-05",
     discharge: 10,
     water_level: 0.787,
+    user_id: null,
   },
   {
     id: 280,
@@ -1958,6 +2237,7 @@ export default [
     date: "2021-09-06",
     discharge: 10,
     water_level: 0.788,
+    user_id: null,
   },
   {
     id: 281,
@@ -1965,6 +2245,7 @@ export default [
     date: "2021-09-07",
     discharge: 11.1,
     water_level: 0.833,
+    user_id: null,
   },
   {
     id: 282,
@@ -1972,6 +2253,7 @@ export default [
     date: "2021-09-08",
     discharge: 11.9,
     water_level: 0.868,
+    user_id: null,
   },
   {
     id: 283,
@@ -1979,6 +2261,7 @@ export default [
     date: "2021-09-09",
     discharge: 12,
     water_level: 0.87,
+    user_id: null,
   },
   {
     id: 284,
@@ -1986,6 +2269,7 @@ export default [
     date: "2021-09-10",
     discharge: 12,
     water_level: 0.872,
+    user_id: null,
   },
   {
     id: 285,
@@ -1993,6 +2277,7 @@ export default [
     date: "2021-09-11",
     discharge: 12.1,
     water_level: 0.873,
+    user_id: null,
   },
   {
     id: 286,
@@ -2000,6 +2285,7 @@ export default [
     date: "2021-09-12",
     discharge: 12,
     water_level: 0.872,
+    user_id: null,
   },
   {
     id: 287,
@@ -2007,6 +2293,7 @@ export default [
     date: "2021-09-13",
     discharge: 9.63,
     water_level: 0.769,
+    user_id: null,
   },
   {
     id: 288,
@@ -2014,6 +2301,7 @@ export default [
     date: "2021-09-14",
     discharge: 7.94,
     water_level: 0.696,
+    user_id: null,
   },
   {
     id: 289,
@@ -2021,6 +2309,7 @@ export default [
     date: "2021-09-15",
     discharge: 7.93,
     water_level: 0.696,
+    user_id: null,
   },
   {
     id: 290,
@@ -2028,6 +2317,7 @@ export default [
     date: "2021-09-16",
     discharge: 7.89,
     water_level: 0.694,
+    user_id: null,
   },
   {
     id: 291,
@@ -2035,6 +2325,7 @@ export default [
     date: "2021-09-17",
     discharge: 7.88,
     water_level: 0.693,
+    user_id: null,
   },
   {
     id: 292,
@@ -2042,6 +2333,7 @@ export default [
     date: "2021-09-18",
     discharge: 7.87,
     water_level: 0.693,
+    user_id: null,
   },
   {
     id: 293,
@@ -2049,6 +2341,7 @@ export default [
     date: "2021-09-19",
     discharge: 7.88,
     water_level: 0.693,
+    user_id: null,
   },
   {
     id: 294,
@@ -2056,6 +2349,7 @@ export default [
     date: "2021-09-20",
     discharge: 7.88,
     water_level: 0.693,
+    user_id: null,
   },
   {
     id: 295,
@@ -2063,6 +2357,7 @@ export default [
     date: "2021-09-21",
     discharge: 7.86,
     water_level: 0.693,
+    user_id: null,
   },
   {
     id: 296,
@@ -2070,6 +2365,7 @@ export default [
     date: "2021-09-22",
     discharge: 10.6,
     water_level: 0.807,
+    user_id: null,
   },
   {
     id: 297,
@@ -2077,6 +2373,7 @@ export default [
     date: "2021-09-23",
     discharge: 15.4,
     water_level: 1.002,
+    user_id: null,
   },
   {
     id: 298,
@@ -2084,6 +2381,7 @@ export default [
     date: "2021-09-24",
     discharge: 19.8,
     water_level: 1.159,
+    user_id: null,
   },
   {
     id: 299,
@@ -2091,6 +2389,7 @@ export default [
     date: "2021-09-25",
     discharge: 22,
     water_level: 1.236,
+    user_id: null,
   },
   {
     id: 300,
@@ -2098,6 +2397,7 @@ export default [
     date: "2021-09-26",
     discharge: 21.9,
     water_level: 1.233,
+    user_id: null,
   },
   {
     id: 301,
@@ -2105,6 +2405,7 @@ export default [
     date: "2021-09-27",
     discharge: 22.6,
     water_level: 1.256,
+    user_id: null,
   },
   {
     id: 302,
@@ -2112,6 +2413,7 @@ export default [
     date: "2021-09-28",
     discharge: 28.7,
     water_level: 1.453,
+    user_id: null,
   },
   {
     id: 303,
@@ -2119,6 +2421,7 @@ export default [
     date: "2021-09-29",
     discharge: 28.9,
     water_level: 1.458,
+    user_id: null,
   },
   {
     id: 304,
@@ -2126,6 +2429,7 @@ export default [
     date: "2021-09-30",
     discharge: 29.2,
     water_level: 1.468,
+    user_id: null,
   },
   {
     id: 305,
@@ -2133,6 +2437,7 @@ export default [
     date: "2021-10-01",
     discharge: 29.3,
     water_level: 1.469,
+    user_id: null,
   },
   {
     id: 306,
@@ -2140,6 +2445,7 @@ export default [
     date: "2021-10-02",
     discharge: 29.3,
     water_level: 1.471,
+    user_id: null,
   },
   {
     id: 307,
@@ -2147,6 +2453,7 @@ export default [
     date: "2021-10-03",
     discharge: 29,
     water_level: 1.462,
+    user_id: null,
   },
   {
     id: 308,
@@ -2154,6 +2461,7 @@ export default [
     date: "2021-10-04",
     discharge: 22,
     water_level: 1.228,
+    user_id: null,
   },
   {
     id: 309,
@@ -2161,6 +2469,7 @@ export default [
     date: "2021-10-05",
     discharge: 7.4,
     water_level: 0.654,
+    user_id: null,
   },
   {
     id: 310,
@@ -2168,6 +2477,7 @@ export default [
     date: "2021-10-06",
     discharge: 2.52,
     water_level: 0.424,
+    user_id: null,
   },
   {
     id: 311,
@@ -2175,1413 +2485,1615 @@ export default [
     date: "2021-10-07",
     discharge: 0,
     water_level: 0.186,
+    user_id: null,
   },
   {
     id: 312,
     station_id: "05AB019",
     date: "2021-10-08",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 313,
     station_id: "05AB019",
     date: "2021-10-09",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 314,
     station_id: "05AB019",
     date: "2021-10-10",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 315,
     station_id: "05AB019",
     date: "2021-10-11",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 316,
     station_id: "05AB019",
     date: "2021-10-12",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 317,
     station_id: "05AB019",
     date: "2021-10-13",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 318,
     station_id: "05AB019",
     date: "2021-10-14",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 319,
     station_id: "05AB019",
     date: "2021-10-15",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 320,
     station_id: "05AB019",
     date: "2021-10-16",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 321,
     station_id: "05AB019",
     date: "2021-10-17",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 322,
     station_id: "05AB019",
     date: "2021-10-18",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 323,
     station_id: "05AB019",
     date: "2021-10-19",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 324,
     station_id: "05AB019",
     date: "2021-10-20",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 325,
     station_id: "05AB019",
     date: "2021-10-21",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 326,
     station_id: "05AB019",
     date: "2021-10-22",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 327,
     station_id: "05AB019",
     date: "2021-10-23",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 328,
     station_id: "05AB019",
     date: "2021-10-24",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 329,
     station_id: "05AB019",
     date: "2021-10-25",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 330,
     station_id: "05AB019",
     date: "2021-10-26",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 331,
     station_id: "05AB019",
     date: "2021-10-27",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 332,
     station_id: "05AB019",
     date: "2021-10-28",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 333,
     station_id: "05AB019",
     date: "2021-10-29",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 334,
     station_id: "05AB019",
     date: "2021-10-30",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 335,
     station_id: "05AB019",
     date: "2021-10-31",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 336,
     station_id: "05AB019",
     date: "2021-11-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 337,
     station_id: "05AB019",
     date: "2021-11-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 338,
     station_id: "05AB019",
     date: "2021-11-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 339,
     station_id: "05AB019",
     date: "2021-11-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 340,
     station_id: "05AB019",
     date: "2021-11-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 341,
     station_id: "05AB019",
     date: "2021-11-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 342,
     station_id: "05AB019",
     date: "2021-11-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 343,
     station_id: "05AB019",
     date: "2021-11-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 344,
     station_id: "05AB019",
     date: "2021-11-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 345,
     station_id: "05AB019",
     date: "2021-11-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 346,
     station_id: "05AB019",
     date: "2021-11-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 347,
     station_id: "05AB019",
     date: "2021-11-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 348,
     station_id: "05AB019",
     date: "2021-11-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 349,
     station_id: "05AB019",
     date: "2021-11-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 350,
     station_id: "05AB019",
     date: "2021-11-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 351,
     station_id: "05AB019",
     date: "2021-11-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 352,
     station_id: "05AB019",
     date: "2021-11-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 353,
     station_id: "05AB019",
     date: "2021-11-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 354,
     station_id: "05AB019",
     date: "2021-11-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 355,
     station_id: "05AB019",
     date: "2021-11-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 356,
     station_id: "05AB019",
     date: "2021-11-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 357,
     station_id: "05AB019",
     date: "2021-11-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 358,
     station_id: "05AB019",
     date: "2021-11-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 359,
     station_id: "05AB019",
     date: "2021-11-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 360,
     station_id: "05AB019",
     date: "2021-11-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 361,
     station_id: "05AB019",
     date: "2021-11-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 362,
     station_id: "05AB019",
     date: "2021-11-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 363,
     station_id: "05AB019",
     date: "2021-11-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 364,
     station_id: "05AB019",
     date: "2021-11-29",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 365,
     station_id: "05AB019",
     date: "2021-11-30",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 366,
     station_id: "05AB019",
     date: "2021-12-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 367,
     station_id: "05AB019",
     date: "2021-12-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 368,
     station_id: "05AB019",
     date: "2021-12-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 369,
     station_id: "05AB019",
     date: "2021-12-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 370,
     station_id: "05AB019",
     date: "2021-12-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 371,
     station_id: "05AB019",
     date: "2021-12-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 372,
     station_id: "05AB019",
     date: "2021-12-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 373,
     station_id: "05AB019",
     date: "2021-12-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 374,
     station_id: "05AB019",
     date: "2021-12-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 375,
     station_id: "05AB019",
     date: "2021-12-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 376,
     station_id: "05AB019",
     date: "2021-12-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 377,
     station_id: "05AB019",
     date: "2021-12-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 378,
     station_id: "05AB019",
     date: "2021-12-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 379,
     station_id: "05AB019",
     date: "2021-12-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 380,
     station_id: "05AB019",
     date: "2021-12-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 381,
     station_id: "05AB019",
     date: "2021-12-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 382,
     station_id: "05AB019",
     date: "2021-12-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 383,
     station_id: "05AB019",
     date: "2021-12-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 384,
     station_id: "05AB019",
     date: "2021-12-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 385,
     station_id: "05AB019",
     date: "2021-12-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 386,
     station_id: "05AB019",
     date: "2021-12-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 387,
     station_id: "05AB019",
     date: "2021-12-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 388,
     station_id: "05AB019",
     date: "2021-12-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 389,
     station_id: "05AB019",
     date: "2021-12-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 390,
     station_id: "05AB019",
     date: "2021-12-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 391,
     station_id: "05AB019",
     date: "2021-12-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 392,
     station_id: "05AB019",
     date: "2021-12-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 393,
     station_id: "05AB019",
     date: "2021-12-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 394,
     station_id: "05AB019",
     date: "2021-12-29",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 395,
     station_id: "05AB019",
     date: "2021-12-30",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 396,
     station_id: "05AB019",
     date: "2021-12-31",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 397,
     station_id: "05AB019",
     date: "2022-01-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 398,
     station_id: "05AB019",
     date: "2022-01-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 399,
     station_id: "05AB019",
     date: "2022-01-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 400,
     station_id: "05AB019",
     date: "2022-01-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 401,
     station_id: "05AB019",
     date: "2022-01-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 402,
     station_id: "05AB019",
     date: "2022-01-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 403,
     station_id: "05AB019",
     date: "2022-01-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 404,
     station_id: "05AB019",
     date: "2022-01-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 405,
     station_id: "05AB019",
     date: "2022-01-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 406,
     station_id: "05AB019",
     date: "2022-01-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 407,
     station_id: "05AB019",
     date: "2022-01-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 408,
     station_id: "05AB019",
     date: "2022-01-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 409,
     station_id: "05AB019",
     date: "2022-01-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 410,
     station_id: "05AB019",
     date: "2022-01-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 411,
     station_id: "05AB019",
     date: "2022-01-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 412,
     station_id: "05AB019",
     date: "2022-01-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 413,
     station_id: "05AB019",
     date: "2022-01-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 414,
     station_id: "05AB019",
     date: "2022-01-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 415,
     station_id: "05AB019",
     date: "2022-01-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 416,
     station_id: "05AB019",
     date: "2022-01-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 417,
     station_id: "05AB019",
     date: "2022-01-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 418,
     station_id: "05AB019",
     date: "2022-01-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 419,
     station_id: "05AB019",
     date: "2022-01-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 420,
     station_id: "05AB019",
     date: "2022-01-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 421,
     station_id: "05AB019",
     date: "2022-01-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 422,
     station_id: "05AB019",
     date: "2022-01-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 423,
     station_id: "05AB019",
     date: "2022-01-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 424,
     station_id: "05AB019",
     date: "2022-01-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 425,
     station_id: "05AB019",
     date: "2022-01-29",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 426,
     station_id: "05AB019",
     date: "2022-01-30",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 427,
     station_id: "05AB019",
     date: "2022-01-31",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 428,
     station_id: "05AB019",
     date: "2022-02-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 429,
     station_id: "05AB019",
     date: "2022-02-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 430,
     station_id: "05AB019",
     date: "2022-02-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 431,
     station_id: "05AB019",
     date: "2022-02-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 432,
     station_id: "05AB019",
     date: "2022-02-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 433,
     station_id: "05AB019",
     date: "2022-02-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 434,
     station_id: "05AB019",
     date: "2022-02-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 435,
     station_id: "05AB019",
     date: "2022-02-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 436,
     station_id: "05AB019",
     date: "2022-02-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 437,
     station_id: "05AB019",
     date: "2022-02-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 438,
     station_id: "05AB019",
     date: "2022-02-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 439,
     station_id: "05AB019",
     date: "2022-02-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 440,
     station_id: "05AB019",
     date: "2022-02-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 441,
     station_id: "05AB019",
     date: "2022-02-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 442,
     station_id: "05AB019",
     date: "2022-02-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 443,
     station_id: "05AB019",
     date: "2022-02-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 444,
     station_id: "05AB019",
     date: "2022-02-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 445,
     station_id: "05AB019",
     date: "2022-02-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 446,
     station_id: "05AB019",
     date: "2022-02-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 447,
     station_id: "05AB019",
     date: "2022-02-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 448,
     station_id: "05AB019",
     date: "2022-02-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 449,
     station_id: "05AB019",
     date: "2022-02-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 450,
     station_id: "05AB019",
     date: "2022-02-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 451,
     station_id: "05AB019",
     date: "2022-02-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 452,
     station_id: "05AB019",
     date: "2022-02-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 453,
     station_id: "05AB019",
     date: "2022-02-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 454,
     station_id: "05AB019",
     date: "2022-02-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 455,
     station_id: "05AB019",
     date: "2022-02-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 456,
     station_id: "05AB019",
     date: "2022-03-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 457,
     station_id: "05AB019",
     date: "2022-03-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 458,
     station_id: "05AB019",
     date: "2022-03-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 459,
     station_id: "05AB019",
     date: "2022-03-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 460,
     station_id: "05AB019",
     date: "2022-03-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 461,
     station_id: "05AB019",
     date: "2022-03-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 462,
     station_id: "05AB019",
     date: "2022-03-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 463,
     station_id: "05AB019",
     date: "2022-03-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 464,
     station_id: "05AB019",
     date: "2022-03-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 465,
     station_id: "05AB019",
     date: "2022-03-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 466,
     station_id: "05AB019",
     date: "2022-03-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 467,
     station_id: "05AB019",
     date: "2022-03-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 468,
     station_id: "05AB019",
     date: "2022-03-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 469,
     station_id: "05AB019",
     date: "2022-03-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 470,
     station_id: "05AB019",
     date: "2022-03-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 471,
     station_id: "05AB019",
     date: "2022-03-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 472,
     station_id: "05AB019",
     date: "2022-03-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 473,
     station_id: "05AB019",
     date: "2022-03-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 474,
     station_id: "05AB019",
     date: "2022-03-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 475,
     station_id: "05AB019",
     date: "2022-03-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 476,
     station_id: "05AB019",
     date: "2022-03-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 477,
     station_id: "05AB019",
     date: "2022-03-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 478,
     station_id: "05AB019",
     date: "2022-03-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 479,
     station_id: "05AB019",
     date: "2022-03-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 480,
     station_id: "05AB019",
     date: "2022-03-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 481,
     station_id: "05AB019",
     date: "2022-03-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 482,
     station_id: "05AB019",
     date: "2022-03-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 483,
     station_id: "05AB019",
     date: "2022-03-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 484,
     station_id: "05AB019",
     date: "2022-03-29",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 485,
     station_id: "05AB019",
     date: "2022-03-30",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 486,
     station_id: "05AB019",
     date: "2022-03-31",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 487,
     station_id: "05AB019",
     date: "2022-04-01",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 488,
     station_id: "05AB019",
     date: "2022-04-02",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 489,
     station_id: "05AB019",
     date: "2022-04-03",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 490,
     station_id: "05AB019",
     date: "2022-04-04",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 491,
     station_id: "05AB019",
     date: "2022-04-05",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 492,
     station_id: "05AB019",
     date: "2022-04-06",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 493,
     station_id: "05AB019",
     date: "2022-04-07",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 494,
     station_id: "05AB019",
     date: "2022-04-08",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 495,
     station_id: "05AB019",
     date: "2022-04-09",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 496,
     station_id: "05AB019",
     date: "2022-04-10",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 497,
     station_id: "05AB019",
     date: "2022-04-11",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 498,
     station_id: "05AB019",
     date: "2022-04-12",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 499,
     station_id: "05AB019",
     date: "2022-04-13",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 500,
     station_id: "05AB019",
     date: "2022-04-14",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 501,
     station_id: "05AB019",
     date: "2022-04-15",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 502,
     station_id: "05AB019",
     date: "2022-04-16",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 503,
     station_id: "05AB019",
     date: "2022-04-17",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 504,
     station_id: "05AB019",
     date: "2022-04-18",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 505,
     station_id: "05AB019",
     date: "2022-04-19",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 506,
     station_id: "05AB019",
     date: "2022-04-20",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 507,
     station_id: "05AB019",
     date: "2022-04-21",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 508,
     station_id: "05AB019",
     date: "2022-04-22",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 509,
     station_id: "05AB019",
     date: "2022-04-23",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 510,
     station_id: "05AB019",
     date: "2022-04-24",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 511,
     station_id: "05AB019",
     date: "2022-04-25",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 512,
     station_id: "05AB019",
     date: "2022-04-26",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 513,
@@ -3589,6 +4101,7 @@ export default [
     date: "2022-04-27",
     discharge: 2.2,
     water_level: 0.535,
+    user_id: null,
   },
   {
     id: 514,
@@ -3596,6 +4109,7 @@ export default [
     date: "2022-04-28",
     discharge: 9.42,
     water_level: 0.752,
+    user_id: null,
   },
   {
     id: 515,
@@ -3603,6 +4117,7 @@ export default [
     date: "2022-04-29",
     discharge: 13.5,
     water_level: 0.917,
+    user_id: null,
   },
   {
     id: 516,
@@ -3610,6 +4125,7 @@ export default [
     date: "2022-04-30",
     discharge: 19.4,
     water_level: 1.119,
+    user_id: null,
   },
   {
     id: 517,
@@ -3617,6 +4133,7 @@ export default [
     date: "2022-05-01",
     discharge: 20.9,
     water_level: 1.166,
+    user_id: null,
   },
   {
     id: 518,
@@ -3624,6 +4141,7 @@ export default [
     date: "2022-05-02",
     discharge: 24.9,
     water_level: 1.292,
+    user_id: null,
   },
   {
     id: 519,
@@ -3631,6 +4149,7 @@ export default [
     date: "2022-05-03",
     discharge: 25,
     water_level: 1.294,
+    user_id: null,
   },
   {
     id: 520,
@@ -3638,6 +4157,7 @@ export default [
     date: "2022-05-04",
     discharge: 25.1,
     water_level: 1.297,
+    user_id: null,
   },
   {
     id: 521,
@@ -3645,6 +4165,7 @@ export default [
     date: "2022-05-05",
     discharge: 25.1,
     water_level: 1.296,
+    user_id: null,
   },
   {
     id: 522,
@@ -3652,6 +4173,7 @@ export default [
     date: "2022-05-06",
     discharge: 28.8,
     water_level: 1.407,
+    user_id: null,
   },
   {
     id: 523,
@@ -3659,6 +4181,7 @@ export default [
     date: "2022-05-07",
     discharge: 30.6,
     water_level: 1.458,
+    user_id: null,
   },
   {
     id: 524,
@@ -3666,6 +4189,7 @@ export default [
     date: "2022-05-08",
     discharge: 30.3,
     water_level: 1.452,
+    user_id: null,
   },
   {
     id: 525,
@@ -3673,6 +4197,7 @@ export default [
     date: "2022-05-09",
     discharge: 30.1,
     water_level: 1.446,
+    user_id: null,
   },
   {
     id: 526,
@@ -3680,6 +4205,7 @@ export default [
     date: "2022-05-10",
     discharge: 30.2,
     water_level: 1.448,
+    user_id: null,
   },
   {
     id: 527,
@@ -3687,6 +4213,7 @@ export default [
     date: "2022-05-11",
     discharge: 30.2,
     water_level: 1.447,
+    user_id: null,
   },
   {
     id: 528,
@@ -3694,6 +4221,7 @@ export default [
     date: "2022-05-12",
     discharge: 30.1,
     water_level: 1.445,
+    user_id: null,
   },
   {
     id: 529,
@@ -3701,6 +4229,7 @@ export default [
     date: "2022-05-13",
     discharge: 30.2,
     water_level: 1.449,
+    user_id: null,
   },
   {
     id: 530,
@@ -3708,6 +4237,7 @@ export default [
     date: "2022-05-14",
     discharge: 30.3,
     water_level: 1.451,
+    user_id: null,
   },
   {
     id: 531,
@@ -3715,6 +4245,7 @@ export default [
     date: "2022-05-15",
     discharge: 33.4,
     water_level: 1.544,
+    user_id: null,
   },
   {
     id: 532,
@@ -3722,6 +4253,7 @@ export default [
     date: "2022-05-16",
     discharge: 34.9,
     water_level: 1.588,
+    user_id: null,
   },
   {
     id: 533,
@@ -3729,6 +4261,7 @@ export default [
     date: "2022-05-17",
     discharge: 34.9,
     water_level: 1.586,
+    user_id: null,
   },
   {
     id: 534,
@@ -3736,6 +4269,7 @@ export default [
     date: "2022-05-18",
     discharge: 34.9,
     water_level: 1.587,
+    user_id: null,
   },
   {
     id: 535,
@@ -3743,6 +4277,7 @@ export default [
     date: "2022-05-19",
     discharge: 35.7,
     water_level: 1.61,
+    user_id: null,
   },
   {
     id: 536,
@@ -3750,6 +4285,7 @@ export default [
     date: "2022-05-20",
     discharge: 30.1,
     water_level: 1.445,
+    user_id: null,
   },
   {
     id: 537,
@@ -3757,6 +4293,7 @@ export default [
     date: "2022-05-21",
     discharge: 20.2,
     water_level: 1.146,
+    user_id: null,
   },
   {
     id: 538,
@@ -3764,6 +4301,7 @@ export default [
     date: "2022-05-22",
     discharge: 19,
     water_level: 1.106,
+    user_id: null,
   },
   {
     id: 539,
@@ -3771,6 +4309,7 @@ export default [
     date: "2022-05-23",
     discharge: 19.1,
     water_level: 1.109,
+    user_id: null,
   },
   {
     id: 540,
@@ -3778,6 +4317,7 @@ export default [
     date: "2022-05-24",
     discharge: 11.8,
     water_level: 0.848,
+    user_id: null,
   },
   {
     id: 541,
@@ -3785,6 +4325,7 @@ export default [
     date: "2022-05-25",
     discharge: 12.4,
     water_level: 0.874,
+    user_id: null,
   },
   {
     id: 542,
@@ -3792,6 +4333,7 @@ export default [
     date: "2022-05-26",
     discharge: 15.2,
     water_level: 0.982,
+    user_id: null,
   },
   {
     id: 543,
@@ -3799,6 +4341,7 @@ export default [
     date: "2022-05-27",
     discharge: 20.3,
     water_level: 1.147,
+    user_id: null,
   },
   {
     id: 544,
@@ -3806,6 +4349,7 @@ export default [
     date: "2022-05-28",
     discharge: 26.1,
     water_level: 1.325,
+    user_id: null,
   },
   {
     id: 545,
@@ -3813,6 +4357,7 @@ export default [
     date: "2022-05-29",
     discharge: 26.8,
     water_level: 1.347,
+    user_id: null,
   },
   {
     id: 546,
@@ -3820,6 +4365,7 @@ export default [
     date: "2022-05-30",
     discharge: 31,
     water_level: 1.472,
+    user_id: null,
   },
   {
     id: 547,
@@ -3827,6 +4373,7 @@ export default [
     date: "2022-05-31",
     discharge: 31.1,
     water_level: 1.475,
+    user_id: null,
   },
   {
     id: 548,
@@ -3834,6 +4381,7 @@ export default [
     date: "2022-06-01",
     discharge: 31.1,
     water_level: 1.476,
+    user_id: null,
   },
   {
     id: 549,
@@ -3841,6 +4389,7 @@ export default [
     date: "2022-06-02",
     discharge: 31.1,
     water_level: 1.476,
+    user_id: null,
   },
   {
     id: 550,
@@ -3848,6 +4397,7 @@ export default [
     date: "2022-06-03",
     discharge: 30.9,
     water_level: 1.468,
+    user_id: null,
   },
   {
     id: 551,
@@ -3855,6 +4405,7 @@ export default [
     date: "2022-06-04",
     discharge: 28,
     water_level: 1.381,
+    user_id: null,
   },
   {
     id: 552,
@@ -3862,6 +4413,7 @@ export default [
     date: "2022-06-05",
     discharge: 25.9,
     water_level: 1.319,
+    user_id: null,
   },
   {
     id: 553,
@@ -3869,6 +4421,7 @@ export default [
     date: "2022-06-06",
     discharge: 25.9,
     water_level: 1.319,
+    user_id: null,
   },
   {
     id: 554,
@@ -3876,6 +4429,7 @@ export default [
     date: "2022-06-07",
     discharge: 20.8,
     water_level: 1.163,
+    user_id: null,
   },
   {
     id: 555,
@@ -3883,6 +4437,7 @@ export default [
     date: "2022-06-08",
     discharge: 18.3,
     water_level: 1.086,
+    user_id: null,
   },
   {
     id: 556,
@@ -3890,6 +4445,7 @@ export default [
     date: "2022-06-09",
     discharge: 14.4,
     water_level: 0.949,
+    user_id: null,
   },
   {
     id: 557,
@@ -3897,6 +4453,7 @@ export default [
     date: "2022-06-10",
     discharge: 10.4,
     water_level: 0.8,
+    user_id: null,
   },
   {
     id: 558,
@@ -3904,6 +4461,7 @@ export default [
     date: "2022-06-11",
     discharge: 6.64,
     water_level: 0.63,
+    user_id: null,
   },
   {
     id: 559,
@@ -3911,6 +4469,7 @@ export default [
     date: "2022-06-12",
     discharge: 4.96,
     water_level: 0.549,
+    user_id: null,
   },
   {
     id: 560,
@@ -3918,6 +4477,7 @@ export default [
     date: "2022-06-13",
     discharge: 3.8,
     water_level: 0.484,
+    user_id: null,
   },
   {
     id: 561,
@@ -3925,6 +4485,7 @@ export default [
     date: "2022-06-14",
     discharge: 2.73,
     water_level: 0.42,
+    user_id: null,
   },
   {
     id: 562,
@@ -3932,6 +4493,7 @@ export default [
     date: "2022-06-15",
     discharge: 2.76,
     water_level: 0.423,
+    user_id: null,
   },
   {
     id: 563,
@@ -3939,6 +4501,7 @@ export default [
     date: "2022-06-16",
     discharge: 2.56,
     water_level: 0.399,
+    user_id: null,
   },
   {
     id: 564,
@@ -3946,6 +4509,7 @@ export default [
     date: "2022-06-17",
     discharge: 0,
     water_level: 0.153,
+    user_id: null,
   },
   {
     id: 565,
@@ -3953,6 +4517,7 @@ export default [
     date: "2022-06-18",
     discharge: 0,
     water_level: 0.147,
+    user_id: null,
   },
   {
     id: 566,
@@ -3960,6 +4525,7 @@ export default [
     date: "2022-06-19",
     discharge: 0,
     water_level: 0.142,
+    user_id: null,
   },
   {
     id: 567,
@@ -3967,6 +4533,7 @@ export default [
     date: "2022-06-20",
     discharge: 0,
     water_level: 0.144,
+    user_id: null,
   },
   {
     id: 568,
@@ -3974,6 +4541,7 @@ export default [
     date: "2022-06-21",
     discharge: 0,
     water_level: 0.141,
+    user_id: null,
   },
   {
     id: 569,
@@ -3981,6 +4549,7 @@ export default [
     date: "2022-06-22",
     discharge: 2.65,
     water_level: 0.357,
+    user_id: null,
   },
   {
     id: 570,
@@ -3988,6 +4557,7 @@ export default [
     date: "2022-06-23",
     discharge: 12.1,
     water_level: 0.849,
+    user_id: null,
   },
   {
     id: 571,
@@ -3995,6 +4565,7 @@ export default [
     date: "2022-06-24",
     discharge: 16.1,
     water_level: 1.011,
+    user_id: null,
   },
   {
     id: 572,
@@ -4002,6 +4573,7 @@ export default [
     date: "2022-06-25",
     discharge: 15.8,
     water_level: 1.001,
+    user_id: null,
   },
   {
     id: 573,
@@ -4009,6 +4581,7 @@ export default [
     date: "2022-06-26",
     discharge: 15.3,
     water_level: 0.984,
+    user_id: null,
   },
   {
     id: 574,
@@ -4016,6 +4589,7 @@ export default [
     date: "2022-06-27",
     discharge: 17.9,
     water_level: 1.07,
+    user_id: null,
   },
   {
     id: 575,
@@ -4023,6 +4597,7 @@ export default [
     date: "2022-06-28",
     discharge: 22.5,
     water_level: 1.217,
+    user_id: null,
   },
   {
     id: 576,
@@ -4030,6 +4605,7 @@ export default [
     date: "2022-06-29",
     discharge: 24.9,
     water_level: 1.289,
+    user_id: null,
   },
   {
     id: 577,
@@ -4037,6 +4613,7 @@ export default [
     date: "2022-06-30",
     discharge: 28,
     water_level: 1.383,
+    user_id: null,
   },
   {
     id: 578,
@@ -4044,6 +4621,7 @@ export default [
     date: "2022-07-01",
     discharge: 30,
     water_level: 1.442,
+    user_id: null,
   },
   {
     id: 579,
@@ -4051,6 +4629,7 @@ export default [
     date: "2022-07-02",
     discharge: 29.8,
     water_level: 1.434,
+    user_id: null,
   },
   {
     id: 580,
@@ -4058,6 +4637,7 @@ export default [
     date: "2022-07-03",
     discharge: 27.6,
     water_level: 1.371,
+    user_id: null,
   },
   {
     id: 581,
@@ -4065,6 +4645,7 @@ export default [
     date: "2022-07-04",
     discharge: 16.5,
     water_level: 1.015,
+    user_id: null,
   },
   {
     id: 582,
@@ -4072,6 +4653,7 @@ export default [
     date: "2022-07-05",
     discharge: 9.65,
     water_level: 0.772,
+    user_id: null,
   },
   {
     id: 583,
@@ -4079,6 +4661,7 @@ export default [
     date: "2022-07-06",
     discharge: 9.6,
     water_level: 0.77,
+    user_id: null,
   },
   {
     id: 584,
@@ -4086,6 +4669,7 @@ export default [
     date: "2022-07-07",
     discharge: 13.9,
     water_level: 0.93,
+    user_id: null,
   },
   {
     id: 585,
@@ -4093,6 +4677,7 @@ export default [
     date: "2022-07-08",
     discharge: 16.3,
     water_level: 1.018,
+    user_id: null,
   },
   {
     id: 586,
@@ -4100,6 +4685,7 @@ export default [
     date: "2022-07-09",
     discharge: 16.4,
     water_level: 1.02,
+    user_id: null,
   },
   {
     id: 587,
@@ -4107,6 +4693,7 @@ export default [
     date: "2022-07-10",
     discharge: 20.9,
     water_level: 1.165,
+    user_id: null,
   },
   {
     id: 588,
@@ -4114,6 +4701,7 @@ export default [
     date: "2022-07-11",
     discharge: 27.5,
     water_level: 1.366,
+    user_id: null,
   },
   {
     id: 589,
@@ -4121,6 +4709,7 @@ export default [
     date: "2022-07-12",
     discharge: 30,
     water_level: 1.44,
+    user_id: null,
   },
   {
     id: 590,
@@ -4128,6 +4717,7 @@ export default [
     date: "2022-07-13",
     discharge: 34.1,
     water_level: 1.563,
+    user_id: null,
   },
   {
     id: 591,
@@ -4135,6 +4725,7 @@ export default [
     date: "2022-07-14",
     discharge: 36.5,
     water_level: 1.635,
+    user_id: null,
   },
   {
     id: 592,
@@ -4142,6 +4733,7 @@ export default [
     date: "2022-07-15",
     discharge: 39.1,
     water_level: 1.707,
+    user_id: null,
   },
   {
     id: 593,
@@ -4149,6 +4741,7 @@ export default [
     date: "2022-07-16",
     discharge: 40.3,
     water_level: 1.74,
+    user_id: null,
   },
   {
     id: 594,
@@ -4156,6 +4749,7 @@ export default [
     date: "2022-07-17",
     discharge: 40,
     water_level: 1.732,
+    user_id: null,
   },
   {
     id: 595,
@@ -4163,6 +4757,7 @@ export default [
     date: "2022-07-18",
     discharge: 36.6,
     water_level: 1.634,
+    user_id: null,
   },
   {
     id: 596,
@@ -4170,6 +4765,7 @@ export default [
     date: "2022-07-19",
     discharge: 28.8,
     water_level: 1.407,
+    user_id: null,
   },
   {
     id: 597,
@@ -4177,6 +4773,7 @@ export default [
     date: "2022-07-20",
     discharge: 21.6,
     water_level: 1.186,
+    user_id: null,
   },
   {
     id: 598,
@@ -4184,6 +4781,7 @@ export default [
     date: "2022-07-21",
     discharge: 18.5,
     water_level: 1.091,
+    user_id: null,
   },
   {
     id: 599,
@@ -4191,6 +4789,7 @@ export default [
     date: "2022-07-22",
     discharge: 18.5,
     water_level: 1.091,
+    user_id: null,
   },
   {
     id: 600,
@@ -4198,6 +4797,7 @@ export default [
     date: "2022-07-23",
     discharge: 18.5,
     water_level: 1.091,
+    user_id: null,
   },
   {
     id: 601,
@@ -4205,6 +4805,7 @@ export default [
     date: "2022-07-24",
     discharge: 18.5,
     water_level: 1.091,
+    user_id: null,
   },
   {
     id: 602,
@@ -4212,6 +4813,7 @@ export default [
     date: "2022-07-25",
     discharge: 23.2,
     water_level: 1.236,
+    user_id: null,
   },
   {
     id: 603,
@@ -4219,6 +4821,7 @@ export default [
     date: "2022-07-26",
     discharge: 26,
     water_level: 1.324,
+    user_id: null,
   },
   {
     id: 604,
@@ -4226,6 +4829,7 @@ export default [
     date: "2022-07-27",
     discharge: 29.2,
     water_level: 1.418,
+    user_id: null,
   },
   {
     id: 605,
@@ -4233,6 +4837,7 @@ export default [
     date: "2022-07-28",
     discharge: 31.5,
     water_level: 1.486,
+    user_id: null,
   },
   {
     id: 606,
@@ -4240,6 +4845,7 @@ export default [
     date: "2022-07-29",
     discharge: 31.4,
     water_level: 1.482,
+    user_id: null,
   },
   {
     id: 607,
@@ -4247,6 +4853,7 @@ export default [
     date: "2022-07-30",
     discharge: 31.2,
     water_level: 1.478,
+    user_id: null,
   },
   {
     id: 608,
@@ -4254,6 +4861,7 @@ export default [
     date: "2022-07-31",
     discharge: 31.3,
     water_level: 1.479,
+    user_id: null,
   },
   {
     id: 609,
@@ -4261,6 +4869,7 @@ export default [
     date: "2022-08-01",
     discharge: 31.3,
     water_level: 1.479,
+    user_id: null,
   },
   {
     id: 610,
@@ -4268,6 +4877,7 @@ export default [
     date: "2022-08-02",
     discharge: 31.2,
     water_level: 1.478,
+    user_id: null,
   },
   {
     id: 611,
@@ -4275,6 +4885,7 @@ export default [
     date: "2022-08-03",
     discharge: 31.2,
     water_level: 1.479,
+    user_id: null,
   },
   {
     id: 612,
@@ -4282,6 +4893,7 @@ export default [
     date: "2022-08-04",
     discharge: 31.2,
     water_level: 1.478,
+    user_id: null,
   },
   {
     id: 613,
@@ -4289,6 +4901,7 @@ export default [
     date: "2022-08-05",
     discharge: 31.1,
     water_level: 1.475,
+    user_id: null,
   },
   {
     id: 614,
@@ -4296,6 +4909,7 @@ export default [
     date: "2022-08-06",
     discharge: 31.1,
     water_level: 1.476,
+    user_id: null,
   },
   {
     id: 615,
@@ -4303,6 +4917,7 @@ export default [
     date: "2022-08-07",
     discharge: 31.2,
     water_level: 1.476,
+    user_id: null,
   },
   {
     id: 616,
@@ -4310,6 +4925,7 @@ export default [
     date: "2022-08-08",
     discharge: 31.2,
     water_level: 1.476,
+    user_id: null,
   },
   {
     id: 617,
@@ -4317,6 +4933,7 @@ export default [
     date: "2022-08-09",
     discharge: 30.9,
     water_level: 1.47,
+    user_id: null,
   },
   {
     id: 618,
@@ -4324,6 +4941,7 @@ export default [
     date: "2022-08-10",
     discharge: 30.8,
     water_level: 1.465,
+    user_id: null,
   },
   {
     id: 619,
@@ -4331,6 +4949,7 @@ export default [
     date: "2022-08-11",
     discharge: 28.6,
     water_level: 1.399,
+    user_id: null,
   },
   {
     id: 620,
@@ -4338,6 +4957,7 @@ export default [
     date: "2022-08-12",
     discharge: 26.3,
     water_level: 1.333,
+    user_id: null,
   },
   {
     id: 621,
@@ -4345,6 +4965,7 @@ export default [
     date: "2022-08-13",
     discharge: 26.4,
     water_level: 1.333,
+    user_id: null,
   },
   {
     id: 622,
@@ -4352,6 +4973,7 @@ export default [
     date: "2022-08-14",
     discharge: 26.3,
     water_level: 1.332,
+    user_id: null,
   },
   {
     id: 623,
@@ -4359,6 +4981,7 @@ export default [
     date: "2022-08-15",
     discharge: 26.4,
     water_level: 1.334,
+    user_id: null,
   },
   {
     id: 624,
@@ -4366,6 +4989,7 @@ export default [
     date: "2022-08-16",
     discharge: 26.4,
     water_level: 1.334,
+    user_id: null,
   },
   {
     id: 625,
@@ -4373,6 +4997,7 @@ export default [
     date: "2022-08-17",
     discharge: 26.3,
     water_level: 1.332,
+    user_id: null,
   },
   {
     id: 626,
@@ -4380,6 +5005,7 @@ export default [
     date: "2022-08-18",
     discharge: 26.6,
     water_level: 1.339,
+    user_id: null,
   },
   {
     id: 627,
@@ -4387,6 +5013,7 @@ export default [
     date: "2022-08-19",
     discharge: 26.5,
     water_level: 1.337,
+    user_id: null,
   },
   {
     id: 628,
@@ -4394,6 +5021,7 @@ export default [
     date: "2022-08-20",
     discharge: 26.5,
     water_level: 1.337,
+    user_id: null,
   },
   {
     id: 629,
@@ -4401,6 +5029,7 @@ export default [
     date: "2022-08-21",
     discharge: 26.5,
     water_level: 1.339,
+    user_id: null,
   },
   {
     id: 630,
@@ -4408,6 +5037,7 @@ export default [
     date: "2022-08-22",
     discharge: 26.6,
     water_level: 1.34,
+    user_id: null,
   },
   {
     id: 631,
@@ -4415,6 +5045,7 @@ export default [
     date: "2022-08-23",
     discharge: 26.7,
     water_level: 1.342,
+    user_id: null,
   },
   {
     id: 632,
@@ -4422,6 +5053,7 @@ export default [
     date: "2022-08-24",
     discharge: 26.7,
     water_level: 1.342,
+    user_id: null,
   },
   {
     id: 633,
@@ -4429,6 +5061,7 @@ export default [
     date: "2022-08-25",
     discharge: 26.6,
     water_level: 1.34,
+    user_id: null,
   },
   {
     id: 634,
@@ -4436,6 +5069,7 @@ export default [
     date: "2022-08-26",
     discharge: 26.6,
     water_level: 1.34,
+    user_id: null,
   },
   {
     id: 635,
@@ -4443,6 +5077,7 @@ export default [
     date: "2022-08-27",
     discharge: 26.5,
     water_level: 1.338,
+    user_id: null,
   },
   {
     id: 636,
@@ -4450,6 +5085,7 @@ export default [
     date: "2022-08-28",
     discharge: 26.4,
     water_level: 1.334,
+    user_id: null,
   },
   {
     id: 637,
@@ -4457,6 +5093,7 @@ export default [
     date: "2022-08-29",
     discharge: 26.2,
     water_level: 1.329,
+    user_id: null,
   },
   {
     id: 638,
@@ -4464,6 +5101,7 @@ export default [
     date: "2022-08-30",
     discharge: 26.1,
     water_level: 1.326,
+    user_id: null,
   },
   {
     id: 639,
@@ -4471,6 +5109,7 @@ export default [
     date: "2022-08-31",
     discharge: 26.1,
     water_level: 1.325,
+    user_id: null,
   },
   {
     id: 640,
@@ -4478,6 +5117,7 @@ export default [
     date: "2022-09-01",
     discharge: 26,
     water_level: 1.324,
+    user_id: null,
   },
   {
     id: 641,
@@ -4485,6 +5125,7 @@ export default [
     date: "2022-09-02",
     discharge: 26,
     water_level: 1.322,
+    user_id: null,
   },
   {
     id: 642,
@@ -4492,6 +5133,7 @@ export default [
     date: "2022-09-03",
     discharge: 22.4,
     water_level: 1.214,
+    user_id: null,
   },
   {
     id: 643,
@@ -4499,6 +5141,7 @@ export default [
     date: "2022-09-04",
     discharge: 20.5,
     water_level: 1.154,
+    user_id: null,
   },
   {
     id: 644,
@@ -4506,6 +5149,7 @@ export default [
     date: "2022-09-05",
     discharge: 20,
     water_level: 1.138,
+    user_id: null,
   },
   {
     id: 645,
@@ -4513,6 +5157,7 @@ export default [
     date: "2022-09-06",
     discharge: 19.9,
     water_level: 1.137,
+    user_id: null,
   },
   {
     id: 646,
@@ -4520,6 +5165,7 @@ export default [
     date: "2022-09-07",
     discharge: 20.1,
     water_level: 1.143,
+    user_id: null,
   },
   {
     id: 647,
@@ -4527,6 +5173,7 @@ export default [
     date: "2022-09-08",
     discharge: 20.1,
     water_level: 1.144,
+    user_id: null,
   },
   {
     id: 648,
@@ -4534,6 +5181,7 @@ export default [
     date: "2022-09-09",
     discharge: 20.3,
     water_level: 1.15,
+    user_id: null,
   },
   {
     id: 649,
@@ -4541,6 +5189,7 @@ export default [
     date: "2022-09-10",
     discharge: 20.5,
     water_level: 1.156,
+    user_id: null,
   },
   {
     id: 650,
@@ -4548,6 +5197,7 @@ export default [
     date: "2022-09-11",
     discharge: 20.5,
     water_level: 1.155,
+    user_id: null,
   },
   {
     id: 651,
@@ -4555,6 +5205,7 @@ export default [
     date: "2022-09-12",
     discharge: 20.4,
     water_level: 1.152,
+    user_id: null,
   },
   {
     id: 652,
@@ -4562,6 +5213,7 @@ export default [
     date: "2022-09-13",
     discharge: 20.4,
     water_level: 1.154,
+    user_id: null,
   },
   {
     id: 653,
@@ -4569,6 +5221,7 @@ export default [
     date: "2022-09-14",
     discharge: 17,
     water_level: 1.04,
+    user_id: null,
   },
   {
     id: 654,
@@ -4576,6 +5229,7 @@ export default [
     date: "2022-09-15",
     discharge: 14.8,
     water_level: 0.966,
+    user_id: null,
   },
   {
     id: 655,
@@ -4583,6 +5237,7 @@ export default [
     date: "2022-09-16",
     discharge: 14.9,
     water_level: 0.968,
+    user_id: null,
   },
   {
     id: 656,
@@ -4590,6 +5245,7 @@ export default [
     date: "2022-09-17",
     discharge: 14.8,
     water_level: 0.965,
+    user_id: null,
   },
   {
     id: 657,
@@ -4597,6 +5253,7 @@ export default [
     date: "2022-09-18",
     discharge: 14.8,
     water_level: 0.965,
+    user_id: null,
   },
   {
     id: 658,
@@ -4604,6 +5261,7 @@ export default [
     date: "2022-09-19",
     discharge: 14.8,
     water_level: 0.966,
+    user_id: null,
   },
   {
     id: 659,
@@ -4611,6 +5269,7 @@ export default [
     date: "2022-09-20",
     discharge: 14.8,
     water_level: 0.965,
+    user_id: null,
   },
   {
     id: 660,
@@ -4618,6 +5277,7 @@ export default [
     date: "2022-09-21",
     discharge: 14.7,
     water_level: 0.964,
+    user_id: null,
   },
   {
     id: 661,
@@ -4625,6 +5285,7 @@ export default [
     date: "2022-09-22",
     discharge: 14.8,
     water_level: 0.964,
+    user_id: null,
   },
   {
     id: 662,
@@ -4632,6 +5293,7 @@ export default [
     date: "2022-09-23",
     discharge: 14.7,
     water_level: 0.964,
+    user_id: null,
   },
   {
     id: 663,
@@ -4639,6 +5301,7 @@ export default [
     date: "2022-09-24",
     discharge: 14.7,
     water_level: 0.963,
+    user_id: null,
   },
   {
     id: 664,
@@ -4646,6 +5309,7 @@ export default [
     date: "2022-09-25",
     discharge: 14.7,
     water_level: 0.963,
+    user_id: null,
   },
   {
     id: 665,
@@ -4653,6 +5317,7 @@ export default [
     date: "2022-09-26",
     discharge: 14.7,
     water_level: 0.962,
+    user_id: null,
   },
   {
     id: 666,
@@ -4660,6 +5325,7 @@ export default [
     date: "2022-09-27",
     discharge: 14.7,
     water_level: 0.962,
+    user_id: null,
   },
   {
     id: 667,
@@ -4667,6 +5333,7 @@ export default [
     date: "2022-09-28",
     discharge: 14.7,
     water_level: 0.962,
+    user_id: null,
   },
   {
     id: 668,
@@ -4674,6 +5341,7 @@ export default [
     date: "2022-09-29",
     discharge: 14.7,
     water_level: 0.961,
+    user_id: null,
   },
   {
     id: 669,
@@ -4681,6 +5349,7 @@ export default [
     date: "2022-09-30",
     discharge: 14.7,
     water_level: 0.961,
+    user_id: null,
   },
   {
     id: 670,
@@ -4688,6 +5357,7 @@ export default [
     date: "2022-10-01",
     discharge: 14.7,
     water_level: 0.963,
+    user_id: null,
   },
   {
     id: 671,
@@ -4695,6 +5365,7 @@ export default [
     date: "2022-10-02",
     discharge: 14.7,
     water_level: 0.962,
+    user_id: null,
   },
   {
     id: 672,
@@ -4702,6 +5373,7 @@ export default [
     date: "2022-10-03",
     discharge: 14.7,
     water_level: 0.962,
+    user_id: null,
   },
   {
     id: 673,
@@ -4709,6 +5381,7 @@ export default [
     date: "2022-10-04",
     discharge: 14.6,
     water_level: 0.96,
+    user_id: null,
   },
   {
     id: 674,
@@ -4716,6 +5389,7 @@ export default [
     date: "2022-10-05",
     discharge: 14.6,
     water_level: 0.959,
+    user_id: null,
   },
   {
     id: 675,
@@ -4723,6 +5397,7 @@ export default [
     date: "2022-10-06",
     discharge: 14.6,
     water_level: 0.958,
+    user_id: null,
   },
   {
     id: 676,
@@ -4730,6 +5405,7 @@ export default [
     date: "2022-10-07",
     discharge: 14.6,
     water_level: 0.958,
+    user_id: null,
   },
   {
     id: 677,
@@ -4737,6 +5413,7 @@ export default [
     date: "2022-10-08",
     discharge: 14.5,
     water_level: 0.957,
+    user_id: null,
   },
   {
     id: 678,
@@ -4744,6 +5421,7 @@ export default [
     date: "2022-10-09",
     discharge: 9.46,
     water_level: 0.751,
+    user_id: null,
   },
   {
     id: 679,
@@ -4751,6 +5429,7 @@ export default [
     date: "2022-10-10",
     discharge: 6.58,
     water_level: 0.632,
+    user_id: null,
   },
   {
     id: 680,
@@ -4758,6 +5437,7 @@ export default [
     date: "2022-10-11",
     discharge: 0.239,
     water_level: 0.189,
+    user_id: null,
   },
   {
     id: 681,
@@ -4765,6 +5445,7 @@ export default [
     date: "2022-10-12",
     discharge: 0,
     water_level: 0.121,
+    user_id: null,
   },
   {
     id: 682,
@@ -4772,6 +5453,7 @@ export default [
     date: "2022-10-13",
     discharge: 0,
     water_level: 0.143,
+    user_id: null,
   },
   {
     id: 683,
@@ -4779,1350 +5461,1543 @@ export default [
     date: "2022-10-14",
     discharge: 0,
     water_level: 0.12,
+    user_id: null,
   },
   {
     id: 684,
     station_id: "05AB019",
     date: "2022-10-15",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 685,
     station_id: "05AB019",
     date: "2022-10-16",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 686,
     station_id: "05AB019",
     date: "2022-10-17",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 687,
     station_id: "05AB019",
     date: "2022-10-18",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 688,
     station_id: "05AB019",
     date: "2022-10-19",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 689,
     station_id: "05AB019",
     date: "2022-10-20",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 690,
     station_id: "05AB019",
     date: "2022-10-21",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 691,
     station_id: "05AB019",
     date: "2022-10-22",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 692,
     station_id: "05AB019",
     date: "2022-10-23",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 693,
     station_id: "05AB019",
     date: "2022-10-24",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 694,
     station_id: "05AB019",
     date: "2022-10-25",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 695,
     station_id: "05AB019",
     date: "2022-10-26",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 696,
     station_id: "05AB019",
     date: "2022-10-27",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 697,
     station_id: "05AB019",
     date: "2022-10-28",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 698,
     station_id: "05AB019",
     date: "2022-10-29",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 699,
     station_id: "05AB019",
     date: "2022-10-30",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 700,
     station_id: "05AB019",
     date: "2022-10-31",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 701,
     station_id: "05AB019",
     date: "2022-11-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 702,
     station_id: "05AB019",
     date: "2022-11-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 703,
     station_id: "05AB019",
     date: "2022-11-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 704,
     station_id: "05AB019",
     date: "2022-11-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 705,
     station_id: "05AB019",
     date: "2022-11-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 706,
     station_id: "05AB019",
     date: "2022-11-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 707,
     station_id: "05AB019",
     date: "2022-11-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 708,
     station_id: "05AB019",
     date: "2022-11-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 709,
     station_id: "05AB019",
     date: "2022-11-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 710,
     station_id: "05AB019",
     date: "2022-11-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 711,
     station_id: "05AB019",
     date: "2022-11-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 712,
     station_id: "05AB019",
     date: "2022-11-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 713,
     station_id: "05AB019",
     date: "2022-11-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 714,
     station_id: "05AB019",
     date: "2022-11-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 715,
     station_id: "05AB019",
     date: "2022-11-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 716,
     station_id: "05AB019",
     date: "2022-11-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 717,
     station_id: "05AB019",
     date: "2022-11-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 718,
     station_id: "05AB019",
     date: "2022-11-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 719,
     station_id: "05AB019",
     date: "2022-11-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 720,
     station_id: "05AB019",
     date: "2022-11-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 721,
     station_id: "05AB019",
     date: "2022-11-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 722,
     station_id: "05AB019",
     date: "2022-11-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 723,
     station_id: "05AB019",
     date: "2022-11-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 724,
     station_id: "05AB019",
     date: "2022-11-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 725,
     station_id: "05AB019",
     date: "2022-11-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 726,
     station_id: "05AB019",
     date: "2022-11-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 727,
     station_id: "05AB019",
     date: "2022-11-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 728,
     station_id: "05AB019",
     date: "2022-11-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 729,
     station_id: "05AB019",
     date: "2022-11-29",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 730,
     station_id: "05AB019",
     date: "2022-11-30",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 731,
     station_id: "05AB019",
     date: "2022-12-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 732,
     station_id: "05AB019",
     date: "2022-12-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 733,
     station_id: "05AB019",
     date: "2022-12-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 734,
     station_id: "05AB019",
     date: "2022-12-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 735,
     station_id: "05AB019",
     date: "2022-12-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 736,
     station_id: "05AB019",
     date: "2022-12-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 737,
     station_id: "05AB019",
     date: "2022-12-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 738,
     station_id: "05AB019",
     date: "2022-12-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 739,
     station_id: "05AB019",
     date: "2022-12-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 740,
     station_id: "05AB019",
     date: "2022-12-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 741,
     station_id: "05AB019",
     date: "2022-12-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 742,
     station_id: "05AB019",
     date: "2022-12-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 743,
     station_id: "05AB019",
     date: "2022-12-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 744,
     station_id: "05AB019",
     date: "2022-12-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 745,
     station_id: "05AB019",
     date: "2022-12-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 746,
     station_id: "05AB019",
     date: "2022-12-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 747,
     station_id: "05AB019",
     date: "2022-12-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 748,
     station_id: "05AB019",
     date: "2022-12-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 749,
     station_id: "05AB019",
     date: "2022-12-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 750,
     station_id: "05AB019",
     date: "2022-12-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 751,
     station_id: "05AB019",
     date: "2022-12-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 752,
     station_id: "05AB019",
     date: "2022-12-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 753,
     station_id: "05AB019",
     date: "2022-12-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 754,
     station_id: "05AB019",
     date: "2022-12-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 755,
     station_id: "05AB019",
     date: "2022-12-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 756,
     station_id: "05AB019",
     date: "2022-12-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 757,
     station_id: "05AB019",
     date: "2022-12-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 758,
     station_id: "05AB019",
     date: "2022-12-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 759,
     station_id: "05AB019",
     date: "2022-12-29",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 760,
     station_id: "05AB019",
     date: "2022-12-30",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 761,
     station_id: "05AB019",
     date: "2022-12-31",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 762,
     station_id: "05AB019",
     date: "2023-01-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 763,
     station_id: "05AB019",
     date: "2023-01-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 764,
     station_id: "05AB019",
     date: "2023-01-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 765,
     station_id: "05AB019",
     date: "2023-01-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 766,
     station_id: "05AB019",
     date: "2023-01-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 767,
     station_id: "05AB019",
     date: "2023-01-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 768,
     station_id: "05AB019",
     date: "2023-01-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 769,
     station_id: "05AB019",
     date: "2023-01-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 770,
     station_id: "05AB019",
     date: "2023-01-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 771,
     station_id: "05AB019",
     date: "2023-01-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 772,
     station_id: "05AB019",
     date: "2023-01-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 773,
     station_id: "05AB019",
     date: "2023-01-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 774,
     station_id: "05AB019",
     date: "2023-01-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 775,
     station_id: "05AB019",
     date: "2023-01-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 776,
     station_id: "05AB019",
     date: "2023-01-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 777,
     station_id: "05AB019",
     date: "2023-01-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 778,
     station_id: "05AB019",
     date: "2023-01-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 779,
     station_id: "05AB019",
     date: "2023-01-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 780,
     station_id: "05AB019",
     date: "2023-01-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 781,
     station_id: "05AB019",
     date: "2023-01-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 782,
     station_id: "05AB019",
     date: "2023-01-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 783,
     station_id: "05AB019",
     date: "2023-01-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 784,
     station_id: "05AB019",
     date: "2023-01-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 785,
     station_id: "05AB019",
     date: "2023-01-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 786,
     station_id: "05AB019",
     date: "2023-01-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 787,
     station_id: "05AB019",
     date: "2023-01-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 788,
     station_id: "05AB019",
     date: "2023-01-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 789,
     station_id: "05AB019",
     date: "2023-01-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 790,
     station_id: "05AB019",
     date: "2023-01-29",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 791,
     station_id: "05AB019",
     date: "2023-01-30",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 792,
     station_id: "05AB019",
     date: "2023-01-31",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 793,
     station_id: "05AB019",
     date: "2023-02-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 794,
     station_id: "05AB019",
     date: "2023-02-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 795,
     station_id: "05AB019",
     date: "2023-02-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 796,
     station_id: "05AB019",
     date: "2023-02-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 797,
     station_id: "05AB019",
     date: "2023-02-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 798,
     station_id: "05AB019",
     date: "2023-02-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 799,
     station_id: "05AB019",
     date: "2023-02-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 800,
     station_id: "05AB019",
     date: "2023-02-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 801,
     station_id: "05AB019",
     date: "2023-02-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 802,
     station_id: "05AB019",
     date: "2023-02-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 803,
     station_id: "05AB019",
     date: "2023-02-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 804,
     station_id: "05AB019",
     date: "2023-02-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 805,
     station_id: "05AB019",
     date: "2023-02-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 806,
     station_id: "05AB019",
     date: "2023-02-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 807,
     station_id: "05AB019",
     date: "2023-02-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 808,
     station_id: "05AB019",
     date: "2023-02-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 809,
     station_id: "05AB019",
     date: "2023-02-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 810,
     station_id: "05AB019",
     date: "2023-02-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 811,
     station_id: "05AB019",
     date: "2023-02-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 812,
     station_id: "05AB019",
     date: "2023-02-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 813,
     station_id: "05AB019",
     date: "2023-02-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 814,
     station_id: "05AB019",
     date: "2023-02-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 815,
     station_id: "05AB019",
     date: "2023-02-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 816,
     station_id: "05AB019",
     date: "2023-02-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 817,
     station_id: "05AB019",
     date: "2023-02-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 818,
     station_id: "05AB019",
     date: "2023-02-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 819,
     station_id: "05AB019",
     date: "2023-02-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 820,
     station_id: "05AB019",
     date: "2023-02-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 821,
     station_id: "05AB019",
     date: "2023-03-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 822,
     station_id: "05AB019",
     date: "2023-03-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 823,
     station_id: "05AB019",
     date: "2023-03-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 824,
     station_id: "05AB019",
     date: "2023-03-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 825,
     station_id: "05AB019",
     date: "2023-03-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 826,
     station_id: "05AB019",
     date: "2023-03-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 827,
     station_id: "05AB019",
     date: "2023-03-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 828,
     station_id: "05AB019",
     date: "2023-03-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 829,
     station_id: "05AB019",
     date: "2023-03-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 830,
     station_id: "05AB019",
     date: "2023-03-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 831,
     station_id: "05AB019",
     date: "2023-03-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 832,
     station_id: "05AB019",
     date: "2023-03-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 833,
     station_id: "05AB019",
     date: "2023-03-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 834,
     station_id: "05AB019",
     date: "2023-03-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 835,
     station_id: "05AB019",
     date: "2023-03-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 836,
     station_id: "05AB019",
     date: "2023-03-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 837,
     station_id: "05AB019",
     date: "2023-03-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 838,
     station_id: "05AB019",
     date: "2023-03-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 839,
     station_id: "05AB019",
     date: "2023-03-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 840,
     station_id: "05AB019",
     date: "2023-03-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 841,
     station_id: "05AB019",
     date: "2023-03-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 842,
     station_id: "05AB019",
     date: "2023-03-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 843,
     station_id: "05AB019",
     date: "2023-03-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 844,
     station_id: "05AB019",
     date: "2023-03-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 845,
     station_id: "05AB019",
     date: "2023-03-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 846,
     station_id: "05AB019",
     date: "2023-03-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 847,
     station_id: "05AB019",
     date: "2023-03-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 848,
     station_id: "05AB019",
     date: "2023-03-28",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 849,
     station_id: "05AB019",
     date: "2023-03-29",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 850,
     station_id: "05AB019",
     date: "2023-03-30",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 851,
     station_id: "05AB019",
     date: "2023-03-31",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 852,
     station_id: "05AB019",
     date: "2023-04-01",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 853,
     station_id: "05AB019",
     date: "2023-04-02",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 854,
     station_id: "05AB019",
     date: "2023-04-03",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 855,
     station_id: "05AB019",
     date: "2023-04-04",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 856,
     station_id: "05AB019",
     date: "2023-04-05",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 857,
     station_id: "05AB019",
     date: "2023-04-06",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 858,
     station_id: "05AB019",
     date: "2023-04-07",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 859,
     station_id: "05AB019",
     date: "2023-04-08",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 860,
     station_id: "05AB019",
     date: "2023-04-09",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 861,
     station_id: "05AB019",
     date: "2023-04-10",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 862,
     station_id: "05AB019",
     date: "2023-04-11",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 863,
     station_id: "05AB019",
     date: "2023-04-12",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 864,
     station_id: "05AB019",
     date: "2023-04-13",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 865,
     station_id: "05AB019",
     date: "2023-04-14",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 866,
     station_id: "05AB019",
     date: "2023-04-15",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 867,
     station_id: "05AB019",
     date: "2023-04-16",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 868,
     station_id: "05AB019",
     date: "2023-04-17",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 869,
     station_id: "05AB019",
     date: "2023-04-18",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 870,
     station_id: "05AB019",
     date: "2023-04-19",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 871,
     station_id: "05AB019",
     date: "2023-04-20",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 872,
     station_id: "05AB019",
     date: "2023-04-21",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 873,
     station_id: "05AB019",
     date: "2023-04-22",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 874,
     station_id: "05AB019",
     date: "2023-04-23",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 875,
     station_id: "05AB019",
     date: "2023-04-24",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 876,
@@ -6130,6 +7005,7 @@ export default [
     date: "2023-04-25",
     discharge: 4.17,
     water_level: 0.692,
+    user_id: null,
   },
   {
     id: 877,
@@ -6137,6 +7013,7 @@ export default [
     date: "2023-04-26",
     discharge: 5.82,
     water_level: 0.572,
+    user_id: null,
   },
   {
     id: 878,
@@ -6144,6 +7021,7 @@ export default [
     date: "2023-04-27",
     discharge: 7.72,
     water_level: 0.581,
+    user_id: null,
   },
   {
     id: 879,
@@ -6151,104 +7029,119 @@ export default [
     date: "2023-04-28",
     discharge: 0,
     water_level: 0.044,
+    user_id: null,
   },
   {
     id: 880,
     station_id: "05AB019",
     date: "2023-04-29",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 881,
     station_id: "05AB019",
     date: "2023-04-30",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 882,
     station_id: "05AB019",
     date: "2023-05-01",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 883,
     station_id: "05AB019",
     date: "2023-05-02",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 884,
     station_id: "05AB019",
     date: "2023-05-03",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 885,
     station_id: "05AB019",
     date: "2023-05-04",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 886,
     station_id: "05AB019",
     date: "2023-05-05",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 887,
     station_id: "05AB019",
     date: "2023-05-06",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 888,
     station_id: "05AB019",
     date: "2023-05-07",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 889,
     station_id: "05AB019",
     date: "2023-05-08",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 890,
     station_id: "05AB019",
     date: "2023-05-09",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 891,
     station_id: "05AB019",
     date: "2023-05-10",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 892,
     station_id: "05AB019",
     date: "2023-05-11",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 893,
     station_id: "05AB019",
     date: "2023-05-12",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 894,
@@ -6256,6 +7149,7 @@ export default [
     date: "2023-05-13",
     discharge: 5.16,
     water_level: 0.74,
+    user_id: null,
   },
   {
     id: 895,
@@ -6263,6 +7157,7 @@ export default [
     date: "2023-05-14",
     discharge: 9.87,
     water_level: 0.782,
+    user_id: null,
   },
   {
     id: 896,
@@ -6270,6 +7165,7 @@ export default [
     date: "2023-05-15",
     discharge: 9.9,
     water_level: 0.783,
+    user_id: null,
   },
   {
     id: 897,
@@ -6277,6 +7173,7 @@ export default [
     date: "2023-05-16",
     discharge: 9.91,
     water_level: 0.783,
+    user_id: null,
   },
   {
     id: 898,
@@ -6284,6 +7181,7 @@ export default [
     date: "2023-05-17",
     discharge: 10,
     water_level: 0.788,
+    user_id: null,
   },
   {
     id: 899,
@@ -6291,6 +7189,7 @@ export default [
     date: "2023-05-18",
     discharge: 10.1,
     water_level: 0.792,
+    user_id: null,
   },
   {
     id: 900,
@@ -6298,6 +7197,7 @@ export default [
     date: "2023-05-19",
     discharge: 12.4,
     water_level: 0.882,
+    user_id: null,
   },
   {
     id: 901,
@@ -6305,6 +7205,7 @@ export default [
     date: "2023-05-20",
     discharge: 19,
     water_level: 1.135,
+    user_id: null,
   },
   {
     id: 902,
@@ -6312,6 +7213,7 @@ export default [
     date: "2023-05-21",
     discharge: 19.7,
     water_level: 1.157,
+    user_id: null,
   },
   {
     id: 903,
@@ -6319,6 +7221,7 @@ export default [
     date: "2023-05-22",
     discharge: 19.3,
     water_level: 1.144,
+    user_id: null,
   },
   {
     id: 904,
@@ -6326,6 +7229,7 @@ export default [
     date: "2023-05-23",
     discharge: 19.4,
     water_level: 1.149,
+    user_id: null,
   },
   {
     id: 905,
@@ -6333,6 +7237,7 @@ export default [
     date: "2023-05-24",
     discharge: 19.5,
     water_level: 1.151,
+    user_id: null,
   },
   {
     id: 906,
@@ -6340,6 +7245,7 @@ export default [
     date: "2023-05-25",
     discharge: 19.4,
     water_level: 1.149,
+    user_id: null,
   },
   {
     id: 907,
@@ -6347,6 +7253,7 @@ export default [
     date: "2023-05-26",
     discharge: 19.4,
     water_level: 1.146,
+    user_id: null,
   },
   {
     id: 908,
@@ -6354,6 +7261,7 @@ export default [
     date: "2023-05-27",
     discharge: 19.6,
     water_level: 1.154,
+    user_id: null,
   },
   {
     id: 909,
@@ -6361,6 +7269,7 @@ export default [
     date: "2023-05-28",
     discharge: 19.5,
     water_level: 1.152,
+    user_id: null,
   },
   {
     id: 910,
@@ -6368,6 +7277,7 @@ export default [
     date: "2023-05-29",
     discharge: 19.5,
     water_level: 1.153,
+    user_id: null,
   },
   {
     id: 911,
@@ -6375,6 +7285,7 @@ export default [
     date: "2023-05-30",
     discharge: 19.9,
     water_level: 1.165,
+    user_id: null,
   },
   {
     id: 912,
@@ -6382,6 +7293,7 @@ export default [
     date: "2023-05-31",
     discharge: 14.1,
     water_level: 0.946,
+    user_id: null,
   },
   {
     id: 913,
@@ -6389,6 +7301,7 @@ export default [
     date: "2023-06-01",
     discharge: 9.98,
     water_level: 0.786,
+    user_id: null,
   },
   {
     id: 914,
@@ -6396,6 +7309,7 @@ export default [
     date: "2023-06-02",
     discharge: 14.7,
     water_level: 0.969,
+    user_id: null,
   },
   {
     id: 915,
@@ -6403,6 +7317,7 @@ export default [
     date: "2023-06-03",
     discharge: 19.5,
     water_level: 1.149,
+    user_id: null,
   },
   {
     id: 916,
@@ -6410,6 +7325,7 @@ export default [
     date: "2023-06-04",
     discharge: 19.5,
     water_level: 1.149,
+    user_id: null,
   },
   {
     id: 917,
@@ -6417,6 +7333,7 @@ export default [
     date: "2023-06-05",
     discharge: 19.4,
     water_level: 1.149,
+    user_id: null,
   },
   {
     id: 918,
@@ -6424,6 +7341,7 @@ export default [
     date: "2023-06-06",
     discharge: 19.4,
     water_level: 1.148,
+    user_id: null,
   },
   {
     id: 919,
@@ -6431,6 +7349,7 @@ export default [
     date: "2023-06-07",
     discharge: 19.5,
     water_level: 1.15,
+    user_id: null,
   },
   {
     id: 920,
@@ -6438,6 +7357,7 @@ export default [
     date: "2023-06-08",
     discharge: 19.5,
     water_level: 1.15,
+    user_id: null,
   },
   {
     id: 921,
@@ -6445,6 +7365,7 @@ export default [
     date: "2023-06-09",
     discharge: 21.6,
     water_level: 1.22,
+    user_id: null,
   },
   {
     id: 922,
@@ -6452,6 +7373,7 @@ export default [
     date: "2023-06-10",
     discharge: 28.3,
     water_level: 1.44,
+    user_id: null,
   },
   {
     id: 923,
@@ -6459,6 +7381,7 @@ export default [
     date: "2023-06-11",
     discharge: 29.1,
     water_level: 1.464,
+    user_id: null,
   },
   {
     id: 924,
@@ -6466,6 +7389,7 @@ export default [
     date: "2023-06-12",
     discharge: 29.3,
     water_level: 1.47,
+    user_id: null,
   },
   {
     id: 925,
@@ -6473,6 +7397,7 @@ export default [
     date: "2023-06-13",
     discharge: 32.3,
     water_level: 1.561,
+    user_id: null,
   },
   {
     id: 926,
@@ -6480,6 +7405,7 @@ export default [
     date: "2023-06-14",
     discharge: 37.2,
     water_level: 1.703,
+    user_id: null,
   },
   {
     id: 927,
@@ -6487,6 +7413,7 @@ export default [
     date: "2023-06-15",
     discharge: 38.5,
     water_level: 1.742,
+    user_id: null,
   },
   {
     id: 928,
@@ -6494,6 +7421,7 @@ export default [
     date: "2023-06-16",
     discharge: 39.7,
     water_level: 1.775,
+    user_id: null,
   },
   {
     id: 929,
@@ -6501,6 +7429,7 @@ export default [
     date: "2023-06-17",
     discharge: 39.7,
     water_level: 1.775,
+    user_id: null,
   },
   {
     id: 930,
@@ -6508,6 +7437,7 @@ export default [
     date: "2023-06-18",
     discharge: 39.9,
     water_level: 1.78,
+    user_id: null,
   },
   {
     id: 931,
@@ -6515,6 +7445,7 @@ export default [
     date: "2023-06-19",
     discharge: 39.8,
     water_level: 1.777,
+    user_id: null,
   },
   {
     id: 932,
@@ -6522,6 +7453,7 @@ export default [
     date: "2023-06-20",
     discharge: 39.6,
     water_level: 1.773,
+    user_id: null,
   },
   {
     id: 933,
@@ -6529,6 +7461,7 @@ export default [
     date: "2023-06-21",
     discharge: 39.5,
     water_level: 1.771,
+    user_id: null,
   },
   {
     id: 934,
@@ -6536,6 +7469,7 @@ export default [
     date: "2023-06-22",
     discharge: 40,
     water_level: 1.784,
+    user_id: null,
   },
   {
     id: 935,
@@ -6543,6 +7477,7 @@ export default [
     date: "2023-06-23",
     discharge: 39.8,
     water_level: 1.778,
+    user_id: null,
   },
   {
     id: 936,
@@ -6550,6 +7485,7 @@ export default [
     date: "2023-06-24",
     discharge: 39.9,
     water_level: 1.782,
+    user_id: null,
   },
   {
     id: 937,
@@ -6557,6 +7493,7 @@ export default [
     date: "2023-06-25",
     discharge: 39.8,
     water_level: 1.778,
+    user_id: null,
   },
   {
     id: 938,
@@ -6564,6 +7501,7 @@ export default [
     date: "2023-06-26",
     discharge: 39.5,
     water_level: 1.769,
+    user_id: null,
   },
   {
     id: 939,
@@ -6571,6 +7509,7 @@ export default [
     date: "2023-06-27",
     discharge: 39.3,
     water_level: 1.765,
+    user_id: null,
   },
   {
     id: 940,
@@ -6578,6 +7517,7 @@ export default [
     date: "2023-06-28",
     discharge: 40.8,
     water_level: 1.807,
+    user_id: null,
   },
   {
     id: 941,
@@ -6585,6 +7525,7 @@ export default [
     date: "2023-06-29",
     discharge: 41.4,
     water_level: 1.823,
+    user_id: null,
   },
   {
     id: 942,
@@ -6592,6 +7533,7 @@ export default [
     date: "2023-06-30",
     discharge: 41.5,
     water_level: 1.825,
+    user_id: null,
   },
   {
     id: 943,
@@ -6599,6 +7541,7 @@ export default [
     date: "2023-07-01",
     discharge: 41.6,
     water_level: 1.828,
+    user_id: null,
   },
   {
     id: 944,
@@ -6606,6 +7549,7 @@ export default [
     date: "2023-07-02",
     discharge: 41,
     water_level: 1.811,
+    user_id: null,
   },
   {
     id: 945,
@@ -6613,6 +7557,7 @@ export default [
     date: "2023-07-03",
     discharge: 41.2,
     water_level: 1.817,
+    user_id: null,
   },
   {
     id: 946,
@@ -6620,6 +7565,7 @@ export default [
     date: "2023-07-04",
     discharge: 41.7,
     water_level: 1.832,
+    user_id: null,
   },
   {
     id: 947,
@@ -6627,6 +7573,7 @@ export default [
     date: "2023-07-05",
     discharge: 41.5,
     water_level: 1.825,
+    user_id: null,
   },
   {
     id: 948,
@@ -6634,6 +7581,7 @@ export default [
     date: "2023-07-06",
     discharge: 41.5,
     water_level: 1.824,
+    user_id: null,
   },
   {
     id: 949,
@@ -6641,6 +7589,7 @@ export default [
     date: "2023-07-07",
     discharge: 41.2,
     water_level: 1.816,
+    user_id: null,
   },
   {
     id: 950,
@@ -6648,6 +7597,7 @@ export default [
     date: "2023-07-08",
     discharge: 41.4,
     water_level: 1.824,
+    user_id: null,
   },
   {
     id: 951,
@@ -6655,6 +7605,7 @@ export default [
     date: "2023-07-09",
     discharge: 41.1,
     water_level: 1.815,
+    user_id: null,
   },
   {
     id: 952,
@@ -6662,6 +7613,7 @@ export default [
     date: "2023-07-10",
     discharge: 41.4,
     water_level: 1.823,
+    user_id: null,
   },
   {
     id: 953,
@@ -6669,6 +7621,7 @@ export default [
     date: "2023-07-11",
     discharge: 41.2,
     water_level: 1.817,
+    user_id: null,
   },
   {
     id: 954,
@@ -6676,6 +7629,7 @@ export default [
     date: "2023-07-12",
     discharge: 41.4,
     water_level: 1.823,
+    user_id: null,
   },
   {
     id: 955,
@@ -6683,6 +7637,7 @@ export default [
     date: "2023-07-13",
     discharge: 41,
     water_level: 1.81,
+    user_id: null,
   },
   {
     id: 956,
@@ -6690,6 +7645,7 @@ export default [
     date: "2023-07-14",
     discharge: 41.2,
     water_level: 1.816,
+    user_id: null,
   },
   {
     id: 957,
@@ -6697,6 +7653,7 @@ export default [
     date: "2023-07-15",
     discharge: 40.9,
     water_level: 1.81,
+    user_id: null,
   },
   {
     id: 958,
@@ -6704,6 +7661,7 @@ export default [
     date: "2023-07-16",
     discharge: 40.7,
     water_level: 1.803,
+    user_id: null,
   },
   {
     id: 959,
@@ -6711,6 +7669,7 @@ export default [
     date: "2023-07-17",
     discharge: 41.1,
     water_level: 1.814,
+    user_id: null,
   },
   {
     id: 960,
@@ -6718,6 +7677,7 @@ export default [
     date: "2023-07-18",
     discharge: 41.1,
     water_level: 1.815,
+    user_id: null,
   },
   {
     id: 961,
@@ -6725,6 +7685,7 @@ export default [
     date: "2023-07-19",
     discharge: 40.9,
     water_level: 1.808,
+    user_id: null,
   },
   {
     id: 962,
@@ -6732,6 +7693,7 @@ export default [
     date: "2023-07-20",
     discharge: 41.2,
     water_level: 1.816,
+    user_id: null,
   },
   {
     id: 963,
@@ -6739,6 +7701,7 @@ export default [
     date: "2023-07-21",
     discharge: 41.4,
     water_level: 1.822,
+    user_id: null,
   },
   {
     id: 964,
@@ -6746,6 +7709,7 @@ export default [
     date: "2023-07-22",
     discharge: 41.5,
     water_level: 1.825,
+    user_id: null,
   },
   {
     id: 965,
@@ -6753,6 +7717,7 @@ export default [
     date: "2023-07-23",
     discharge: 41.5,
     water_level: 1.824,
+    user_id: null,
   },
   {
     id: 966,
@@ -6760,6 +7725,7 @@ export default [
     date: "2023-07-24",
     discharge: 41.5,
     water_level: 1.824,
+    user_id: null,
   },
   {
     id: 967,
@@ -6767,6 +7733,7 @@ export default [
     date: "2023-07-25",
     discharge: 41.3,
     water_level: 1.82,
+    user_id: null,
   },
   {
     id: 968,
@@ -6774,6 +7741,7 @@ export default [
     date: "2023-07-26",
     discharge: 41.3,
     water_level: 1.819,
+    user_id: null,
   },
   {
     id: 969,
@@ -6781,6 +7749,7 @@ export default [
     date: "2023-07-27",
     discharge: 41.5,
     water_level: 1.826,
+    user_id: null,
   },
   {
     id: 970,
@@ -6788,6 +7757,7 @@ export default [
     date: "2023-07-28",
     discharge: 41.5,
     water_level: 1.825,
+    user_id: null,
   },
   {
     id: 971,
@@ -6795,6 +7765,7 @@ export default [
     date: "2023-07-29",
     discharge: 41.3,
     water_level: 1.819,
+    user_id: null,
   },
   {
     id: 972,
@@ -6802,6 +7773,7 @@ export default [
     date: "2023-07-30",
     discharge: 41.5,
     water_level: 1.826,
+    user_id: null,
   },
   {
     id: 973,
@@ -6809,6 +7781,7 @@ export default [
     date: "2023-07-31",
     discharge: 41.4,
     water_level: 1.824,
+    user_id: null,
   },
   {
     id: 974,
@@ -6816,6 +7789,7 @@ export default [
     date: "2023-08-01",
     discharge: 41.3,
     water_level: 1.821,
+    user_id: null,
   },
   {
     id: 975,
@@ -6823,6 +7797,7 @@ export default [
     date: "2023-08-02",
     discharge: 41.4,
     water_level: 1.823,
+    user_id: null,
   },
   {
     id: 976,
@@ -6830,6 +7805,7 @@ export default [
     date: "2023-08-03",
     discharge: 40.8,
     water_level: 1.805,
+    user_id: null,
   },
   {
     id: 977,
@@ -6837,6 +7813,7 @@ export default [
     date: "2023-08-04",
     discharge: 41.6,
     water_level: 1.828,
+    user_id: null,
   },
   {
     id: 978,
@@ -6844,6 +7821,7 @@ export default [
     date: "2023-08-05",
     discharge: 41.5,
     water_level: 1.826,
+    user_id: null,
   },
   {
     id: 979,
@@ -6851,6 +7829,7 @@ export default [
     date: "2023-08-06",
     discharge: 41.2,
     water_level: 1.818,
+    user_id: null,
   },
   {
     id: 980,
@@ -6858,6 +7837,7 @@ export default [
     date: "2023-08-07",
     discharge: 41.5,
     water_level: 1.825,
+    user_id: null,
   },
   {
     id: 981,
@@ -6865,6 +7845,7 @@ export default [
     date: "2023-08-08",
     discharge: 41.4,
     water_level: 1.822,
+    user_id: null,
   },
   {
     id: 982,
@@ -6872,6 +7853,7 @@ export default [
     date: "2023-08-09",
     discharge: 41.6,
     water_level: 1.829,
+    user_id: null,
   },
   {
     id: 983,
@@ -6879,6 +7861,7 @@ export default [
     date: "2023-08-10",
     discharge: 41.1,
     water_level: 1.814,
+    user_id: null,
   },
   {
     id: 984,
@@ -6886,6 +7869,7 @@ export default [
     date: "2023-08-11",
     discharge: 38,
     water_level: 1.727,
+    user_id: null,
   },
   {
     id: 985,
@@ -6893,6 +7877,7 @@ export default [
     date: "2023-08-12",
     discharge: 36.4,
     water_level: 1.681,
+    user_id: null,
   },
   {
     id: 986,
@@ -6900,6 +7885,7 @@ export default [
     date: "2023-08-13",
     discharge: 36.6,
     water_level: 1.687,
+    user_id: null,
   },
   {
     id: 987,
@@ -6907,6 +7893,7 @@ export default [
     date: "2023-08-14",
     discharge: 36.4,
     water_level: 1.681,
+    user_id: null,
   },
   {
     id: 988,
@@ -6914,6 +7901,7 @@ export default [
     date: "2023-08-15",
     discharge: 33.3,
     water_level: 1.591,
+    user_id: null,
   },
   {
     id: 989,
@@ -6921,6 +7909,7 @@ export default [
     date: "2023-08-16",
     discharge: 31.2,
     water_level: 1.528,
+    user_id: null,
   },
   {
     id: 990,
@@ -6928,6 +7917,7 @@ export default [
     date: "2023-08-17",
     discharge: 31.5,
     water_level: 1.537,
+    user_id: null,
   },
   {
     id: 991,
@@ -6935,6 +7925,7 @@ export default [
     date: "2023-08-18",
     discharge: 28.4,
     water_level: 1.441,
+    user_id: null,
   },
   {
     id: 992,
@@ -6942,6 +7933,7 @@ export default [
     date: "2023-08-19",
     discharge: 26.5,
     water_level: 1.383,
+    user_id: null,
   },
   {
     id: 993,
@@ -6949,6 +7941,7 @@ export default [
     date: "2023-08-20",
     discharge: 26.4,
     water_level: 1.381,
+    user_id: null,
   },
   {
     id: 994,
@@ -6956,6 +7949,7 @@ export default [
     date: "2023-08-21",
     discharge: 23.4,
     water_level: 1.282,
+    user_id: null,
   },
   {
     id: 995,
@@ -6963,6 +7957,7 @@ export default [
     date: "2023-08-22",
     discharge: 18.3,
     water_level: 1.107,
+    user_id: null,
   },
   {
     id: 996,
@@ -6970,6 +7965,7 @@ export default [
     date: "2023-08-23",
     discharge: 14.4,
     water_level: 0.963,
+    user_id: null,
   },
   {
     id: 997,
@@ -6977,6 +7973,7 @@ export default [
     date: "2023-08-24",
     discharge: 13.6,
     water_level: 0.933,
+    user_id: null,
   },
   {
     id: 998,
@@ -6984,6 +7981,7 @@ export default [
     date: "2023-08-25",
     discharge: 13.5,
     water_level: 0.932,
+    user_id: null,
   },
   {
     id: 999,
@@ -6991,6 +7989,7 @@ export default [
     date: "2023-08-26",
     discharge: 13.7,
     water_level: 0.937,
+    user_id: null,
   },
   {
     id: 1000,
@@ -6998,6 +7997,7 @@ export default [
     date: "2023-08-27",
     discharge: 13.8,
     water_level: 0.941,
+    user_id: null,
   },
   {
     id: 1001,
@@ -7005,6 +8005,7 @@ export default [
     date: "2023-08-28",
     discharge: 13.8,
     water_level: 0.94,
+    user_id: null,
   },
   {
     id: 1002,
@@ -7012,6 +8013,7 @@ export default [
     date: "2023-08-29",
     discharge: 13.8,
     water_level: 0.94,
+    user_id: null,
   },
   {
     id: 1003,
@@ -7019,6 +8021,7 @@ export default [
     date: "2023-08-30",
     discharge: 13.8,
     water_level: 0.942,
+    user_id: null,
   },
   {
     id: 1004,
@@ -7026,6 +8029,7 @@ export default [
     date: "2023-08-31",
     discharge: 11.1,
     water_level: 0.832,
+    user_id: null,
   },
   {
     id: 1005,
@@ -7033,6 +8037,7 @@ export default [
     date: "2023-09-01",
     discharge: 9.8,
     water_level: 0.779,
+    user_id: null,
   },
   {
     id: 1006,
@@ -7040,6 +8045,7 @@ export default [
     date: "2023-09-02",
     discharge: 9.91,
     water_level: 0.784,
+    user_id: null,
   },
   {
     id: 1007,
@@ -7047,6 +8053,7 @@ export default [
     date: "2023-09-03",
     discharge: 9.91,
     water_level: 0.783,
+    user_id: null,
   },
   {
     id: 1008,
@@ -7054,6 +8061,7 @@ export default [
     date: "2023-09-04",
     discharge: 9.93,
     water_level: 0.784,
+    user_id: null,
   },
   {
     id: 1009,
@@ -7061,6 +8069,7 @@ export default [
     date: "2023-09-05",
     discharge: 9.91,
     water_level: 0.784,
+    user_id: null,
   },
   {
     id: 1010,
@@ -7068,6 +8077,7 @@ export default [
     date: "2023-09-06",
     discharge: 9.87,
     water_level: 0.782,
+    user_id: null,
   },
   {
     id: 1011,
@@ -7075,6 +8085,7 @@ export default [
     date: "2023-09-07",
     discharge: 9.83,
     water_level: 0.78,
+    user_id: null,
   },
   {
     id: 1012,
@@ -7082,6 +8093,7 @@ export default [
     date: "2023-09-08",
     discharge: 8.17,
     water_level: 0.704,
+    user_id: null,
   },
   {
     id: 1013,
@@ -7089,6 +8101,7 @@ export default [
     date: "2023-09-09",
     discharge: 6.53,
     water_level: 0.63,
+    user_id: null,
   },
   {
     id: 1014,
@@ -7096,6 +8109,7 @@ export default [
     date: "2023-09-10",
     discharge: 6.53,
     water_level: 0.629,
+    user_id: null,
   },
   {
     id: 1015,
@@ -7103,6 +8117,7 @@ export default [
     date: "2023-09-11",
     discharge: 6.53,
     water_level: 0.629,
+    user_id: null,
   },
   {
     id: 1016,
@@ -7110,6 +8125,7 @@ export default [
     date: "2023-09-12",
     discharge: 7.7,
     water_level: 0.684,
+    user_id: null,
   },
   {
     id: 1017,
@@ -7117,6 +8133,7 @@ export default [
     date: "2023-09-13",
     discharge: 8.48,
     water_level: 0.721,
+    user_id: null,
   },
   {
     id: 1018,
@@ -7124,6 +8141,7 @@ export default [
     date: "2023-09-14",
     discharge: 8.94,
     water_level: 0.74,
+    user_id: null,
   },
   {
     id: 1019,
@@ -7131,6 +8149,7 @@ export default [
     date: "2023-09-15",
     discharge: 12.1,
     water_level: 0.873,
+    user_id: null,
   },
   {
     id: 1020,
@@ -7138,6 +8157,7 @@ export default [
     date: "2023-09-16",
     discharge: 12.2,
     water_level: 0.878,
+    user_id: null,
   },
   {
     id: 1021,
@@ -7145,6 +8165,7 @@ export default [
     date: "2023-09-17",
     discharge: 12.2,
     water_level: 0.879,
+    user_id: null,
   },
   {
     id: 1022,
@@ -7152,6 +8173,7 @@ export default [
     date: "2023-09-18",
     discharge: 12.2,
     water_level: 0.879,
+    user_id: null,
   },
   {
     id: 1023,
@@ -7159,6 +8181,7 @@ export default [
     date: "2023-09-19",
     discharge: 12.3,
     water_level: 0.883,
+    user_id: null,
   },
   {
     id: 1024,
@@ -7166,6 +8189,7 @@ export default [
     date: "2023-09-20",
     discharge: 12.4,
     water_level: 0.886,
+    user_id: null,
   },
   {
     id: 1025,
@@ -7173,6 +8197,7 @@ export default [
     date: "2023-09-21",
     discharge: 12.4,
     water_level: 0.886,
+    user_id: null,
   },
   {
     id: 1026,
@@ -7180,6 +8205,7 @@ export default [
     date: "2023-09-22",
     discharge: 12.4,
     water_level: 0.886,
+    user_id: null,
   },
   {
     id: 1027,
@@ -7187,6 +8213,7 @@ export default [
     date: "2023-09-23",
     discharge: 12.4,
     water_level: 0.886,
+    user_id: null,
   },
   {
     id: 1028,
@@ -7194,6 +8221,7 @@ export default [
     date: "2023-09-24",
     discharge: 12.4,
     water_level: 0.885,
+    user_id: null,
   },
   {
     id: 1029,
@@ -7201,6 +8229,7 @@ export default [
     date: "2023-09-25",
     discharge: 12.4,
     water_level: 0.885,
+    user_id: null,
   },
   {
     id: 1030,
@@ -7208,6 +8237,7 @@ export default [
     date: "2023-09-26",
     discharge: 12.4,
     water_level: 0.885,
+    user_id: null,
   },
   {
     id: 1031,
@@ -7215,6 +8245,7 @@ export default [
     date: "2023-09-27",
     discharge: 12.4,
     water_level: 0.885,
+    user_id: null,
   },
   {
     id: 1032,
@@ -7222,6 +8253,7 @@ export default [
     date: "2023-09-28",
     discharge: 12.3,
     water_level: 0.884,
+    user_id: null,
   },
   {
     id: 1033,
@@ -7229,6 +8261,7 @@ export default [
     date: "2023-09-29",
     discharge: 12.3,
     water_level: 0.884,
+    user_id: null,
   },
   {
     id: 1034,
@@ -7236,6 +8269,7 @@ export default [
     date: "2023-09-30",
     discharge: 12.4,
     water_level: 0.886,
+    user_id: null,
   },
   {
     id: 1035,
@@ -7243,6 +8277,7 @@ export default [
     date: "2023-10-01",
     discharge: 12.3,
     water_level: 0.884,
+    user_id: null,
   },
   {
     id: 1036,
@@ -7250,6 +8285,7 @@ export default [
     date: "2023-10-02",
     discharge: 10.5,
     water_level: 0.806,
+    user_id: null,
   },
   {
     id: 1037,
@@ -7257,6 +8293,7 @@ export default [
     date: "2023-10-03",
     discharge: 9.08,
     water_level: 0.747,
+    user_id: null,
   },
   {
     id: 1038,
@@ -7264,6 +8301,7 @@ export default [
     date: "2023-10-04",
     discharge: 9.05,
     water_level: 0.746,
+    user_id: null,
   },
   {
     id: 1039,
@@ -7271,6 +8309,7 @@ export default [
     date: "2023-10-05",
     discharge: 5.53,
     water_level: 0.567,
+    user_id: null,
   },
   {
     id: 1040,
@@ -7278,608 +8317,695 @@ export default [
     date: "2023-10-06",
     discharge: 0,
     water_level: 0.136,
+    user_id: null,
   },
   {
     id: 1041,
     station_id: "05AB019",
     date: "2023-10-07",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1042,
     station_id: "05AB019",
     date: "2023-10-08",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1043,
     station_id: "05AB019",
     date: "2023-10-09",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1044,
     station_id: "05AB019",
     date: "2023-10-10",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1045,
     station_id: "05AB019",
     date: "2023-10-11",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1046,
     station_id: "05AB019",
     date: "2023-10-12",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1047,
     station_id: "05AB019",
     date: "2023-10-13",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1048,
     station_id: "05AB019",
     date: "2023-10-14",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1049,
     station_id: "05AB019",
     date: "2023-10-15",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1050,
     station_id: "05AB019",
     date: "2023-10-16",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1051,
     station_id: "05AB019",
     date: "2023-10-17",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1052,
     station_id: "05AB019",
     date: "2023-10-18",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1053,
     station_id: "05AB019",
     date: "2023-10-19",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1054,
     station_id: "05AB019",
     date: "2023-10-20",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1055,
     station_id: "05AB019",
     date: "2023-10-21",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1056,
     station_id: "05AB019",
     date: "2023-10-22",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1057,
     station_id: "05AB019",
     date: "2023-10-23",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1058,
     station_id: "05AB019",
     date: "2023-10-24",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1059,
     station_id: "05AB019",
     date: "2023-10-25",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1060,
     station_id: "05AB019",
     date: "2023-10-26",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1061,
     station_id: "05AB019",
     date: "2023-10-27",
     discharge: 0,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1062,
     station_id: "05AB019",
     date: "2023-10-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1063,
     station_id: "05AB019",
     date: "2023-10-29",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1064,
     station_id: "05AB019",
     date: "2023-10-30",
-    discharge: 0,
+    discharge: null,
     water_level: 1.375,
+    user_id: null,
   },
   {
     id: 1065,
     station_id: "05AB019",
     date: "2023-10-31",
-    discharge: 0,
+    discharge: null,
     water_level: 1.375,
+    user_id: null,
   },
   {
     id: 1066,
     station_id: "05AB019",
     date: "2023-11-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1067,
     station_id: "05AB019",
     date: "2023-11-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1068,
     station_id: "05AB019",
     date: "2023-11-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1069,
     station_id: "05AB019",
     date: "2023-11-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1070,
     station_id: "05AB019",
     date: "2023-11-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1071,
     station_id: "05AB019",
     date: "2023-11-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1072,
     station_id: "05AB019",
     date: "2023-11-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1073,
     station_id: "05AB019",
     date: "2023-11-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1074,
     station_id: "05AB019",
     date: "2023-11-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1075,
     station_id: "05AB019",
     date: "2023-11-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1076,
     station_id: "05AB019",
     date: "2023-11-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1077,
     station_id: "05AB019",
     date: "2023-11-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1078,
     station_id: "05AB019",
     date: "2023-11-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1079,
     station_id: "05AB019",
     date: "2023-11-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1080,
     station_id: "05AB019",
     date: "2023-11-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1081,
     station_id: "05AB019",
     date: "2023-11-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1082,
     station_id: "05AB019",
     date: "2023-11-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1083,
     station_id: "05AB019",
     date: "2023-11-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1084,
     station_id: "05AB019",
     date: "2023-11-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1085,
     station_id: "05AB019",
     date: "2023-11-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1086,
     station_id: "05AB019",
     date: "2023-11-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1087,
     station_id: "05AB019",
     date: "2023-11-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1088,
     station_id: "05AB019",
     date: "2023-11-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1089,
     station_id: "05AB019",
     date: "2023-11-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1090,
     station_id: "05AB019",
     date: "2023-11-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1091,
     station_id: "05AB019",
     date: "2023-11-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1092,
     station_id: "05AB019",
     date: "2023-11-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1093,
     station_id: "05AB019",
     date: "2023-11-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1094,
     station_id: "05AB019",
     date: "2023-11-29",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1095,
     station_id: "05AB019",
     date: "2023-11-30",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1096,
     station_id: "05AB019",
     date: "2023-12-01",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1097,
     station_id: "05AB019",
     date: "2023-12-02",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1098,
     station_id: "05AB019",
     date: "2023-12-03",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1099,
     station_id: "05AB019",
     date: "2023-12-04",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1100,
     station_id: "05AB019",
     date: "2023-12-05",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1101,
     station_id: "05AB019",
     date: "2023-12-06",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1102,
     station_id: "05AB019",
     date: "2023-12-07",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1103,
     station_id: "05AB019",
     date: "2023-12-08",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1104,
     station_id: "05AB019",
     date: "2023-12-09",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1105,
     station_id: "05AB019",
     date: "2023-12-10",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1106,
     station_id: "05AB019",
     date: "2023-12-11",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1107,
     station_id: "05AB019",
     date: "2023-12-12",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1108,
     station_id: "05AB019",
     date: "2023-12-13",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1109,
     station_id: "05AB019",
     date: "2023-12-14",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1110,
     station_id: "05AB019",
     date: "2023-12-15",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1111,
     station_id: "05AB019",
     date: "2023-12-16",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1112,
     station_id: "05AB019",
     date: "2023-12-17",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1113,
     station_id: "05AB019",
     date: "2023-12-18",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1114,
     station_id: "05AB019",
     date: "2023-12-19",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1115,
     station_id: "05AB019",
     date: "2023-12-20",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1116,
     station_id: "05AB019",
     date: "2023-12-21",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1117,
     station_id: "05AB019",
     date: "2023-12-22",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1118,
     station_id: "05AB019",
     date: "2023-12-23",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1119,
     station_id: "05AB019",
     date: "2023-12-24",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1120,
     station_id: "05AB019",
     date: "2023-12-25",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1121,
     station_id: "05AB019",
     date: "2023-12-26",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1122,
     station_id: "05AB019",
     date: "2023-12-27",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1123,
     station_id: "05AB019",
     date: "2023-12-28",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1124,
     station_id: "05AB019",
     date: "2023-12-29",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1125,
     station_id: "05AB019",
     date: "2023-12-30",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1126,
     station_id: "05AB019",
     date: "2023-12-31",
-    discharge: 0,
-    water_level: 0,
+    discharge: null,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1127,
@@ -7887,6 +9013,7 @@ export default [
     date: "2020-12-01",
     discharge: 27.2,
     water_level: 0.448,
+    user_id: null,
   },
   {
     id: 1128,
@@ -7894,6 +9021,7 @@ export default [
     date: "2020-12-02",
     discharge: 27.1,
     water_level: 0.44,
+    user_id: null,
   },
   {
     id: 1129,
@@ -7901,6 +9029,7 @@ export default [
     date: "2020-12-03",
     discharge: 27.7,
     water_level: 0.463,
+    user_id: null,
   },
   {
     id: 1130,
@@ -7908,6 +9037,7 @@ export default [
     date: "2020-12-04",
     discharge: 27.4,
     water_level: 0.461,
+    user_id: null,
   },
   {
     id: 1131,
@@ -7915,6 +9045,7 @@ export default [
     date: "2020-12-05",
     discharge: 26.8,
     water_level: 0.442,
+    user_id: null,
   },
   {
     id: 1132,
@@ -7922,6 +9053,7 @@ export default [
     date: "2020-12-06",
     discharge: 26.5,
     water_level: 0.446,
+    user_id: null,
   },
   {
     id: 1133,
@@ -7929,6 +9061,7 @@ export default [
     date: "2020-12-07",
     discharge: 26.7,
     water_level: 0.439,
+    user_id: null,
   },
   {
     id: 1134,
@@ -7936,6 +9069,7 @@ export default [
     date: "2020-12-08",
     discharge: 26.7,
     water_level: 0.443,
+    user_id: null,
   },
   {
     id: 1135,
@@ -7943,6 +9077,7 @@ export default [
     date: "2020-12-09",
     discharge: 24.9,
     water_level: 0.4,
+    user_id: null,
   },
   {
     id: 1136,
@@ -7950,6 +9085,7 @@ export default [
     date: "2020-12-10",
     discharge: 23,
     water_level: 0.35,
+    user_id: null,
   },
   {
     id: 1137,
@@ -7957,6 +9093,7 @@ export default [
     date: "2020-12-11",
     discharge: 22.6,
     water_level: 0.362,
+    user_id: null,
   },
   {
     id: 1138,
@@ -7964,6 +9101,7 @@ export default [
     date: "2020-12-12",
     discharge: 22.3,
     water_level: 0.409,
+    user_id: null,
   },
   {
     id: 1139,
@@ -7971,6 +9109,7 @@ export default [
     date: "2020-12-13",
     discharge: 21.6,
     water_level: 0.387,
+    user_id: null,
   },
   {
     id: 1140,
@@ -7978,6 +9117,7 @@ export default [
     date: "2020-12-14",
     discharge: 21.1,
     water_level: 0.376,
+    user_id: null,
   },
   {
     id: 1141,
@@ -7985,6 +9125,7 @@ export default [
     date: "2020-12-15",
     discharge: 25.7,
     water_level: 0.481,
+    user_id: null,
   },
   {
     id: 1142,
@@ -7992,6 +9133,7 @@ export default [
     date: "2020-12-16",
     discharge: 28.7,
     water_level: 0.488,
+    user_id: null,
   },
   {
     id: 1143,
@@ -7999,6 +9141,7 @@ export default [
     date: "2020-12-17",
     discharge: 28.9,
     water_level: 0.518,
+    user_id: null,
   },
   {
     id: 1144,
@@ -8006,6 +9149,7 @@ export default [
     date: "2020-12-18",
     discharge: 28.4,
     water_level: 0.538,
+    user_id: null,
   },
   {
     id: 1145,
@@ -8013,6 +9157,7 @@ export default [
     date: "2020-12-19",
     discharge: 28.9,
     water_level: 0.492,
+    user_id: null,
   },
   {
     id: 1146,
@@ -8020,6 +9165,7 @@ export default [
     date: "2020-12-20",
     discharge: 29.1,
     water_level: 0.448,
+    user_id: null,
   },
   {
     id: 1147,
@@ -8027,6 +9173,7 @@ export default [
     date: "2020-12-21",
     discharge: 26.9,
     water_level: 0.403,
+    user_id: null,
   },
   {
     id: 1148,
@@ -8034,6 +9181,7 @@ export default [
     date: "2020-12-22",
     discharge: 23.9,
     water_level: 0.356,
+    user_id: null,
   },
   {
     id: 1149,
@@ -8041,6 +9189,7 @@ export default [
     date: "2020-12-23",
     discharge: 22.1,
     water_level: 0.337,
+    user_id: null,
   },
   {
     id: 1150,
@@ -8048,6 +9197,7 @@ export default [
     date: "2020-12-24",
     discharge: 20.7,
     water_level: 0.305,
+    user_id: null,
   },
   {
     id: 1151,
@@ -8055,6 +9205,7 @@ export default [
     date: "2020-12-25",
     discharge: 20.7,
     water_level: 0.311,
+    user_id: null,
   },
   {
     id: 1152,
@@ -8062,6 +9213,7 @@ export default [
     date: "2020-12-26",
     discharge: 21.6,
     water_level: 0.355,
+    user_id: null,
   },
   {
     id: 1153,
@@ -8069,6 +9221,7 @@ export default [
     date: "2020-12-27",
     discharge: 21.5,
     water_level: 0.38,
+    user_id: null,
   },
   {
     id: 1154,
@@ -8076,6 +9229,7 @@ export default [
     date: "2020-12-28",
     discharge: 22,
     water_level: 0.406,
+    user_id: null,
   },
   {
     id: 1155,
@@ -8083,6 +9237,7 @@ export default [
     date: "2020-12-29",
     discharge: 23,
     water_level: 0.403,
+    user_id: null,
   },
   {
     id: 1156,
@@ -8090,6 +9245,7 @@ export default [
     date: "2020-12-30",
     discharge: 24.7,
     water_level: 0.429,
+    user_id: null,
   },
   {
     id: 1157,
@@ -8097,6 +9253,7 @@ export default [
     date: "2020-12-31",
     discharge: 24.3,
     water_level: 0.41,
+    user_id: null,
   },
   {
     id: 1158,
@@ -8104,6 +9261,7 @@ export default [
     date: "2021-01-01",
     discharge: 24.5,
     water_level: 0.38,
+    user_id: null,
   },
   {
     id: 1159,
@@ -8111,6 +9269,7 @@ export default [
     date: "2021-01-02",
     discharge: 26,
     water_level: 0.395,
+    user_id: null,
   },
   {
     id: 1160,
@@ -8118,6 +9277,7 @@ export default [
     date: "2021-01-03",
     discharge: 26.7,
     water_level: 0.404,
+    user_id: null,
   },
   {
     id: 1161,
@@ -8125,6 +9285,7 @@ export default [
     date: "2021-01-04",
     discharge: 26.5,
     water_level: 0.419,
+    user_id: null,
   },
   {
     id: 1162,
@@ -8132,6 +9293,7 @@ export default [
     date: "2021-01-05",
     discharge: 25.1,
     water_level: 0.36,
+    user_id: null,
   },
   {
     id: 1163,
@@ -8139,6 +9301,7 @@ export default [
     date: "2021-01-06",
     discharge: 25.6,
     water_level: 0.376,
+    user_id: null,
   },
   {
     id: 1164,
@@ -8146,6 +9309,7 @@ export default [
     date: "2021-01-07",
     discharge: 24.8,
     water_level: 0.369,
+    user_id: null,
   },
   {
     id: 1165,
@@ -8153,6 +9317,7 @@ export default [
     date: "2021-01-08",
     discharge: 24.2,
     water_level: 0.398,
+    user_id: null,
   },
   {
     id: 1166,
@@ -8160,6 +9325,7 @@ export default [
     date: "2021-01-09",
     discharge: 23.7,
     water_level: 0.4,
+    user_id: null,
   },
   {
     id: 1167,
@@ -8167,6 +9333,7 @@ export default [
     date: "2021-01-10",
     discharge: 22.9,
     water_level: 0.386,
+    user_id: null,
   },
   {
     id: 1168,
@@ -8174,6 +9341,7 @@ export default [
     date: "2021-01-11",
     discharge: 22,
     water_level: 0.354,
+    user_id: null,
   },
   {
     id: 1169,
@@ -8181,6 +9349,7 @@ export default [
     date: "2021-01-12",
     discharge: 22,
     water_level: 0.329,
+    user_id: null,
   },
   {
     id: 1170,
@@ -8188,6 +9357,7 @@ export default [
     date: "2021-01-13",
     discharge: 22.9,
     water_level: 0.386,
+    user_id: null,
   },
   {
     id: 1171,
@@ -8195,6 +9365,7 @@ export default [
     date: "2021-01-14",
     discharge: 23.6,
     water_level: 0.42,
+    user_id: null,
   },
   {
     id: 1172,
@@ -8202,6 +9373,7 @@ export default [
     date: "2021-01-15",
     discharge: 23.2,
     water_level: 0.392,
+    user_id: null,
   },
   {
     id: 1173,
@@ -8209,6 +9381,7 @@ export default [
     date: "2021-01-16",
     discharge: 22.3,
     water_level: 0.387,
+    user_id: null,
   },
   {
     id: 1174,
@@ -8216,6 +9389,7 @@ export default [
     date: "2021-01-17",
     discharge: 21.7,
     water_level: 0.344,
+    user_id: null,
   },
   {
     id: 1175,
@@ -8223,6 +9397,7 @@ export default [
     date: "2021-01-18",
     discharge: 21.6,
     water_level: 0.331,
+    user_id: null,
   },
   {
     id: 1176,
@@ -8230,6 +9405,7 @@ export default [
     date: "2021-01-19",
     discharge: 21.9,
     water_level: 0.399,
+    user_id: null,
   },
   {
     id: 1177,
@@ -8237,6 +9413,7 @@ export default [
     date: "2021-01-20",
     discharge: 20.9,
     water_level: 0.379,
+    user_id: null,
   },
   {
     id: 1178,
@@ -8244,6 +9421,7 @@ export default [
     date: "2021-01-21",
     discharge: 20.7,
     water_level: 0.377,
+    user_id: null,
   },
   {
     id: 1179,
@@ -8251,6 +9429,7 @@ export default [
     date: "2021-01-22",
     discharge: 20.5,
     water_level: 0.377,
+    user_id: null,
   },
   {
     id: 1180,
@@ -8258,6 +9437,7 @@ export default [
     date: "2021-01-23",
     discharge: 20.2,
     water_level: 0.366,
+    user_id: null,
   },
   {
     id: 1181,
@@ -8265,6 +9445,7 @@ export default [
     date: "2021-01-24",
     discharge: 20.3,
     water_level: 0.32,
+    user_id: null,
   },
   {
     id: 1182,
@@ -8272,6 +9453,7 @@ export default [
     date: "2021-01-25",
     discharge: 20.7,
     water_level: 0.33,
+    user_id: null,
   },
   {
     id: 1183,
@@ -8279,6 +9461,7 @@ export default [
     date: "2021-01-26",
     discharge: 21.3,
     water_level: 0.359,
+    user_id: null,
   },
   {
     id: 1184,
@@ -8286,6 +9469,7 @@ export default [
     date: "2021-01-27",
     discharge: 21.7,
     water_level: 0.351,
+    user_id: null,
   },
   {
     id: 1185,
@@ -8293,6 +9477,7 @@ export default [
     date: "2021-01-28",
     discharge: 22.1,
     water_level: 0.38,
+    user_id: null,
   },
   {
     id: 1186,
@@ -8300,6 +9485,7 @@ export default [
     date: "2021-01-29",
     discharge: 22.3,
     water_level: 0.412,
+    user_id: null,
   },
   {
     id: 1187,
@@ -8307,6 +9493,7 @@ export default [
     date: "2021-01-30",
     discharge: 22.4,
     water_level: 0.412,
+    user_id: null,
   },
   {
     id: 1188,
@@ -8314,6 +9501,7 @@ export default [
     date: "2021-01-31",
     discharge: 22.8,
     water_level: 0.402,
+    user_id: null,
   },
   {
     id: 1189,
@@ -8321,6 +9509,7 @@ export default [
     date: "2021-02-01",
     discharge: 23.3,
     water_level: 0.473,
+    user_id: null,
   },
   {
     id: 1190,
@@ -8328,6 +9517,7 @@ export default [
     date: "2021-02-02",
     discharge: 23.6,
     water_level: 0.492,
+    user_id: null,
   },
   {
     id: 1191,
@@ -8335,6 +9525,7 @@ export default [
     date: "2021-02-03",
     discharge: 23.9,
     water_level: 0.513,
+    user_id: null,
   },
   {
     id: 1192,
@@ -8342,6 +9533,7 @@ export default [
     date: "2021-02-04",
     discharge: 24.1,
     water_level: 0.512,
+    user_id: null,
   },
   {
     id: 1193,
@@ -8349,6 +9541,7 @@ export default [
     date: "2021-02-05",
     discharge: 24.4,
     water_level: 0.492,
+    user_id: null,
   },
   {
     id: 1194,
@@ -8356,6 +9549,7 @@ export default [
     date: "2021-02-06",
     discharge: 24.2,
     water_level: 0.486,
+    user_id: null,
   },
   {
     id: 1195,
@@ -8363,6 +9557,7 @@ export default [
     date: "2021-02-07",
     discharge: 23,
     water_level: 0.46,
+    user_id: null,
   },
   {
     id: 1196,
@@ -8370,6 +9565,7 @@ export default [
     date: "2021-02-08",
     discharge: 21.8,
     water_level: 0.403,
+    user_id: null,
   },
   {
     id: 1197,
@@ -8377,6 +9573,7 @@ export default [
     date: "2021-02-09",
     discharge: 21.1,
     water_level: 0.616,
+    user_id: null,
   },
   {
     id: 1198,
@@ -8384,6 +9581,7 @@ export default [
     date: "2021-02-10",
     discharge: 20.8,
     water_level: 0.86,
+    user_id: null,
   },
   {
     id: 1199,
@@ -8391,6 +9589,7 @@ export default [
     date: "2021-02-11",
     discharge: 20.6,
     water_level: 0.942,
+    user_id: null,
   },
   {
     id: 1200,
@@ -8398,6 +9597,7 @@ export default [
     date: "2021-02-12",
     discharge: 20.3,
     water_level: 1.004,
+    user_id: null,
   },
   {
     id: 1201,
@@ -8405,6 +9605,7 @@ export default [
     date: "2021-02-13",
     discharge: 20.1,
     water_level: 1.008,
+    user_id: null,
   },
   {
     id: 1202,
@@ -8412,6 +9613,7 @@ export default [
     date: "2021-02-14",
     discharge: 19.9,
     water_level: 1.026,
+    user_id: null,
   },
   {
     id: 1203,
@@ -8419,6 +9621,7 @@ export default [
     date: "2021-02-15",
     discharge: 19.7,
     water_level: 1.084,
+    user_id: null,
   },
   {
     id: 1204,
@@ -8426,6 +9629,7 @@ export default [
     date: "2021-02-16",
     discharge: 19.4,
     water_level: 1.172,
+    user_id: null,
   },
   {
     id: 1205,
@@ -8433,6 +9637,7 @@ export default [
     date: "2021-02-17",
     discharge: 19.2,
     water_level: 1.166,
+    user_id: null,
   },
   {
     id: 1206,
@@ -8440,6 +9645,7 @@ export default [
     date: "2021-02-18",
     discharge: 19,
     water_level: 1.16,
+    user_id: null,
   },
   {
     id: 1207,
@@ -8447,6 +9653,7 @@ export default [
     date: "2021-02-19",
     discharge: 18.8,
     water_level: 1.135,
+    user_id: null,
   },
   {
     id: 1208,
@@ -8454,6 +9661,7 @@ export default [
     date: "2021-02-20",
     discharge: 18.7,
     water_level: 1.097,
+    user_id: null,
   },
   {
     id: 1209,
@@ -8461,6 +9669,7 @@ export default [
     date: "2021-02-21",
     discharge: 19.3,
     water_level: 1.06,
+    user_id: null,
   },
   {
     id: 1210,
@@ -8468,6 +9677,7 @@ export default [
     date: "2021-02-22",
     discharge: 19.8,
     water_level: 1.051,
+    user_id: null,
   },
   {
     id: 1211,
@@ -8475,6 +9685,7 @@ export default [
     date: "2021-02-23",
     discharge: 20.3,
     water_level: 0.981,
+    user_id: null,
   },
   {
     id: 1212,
@@ -8482,6 +9693,7 @@ export default [
     date: "2021-02-24",
     discharge: 20.9,
     water_level: 0.951,
+    user_id: null,
   },
   {
     id: 1213,
@@ -8489,6 +9701,7 @@ export default [
     date: "2021-02-25",
     discharge: 21.6,
     water_level: 0.951,
+    user_id: null,
   },
   {
     id: 1214,
@@ -8496,6 +9709,7 @@ export default [
     date: "2021-02-26",
     discharge: 22.3,
     water_level: 0.929,
+    user_id: null,
   },
   {
     id: 1215,
@@ -8503,6 +9717,7 @@ export default [
     date: "2021-02-27",
     discharge: 23,
     water_level: 0.911,
+    user_id: null,
   },
   {
     id: 1216,
@@ -8510,6 +9725,7 @@ export default [
     date: "2021-02-28",
     discharge: 23.7,
     water_level: 0.911,
+    user_id: null,
   },
   {
     id: 1217,
@@ -8517,6 +9733,7 @@ export default [
     date: "2021-03-01",
     discharge: 24.4,
     water_level: 0.896,
+    user_id: null,
   },
   {
     id: 1218,
@@ -8524,6 +9741,7 @@ export default [
     date: "2021-03-02",
     discharge: 25,
     water_level: 0.825,
+    user_id: null,
   },
   {
     id: 1219,
@@ -8531,6 +9749,7 @@ export default [
     date: "2021-03-03",
     discharge: 25.5,
     water_level: 0.821,
+    user_id: null,
   },
   {
     id: 1220,
@@ -8538,6 +9757,7 @@ export default [
     date: "2021-03-04",
     discharge: 25.9,
     water_level: 0.828,
+    user_id: null,
   },
   {
     id: 1221,
@@ -8545,6 +9765,7 @@ export default [
     date: "2021-03-05",
     discharge: 26.8,
     water_level: 0.829,
+    user_id: null,
   },
   {
     id: 1222,
@@ -8552,6 +9773,7 @@ export default [
     date: "2021-03-06",
     discharge: 28.8,
     water_level: 0.824,
+    user_id: null,
   },
   {
     id: 1223,
@@ -8559,6 +9781,7 @@ export default [
     date: "2021-03-07",
     discharge: 30.8,
     water_level: 0.723,
+    user_id: null,
   },
   {
     id: 1224,
@@ -8566,6 +9789,7 @@ export default [
     date: "2021-03-08",
     discharge: 32.6,
     water_level: 0.629,
+    user_id: null,
   },
   {
     id: 1225,
@@ -8573,6 +9797,7 @@ export default [
     date: "2021-03-09",
     discharge: 31.8,
     water_level: 0.498,
+    user_id: null,
   },
   {
     id: 1226,
@@ -8580,6 +9805,7 @@ export default [
     date: "2021-03-10",
     discharge: 29.3,
     water_level: 0.493,
+    user_id: null,
   },
   {
     id: 1227,
@@ -8587,6 +9813,7 @@ export default [
     date: "2021-03-11",
     discharge: 27.5,
     water_level: 0.464,
+    user_id: null,
   },
   {
     id: 1228,
@@ -8594,6 +9821,7 @@ export default [
     date: "2021-03-12",
     discharge: 27.4,
     water_level: 0.472,
+    user_id: null,
   },
   {
     id: 1229,
@@ -8601,6 +9829,7 @@ export default [
     date: "2021-03-13",
     discharge: 26.9,
     water_level: 0.462,
+    user_id: null,
   },
   {
     id: 1230,
@@ -8608,6 +9837,7 @@ export default [
     date: "2021-03-14",
     discharge: 30.3,
     water_level: 0.487,
+    user_id: null,
   },
   {
     id: 1231,
@@ -8615,6 +9845,7 @@ export default [
     date: "2021-03-15",
     discharge: 32.7,
     water_level: 0.49,
+    user_id: null,
   },
   {
     id: 1232,
@@ -8622,6 +9853,7 @@ export default [
     date: "2021-03-16",
     discharge: 27.7,
     water_level: 0.471,
+    user_id: null,
   },
   {
     id: 1233,
@@ -8629,6 +9861,7 @@ export default [
     date: "2021-03-17",
     discharge: 25.4,
     water_level: 0.485,
+    user_id: null,
   },
   {
     id: 1234,
@@ -8636,6 +9869,7 @@ export default [
     date: "2021-03-18",
     discharge: 25.8,
     water_level: 0.426,
+    user_id: null,
   },
   {
     id: 1235,
@@ -8643,6 +9877,7 @@ export default [
     date: "2021-03-19",
     discharge: 27,
     water_level: 0.399,
+    user_id: null,
   },
   {
     id: 1236,
@@ -8650,6 +9885,7 @@ export default [
     date: "2021-03-20",
     discharge: 26.6,
     water_level: 0.387,
+    user_id: null,
   },
   {
     id: 1237,
@@ -8657,6 +9893,7 @@ export default [
     date: "2021-03-21",
     discharge: 26.2,
     water_level: 0.38,
+    user_id: null,
   },
   {
     id: 1238,
@@ -8664,6 +9901,7 @@ export default [
     date: "2021-03-22",
     discharge: 25.7,
     water_level: 0.372,
+    user_id: null,
   },
   {
     id: 1239,
@@ -8671,6 +9909,7 @@ export default [
     date: "2021-03-23",
     discharge: 25.6,
     water_level: 0.37,
+    user_id: null,
   },
   {
     id: 1240,
@@ -8678,6 +9917,7 @@ export default [
     date: "2021-03-24",
     discharge: 24.9,
     water_level: 0.36,
+    user_id: null,
   },
   {
     id: 1241,
@@ -8685,6 +9925,7 @@ export default [
     date: "2021-03-25",
     discharge: 24.6,
     water_level: 0.357,
+    user_id: null,
   },
   {
     id: 1242,
@@ -8692,6 +9933,7 @@ export default [
     date: "2021-03-26",
     discharge: 24.7,
     water_level: 0.357,
+    user_id: null,
   },
   {
     id: 1243,
@@ -8699,6 +9941,7 @@ export default [
     date: "2021-03-27",
     discharge: 24.1,
     water_level: 0.348,
+    user_id: null,
   },
   {
     id: 1244,
@@ -8706,6 +9949,7 @@ export default [
     date: "2021-03-28",
     discharge: 23.6,
     water_level: 0.341,
+    user_id: null,
   },
   {
     id: 1245,
@@ -8713,6 +9957,7 @@ export default [
     date: "2021-03-29",
     discharge: 23.6,
     water_level: 0.342,
+    user_id: null,
   },
   {
     id: 1246,
@@ -8720,6 +9965,7 @@ export default [
     date: "2021-03-30",
     discharge: 23.2,
     water_level: 0.335,
+    user_id: null,
   },
   {
     id: 1247,
@@ -8727,6 +9973,7 @@ export default [
     date: "2021-03-31",
     discharge: 24.1,
     water_level: 0.349,
+    user_id: null,
   },
   {
     id: 1248,
@@ -8734,6 +9981,7 @@ export default [
     date: "2021-04-01",
     discharge: 24.1,
     water_level: 0.349,
+    user_id: null,
   },
   {
     id: 1249,
@@ -8741,6 +9989,7 @@ export default [
     date: "2021-04-02",
     discharge: 23.1,
     water_level: 0.334,
+    user_id: null,
   },
   {
     id: 1250,
@@ -8748,6 +9997,7 @@ export default [
     date: "2021-04-03",
     discharge: 24.5,
     water_level: 0.354,
+    user_id: null,
   },
   {
     id: 1251,
@@ -8755,6 +10005,7 @@ export default [
     date: "2021-04-04",
     discharge: 28.1,
     water_level: 0.407,
+    user_id: null,
   },
   {
     id: 1252,
@@ -8762,6 +10013,7 @@ export default [
     date: "2021-04-05",
     discharge: 29.9,
     water_level: 0.432,
+    user_id: null,
   },
   {
     id: 1253,
@@ -8769,6 +10021,7 @@ export default [
     date: "2021-04-06",
     discharge: 28.9,
     water_level: 0.419,
+    user_id: null,
   },
   {
     id: 1254,
@@ -8776,6 +10029,7 @@ export default [
     date: "2021-04-07",
     discharge: 28,
     water_level: 0.406,
+    user_id: null,
   },
   {
     id: 1255,
@@ -8783,6 +10037,7 @@ export default [
     date: "2021-04-08",
     discharge: 27.2,
     water_level: 0.394,
+    user_id: null,
   },
   {
     id: 1256,
@@ -8790,6 +10045,7 @@ export default [
     date: "2021-04-09",
     discharge: 26.2,
     water_level: 0.38,
+    user_id: null,
   },
   {
     id: 1257,
@@ -8797,6 +10053,7 @@ export default [
     date: "2021-04-10",
     discharge: 30.1,
     water_level: 0.435,
+    user_id: null,
   },
   {
     id: 1258,
@@ -8804,6 +10061,7 @@ export default [
     date: "2021-04-11",
     discharge: 30.9,
     water_level: 0.445,
+    user_id: null,
   },
   {
     id: 1259,
@@ -8811,6 +10069,7 @@ export default [
     date: "2021-04-12",
     discharge: 28.6,
     water_level: 0.414,
+    user_id: null,
   },
   {
     id: 1260,
@@ -8818,6 +10077,7 @@ export default [
     date: "2021-04-13",
     discharge: 27.6,
     water_level: 0.4,
+    user_id: null,
   },
   {
     id: 1261,
@@ -8825,6 +10085,7 @@ export default [
     date: "2021-04-14",
     discharge: 23.4,
     water_level: 0.337,
+    user_id: null,
   },
   {
     id: 1262,
@@ -8832,6 +10093,7 @@ export default [
     date: "2021-04-15",
     discharge: 22,
     water_level: 0.316,
+    user_id: null,
   },
   {
     id: 1263,
@@ -8839,6 +10101,7 @@ export default [
     date: "2021-04-16",
     discharge: 22.4,
     water_level: 0.323,
+    user_id: null,
   },
   {
     id: 1264,
@@ -8846,6 +10109,7 @@ export default [
     date: "2021-04-17",
     discharge: 22.4,
     water_level: 0.323,
+    user_id: null,
   },
   {
     id: 1265,
@@ -8853,6 +10117,7 @@ export default [
     date: "2021-04-18",
     discharge: 23.5,
     water_level: 0.34,
+    user_id: null,
   },
   {
     id: 1266,
@@ -8860,6 +10125,7 @@ export default [
     date: "2021-04-19",
     discharge: 28.3,
     water_level: 0.41,
+    user_id: null,
   },
   {
     id: 1267,
@@ -8867,6 +10133,7 @@ export default [
     date: "2021-04-20",
     discharge: 29,
     water_level: 0.42,
+    user_id: null,
   },
   {
     id: 1268,
@@ -8874,6 +10141,7 @@ export default [
     date: "2021-04-21",
     discharge: 28.2,
     water_level: 0.409,
+    user_id: null,
   },
   {
     id: 1269,
@@ -8881,6 +10149,7 @@ export default [
     date: "2021-04-22",
     discharge: 27,
     water_level: 0.392,
+    user_id: null,
   },
   {
     id: 1270,
@@ -8888,6 +10157,7 @@ export default [
     date: "2021-04-23",
     discharge: 27.8,
     water_level: 0.403,
+    user_id: null,
   },
   {
     id: 1271,
@@ -8895,6 +10165,7 @@ export default [
     date: "2021-04-24",
     discharge: 27.3,
     water_level: 0.395,
+    user_id: null,
   },
   {
     id: 1272,
@@ -8902,6 +10173,7 @@ export default [
     date: "2021-04-25",
     discharge: 28.9,
     water_level: 0.418,
+    user_id: null,
   },
   {
     id: 1273,
@@ -8909,6 +10181,7 @@ export default [
     date: "2021-04-26",
     discharge: 28.9,
     water_level: 0.418,
+    user_id: null,
   },
   {
     id: 1274,
@@ -8916,6 +10189,7 @@ export default [
     date: "2021-04-27",
     discharge: 27.2,
     water_level: 0.395,
+    user_id: null,
   },
   {
     id: 1275,
@@ -8923,6 +10197,7 @@ export default [
     date: "2021-04-28",
     discharge: 26.5,
     water_level: 0.384,
+    user_id: null,
   },
   {
     id: 1276,
@@ -8930,6 +10205,7 @@ export default [
     date: "2021-04-29",
     discharge: 26.7,
     water_level: 0.388,
+    user_id: null,
   },
   {
     id: 1277,
@@ -8937,6 +10213,7 @@ export default [
     date: "2021-04-30",
     discharge: 25.4,
     water_level: 0.368,
+    user_id: null,
   },
   {
     id: 1278,
@@ -8944,6 +10221,7 @@ export default [
     date: "2021-05-01",
     discharge: 27.5,
     water_level: 0.398,
+    user_id: null,
   },
   {
     id: 1279,
@@ -8951,6 +10229,7 @@ export default [
     date: "2021-05-02",
     discharge: 25.5,
     water_level: 0.37,
+    user_id: null,
   },
   {
     id: 1280,
@@ -8958,6 +10237,7 @@ export default [
     date: "2021-05-03",
     discharge: 23.8,
     water_level: 0.344,
+    user_id: null,
   },
   {
     id: 1281,
@@ -8965,6 +10245,7 @@ export default [
     date: "2021-05-04",
     discharge: 23.5,
     water_level: 0.339,
+    user_id: null,
   },
   {
     id: 1282,
@@ -8972,6 +10253,7 @@ export default [
     date: "2021-05-05",
     discharge: 22.8,
     water_level: 0.33,
+    user_id: null,
   },
   {
     id: 1283,
@@ -8979,6 +10261,7 @@ export default [
     date: "2021-05-06",
     discharge: 23.3,
     water_level: 0.337,
+    user_id: null,
   },
   {
     id: 1284,
@@ -8986,6 +10269,7 @@ export default [
     date: "2021-05-07",
     discharge: 23.8,
     water_level: 0.345,
+    user_id: null,
   },
   {
     id: 1285,
@@ -8993,6 +10277,7 @@ export default [
     date: "2021-05-08",
     discharge: 25,
     water_level: 0.361,
+    user_id: null,
   },
   {
     id: 1286,
@@ -9000,6 +10285,7 @@ export default [
     date: "2021-05-09",
     discharge: 24.1,
     water_level: 0.349,
+    user_id: null,
   },
   {
     id: 1287,
@@ -9007,6 +10293,7 @@ export default [
     date: "2021-05-10",
     discharge: 25.6,
     water_level: 0.371,
+    user_id: null,
   },
   {
     id: 1288,
@@ -9014,6 +10301,7 @@ export default [
     date: "2021-05-11",
     discharge: 25.5,
     water_level: 0.369,
+    user_id: null,
   },
   {
     id: 1289,
@@ -9021,6 +10309,7 @@ export default [
     date: "2021-05-12",
     discharge: 24.4,
     water_level: 0.353,
+    user_id: null,
   },
   {
     id: 1290,
@@ -9028,6 +10317,7 @@ export default [
     date: "2021-05-13",
     discharge: 23.6,
     water_level: 0.341,
+    user_id: null,
   },
   {
     id: 1291,
@@ -9035,6 +10325,7 @@ export default [
     date: "2021-05-14",
     discharge: 22.3,
     water_level: 0.321,
+    user_id: null,
   },
   {
     id: 1292,
@@ -9042,6 +10333,7 @@ export default [
     date: "2021-05-15",
     discharge: 21.7,
     water_level: 0.311,
+    user_id: null,
   },
   {
     id: 1293,
@@ -9049,6 +10341,7 @@ export default [
     date: "2021-05-16",
     discharge: 21.4,
     water_level: 0.306,
+    user_id: null,
   },
   {
     id: 1294,
@@ -9056,6 +10349,7 @@ export default [
     date: "2021-05-17",
     discharge: 21.3,
     water_level: 0.305,
+    user_id: null,
   },
   {
     id: 1295,
@@ -9063,6 +10357,7 @@ export default [
     date: "2021-05-18",
     discharge: 20.7,
     water_level: 0.296,
+    user_id: null,
   },
   {
     id: 1296,
@@ -9070,6 +10365,7 @@ export default [
     date: "2021-05-19",
     discharge: 19.7,
     water_level: 0.28,
+    user_id: null,
   },
   {
     id: 1297,
@@ -9077,6 +10373,7 @@ export default [
     date: "2021-05-20",
     discharge: 31.2,
     water_level: 0.449,
+    user_id: null,
   },
   {
     id: 1298,
@@ -9084,6 +10381,7 @@ export default [
     date: "2021-05-21",
     discharge: 32.5,
     water_level: 0.467,
+    user_id: null,
   },
   {
     id: 1299,
@@ -9091,6 +10389,7 @@ export default [
     date: "2021-05-22",
     discharge: 30.7,
     water_level: 0.443,
+    user_id: null,
   },
   {
     id: 1300,
@@ -9098,6 +10397,7 @@ export default [
     date: "2021-05-23",
     discharge: 36.3,
     water_level: 0.516,
+    user_id: null,
   },
   {
     id: 1301,
@@ -9105,6 +10405,7 @@ export default [
     date: "2021-05-24",
     discharge: 34.1,
     water_level: 0.488,
+    user_id: null,
   },
   {
     id: 1302,
@@ -9112,6 +10413,7 @@ export default [
     date: "2021-05-25",
     discharge: 32.1,
     water_level: 0.462,
+    user_id: null,
   },
   {
     id: 1303,
@@ -9119,6 +10421,7 @@ export default [
     date: "2021-05-26",
     discharge: 31.7,
     water_level: 0.457,
+    user_id: null,
   },
   {
     id: 1304,
@@ -9126,6 +10429,7 @@ export default [
     date: "2021-05-27",
     discharge: 32.6,
     water_level: 0.469,
+    user_id: null,
   },
   {
     id: 1305,
@@ -9133,6 +10437,7 @@ export default [
     date: "2021-05-28",
     discharge: 31.5,
     water_level: 0.454,
+    user_id: null,
   },
   {
     id: 1306,
@@ -9140,6 +10445,7 @@ export default [
     date: "2021-05-29",
     discharge: 37.2,
     water_level: 0.528,
+    user_id: null,
   },
   {
     id: 1307,
@@ -9147,6 +10453,7 @@ export default [
     date: "2021-05-30",
     discharge: 38.9,
     water_level: 0.549,
+    user_id: null,
   },
   {
     id: 1308,
@@ -9154,6 +10461,7 @@ export default [
     date: "2021-05-31",
     discharge: 36.2,
     water_level: 0.515,
+    user_id: null,
   },
   {
     id: 1309,
@@ -9161,6 +10469,7 @@ export default [
     date: "2021-06-01",
     discharge: 29.4,
     water_level: 0.425,
+    user_id: null,
   },
   {
     id: 1310,
@@ -9168,6 +10477,7 @@ export default [
     date: "2021-06-02",
     discharge: 37,
     water_level: 0.515,
+    user_id: null,
   },
   {
     id: 1311,
@@ -9175,6 +10485,7 @@ export default [
     date: "2021-06-03",
     discharge: 71,
     water_level: 0.867,
+    user_id: null,
   },
   {
     id: 1312,
@@ -9182,6 +10493,7 @@ export default [
     date: "2021-06-04",
     discharge: 119,
     water_level: 1.272,
+    user_id: null,
   },
   {
     id: 1313,
@@ -9189,6 +10501,7 @@ export default [
     date: "2021-06-05",
     discharge: 144,
     water_level: 1.448,
+    user_id: null,
   },
   {
     id: 1314,
@@ -9196,6 +10509,7 @@ export default [
     date: "2021-06-06",
     discharge: 142,
     water_level: 1.431,
+    user_id: null,
   },
   {
     id: 1315,
@@ -9203,6 +10517,7 @@ export default [
     date: "2021-06-07",
     discharge: 113,
     water_level: 1.208,
+    user_id: null,
   },
   {
     id: 1316,
@@ -9210,6 +10525,7 @@ export default [
     date: "2021-06-08",
     discharge: 88.5,
     water_level: 1.01,
+    user_id: null,
   },
   {
     id: 1317,
@@ -9217,6 +10533,7 @@ export default [
     date: "2021-06-09",
     discharge: 105,
     water_level: 1.145,
+    user_id: null,
   },
   {
     id: 1318,
@@ -9224,6 +10541,7 @@ export default [
     date: "2021-06-10",
     discharge: 73,
     water_level: 0.87,
+    user_id: null,
   },
   {
     id: 1319,
@@ -9231,6 +10549,7 @@ export default [
     date: "2021-06-11",
     discharge: 59.7,
     water_level: 0.742,
+    user_id: null,
   },
   {
     id: 1320,
@@ -9238,6 +10557,7 @@ export default [
     date: "2021-06-12",
     discharge: 69.9,
     water_level: 0.845,
+    user_id: null,
   },
   {
     id: 1321,
@@ -9245,6 +10565,7 @@ export default [
     date: "2021-06-13",
     discharge: 62.6,
     water_level: 0.776,
+    user_id: null,
   },
   {
     id: 1322,
@@ -9252,6 +10573,7 @@ export default [
     date: "2021-06-14",
     discharge: 64.2,
     water_level: 0.794,
+    user_id: null,
   },
   {
     id: 1323,
@@ -9259,6 +10581,7 @@ export default [
     date: "2021-06-15",
     discharge: 46.2,
     water_level: 0.602,
+    user_id: null,
   },
   {
     id: 1324,
@@ -9266,6 +10589,7 @@ export default [
     date: "2021-06-16",
     discharge: 35.1,
     water_level: 0.472,
+    user_id: null,
   },
   {
     id: 1325,
@@ -9273,6 +10597,7 @@ export default [
     date: "2021-06-17",
     discharge: 42.4,
     water_level: 0.564,
+    user_id: null,
   },
   {
     id: 1326,
@@ -9280,6 +10605,7 @@ export default [
     date: "2021-06-18",
     discharge: 47.7,
     water_level: 0.627,
+    user_id: null,
   },
   {
     id: 1327,
@@ -9287,6 +10613,7 @@ export default [
     date: "2021-06-19",
     discharge: 45.2,
     water_level: 0.6,
+    user_id: null,
   },
   {
     id: 1328,
@@ -9294,6 +10621,7 @@ export default [
     date: "2021-06-20",
     discharge: 48.9,
     water_level: 0.644,
+    user_id: null,
   },
   {
     id: 1329,
@@ -9301,6 +10629,7 @@ export default [
     date: "2021-06-21",
     discharge: 43.7,
     water_level: 0.586,
+    user_id: null,
   },
   {
     id: 1330,
@@ -9308,6 +10637,7 @@ export default [
     date: "2021-06-22",
     discharge: 51.8,
     water_level: 0.679,
+    user_id: null,
   },
   {
     id: 1331,
@@ -9315,6 +10645,7 @@ export default [
     date: "2021-06-23",
     discharge: 53,
     water_level: 0.695,
+    user_id: null,
   },
   {
     id: 1332,
@@ -9322,6 +10653,7 @@ export default [
     date: "2021-06-24",
     discharge: 51.3,
     water_level: 0.678,
+    user_id: null,
   },
   {
     id: 1333,
@@ -9329,6 +10661,7 @@ export default [
     date: "2021-06-25",
     discharge: 45.7,
     water_level: 0.617,
+    user_id: null,
   },
   {
     id: 1334,
@@ -9336,6 +10669,7 @@ export default [
     date: "2021-06-26",
     discharge: 43,
     water_level: 0.588,
+    user_id: null,
   },
   {
     id: 1335,
@@ -9343,6 +10677,7 @@ export default [
     date: "2021-06-27",
     discharge: 42.5,
     water_level: 0.584,
+    user_id: null,
   },
   {
     id: 1336,
@@ -9350,6 +10685,7 @@ export default [
     date: "2021-06-28",
     discharge: 39.5,
     water_level: 0.549,
+    user_id: null,
   },
   {
     id: 1337,
@@ -9357,6 +10693,7 @@ export default [
     date: "2021-06-29",
     discharge: 27.1,
     water_level: 0.388,
+    user_id: null,
   },
   {
     id: 1338,
@@ -9364,6 +10701,7 @@ export default [
     date: "2021-06-30",
     discharge: 23.8,
     water_level: 0.341,
+    user_id: null,
   },
   {
     id: 1339,
@@ -9371,6 +10709,7 @@ export default [
     date: "2021-07-01",
     discharge: 22.5,
     water_level: 0.323,
+    user_id: null,
   },
   {
     id: 1340,
@@ -9378,6 +10717,7 @@ export default [
     date: "2021-07-02",
     discharge: 22,
     water_level: 0.317,
+    user_id: null,
   },
   {
     id: 1341,
@@ -9385,6 +10725,7 @@ export default [
     date: "2021-07-03",
     discharge: 24.8,
     water_level: 0.359,
+    user_id: null,
   },
   {
     id: 1342,
@@ -9392,6 +10733,7 @@ export default [
     date: "2021-07-04",
     discharge: 29,
     water_level: 0.419,
+    user_id: null,
   },
   {
     id: 1343,
@@ -9399,6 +10741,7 @@ export default [
     date: "2021-07-05",
     discharge: 31.6,
     water_level: 0.455,
+    user_id: null,
   },
   {
     id: 1344,
@@ -9406,6 +10749,7 @@ export default [
     date: "2021-07-06",
     discharge: 33.6,
     water_level: 0.481,
+    user_id: null,
   },
   {
     id: 1345,
@@ -9413,6 +10757,7 @@ export default [
     date: "2021-07-07",
     discharge: 32.6,
     water_level: 0.469,
+    user_id: null,
   },
   {
     id: 1346,
@@ -9420,6 +10765,7 @@ export default [
     date: "2021-07-08",
     discharge: 29.7,
     water_level: 0.429,
+    user_id: null,
   },
   {
     id: 1347,
@@ -9427,6 +10773,7 @@ export default [
     date: "2021-07-09",
     discharge: 28.8,
     water_level: 0.417,
+    user_id: null,
   },
   {
     id: 1348,
@@ -9434,6 +10781,7 @@ export default [
     date: "2021-07-10",
     discharge: 26.7,
     water_level: 0.386,
+    user_id: null,
   },
   {
     id: 1349,
@@ -9441,6 +10789,7 @@ export default [
     date: "2021-07-11",
     discharge: 24.2,
     water_level: 0.35,
+    user_id: null,
   },
   {
     id: 1350,
@@ -9448,6 +10797,7 @@ export default [
     date: "2021-07-12",
     discharge: 24.7,
     water_level: 0.358,
+    user_id: null,
   },
   {
     id: 1351,
@@ -9455,6 +10805,7 @@ export default [
     date: "2021-07-13",
     discharge: 24.3,
     water_level: 0.352,
+    user_id: null,
   },
   {
     id: 1352,
@@ -9462,6 +10813,7 @@ export default [
     date: "2021-07-14",
     discharge: 21.5,
     water_level: 0.309,
+    user_id: null,
   },
   {
     id: 1353,
@@ -9469,6 +10821,7 @@ export default [
     date: "2021-07-15",
     discharge: 21.1,
     water_level: 0.302,
+    user_id: null,
   },
   {
     id: 1354,
@@ -9476,6 +10829,7 @@ export default [
     date: "2021-07-16",
     discharge: 19,
     water_level: 0.268,
+    user_id: null,
   },
   {
     id: 1355,
@@ -9483,6 +10837,7 @@ export default [
     date: "2021-07-17",
     discharge: 18.2,
     water_level: 0.254,
+    user_id: null,
   },
   {
     id: 1356,
@@ -9490,6 +10845,7 @@ export default [
     date: "2021-07-18",
     discharge: 20.3,
     water_level: 0.29,
+    user_id: null,
   },
   {
     id: 1357,
@@ -9497,6 +10853,7 @@ export default [
     date: "2021-07-19",
     discharge: 22.7,
     water_level: 0.327,
+    user_id: null,
   },
   {
     id: 1358,
@@ -9504,6 +10861,7 @@ export default [
     date: "2021-07-20",
     discharge: 23.7,
     water_level: 0.342,
+    user_id: null,
   },
   {
     id: 1359,
@@ -9511,6 +10869,7 @@ export default [
     date: "2021-07-21",
     discharge: 23.5,
     water_level: 0.34,
+    user_id: null,
   },
   {
     id: 1360,
@@ -9518,6 +10877,7 @@ export default [
     date: "2021-07-22",
     discharge: 21,
     water_level: 0.301,
+    user_id: null,
   },
   {
     id: 1361,
@@ -9525,6 +10885,7 @@ export default [
     date: "2021-07-23",
     discharge: 21.3,
     water_level: 0.306,
+    user_id: null,
   },
   {
     id: 1362,
@@ -9532,6 +10893,7 @@ export default [
     date: "2021-07-24",
     discharge: 22.3,
     water_level: 0.322,
+    user_id: null,
   },
   {
     id: 1363,
@@ -9539,6 +10901,7 @@ export default [
     date: "2021-07-25",
     discharge: 22.2,
     water_level: 0.32,
+    user_id: null,
   },
   {
     id: 1364,
@@ -9546,6 +10909,7 @@ export default [
     date: "2021-07-26",
     discharge: 22.5,
     water_level: 0.324,
+    user_id: null,
   },
   {
     id: 1365,
@@ -9553,6 +10917,7 @@ export default [
     date: "2021-07-27",
     discharge: 22.8,
     water_level: 0.329,
+    user_id: null,
   },
   {
     id: 1366,
@@ -9560,6 +10925,7 @@ export default [
     date: "2021-07-28",
     discharge: 24.2,
     water_level: 0.35,
+    user_id: null,
   },
   {
     id: 1367,
@@ -9567,6 +10933,7 @@ export default [
     date: "2021-07-29",
     discharge: 25.7,
     water_level: 0.373,
+    user_id: null,
   },
   {
     id: 1368,
@@ -9574,6 +10941,7 @@ export default [
     date: "2021-07-30",
     discharge: 25.5,
     water_level: 0.369,
+    user_id: null,
   },
   {
     id: 1369,
@@ -9581,6 +10949,7 @@ export default [
     date: "2021-07-31",
     discharge: 25.2,
     water_level: 0.365,
+    user_id: null,
   },
   {
     id: 1370,
@@ -9588,6 +10957,7 @@ export default [
     date: "2021-08-01",
     discharge: 24.5,
     water_level: 0.354,
+    user_id: null,
   },
   {
     id: 1371,
@@ -9595,6 +10965,7 @@ export default [
     date: "2021-08-02",
     discharge: 25.3,
     water_level: 0.366,
+    user_id: null,
   },
   {
     id: 1372,
@@ -9602,6 +10973,7 @@ export default [
     date: "2021-08-03",
     discharge: 25.6,
     water_level: 0.371,
+    user_id: null,
   },
   {
     id: 1373,
@@ -9609,6 +10981,7 @@ export default [
     date: "2021-08-04",
     discharge: 24.4,
     water_level: 0.353,
+    user_id: null,
   },
   {
     id: 1374,
@@ -9616,6 +10989,7 @@ export default [
     date: "2021-08-05",
     discharge: 24.5,
     water_level: 0.354,
+    user_id: null,
   },
   {
     id: 1375,
@@ -9623,6 +10997,7 @@ export default [
     date: "2021-08-06",
     discharge: 26.4,
     water_level: 0.382,
+    user_id: null,
   },
   {
     id: 1376,
@@ -9630,6 +11005,7 @@ export default [
     date: "2021-08-07",
     discharge: 27.3,
     water_level: 0.396,
+    user_id: null,
   },
   {
     id: 1377,
@@ -9637,6 +11013,7 @@ export default [
     date: "2021-08-08",
     discharge: 28.8,
     water_level: 0.417,
+    user_id: null,
   },
   {
     id: 1378,
@@ -9644,6 +11021,7 @@ export default [
     date: "2021-08-09",
     discharge: 31.1,
     water_level: 0.448,
+    user_id: null,
   },
   {
     id: 1379,
@@ -9651,6 +11029,7 @@ export default [
     date: "2021-08-10",
     discharge: 30.2,
     water_level: 0.437,
+    user_id: null,
   },
   {
     id: 1380,
@@ -9658,6 +11037,7 @@ export default [
     date: "2021-08-11",
     discharge: 26.9,
     water_level: 0.39,
+    user_id: null,
   },
   {
     id: 1381,
@@ -9665,6 +11045,7 @@ export default [
     date: "2021-08-12",
     discharge: 23,
     water_level: 0.332,
+    user_id: null,
   },
   {
     id: 1382,
@@ -9672,6 +11053,7 @@ export default [
     date: "2021-08-13",
     discharge: 21.1,
     water_level: 0.302,
+    user_id: null,
   },
   {
     id: 1383,
@@ -9679,6 +11061,7 @@ export default [
     date: "2021-08-14",
     discharge: 20.4,
     water_level: 0.29,
+    user_id: null,
   },
   {
     id: 1384,
@@ -9686,6 +11069,7 @@ export default [
     date: "2021-08-15",
     discharge: 20,
     water_level: 0.285,
+    user_id: null,
   },
   {
     id: 1385,
@@ -9693,6 +11077,7 @@ export default [
     date: "2021-08-16",
     discharge: 19.8,
     water_level: 0.281,
+    user_id: null,
   },
   {
     id: 1386,
@@ -9700,6 +11085,7 @@ export default [
     date: "2021-08-17",
     discharge: 26.3,
     water_level: 0.353,
+    user_id: null,
   },
   {
     id: 1387,
@@ -9707,6 +11093,7 @@ export default [
     date: "2021-08-18",
     discharge: 34.5,
     water_level: 0.445,
+    user_id: null,
   },
   {
     id: 1388,
@@ -9714,6 +11101,7 @@ export default [
     date: "2021-08-19",
     discharge: 39,
     water_level: 0.502,
+    user_id: null,
   },
   {
     id: 1389,
@@ -9721,6 +11109,7 @@ export default [
     date: "2021-08-20",
     discharge: 38.5,
     water_level: 0.496,
+    user_id: null,
   },
   {
     id: 1390,
@@ -9728,6 +11117,7 @@ export default [
     date: "2021-08-21",
     discharge: 39.2,
     water_level: 0.505,
+    user_id: null,
   },
   {
     id: 1391,
@@ -9735,6 +11125,7 @@ export default [
     date: "2021-08-22",
     discharge: 40.5,
     water_level: 0.52,
+    user_id: null,
   },
   {
     id: 1392,
@@ -9742,6 +11133,7 @@ export default [
     date: "2021-08-23",
     discharge: 37.6,
     water_level: 0.484,
+    user_id: null,
   },
   {
     id: 1393,
@@ -9749,6 +11141,7 @@ export default [
     date: "2021-08-24",
     discharge: 33.9,
     water_level: 0.438,
+    user_id: null,
   },
   {
     id: 1394,
@@ -9756,6 +11149,7 @@ export default [
     date: "2021-08-25",
     discharge: 31.7,
     water_level: 0.408,
+    user_id: null,
   },
   {
     id: 1395,
@@ -9763,6 +11157,7 @@ export default [
     date: "2021-08-26",
     discharge: 31,
     water_level: 0.4,
+    user_id: null,
   },
   {
     id: 1396,
@@ -9770,6 +11165,7 @@ export default [
     date: "2021-08-27",
     discharge: 31.3,
     water_level: 0.404,
+    user_id: null,
   },
   {
     id: 1397,
@@ -9777,6 +11173,7 @@ export default [
     date: "2021-08-28",
     discharge: 31.9,
     water_level: 0.412,
+    user_id: null,
   },
   {
     id: 1398,
@@ -9784,6 +11181,7 @@ export default [
     date: "2021-08-29",
     discharge: 30.8,
     water_level: 0.398,
+    user_id: null,
   },
   {
     id: 1399,
@@ -9791,6 +11189,7 @@ export default [
     date: "2021-08-30",
     discharge: 30,
     water_level: 0.387,
+    user_id: null,
   },
   {
     id: 1400,
@@ -9798,6 +11197,7 @@ export default [
     date: "2021-08-31",
     discharge: 29.8,
     water_level: 0.384,
+    user_id: null,
   },
   {
     id: 1401,
@@ -9805,6 +11205,7 @@ export default [
     date: "2021-09-01",
     discharge: 28.8,
     water_level: 0.371,
+    user_id: null,
   },
   {
     id: 1402,
@@ -9812,6 +11213,7 @@ export default [
     date: "2021-09-02",
     discharge: 26.4,
     water_level: 0.337,
+    user_id: null,
   },
   {
     id: 1403,
@@ -9819,6 +11221,7 @@ export default [
     date: "2021-09-03",
     discharge: 26.4,
     water_level: 0.338,
+    user_id: null,
   },
   {
     id: 1404,
@@ -9826,6 +11229,7 @@ export default [
     date: "2021-09-04",
     discharge: 26.3,
     water_level: 0.337,
+    user_id: null,
   },
   {
     id: 1405,
@@ -9833,6 +11237,7 @@ export default [
     date: "2021-09-05",
     discharge: 24.8,
     water_level: 0.316,
+    user_id: null,
   },
   {
     id: 1406,
@@ -9840,6 +11245,7 @@ export default [
     date: "2021-09-06",
     discharge: 23.8,
     water_level: 0.3,
+    user_id: null,
   },
   {
     id: 1407,
@@ -9847,6 +11253,7 @@ export default [
     date: "2021-09-07",
     discharge: 23.7,
     water_level: 0.3,
+    user_id: null,
   },
   {
     id: 1408,
@@ -9854,6 +11261,7 @@ export default [
     date: "2021-09-08",
     discharge: 22.8,
     water_level: 0.285,
+    user_id: null,
   },
   {
     id: 1409,
@@ -9861,6 +11269,7 @@ export default [
     date: "2021-09-09",
     discharge: 20.6,
     water_level: 0.252,
+    user_id: null,
   },
   {
     id: 1410,
@@ -9868,6 +11277,7 @@ export default [
     date: "2021-09-10",
     discharge: 20.4,
     water_level: 0.249,
+    user_id: null,
   },
   {
     id: 1411,
@@ -9875,6 +11285,7 @@ export default [
     date: "2021-09-11",
     discharge: 25.6,
     water_level: 0.329,
+    user_id: null,
   },
   {
     id: 1412,
@@ -9882,6 +11293,7 @@ export default [
     date: "2021-09-12",
     discharge: 26.6,
     water_level: 0.345,
+    user_id: null,
   },
   {
     id: 1413,
@@ -9889,6 +11301,7 @@ export default [
     date: "2021-09-13",
     discharge: 26.8,
     water_level: 0.347,
+    user_id: null,
   },
   {
     id: 1414,
@@ -9896,6 +11309,7 @@ export default [
     date: "2021-09-14",
     discharge: 26.7,
     water_level: 0.347,
+    user_id: null,
   },
   {
     id: 1415,
@@ -9903,6 +11317,7 @@ export default [
     date: "2021-09-15",
     discharge: 26.8,
     water_level: 0.349,
+    user_id: null,
   },
   {
     id: 1416,
@@ -9910,6 +11325,7 @@ export default [
     date: "2021-09-16",
     discharge: 26.3,
     water_level: 0.342,
+    user_id: null,
   },
   {
     id: 1417,
@@ -9917,6 +11333,7 @@ export default [
     date: "2021-09-17",
     discharge: 23.9,
     water_level: 0.306,
+    user_id: null,
   },
   {
     id: 1418,
@@ -9924,6 +11341,7 @@ export default [
     date: "2021-09-18",
     discharge: 22.9,
     water_level: 0.292,
+    user_id: null,
   },
   {
     id: 1419,
@@ -9931,6 +11349,7 @@ export default [
     date: "2021-09-19",
     discharge: 22.4,
     water_level: 0.285,
+    user_id: null,
   },
   {
     id: 1420,
@@ -9938,6 +11357,7 @@ export default [
     date: "2021-09-20",
     discharge: 22,
     water_level: 0.279,
+    user_id: null,
   },
   {
     id: 1421,
@@ -9945,6 +11365,7 @@ export default [
     date: "2021-09-21",
     discharge: 21.8,
     water_level: 0.276,
+    user_id: null,
   },
   {
     id: 1422,
@@ -9952,6 +11373,7 @@ export default [
     date: "2021-09-22",
     discharge: 20.9,
     water_level: 0.262,
+    user_id: null,
   },
   {
     id: 1423,
@@ -9959,6 +11381,7 @@ export default [
     date: "2021-09-23",
     discharge: 20.3,
     water_level: 0.253,
+    user_id: null,
   },
   {
     id: 1424,
@@ -9966,6 +11389,7 @@ export default [
     date: "2021-09-24",
     discharge: 19.2,
     water_level: 0.236,
+    user_id: null,
   },
   {
     id: 1425,
@@ -9973,6 +11397,7 @@ export default [
     date: "2021-09-25",
     discharge: 21,
     water_level: 0.265,
+    user_id: null,
   },
   {
     id: 1426,
@@ -9980,6 +11405,7 @@ export default [
     date: "2021-09-26",
     discharge: 19.3,
     water_level: 0.238,
+    user_id: null,
   },
   {
     id: 1427,
@@ -9987,6 +11413,7 @@ export default [
     date: "2021-09-27",
     discharge: 19.2,
     water_level: 0.236,
+    user_id: null,
   },
   {
     id: 1428,
@@ -9994,6 +11421,7 @@ export default [
     date: "2021-09-28",
     discharge: 19.3,
     water_level: 0.239,
+    user_id: null,
   },
   {
     id: 1429,
@@ -10001,6 +11429,7 @@ export default [
     date: "2021-09-29",
     discharge: 19.6,
     water_level: 0.245,
+    user_id: null,
   },
   {
     id: 1430,
@@ -10008,6 +11437,7 @@ export default [
     date: "2021-09-30",
     discharge: 18.9,
     water_level: 0.232,
+    user_id: null,
   },
   {
     id: 1431,
@@ -10015,6 +11445,7 @@ export default [
     date: "2021-10-01",
     discharge: 19,
     water_level: 0.233,
+    user_id: null,
   },
   {
     id: 1432,
@@ -10022,6 +11453,7 @@ export default [
     date: "2021-10-02",
     discharge: 19.2,
     water_level: 0.236,
+    user_id: null,
   },
   {
     id: 1433,
@@ -10029,6 +11461,7 @@ export default [
     date: "2021-10-03",
     discharge: 19.7,
     water_level: 0.246,
+    user_id: null,
   },
   {
     id: 1434,
@@ -10036,6 +11469,7 @@ export default [
     date: "2021-10-04",
     discharge: 20.5,
     water_level: 0.257,
+    user_id: null,
   },
   {
     id: 1435,
@@ -10043,6 +11477,7 @@ export default [
     date: "2021-10-05",
     discharge: 21.5,
     water_level: 0.273,
+    user_id: null,
   },
   {
     id: 1436,
@@ -10050,6 +11485,7 @@ export default [
     date: "2021-10-06",
     discharge: 30.6,
     water_level: 0.405,
+    user_id: null,
   },
   {
     id: 1437,
@@ -10057,6 +11493,7 @@ export default [
     date: "2021-10-07",
     discharge: 28.8,
     water_level: 0.381,
+    user_id: null,
   },
   {
     id: 1438,
@@ -10064,6 +11501,7 @@ export default [
     date: "2021-10-08",
     discharge: 27.2,
     water_level: 0.359,
+    user_id: null,
   },
   {
     id: 1439,
@@ -10071,6 +11509,7 @@ export default [
     date: "2021-10-09",
     discharge: 28.3,
     water_level: 0.374,
+    user_id: null,
   },
   {
     id: 1440,
@@ -10078,6 +11517,7 @@ export default [
     date: "2021-10-10",
     discharge: 27.5,
     water_level: 0.362,
+    user_id: null,
   },
   {
     id: 1441,
@@ -10085,6 +11525,7 @@ export default [
     date: "2021-10-11",
     discharge: 27.3,
     water_level: 0.36,
+    user_id: null,
   },
   {
     id: 1442,
@@ -10092,6 +11533,7 @@ export default [
     date: "2021-10-12",
     discharge: 26.9,
     water_level: 0.354,
+    user_id: null,
   },
   {
     id: 1443,
@@ -10099,6 +11541,7 @@ export default [
     date: "2021-10-13",
     discharge: 26.9,
     water_level: 0.354,
+    user_id: null,
   },
   {
     id: 1444,
@@ -10106,6 +11549,7 @@ export default [
     date: "2021-10-14",
     discharge: 26.9,
     water_level: 0.354,
+    user_id: null,
   },
   {
     id: 1445,
@@ -10113,6 +11557,7 @@ export default [
     date: "2021-10-15",
     discharge: 25.8,
     water_level: 0.337,
+    user_id: null,
   },
   {
     id: 1446,
@@ -10120,6 +11565,7 @@ export default [
     date: "2021-10-16",
     discharge: 25.6,
     water_level: 0.335,
+    user_id: null,
   },
   {
     id: 1447,
@@ -10127,6 +11573,7 @@ export default [
     date: "2021-10-17",
     discharge: 25.4,
     water_level: 0.331,
+    user_id: null,
   },
   {
     id: 1448,
@@ -10134,6 +11581,7 @@ export default [
     date: "2021-10-18",
     discharge: 25.1,
     water_level: 0.327,
+    user_id: null,
   },
   {
     id: 1449,
@@ -10141,6 +11589,7 @@ export default [
     date: "2021-10-19",
     discharge: 25.1,
     water_level: 0.326,
+    user_id: null,
   },
   {
     id: 1450,
@@ -10148,6 +11597,7 @@ export default [
     date: "2021-10-20",
     discharge: 25.2,
     water_level: 0.328,
+    user_id: null,
   },
   {
     id: 1451,
@@ -10155,6 +11605,7 @@ export default [
     date: "2021-10-21",
     discharge: 26.2,
     water_level: 0.343,
+    user_id: null,
   },
   {
     id: 1452,
@@ -10162,6 +11613,7 @@ export default [
     date: "2021-10-22",
     discharge: 26.9,
     water_level: 0.353,
+    user_id: null,
   },
   {
     id: 1453,
@@ -10169,6 +11621,7 @@ export default [
     date: "2021-10-23",
     discharge: 27.5,
     water_level: 0.361,
+    user_id: null,
   },
   {
     id: 1454,
@@ -10176,6 +11629,7 @@ export default [
     date: "2021-10-24",
     discharge: 26.5,
     water_level: 0.346,
+    user_id: null,
   },
   {
     id: 1455,
@@ -10183,6 +11637,7 @@ export default [
     date: "2021-10-25",
     discharge: 23.7,
     water_level: 0.305,
+    user_id: null,
   },
   {
     id: 1456,
@@ -10190,6 +11645,7 @@ export default [
     date: "2021-10-26",
     discharge: 22.8,
     water_level: 0.29,
+    user_id: null,
   },
   {
     id: 1457,
@@ -10197,6 +11653,7 @@ export default [
     date: "2021-10-27",
     discharge: 22.6,
     water_level: 0.288,
+    user_id: null,
   },
   {
     id: 1458,
@@ -10204,6 +11661,7 @@ export default [
     date: "2021-10-28",
     discharge: 22.3,
     water_level: 0.283,
+    user_id: null,
   },
   {
     id: 1459,
@@ -10211,6 +11669,7 @@ export default [
     date: "2021-10-29",
     discharge: 25.8,
     water_level: 0.336,
+    user_id: null,
   },
   {
     id: 1460,
@@ -10218,6 +11677,7 @@ export default [
     date: "2021-10-30",
     discharge: 28.5,
     water_level: 0.375,
+    user_id: null,
   },
   {
     id: 1461,
@@ -10225,6 +11685,7 @@ export default [
     date: "2021-10-31",
     discharge: 27.2,
     water_level: 0.356,
+    user_id: null,
   },
   {
     id: 1462,
@@ -10232,6 +11693,7 @@ export default [
     date: "2021-11-01",
     discharge: 34.5,
     water_level: 0.455,
+    user_id: null,
   },
   {
     id: 1463,
@@ -10239,6 +11701,7 @@ export default [
     date: "2021-11-02",
     discharge: 32.6,
     water_level: 0.43,
+    user_id: null,
   },
   {
     id: 1464,
@@ -10246,6 +11709,7 @@ export default [
     date: "2021-11-03",
     discharge: 41.6,
     water_level: 0.543,
+    user_id: null,
   },
   {
     id: 1465,
@@ -10253,6 +11717,7 @@ export default [
     date: "2021-11-04",
     discharge: 39.9,
     water_level: 0.523,
+    user_id: null,
   },
   {
     id: 1466,
@@ -10260,6 +11725,7 @@ export default [
     date: "2021-11-05",
     discharge: 37.2,
     water_level: 0.49,
+    user_id: null,
   },
   {
     id: 1467,
@@ -10267,6 +11733,7 @@ export default [
     date: "2021-11-06",
     discharge: 36.2,
     water_level: 0.477,
+    user_id: null,
   },
   {
     id: 1468,
@@ -10274,6 +11741,7 @@ export default [
     date: "2021-11-07",
     discharge: 36.4,
     water_level: 0.48,
+    user_id: null,
   },
   {
     id: 1469,
@@ -10281,6 +11749,7 @@ export default [
     date: "2021-11-08",
     discharge: 35.5,
     water_level: 0.469,
+    user_id: null,
   },
   {
     id: 1470,
@@ -10288,6 +11757,7 @@ export default [
     date: "2021-11-09",
     discharge: 35.4,
     water_level: 0.467,
+    user_id: null,
   },
   {
     id: 1471,
@@ -10295,6 +11765,7 @@ export default [
     date: "2021-11-10",
     discharge: 35.2,
     water_level: 0.465,
+    user_id: null,
   },
   {
     id: 1472,
@@ -10302,6 +11773,7 @@ export default [
     date: "2021-11-11",
     discharge: 33.2,
     water_level: 0.439,
+    user_id: null,
   },
   {
     id: 1473,
@@ -10309,6 +11781,7 @@ export default [
     date: "2021-11-12",
     discharge: 32.9,
     water_level: 0.435,
+    user_id: null,
   },
   {
     id: 1474,
@@ -10316,6 +11789,7 @@ export default [
     date: "2021-11-13",
     discharge: 36,
     water_level: 0.475,
+    user_id: null,
   },
   {
     id: 1475,
@@ -10323,6 +11797,7 @@ export default [
     date: "2021-11-14",
     discharge: 30.1,
     water_level: 0.397,
+    user_id: null,
   },
   {
     id: 1476,
@@ -10330,6 +11805,7 @@ export default [
     date: "2021-11-15",
     discharge: 29.5,
     water_level: 0.406,
+    user_id: null,
   },
   {
     id: 1477,
@@ -10337,6 +11813,7 @@ export default [
     date: "2021-11-16",
     discharge: 31.1,
     water_level: 0.433,
+    user_id: null,
   },
   {
     id: 1478,
@@ -10344,6 +11821,7 @@ export default [
     date: "2021-11-17",
     discharge: 42.3,
     water_level: 0.598,
+    user_id: null,
   },
   {
     id: 1479,
@@ -10351,6 +11829,7 @@ export default [
     date: "2021-11-18",
     discharge: 62.4,
     water_level: 0.815,
+    user_id: null,
   },
   {
     id: 1480,
@@ -10358,6 +11837,7 @@ export default [
     date: "2021-11-19",
     discharge: 57.3,
     water_level: 0.758,
+    user_id: null,
   },
   {
     id: 1481,
@@ -10365,6 +11845,7 @@ export default [
     date: "2021-11-20",
     discharge: 42.8,
     water_level: 0.613,
+    user_id: null,
   },
   {
     id: 1482,
@@ -10372,6 +11853,7 @@ export default [
     date: "2021-11-21",
     discharge: 36.7,
     water_level: 0.546,
+    user_id: null,
   },
   {
     id: 1483,
@@ -10379,6 +11861,7 @@ export default [
     date: "2021-11-22",
     discharge: 36,
     water_level: 0.571,
+    user_id: null,
   },
   {
     id: 1484,
@@ -10386,6 +11869,7 @@ export default [
     date: "2021-11-23",
     discharge: 35.7,
     water_level: 0.516,
+    user_id: null,
   },
   {
     id: 1485,
@@ -10393,6 +11877,7 @@ export default [
     date: "2021-11-24",
     discharge: 35.5,
     water_level: 0.533,
+    user_id: null,
   },
   {
     id: 1486,
@@ -10400,6 +11885,7 @@ export default [
     date: "2021-11-25",
     discharge: 35.2,
     water_level: 0.534,
+    user_id: null,
   },
   {
     id: 1487,
@@ -10407,6 +11893,7 @@ export default [
     date: "2021-11-26",
     discharge: 35,
     water_level: 0.551,
+    user_id: null,
   },
   {
     id: 1488,
@@ -10414,6 +11901,7 @@ export default [
     date: "2021-11-27",
     discharge: 34.6,
     water_level: 0.464,
+    user_id: null,
   },
   {
     id: 1489,
@@ -10421,6 +11909,7 @@ export default [
     date: "2021-11-28",
     discharge: 34.1,
     water_level: 0.456,
+    user_id: null,
   },
   {
     id: 1490,
@@ -10428,6 +11917,7 @@ export default [
     date: "2021-11-29",
     discharge: 33,
     water_level: 0.442,
+    user_id: null,
   },
   {
     id: 1491,
@@ -10435,6 +11925,7 @@ export default [
     date: "2021-11-30",
     discharge: 33,
     water_level: 0.445,
+    user_id: null,
   },
   {
     id: 1492,
@@ -10442,6 +11933,7 @@ export default [
     date: "2021-12-01",
     discharge: 45.3,
     water_level: 0.618,
+    user_id: null,
   },
   {
     id: 1493,
@@ -10449,6 +11941,7 @@ export default [
     date: "2021-12-02",
     discharge: 40,
     water_level: 0.577,
+    user_id: null,
   },
   {
     id: 1494,
@@ -10456,6 +11949,7 @@ export default [
     date: "2021-12-03",
     discharge: 42.4,
     water_level: 0.675,
+    user_id: null,
   },
   {
     id: 1495,
@@ -10463,6 +11957,7 @@ export default [
     date: "2021-12-04",
     discharge: 92.2,
     water_level: 1.108,
+    user_id: null,
   },
   {
     id: 1496,
@@ -10470,6 +11965,7 @@ export default [
     date: "2021-12-05",
     discharge: 86.5,
     water_level: 1.091,
+    user_id: null,
   },
   {
     id: 1497,
@@ -10477,6 +11973,7 @@ export default [
     date: "2021-12-06",
     discharge: 60.1,
     water_level: 1.035,
+    user_id: null,
   },
   {
     id: 1498,
@@ -10484,6 +11981,7 @@ export default [
     date: "2021-12-07",
     discharge: 45.4,
     water_level: 0.987,
+    user_id: null,
   },
   {
     id: 1499,
@@ -10491,6 +11989,7 @@ export default [
     date: "2021-12-08",
     discharge: 37.3,
     water_level: 1.185,
+    user_id: null,
   },
   {
     id: 1500,
@@ -10498,6 +11997,7 @@ export default [
     date: "2021-12-09",
     discharge: 31.9,
     water_level: 1.096,
+    user_id: null,
   },
   {
     id: 1501,
@@ -10505,6 +12005,7 @@ export default [
     date: "2021-12-10",
     discharge: 30.7,
     water_level: 0.929,
+    user_id: null,
   },
   {
     id: 1502,
@@ -10512,6 +12013,7 @@ export default [
     date: "2021-12-11",
     discharge: 29.9,
     water_level: 0.839,
+    user_id: null,
   },
   {
     id: 1503,
@@ -10519,6 +12021,7 @@ export default [
     date: "2021-12-12",
     discharge: 29.1,
     water_level: 0.841,
+    user_id: null,
   },
   {
     id: 1504,
@@ -10526,6 +12029,7 @@ export default [
     date: "2021-12-13",
     discharge: 27.9,
     water_level: 0.741,
+    user_id: null,
   },
   {
     id: 1505,
@@ -10533,6 +12037,7 @@ export default [
     date: "2021-12-14",
     discharge: 24.5,
     water_level: 0.698,
+    user_id: null,
   },
   {
     id: 1506,
@@ -10540,6 +12045,7 @@ export default [
     date: "2021-12-15",
     discharge: 20.8,
     water_level: 0.539,
+    user_id: null,
   },
   {
     id: 1507,
@@ -10547,6 +12053,7 @@ export default [
     date: "2021-12-16",
     discharge: 17.1,
     water_level: 0.382,
+    user_id: null,
   },
   {
     id: 1508,
@@ -10554,6 +12061,7 @@ export default [
     date: "2021-12-17",
     discharge: 14.6,
     water_level: 0.229,
+    user_id: null,
   },
   {
     id: 1509,
@@ -10561,6 +12069,7 @@ export default [
     date: "2021-12-18",
     discharge: 16.5,
     water_level: 0.45,
+    user_id: null,
   },
   {
     id: 1510,
@@ -10568,6 +12077,7 @@ export default [
     date: "2021-12-19",
     discharge: 17.7,
     water_level: 0.654,
+    user_id: null,
   },
   {
     id: 1511,
@@ -10575,6 +12085,7 @@ export default [
     date: "2021-12-20",
     discharge: 18.2,
     water_level: 0.814,
+    user_id: null,
   },
   {
     id: 1512,
@@ -10582,6 +12093,7 @@ export default [
     date: "2021-12-21",
     discharge: 18.6,
     water_level: 0.918,
+    user_id: null,
   },
   {
     id: 1513,
@@ -10589,6 +12101,7 @@ export default [
     date: "2021-12-22",
     discharge: 18.6,
     water_level: 0.892,
+    user_id: null,
   },
   {
     id: 1514,
@@ -10596,6 +12109,7 @@ export default [
     date: "2021-12-23",
     discharge: 18.5,
     water_level: 0.904,
+    user_id: null,
   },
   {
     id: 1515,
@@ -10603,6 +12117,7 @@ export default [
     date: "2021-12-24",
     discharge: 18.4,
     water_level: 0.982,
+    user_id: null,
   },
   {
     id: 1516,
@@ -10610,6 +12125,7 @@ export default [
     date: "2021-12-25",
     discharge: 18.1,
     water_level: 0.992,
+    user_id: null,
   },
   {
     id: 1517,
@@ -10617,6 +12133,7 @@ export default [
     date: "2021-12-26",
     discharge: 17.5,
     water_level: 0.942,
+    user_id: null,
   },
   {
     id: 1518,
@@ -10624,6 +12141,7 @@ export default [
     date: "2021-12-27",
     discharge: 16.9,
     water_level: 1.037,
+    user_id: null,
   },
   {
     id: 1519,
@@ -10631,6 +12149,7 @@ export default [
     date: "2021-12-28",
     discharge: 16.5,
     water_level: 1.07,
+    user_id: null,
   },
   {
     id: 1520,
@@ -10638,6 +12157,7 @@ export default [
     date: "2021-12-29",
     discharge: 16.3,
     water_level: 1.135,
+    user_id: null,
   },
   {
     id: 1521,
@@ -10645,6 +12165,7 @@ export default [
     date: "2021-12-30",
     discharge: 16.3,
     water_level: 1.205,
+    user_id: null,
   },
   {
     id: 1522,
@@ -10652,6 +12173,7 @@ export default [
     date: "2021-12-31",
     discharge: 16.5,
     water_level: 1.272,
+    user_id: null,
   },
   {
     id: 1523,
@@ -10659,6 +12181,7 @@ export default [
     date: "2022-01-01",
     discharge: 16.7,
     water_level: 1.298,
+    user_id: null,
   },
   {
     id: 1524,
@@ -10666,6 +12189,7 @@ export default [
     date: "2022-01-02",
     discharge: 17.5,
     water_level: 1.324,
+    user_id: null,
   },
   {
     id: 1525,
@@ -10673,6 +12197,7 @@ export default [
     date: "2022-01-03",
     discharge: 18.4,
     water_level: 1.355,
+    user_id: null,
   },
   {
     id: 1526,
@@ -10680,6 +12205,7 @@ export default [
     date: "2022-01-04",
     discharge: 18.9,
     water_level: 1.355,
+    user_id: null,
   },
   {
     id: 1527,
@@ -10687,6 +12213,7 @@ export default [
     date: "2022-01-05",
     discharge: 19.4,
     water_level: 1.383,
+    user_id: null,
   },
   {
     id: 1528,
@@ -10694,6 +12221,7 @@ export default [
     date: "2022-01-06",
     discharge: 19.8,
     water_level: 1.386,
+    user_id: null,
   },
   {
     id: 1529,
@@ -10701,6 +12229,7 @@ export default [
     date: "2022-01-07",
     discharge: 19.8,
     water_level: 1.409,
+    user_id: null,
   },
   {
     id: 1530,
@@ -10708,6 +12237,7 @@ export default [
     date: "2022-01-08",
     discharge: 19.8,
     water_level: 1.417,
+    user_id: null,
   },
   {
     id: 1531,
@@ -10715,6 +12245,7 @@ export default [
     date: "2022-01-09",
     discharge: 19.8,
     water_level: 1.58,
+    user_id: null,
   },
   {
     id: 1532,
@@ -10722,6 +12253,7 @@ export default [
     date: "2022-01-10",
     discharge: 19.8,
     water_level: 1.603,
+    user_id: null,
   },
   {
     id: 1533,
@@ -10729,6 +12261,7 @@ export default [
     date: "2022-01-11",
     discharge: 19.8,
     water_level: 1.572,
+    user_id: null,
   },
   {
     id: 1534,
@@ -10736,6 +12269,7 @@ export default [
     date: "2022-01-12",
     discharge: 20,
     water_level: 1.528,
+    user_id: null,
   },
   {
     id: 1535,
@@ -10743,6 +12277,7 @@ export default [
     date: "2022-01-13",
     discharge: 20.2,
     water_level: 1.513,
+    user_id: null,
   },
   {
     id: 1536,
@@ -10750,6 +12285,7 @@ export default [
     date: "2022-01-14",
     discharge: 20.5,
     water_level: 1.469,
+    user_id: null,
   },
   {
     id: 1537,
@@ -10757,6 +12293,7 @@ export default [
     date: "2022-01-15",
     discharge: 21.3,
     water_level: 1.415,
+    user_id: null,
   },
   {
     id: 1538,
@@ -10764,6 +12301,7 @@ export default [
     date: "2022-01-16",
     discharge: 22.1,
     water_level: 1.363,
+    user_id: null,
   },
   {
     id: 1539,
@@ -10771,6 +12309,7 @@ export default [
     date: "2022-01-17",
     discharge: 22.9,
     water_level: 1.378,
+    user_id: null,
   },
   {
     id: 1540,
@@ -10778,6 +12317,7 @@ export default [
     date: "2022-01-18",
     discharge: 23.7,
     water_level: 1.294,
+    user_id: null,
   },
   {
     id: 1541,
@@ -10785,6 +12325,7 @@ export default [
     date: "2022-01-19",
     discharge: 24.4,
     water_level: 1.257,
+    user_id: null,
   },
   {
     id: 1542,
@@ -10792,6 +12333,7 @@ export default [
     date: "2022-01-20",
     discharge: 25.2,
     water_level: 1.208,
+    user_id: null,
   },
   {
     id: 1543,
@@ -10799,6 +12341,7 @@ export default [
     date: "2022-01-21",
     discharge: 25.5,
     water_level: 1.191,
+    user_id: null,
   },
   {
     id: 1544,
@@ -10806,6 +12349,7 @@ export default [
     date: "2022-01-22",
     discharge: 25.6,
     water_level: 1.228,
+    user_id: null,
   },
   {
     id: 1545,
@@ -10813,6 +12357,7 @@ export default [
     date: "2022-01-23",
     discharge: 25.7,
     water_level: 1.213,
+    user_id: null,
   },
   {
     id: 1546,
@@ -10820,6 +12365,7 @@ export default [
     date: "2022-01-24",
     discharge: 25.5,
     water_level: 1.185,
+    user_id: null,
   },
   {
     id: 1547,
@@ -10827,6 +12373,7 @@ export default [
     date: "2022-01-25",
     discharge: 25.2,
     water_level: 1.151,
+    user_id: null,
   },
   {
     id: 1548,
@@ -10834,6 +12381,7 @@ export default [
     date: "2022-01-26",
     discharge: 24.9,
     water_level: 1.114,
+    user_id: null,
   },
   {
     id: 1549,
@@ -10841,6 +12389,7 @@ export default [
     date: "2022-01-27",
     discharge: 24.6,
     water_level: 1.068,
+    user_id: null,
   },
   {
     id: 1550,
@@ -10848,6 +12397,7 @@ export default [
     date: "2022-01-28",
     discharge: 24.3,
     water_level: 1.047,
+    user_id: null,
   },
   {
     id: 1551,
@@ -10855,6 +12405,7 @@ export default [
     date: "2022-01-29",
     discharge: 24,
     water_level: 1.023,
+    user_id: null,
   },
   {
     id: 1552,
@@ -10862,6 +12413,7 @@ export default [
     date: "2022-01-30",
     discharge: 23.6,
     water_level: 1.002,
+    user_id: null,
   },
   {
     id: 1553,
@@ -10869,6 +12421,7 @@ export default [
     date: "2022-01-31",
     discharge: 23.2,
     water_level: 0.977,
+    user_id: null,
   },
   {
     id: 1554,
@@ -10876,6 +12429,7 @@ export default [
     date: "2022-02-01",
     discharge: 22.8,
     water_level: 0.935,
+    user_id: null,
   },
   {
     id: 1555,
@@ -10883,6 +12437,7 @@ export default [
     date: "2022-02-02",
     discharge: 22.3,
     water_level: 0.891,
+    user_id: null,
   },
   {
     id: 1556,
@@ -10890,6 +12445,7 @@ export default [
     date: "2022-02-03",
     discharge: 21.9,
     water_level: 0.835,
+    user_id: null,
   },
   {
     id: 1557,
@@ -10897,6 +12453,7 @@ export default [
     date: "2022-02-04",
     discharge: 21.5,
     water_level: 0.84,
+    user_id: null,
   },
   {
     id: 1558,
@@ -10904,6 +12461,7 @@ export default [
     date: "2022-02-05",
     discharge: 21,
     water_level: 0.86,
+    user_id: null,
   },
   {
     id: 1559,
@@ -10911,111 +12469,127 @@ export default [
     date: "2022-02-06",
     discharge: 20.6,
     water_level: 0.902,
+    user_id: null,
   },
   {
     id: 1560,
     station_id: "05AD007",
     date: "2022-02-07",
     discharge: 20.2,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1561,
     station_id: "05AD007",
     date: "2022-02-08",
     discharge: 19.7,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1562,
     station_id: "05AD007",
     date: "2022-02-09",
     discharge: 19.3,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1563,
     station_id: "05AD007",
     date: "2022-02-10",
     discharge: 19,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1564,
     station_id: "05AD007",
     date: "2022-02-11",
     discharge: 18.8,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1565,
     station_id: "05AD007",
     date: "2022-02-12",
     discharge: 18.6,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1566,
     station_id: "05AD007",
     date: "2022-02-13",
     discharge: 18.4,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1567,
     station_id: "05AD007",
     date: "2022-02-14",
     discharge: 18.2,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1568,
     station_id: "05AD007",
     date: "2022-02-15",
     discharge: 18,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1569,
     station_id: "05AD007",
     date: "2022-02-16",
     discharge: 17.9,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1570,
     station_id: "05AD007",
     date: "2022-02-17",
     discharge: 17.8,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1571,
     station_id: "05AD007",
     date: "2022-02-18",
     discharge: 17.8,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1572,
     station_id: "05AD007",
     date: "2022-02-19",
     discharge: 17.8,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1573,
     station_id: "05AD007",
     date: "2022-02-20",
     discharge: 17.8,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1574,
     station_id: "05AD007",
     date: "2022-02-21",
     discharge: 17.7,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1575,
@@ -11023,6 +12597,7 @@ export default [
     date: "2022-02-22",
     discharge: 17.7,
     water_level: 0.726,
+    user_id: null,
   },
   {
     id: 1576,
@@ -11030,6 +12605,7 @@ export default [
     date: "2022-02-23",
     discharge: 17.7,
     water_level: 0.716,
+    user_id: null,
   },
   {
     id: 1577,
@@ -11037,6 +12613,7 @@ export default [
     date: "2022-02-24",
     discharge: 17.7,
     water_level: 0.761,
+    user_id: null,
   },
   {
     id: 1578,
@@ -11044,6 +12621,7 @@ export default [
     date: "2022-02-25",
     discharge: 17.8,
     water_level: 0.792,
+    user_id: null,
   },
   {
     id: 1579,
@@ -11051,6 +12629,7 @@ export default [
     date: "2022-02-26",
     discharge: 17.8,
     water_level: 0.83,
+    user_id: null,
   },
   {
     id: 1580,
@@ -11058,6 +12637,7 @@ export default [
     date: "2022-02-27",
     discharge: 18,
     water_level: 0.826,
+    user_id: null,
   },
   {
     id: 1581,
@@ -11065,6 +12645,7 @@ export default [
     date: "2022-02-28",
     discharge: 18.3,
     water_level: 0.758,
+    user_id: null,
   },
   {
     id: 1582,
@@ -11072,6 +12653,7 @@ export default [
     date: "2022-03-01",
     discharge: 18.6,
     water_level: 0.751,
+    user_id: null,
   },
   {
     id: 1583,
@@ -11079,6 +12661,7 @@ export default [
     date: "2022-03-02",
     discharge: 18.9,
     water_level: 0.7,
+    user_id: null,
   },
   {
     id: 1584,
@@ -11086,6 +12669,7 @@ export default [
     date: "2022-03-03",
     discharge: 19.2,
     water_level: 0.654,
+    user_id: null,
   },
   {
     id: 1585,
@@ -11093,6 +12677,7 @@ export default [
     date: "2022-03-04",
     discharge: 19.5,
     water_level: 0.591,
+    user_id: null,
   },
   {
     id: 1586,
@@ -11100,6 +12685,7 @@ export default [
     date: "2022-03-05",
     discharge: 19.8,
     water_level: 0.591,
+    user_id: null,
   },
   {
     id: 1587,
@@ -11107,6 +12693,7 @@ export default [
     date: "2022-03-06",
     discharge: 20.1,
     water_level: 0.593,
+    user_id: null,
   },
   {
     id: 1588,
@@ -11114,6 +12701,7 @@ export default [
     date: "2022-03-07",
     discharge: 20.7,
     water_level: 0.598,
+    user_id: null,
   },
   {
     id: 1589,
@@ -11121,6 +12709,7 @@ export default [
     date: "2022-03-08",
     discharge: 21.3,
     water_level: 0.593,
+    user_id: null,
   },
   {
     id: 1590,
@@ -11128,6 +12717,7 @@ export default [
     date: "2022-03-09",
     discharge: 21.9,
     water_level: 0.592,
+    user_id: null,
   },
   {
     id: 1591,
@@ -11135,6 +12725,7 @@ export default [
     date: "2022-03-10",
     discharge: 22.6,
     water_level: 0.56,
+    user_id: null,
   },
   {
     id: 1592,
@@ -11142,6 +12733,7 @@ export default [
     date: "2022-03-11",
     discharge: 23.3,
     water_level: 0.536,
+    user_id: null,
   },
   {
     id: 1593,
@@ -11149,6 +12741,7 @@ export default [
     date: "2022-03-12",
     discharge: 24.3,
     water_level: 0.592,
+    user_id: null,
   },
   {
     id: 1594,
@@ -11156,6 +12749,7 @@ export default [
     date: "2022-03-13",
     discharge: 26.5,
     water_level: 0.59,
+    user_id: null,
   },
   {
     id: 1595,
@@ -11163,6 +12757,7 @@ export default [
     date: "2022-03-14",
     discharge: 29.7,
     water_level: 0.582,
+    user_id: null,
   },
   {
     id: 1596,
@@ -11170,6 +12765,7 @@ export default [
     date: "2022-03-15",
     discharge: 30.5,
     water_level: 0.553,
+    user_id: null,
   },
   {
     id: 1597,
@@ -11177,6 +12773,7 @@ export default [
     date: "2022-03-16",
     discharge: 27.7,
     water_level: 0.462,
+    user_id: null,
   },
   {
     id: 1598,
@@ -11184,6 +12781,7 @@ export default [
     date: "2022-03-17",
     discharge: 25.7,
     water_level: 0.43,
+    user_id: null,
   },
   {
     id: 1599,
@@ -11191,6 +12789,7 @@ export default [
     date: "2022-03-18",
     discharge: 28.3,
     water_level: 0.434,
+    user_id: null,
   },
   {
     id: 1600,
@@ -11198,6 +12797,7 @@ export default [
     date: "2022-03-19",
     discharge: 27.8,
     water_level: 0.4,
+    user_id: null,
   },
   {
     id: 1601,
@@ -11205,6 +12805,7 @@ export default [
     date: "2022-03-20",
     discharge: 27.6,
     water_level: 0.385,
+    user_id: null,
   },
   {
     id: 1602,
@@ -11212,6 +12813,7 @@ export default [
     date: "2022-03-21",
     discharge: 26.4,
     water_level: 0.361,
+    user_id: null,
   },
   {
     id: 1603,
@@ -11219,6 +12821,7 @@ export default [
     date: "2022-03-22",
     discharge: 25.3,
     water_level: 0.343,
+    user_id: null,
   },
   {
     id: 1604,
@@ -11226,6 +12829,7 @@ export default [
     date: "2022-03-23",
     discharge: 25.1,
     water_level: 0.34,
+    user_id: null,
   },
   {
     id: 1605,
@@ -11233,6 +12837,7 @@ export default [
     date: "2022-03-24",
     discharge: 25.3,
     water_level: 0.341,
+    user_id: null,
   },
   {
     id: 1606,
@@ -11240,6 +12845,7 @@ export default [
     date: "2022-03-25",
     discharge: 24.6,
     water_level: 0.329,
+    user_id: null,
   },
   {
     id: 1607,
@@ -11247,6 +12853,7 @@ export default [
     date: "2022-03-26",
     discharge: 24.5,
     water_level: 0.324,
+    user_id: null,
   },
   {
     id: 1608,
@@ -11254,6 +12861,7 @@ export default [
     date: "2022-03-27",
     discharge: 24.2,
     water_level: 0.319,
+    user_id: null,
   },
   {
     id: 1609,
@@ -11261,6 +12869,7 @@ export default [
     date: "2022-03-28",
     discharge: 23.8,
     water_level: 0.313,
+    user_id: null,
   },
   {
     id: 1610,
@@ -11268,6 +12877,7 @@ export default [
     date: "2022-03-29",
     discharge: 23.3,
     water_level: 0.306,
+    user_id: null,
   },
   {
     id: 1611,
@@ -11275,6 +12885,7 @@ export default [
     date: "2022-03-30",
     discharge: 23.7,
     water_level: 0.311,
+    user_id: null,
   },
   {
     id: 1612,
@@ -11282,6 +12893,7 @@ export default [
     date: "2022-03-31",
     discharge: 24,
     water_level: 0.316,
+    user_id: null,
   },
   {
     id: 1613,
@@ -11289,6 +12901,7 @@ export default [
     date: "2022-04-01",
     discharge: 24,
     water_level: 0.316,
+    user_id: null,
   },
   {
     id: 1614,
@@ -11296,6 +12909,7 @@ export default [
     date: "2022-04-02",
     discharge: 23.9,
     water_level: 0.315,
+    user_id: null,
   },
   {
     id: 1615,
@@ -11303,6 +12917,7 @@ export default [
     date: "2022-04-03",
     discharge: 24.2,
     water_level: 0.319,
+    user_id: null,
   },
   {
     id: 1616,
@@ -11310,6 +12925,7 @@ export default [
     date: "2022-04-04",
     discharge: 22.7,
     water_level: 0.296,
+    user_id: null,
   },
   {
     id: 1617,
@@ -11317,6 +12933,7 @@ export default [
     date: "2022-04-05",
     discharge: 22.3,
     water_level: 0.291,
+    user_id: null,
   },
   {
     id: 1618,
@@ -11324,6 +12941,7 @@ export default [
     date: "2022-04-06",
     discharge: 21.5,
     water_level: 0.277,
+    user_id: null,
   },
   {
     id: 1619,
@@ -11331,6 +12949,7 @@ export default [
     date: "2022-04-07",
     discharge: 21.5,
     water_level: 0.277,
+    user_id: null,
   },
   {
     id: 1620,
@@ -11338,6 +12957,7 @@ export default [
     date: "2022-04-08",
     discharge: 21.4,
     water_level: 0.275,
+    user_id: null,
   },
   {
     id: 1621,
@@ -11345,6 +12965,7 @@ export default [
     date: "2022-04-09",
     discharge: 21.5,
     water_level: 0.276,
+    user_id: null,
   },
   {
     id: 1622,
@@ -11352,6 +12973,7 @@ export default [
     date: "2022-04-10",
     discharge: 21.6,
     water_level: 0.277,
+    user_id: null,
   },
   {
     id: 1623,
@@ -11359,6 +12981,7 @@ export default [
     date: "2022-04-11",
     discharge: 21.9,
     water_level: 0.281,
+    user_id: null,
   },
   {
     id: 1624,
@@ -11366,6 +12989,7 @@ export default [
     date: "2022-04-12",
     discharge: 21.8,
     water_level: 0.28,
+    user_id: null,
   },
   {
     id: 1625,
@@ -11373,6 +12997,7 @@ export default [
     date: "2022-04-13",
     discharge: 24,
     water_level: 0.313,
+    user_id: null,
   },
   {
     id: 1626,
@@ -11380,6 +13005,7 @@ export default [
     date: "2022-04-14",
     discharge: 27.6,
     water_level: 0.365,
+    user_id: null,
   },
   {
     id: 1627,
@@ -11387,6 +13013,7 @@ export default [
     date: "2022-04-15",
     discharge: 28.9,
     water_level: 0.383,
+    user_id: null,
   },
   {
     id: 1628,
@@ -11394,6 +13021,7 @@ export default [
     date: "2022-04-16",
     discharge: 28.2,
     water_level: 0.373,
+    user_id: null,
   },
   {
     id: 1629,
@@ -11401,6 +13029,7 @@ export default [
     date: "2022-04-17",
     discharge: 24.1,
     water_level: 0.312,
+    user_id: null,
   },
   {
     id: 1630,
@@ -11408,6 +13037,7 @@ export default [
     date: "2022-04-18",
     discharge: 22.5,
     water_level: 0.288,
+    user_id: null,
   },
   {
     id: 1631,
@@ -11415,6 +13045,7 @@ export default [
     date: "2022-04-19",
     discharge: 22.2,
     water_level: 0.282,
+    user_id: null,
   },
   {
     id: 1632,
@@ -11422,6 +13053,7 @@ export default [
     date: "2022-04-20",
     discharge: 21.7,
     water_level: 0.273,
+    user_id: null,
   },
   {
     id: 1633,
@@ -11429,6 +13061,7 @@ export default [
     date: "2022-04-21",
     discharge: 21.3,
     water_level: 0.268,
+    user_id: null,
   },
   {
     id: 1634,
@@ -11436,6 +13069,7 @@ export default [
     date: "2022-04-22",
     discharge: 21.9,
     water_level: 0.277,
+    user_id: null,
   },
   {
     id: 1635,
@@ -11443,6 +13077,7 @@ export default [
     date: "2022-04-23",
     discharge: 22.6,
     water_level: 0.287,
+    user_id: null,
   },
   {
     id: 1636,
@@ -11450,6 +13085,7 @@ export default [
     date: "2022-04-24",
     discharge: 21.6,
     water_level: 0.27,
+    user_id: null,
   },
   {
     id: 1637,
@@ -11457,6 +13093,7 @@ export default [
     date: "2022-04-25",
     discharge: 24.9,
     water_level: 0.32,
+    user_id: null,
   },
   {
     id: 1638,
@@ -11464,6 +13101,7 @@ export default [
     date: "2022-04-26",
     discharge: 26.3,
     water_level: 0.341,
+    user_id: null,
   },
   {
     id: 1639,
@@ -11471,6 +13109,7 @@ export default [
     date: "2022-04-27",
     discharge: 26.6,
     water_level: 0.345,
+    user_id: null,
   },
   {
     id: 1640,
@@ -11478,6 +13117,7 @@ export default [
     date: "2022-04-28",
     discharge: 26.8,
     water_level: 0.346,
+    user_id: null,
   },
   {
     id: 1641,
@@ -11485,6 +13125,7 @@ export default [
     date: "2022-04-29",
     discharge: 25,
     water_level: 0.32,
+    user_id: null,
   },
   {
     id: 1642,
@@ -11492,6 +13133,7 @@ export default [
     date: "2022-04-30",
     discharge: 23.5,
     water_level: 0.298,
+    user_id: null,
   },
   {
     id: 1643,
@@ -11499,6 +13141,7 @@ export default [
     date: "2022-05-01",
     discharge: 25.2,
     water_level: 0.322,
+    user_id: null,
   },
   {
     id: 1644,
@@ -11506,6 +13149,7 @@ export default [
     date: "2022-05-02",
     discharge: 25.5,
     water_level: 0.326,
+    user_id: null,
   },
   {
     id: 1645,
@@ -11513,6 +13157,7 @@ export default [
     date: "2022-05-03",
     discharge: 22.4,
     water_level: 0.278,
+    user_id: null,
   },
   {
     id: 1646,
@@ -11520,6 +13165,7 @@ export default [
     date: "2022-05-04",
     discharge: 21.7,
     water_level: 0.268,
+    user_id: null,
   },
   {
     id: 1647,
@@ -11527,6 +13173,7 @@ export default [
     date: "2022-05-05",
     discharge: 22.6,
     water_level: 0.282,
+    user_id: null,
   },
   {
     id: 1648,
@@ -11534,6 +13181,7 @@ export default [
     date: "2022-05-06",
     discharge: 22.5,
     water_level: 0.28,
+    user_id: null,
   },
   {
     id: 1649,
@@ -11541,6 +13189,7 @@ export default [
     date: "2022-05-07",
     discharge: 23.9,
     water_level: 0.3,
+    user_id: null,
   },
   {
     id: 1650,
@@ -11548,6 +13197,7 @@ export default [
     date: "2022-05-08",
     discharge: 23.1,
     water_level: 0.288,
+    user_id: null,
   },
   {
     id: 1651,
@@ -11555,6 +13205,7 @@ export default [
     date: "2022-05-09",
     discharge: 24.6,
     water_level: 0.312,
+    user_id: null,
   },
   {
     id: 1652,
@@ -11562,6 +13213,7 @@ export default [
     date: "2022-05-10",
     discharge: 25.6,
     water_level: 0.325,
+    user_id: null,
   },
   {
     id: 1653,
@@ -11569,6 +13221,7 @@ export default [
     date: "2022-05-11",
     discharge: 24,
     water_level: 0.303,
+    user_id: null,
   },
   {
     id: 1654,
@@ -11576,6 +13229,7 @@ export default [
     date: "2022-05-12",
     discharge: 22.8,
     water_level: 0.284,
+    user_id: null,
   },
   {
     id: 1655,
@@ -11583,6 +13237,7 @@ export default [
     date: "2022-05-13",
     discharge: 21.8,
     water_level: 0.268,
+    user_id: null,
   },
   {
     id: 1656,
@@ -11590,6 +13245,7 @@ export default [
     date: "2022-05-14",
     discharge: 22,
     water_level: 0.271,
+    user_id: null,
   },
   {
     id: 1657,
@@ -11597,6 +13253,7 @@ export default [
     date: "2022-05-15",
     discharge: 23.2,
     water_level: 0.289,
+    user_id: null,
   },
   {
     id: 1658,
@@ -11604,6 +13261,7 @@ export default [
     date: "2022-05-16",
     discharge: 24.6,
     water_level: 0.311,
+    user_id: null,
   },
   {
     id: 1659,
@@ -11611,6 +13269,7 @@ export default [
     date: "2022-05-17",
     discharge: 23.5,
     water_level: 0.295,
+    user_id: null,
   },
   {
     id: 1660,
@@ -11618,6 +13277,7 @@ export default [
     date: "2022-05-18",
     discharge: 22.8,
     water_level: 0.284,
+    user_id: null,
   },
   {
     id: 1661,
@@ -11625,6 +13285,7 @@ export default [
     date: "2022-05-19",
     discharge: 24.3,
     water_level: 0.306,
+    user_id: null,
   },
   {
     id: 1662,
@@ -11632,6 +13293,7 @@ export default [
     date: "2022-05-20",
     discharge: 28.4,
     water_level: 0.366,
+    user_id: null,
   },
   {
     id: 1663,
@@ -11639,6 +13301,7 @@ export default [
     date: "2022-05-21",
     discharge: 31.2,
     water_level: 0.404,
+    user_id: null,
   },
   {
     id: 1664,
@@ -11646,6 +13309,7 @@ export default [
     date: "2022-05-22",
     discharge: 33.3,
     water_level: 0.433,
+    user_id: null,
   },
   {
     id: 1665,
@@ -11653,6 +13317,7 @@ export default [
     date: "2022-05-23",
     discharge: 30,
     water_level: 0.388,
+    user_id: null,
   },
   {
     id: 1666,
@@ -11660,6 +13325,7 @@ export default [
     date: "2022-05-24",
     discharge: 28.3,
     water_level: 0.364,
+    user_id: null,
   },
   {
     id: 1667,
@@ -11667,6 +13333,7 @@ export default [
     date: "2022-05-25",
     discharge: 29.3,
     water_level: 0.379,
+    user_id: null,
   },
   {
     id: 1668,
@@ -11674,6 +13341,7 @@ export default [
     date: "2022-05-26",
     discharge: 27.8,
     water_level: 0.357,
+    user_id: null,
   },
   {
     id: 1669,
@@ -11681,6 +13349,7 @@ export default [
     date: "2022-05-27",
     discharge: 23.8,
     water_level: 0.299,
+    user_id: null,
   },
   {
     id: 1670,
@@ -11688,6 +13357,7 @@ export default [
     date: "2022-05-28",
     discharge: 24.2,
     water_level: 0.305,
+    user_id: null,
   },
   {
     id: 1671,
@@ -11695,6 +13365,7 @@ export default [
     date: "2022-05-29",
     discharge: 23.5,
     water_level: 0.295,
+    user_id: null,
   },
   {
     id: 1672,
@@ -11702,6 +13373,7 @@ export default [
     date: "2022-05-30",
     discharge: 24.5,
     water_level: 0.31,
+    user_id: null,
   },
   {
     id: 1673,
@@ -11709,6 +13381,7 @@ export default [
     date: "2022-05-31",
     discharge: 24.5,
     water_level: 0.31,
+    user_id: null,
   },
   {
     id: 1674,
@@ -11716,6 +13389,7 @@ export default [
     date: "2022-06-01",
     discharge: 23.1,
     water_level: 0.289,
+    user_id: null,
   },
   {
     id: 1675,
@@ -11723,6 +13397,7 @@ export default [
     date: "2022-06-02",
     discharge: 22.4,
     water_level: 0.277,
+    user_id: null,
   },
   {
     id: 1676,
@@ -11730,6 +13405,7 @@ export default [
     date: "2022-06-03",
     discharge: 22.1,
     water_level: 0.273,
+    user_id: null,
   },
   {
     id: 1677,
@@ -11737,6 +13413,7 @@ export default [
     date: "2022-06-04",
     discharge: 23.1,
     water_level: 0.289,
+    user_id: null,
   },
   {
     id: 1678,
@@ -11744,6 +13421,7 @@ export default [
     date: "2022-06-05",
     discharge: 26.6,
     water_level: 0.338,
+    user_id: null,
   },
   {
     id: 1679,
@@ -11751,6 +13429,7 @@ export default [
     date: "2022-06-06",
     discharge: 28.2,
     water_level: 0.357,
+    user_id: null,
   },
   {
     id: 1680,
@@ -11758,6 +13437,7 @@ export default [
     date: "2022-06-07",
     discharge: 31.1,
     water_level: 0.395,
+    user_id: null,
   },
   {
     id: 1681,
@@ -11765,6 +13445,7 @@ export default [
     date: "2022-06-08",
     discharge: 33.4,
     water_level: 0.422,
+    user_id: null,
   },
   {
     id: 1682,
@@ -11772,6 +13453,7 @@ export default [
     date: "2022-06-09",
     discharge: 37.2,
     water_level: 0.468,
+    user_id: null,
   },
   {
     id: 1683,
@@ -11779,6 +13461,7 @@ export default [
     date: "2022-06-10",
     discharge: 39.5,
     water_level: 0.493,
+    user_id: null,
   },
   {
     id: 1684,
@@ -11786,6 +13469,7 @@ export default [
     date: "2022-06-11",
     discharge: 42.8,
     water_level: 0.53,
+    user_id: null,
   },
   {
     id: 1685,
@@ -11793,6 +13477,7 @@ export default [
     date: "2022-06-12",
     discharge: 47.1,
     water_level: 0.577,
+    user_id: null,
   },
   {
     id: 1686,
@@ -11800,6 +13485,7 @@ export default [
     date: "2022-06-13",
     discharge: 73.1,
     water_level: 0.837,
+    user_id: null,
   },
   {
     id: 1687,
@@ -11807,6 +13493,7 @@ export default [
     date: "2022-06-14",
     discharge: 203,
     water_level: 1.641,
+    user_id: null,
   },
   {
     id: 1688,
@@ -11814,6 +13501,7 @@ export default [
     date: "2022-06-15",
     discharge: 368,
     water_level: 2.449,
+    user_id: null,
   },
   {
     id: 1689,
@@ -11821,6 +13509,7 @@ export default [
     date: "2022-06-16",
     discharge: 338,
     water_level: 2.338,
+    user_id: null,
   },
   {
     id: 1690,
@@ -11828,6 +13517,7 @@ export default [
     date: "2022-06-17",
     discharge: 289,
     water_level: 2.141,
+    user_id: null,
   },
   {
     id: 1691,
@@ -11835,6 +13525,7 @@ export default [
     date: "2022-06-18",
     discharge: 250,
     water_level: 1.977,
+    user_id: null,
   },
   {
     id: 1692,
@@ -11842,6 +13533,7 @@ export default [
     date: "2022-06-19",
     discharge: 237,
     water_level: 1.919,
+    user_id: null,
   },
   {
     id: 1693,
@@ -11849,6 +13541,7 @@ export default [
     date: "2022-06-20",
     discharge: 250,
     water_level: 1.98,
+    user_id: null,
   },
   {
     id: 1694,
@@ -11856,6 +13549,7 @@ export default [
     date: "2022-06-21",
     discharge: 295,
     water_level: 2.17,
+    user_id: null,
   },
   {
     id: 1695,
@@ -11863,6 +13557,7 @@ export default [
     date: "2022-06-22",
     discharge: 321,
     water_level: 2.277,
+    user_id: null,
   },
   {
     id: 1696,
@@ -11870,6 +13565,7 @@ export default [
     date: "2022-06-23",
     discharge: 303,
     water_level: 2.206,
+    user_id: null,
   },
   {
     id: 1697,
@@ -11877,6 +13573,7 @@ export default [
     date: "2022-06-24",
     discharge: 276,
     water_level: 2.096,
+    user_id: null,
   },
   {
     id: 1698,
@@ -11884,6 +13581,7 @@ export default [
     date: "2022-06-25",
     discharge: 246,
     water_level: 1.964,
+    user_id: null,
   },
   {
     id: 1699,
@@ -11891,6 +13589,7 @@ export default [
     date: "2022-06-26",
     discharge: 213,
     water_level: 1.812,
+    user_id: null,
   },
   {
     id: 1700,
@@ -11898,6 +13597,7 @@ export default [
     date: "2022-06-27",
     discharge: 163,
     water_level: 1.54,
+    user_id: null,
   },
   {
     id: 1701,
@@ -11905,6 +13605,7 @@ export default [
     date: "2022-06-28",
     discharge: 131,
     water_level: 1.321,
+    user_id: null,
   },
   {
     id: 1702,
@@ -11912,6 +13613,7 @@ export default [
     date: "2022-06-29",
     discharge: 113,
     water_level: 1.188,
+    user_id: null,
   },
   {
     id: 1703,
@@ -11919,6 +13621,7 @@ export default [
     date: "2022-06-30",
     discharge: 109,
     water_level: 1.155,
+    user_id: null,
   },
   {
     id: 1704,
@@ -11926,6 +13629,7 @@ export default [
     date: "2022-07-01",
     discharge: 112,
     water_level: 1.177,
+    user_id: null,
   },
   {
     id: 1705,
@@ -11933,6 +13637,7 @@ export default [
     date: "2022-07-02",
     discharge: 114,
     water_level: 1.2,
+    user_id: null,
   },
   {
     id: 1706,
@@ -11940,6 +13645,7 @@ export default [
     date: "2022-07-03",
     discharge: 103,
     water_level: 1.107,
+    user_id: null,
   },
   {
     id: 1707,
@@ -11947,6 +13653,7 @@ export default [
     date: "2022-07-04",
     discharge: 105,
     water_level: 1.124,
+    user_id: null,
   },
   {
     id: 1708,
@@ -11954,6 +13661,7 @@ export default [
     date: "2022-07-05",
     discharge: 134,
     water_level: 1.349,
+    user_id: null,
   },
   {
     id: 1709,
@@ -11961,6 +13669,7 @@ export default [
     date: "2022-07-06",
     discharge: 147,
     water_level: 1.446,
+    user_id: null,
   },
   {
     id: 1710,
@@ -11968,6 +13677,7 @@ export default [
     date: "2022-07-07",
     discharge: 141,
     water_level: 1.405,
+    user_id: null,
   },
   {
     id: 1711,
@@ -11975,6 +13685,7 @@ export default [
     date: "2022-07-08",
     discharge: 127,
     water_level: 1.303,
+    user_id: null,
   },
   {
     id: 1712,
@@ -11982,6 +13693,7 @@ export default [
     date: "2022-07-09",
     discharge: 153,
     water_level: 1.486,
+    user_id: null,
   },
   {
     id: 1713,
@@ -11989,6 +13701,7 @@ export default [
     date: "2022-07-10",
     discharge: 150,
     water_level: 1.471,
+    user_id: null,
   },
   {
     id: 1714,
@@ -11996,6 +13709,7 @@ export default [
     date: "2022-07-11",
     discharge: 143,
     water_level: 1.423,
+    user_id: null,
   },
   {
     id: 1715,
@@ -12003,6 +13717,7 @@ export default [
     date: "2022-07-12",
     discharge: 127,
     water_level: 1.303,
+    user_id: null,
   },
   {
     id: 1716,
@@ -12010,6 +13725,7 @@ export default [
     date: "2022-07-13",
     discharge: 113,
     water_level: 1.2,
+    user_id: null,
   },
   {
     id: 1717,
@@ -12017,6 +13733,7 @@ export default [
     date: "2022-07-14",
     discharge: 90.4,
     water_level: 1.013,
+    user_id: null,
   },
   {
     id: 1718,
@@ -12024,6 +13741,7 @@ export default [
     date: "2022-07-15",
     discharge: 73.4,
     water_level: 0.861,
+    user_id: null,
   },
   {
     id: 1719,
@@ -12031,6 +13749,7 @@ export default [
     date: "2022-07-16",
     discharge: 56.4,
     water_level: 0.692,
+    user_id: null,
   },
   {
     id: 1720,
@@ -12038,6 +13757,7 @@ export default [
     date: "2022-07-17",
     discharge: 45.2,
     water_level: 0.572,
+    user_id: null,
   },
   {
     id: 1721,
@@ -12045,6 +13765,7 @@ export default [
     date: "2022-07-18",
     discharge: 47.6,
     water_level: 0.599,
+    user_id: null,
   },
   {
     id: 1722,
@@ -12052,6 +13773,7 @@ export default [
     date: "2022-07-19",
     discharge: 61.7,
     water_level: 0.747,
+    user_id: null,
   },
   {
     id: 1723,
@@ -12059,6 +13781,7 @@ export default [
     date: "2022-07-20",
     discharge: 75.6,
     water_level: 0.886,
+    user_id: null,
   },
   {
     id: 1724,
@@ -12066,6 +13789,7 @@ export default [
     date: "2022-07-21",
     discharge: 73.7,
     water_level: 0.869,
+    user_id: null,
   },
   {
     id: 1725,
@@ -12073,6 +13797,7 @@ export default [
     date: "2022-07-22",
     discharge: 67.5,
     water_level: 0.811,
+    user_id: null,
   },
   {
     id: 1726,
@@ -12080,6 +13805,7 @@ export default [
     date: "2022-07-23",
     discharge: 61.4,
     water_level: 0.752,
+    user_id: null,
   },
   {
     id: 1727,
@@ -12087,6 +13813,7 @@ export default [
     date: "2022-07-24",
     discharge: 54.1,
     water_level: 0.676,
+    user_id: null,
   },
   {
     id: 1728,
@@ -12094,6 +13821,7 @@ export default [
     date: "2022-07-25",
     discharge: 48.3,
     water_level: 0.613,
+    user_id: null,
   },
   {
     id: 1729,
@@ -12101,6 +13829,7 @@ export default [
     date: "2022-07-26",
     discharge: 42.8,
     water_level: 0.55,
+    user_id: null,
   },
   {
     id: 1730,
@@ -12108,6 +13837,7 @@ export default [
     date: "2022-07-27",
     discharge: 36.3,
     water_level: 0.472,
+    user_id: null,
   },
   {
     id: 1731,
@@ -12115,6 +13845,7 @@ export default [
     date: "2022-07-28",
     discharge: 32.1,
     water_level: 0.418,
+    user_id: null,
   },
   {
     id: 1732,
@@ -12122,6 +13853,7 @@ export default [
     date: "2022-07-29",
     discharge: 34.8,
     water_level: 0.453,
+    user_id: null,
   },
   {
     id: 1733,
@@ -12129,6 +13861,7 @@ export default [
     date: "2022-07-30",
     discharge: 35.4,
     water_level: 0.462,
+    user_id: null,
   },
   {
     id: 1734,
@@ -12136,6 +13869,7 @@ export default [
     date: "2022-07-31",
     discharge: 36.4,
     water_level: 0.474,
+    user_id: null,
   },
   {
     id: 1735,
@@ -12143,6 +13877,7 @@ export default [
     date: "2022-08-01",
     discharge: 36.1,
     water_level: 0.47,
+    user_id: null,
   },
   {
     id: 1736,
@@ -12150,6 +13885,7 @@ export default [
     date: "2022-08-02",
     discharge: 35,
     water_level: 0.456,
+    user_id: null,
   },
   {
     id: 1737,
@@ -12157,6 +13893,7 @@ export default [
     date: "2022-08-03",
     discharge: 34.2,
     water_level: 0.445,
+    user_id: null,
   },
   {
     id: 1738,
@@ -12164,6 +13901,7 @@ export default [
     date: "2022-08-04",
     discharge: 33.7,
     water_level: 0.439,
+    user_id: null,
   },
   {
     id: 1739,
@@ -12171,6 +13909,7 @@ export default [
     date: "2022-08-05",
     discharge: 33.1,
     water_level: 0.431,
+    user_id: null,
   },
   {
     id: 1740,
@@ -12178,6 +13917,7 @@ export default [
     date: "2022-08-06",
     discharge: 32.7,
     water_level: 0.426,
+    user_id: null,
   },
   {
     id: 1741,
@@ -12185,6 +13925,7 @@ export default [
     date: "2022-08-07",
     discharge: 34.4,
     water_level: 0.448,
+    user_id: null,
   },
   {
     id: 1742,
@@ -12192,6 +13933,7 @@ export default [
     date: "2022-08-08",
     discharge: 35.1,
     water_level: 0.457,
+    user_id: null,
   },
   {
     id: 1743,
@@ -12199,6 +13941,7 @@ export default [
     date: "2022-08-09",
     discharge: 34.4,
     water_level: 0.449,
+    user_id: null,
   },
   {
     id: 1744,
@@ -12206,6 +13949,7 @@ export default [
     date: "2022-08-10",
     discharge: 32.7,
     water_level: 0.425,
+    user_id: null,
   },
   {
     id: 1745,
@@ -12213,6 +13957,7 @@ export default [
     date: "2022-08-11",
     discharge: 30,
     water_level: 0.391,
+    user_id: null,
   },
   {
     id: 1746,
@@ -12220,6 +13965,7 @@ export default [
     date: "2022-08-12",
     discharge: 30.2,
     water_level: 0.393,
+    user_id: null,
   },
   {
     id: 1747,
@@ -12227,6 +13973,7 @@ export default [
     date: "2022-08-13",
     discharge: 30,
     water_level: 0.392,
+    user_id: null,
   },
   {
     id: 1748,
@@ -12234,6 +13981,7 @@ export default [
     date: "2022-08-14",
     discharge: 29.6,
     water_level: 0.388,
+    user_id: null,
   },
   {
     id: 1749,
@@ -12241,6 +13989,7 @@ export default [
     date: "2022-08-15",
     discharge: 31.2,
     water_level: 0.411,
+    user_id: null,
   },
   {
     id: 1750,
@@ -12248,6 +13997,7 @@ export default [
     date: "2022-08-16",
     discharge: 30.8,
     water_level: 0.406,
+    user_id: null,
   },
   {
     id: 1751,
@@ -12255,6 +14005,7 @@ export default [
     date: "2022-08-17",
     discharge: 29.5,
     water_level: 0.389,
+    user_id: null,
   },
   {
     id: 1752,
@@ -12262,6 +14013,7 @@ export default [
     date: "2022-08-18",
     discharge: 26.2,
     water_level: 0.342,
+    user_id: null,
   },
   {
     id: 1753,
@@ -12269,6 +14021,7 @@ export default [
     date: "2022-08-19",
     discharge: 24.6,
     water_level: 0.321,
+    user_id: null,
   },
   {
     id: 1754,
@@ -12276,6 +14029,7 @@ export default [
     date: "2022-08-20",
     discharge: 25.8,
     water_level: 0.34,
+    user_id: null,
   },
   {
     id: 1755,
@@ -12283,6 +14037,7 @@ export default [
     date: "2022-08-21",
     discharge: 25.4,
     water_level: 0.334,
+    user_id: null,
   },
   {
     id: 1756,
@@ -12290,6 +14045,7 @@ export default [
     date: "2022-08-22",
     discharge: 26.7,
     water_level: 0.354,
+    user_id: null,
   },
   {
     id: 1757,
@@ -12297,6 +14053,7 @@ export default [
     date: "2022-08-23",
     discharge: 32.3,
     water_level: 0.432,
+    user_id: null,
   },
   {
     id: 1758,
@@ -12304,6 +14061,7 @@ export default [
     date: "2022-08-24",
     discharge: 36.8,
     water_level: 0.488,
+    user_id: null,
   },
   {
     id: 1759,
@@ -12311,6 +14069,7 @@ export default [
     date: "2022-08-25",
     discharge: 41.7,
     water_level: 0.551,
+    user_id: null,
   },
   {
     id: 1760,
@@ -12318,6 +14077,7 @@ export default [
     date: "2022-08-26",
     discharge: 37,
     water_level: 0.496,
+    user_id: null,
   },
   {
     id: 1761,
@@ -12325,6 +14085,7 @@ export default [
     date: "2022-08-27",
     discharge: 36.5,
     water_level: 0.491,
+    user_id: null,
   },
   {
     id: 1762,
@@ -12332,6 +14093,7 @@ export default [
     date: "2022-08-28",
     discharge: 35,
     water_level: 0.472,
+    user_id: null,
   },
   {
     id: 1763,
@@ -12339,6 +14101,7 @@ export default [
     date: "2022-08-29",
     discharge: 32.9,
     water_level: 0.446,
+    user_id: null,
   },
   {
     id: 1764,
@@ -12346,6 +14109,7 @@ export default [
     date: "2022-08-30",
     discharge: 30.1,
     water_level: 0.409,
+    user_id: null,
   },
   {
     id: 1765,
@@ -12353,6 +14117,7 @@ export default [
     date: "2022-08-31",
     discharge: 29.1,
     water_level: 0.395,
+    user_id: null,
   },
   {
     id: 1766,
@@ -12360,6 +14125,7 @@ export default [
     date: "2022-09-01",
     discharge: 28.9,
     water_level: 0.394,
+    user_id: null,
   },
   {
     id: 1767,
@@ -12367,6 +14133,7 @@ export default [
     date: "2022-09-02",
     discharge: 27.1,
     water_level: 0.37,
+    user_id: null,
   },
   {
     id: 1768,
@@ -12374,6 +14141,7 @@ export default [
     date: "2022-09-03",
     discharge: 26.7,
     water_level: 0.365,
+    user_id: null,
   },
   {
     id: 1769,
@@ -12381,6 +14149,7 @@ export default [
     date: "2022-09-04",
     discharge: 28.4,
     water_level: 0.389,
+    user_id: null,
   },
   {
     id: 1770,
@@ -12388,6 +14157,7 @@ export default [
     date: "2022-09-05",
     discharge: 30.1,
     water_level: 0.414,
+    user_id: null,
   },
   {
     id: 1771,
@@ -12395,6 +14165,7 @@ export default [
     date: "2022-09-06",
     discharge: 30.4,
     water_level: 0.42,
+    user_id: null,
   },
   {
     id: 1772,
@@ -12402,6 +14173,7 @@ export default [
     date: "2022-09-07",
     discharge: 30.5,
     water_level: 0.422,
+    user_id: null,
   },
   {
     id: 1773,
@@ -12409,6 +14181,7 @@ export default [
     date: "2022-09-08",
     discharge: 30.5,
     water_level: 0.423,
+    user_id: null,
   },
   {
     id: 1774,
@@ -12416,6 +14189,7 @@ export default [
     date: "2022-09-09",
     discharge: 28.9,
     water_level: 0.401,
+    user_id: null,
   },
   {
     id: 1775,
@@ -12423,6 +14197,7 @@ export default [
     date: "2022-09-10",
     discharge: 29.5,
     water_level: 0.41,
+    user_id: null,
   },
   {
     id: 1776,
@@ -12430,6 +14205,7 @@ export default [
     date: "2022-09-11",
     discharge: 28.9,
     water_level: 0.403,
+    user_id: null,
   },
   {
     id: 1777,
@@ -12437,6 +14213,7 @@ export default [
     date: "2022-09-12",
     discharge: 28.1,
     water_level: 0.393,
+    user_id: null,
   },
   {
     id: 1778,
@@ -12444,6 +14221,7 @@ export default [
     date: "2022-09-13",
     discharge: 28.3,
     water_level: 0.396,
+    user_id: null,
   },
   {
     id: 1779,
@@ -12451,6 +14229,7 @@ export default [
     date: "2022-09-14",
     discharge: 28.2,
     water_level: 0.396,
+    user_id: null,
   },
   {
     id: 1780,
@@ -12458,6 +14237,7 @@ export default [
     date: "2022-09-15",
     discharge: 26.7,
     water_level: 0.375,
+    user_id: null,
   },
   {
     id: 1781,
@@ -12465,6 +14245,7 @@ export default [
     date: "2022-09-16",
     discharge: 28.8,
     water_level: 0.406,
+    user_id: null,
   },
   {
     id: 1782,
@@ -12472,6 +14253,7 @@ export default [
     date: "2022-09-17",
     discharge: 26.2,
     water_level: 0.37,
+    user_id: null,
   },
   {
     id: 1783,
@@ -12479,6 +14261,7 @@ export default [
     date: "2022-09-18",
     discharge: 25.1,
     water_level: 0.354,
+    user_id: null,
   },
   {
     id: 1784,
@@ -12486,6 +14269,7 @@ export default [
     date: "2022-09-19",
     discharge: 25.8,
     water_level: 0.366,
+    user_id: null,
   },
   {
     id: 1785,
@@ -12493,6 +14277,7 @@ export default [
     date: "2022-09-20",
     discharge: 26.3,
     water_level: 0.374,
+    user_id: null,
   },
   {
     id: 1786,
@@ -12500,6 +14285,7 @@ export default [
     date: "2022-09-21",
     discharge: 26.5,
     water_level: 0.378,
+    user_id: null,
   },
   {
     id: 1787,
@@ -12507,6 +14293,7 @@ export default [
     date: "2022-09-22",
     discharge: 26.3,
     water_level: 0.376,
+    user_id: null,
   },
   {
     id: 1788,
@@ -12514,6 +14301,7 @@ export default [
     date: "2022-09-23",
     discharge: 26.7,
     water_level: 0.382,
+    user_id: null,
   },
   {
     id: 1789,
@@ -12521,6 +14309,7 @@ export default [
     date: "2022-09-24",
     discharge: 26.4,
     water_level: 0.379,
+    user_id: null,
   },
   {
     id: 1790,
@@ -12528,6 +14317,7 @@ export default [
     date: "2022-09-25",
     discharge: 26.1,
     water_level: 0.376,
+    user_id: null,
   },
   {
     id: 1791,
@@ -12535,6 +14325,7 @@ export default [
     date: "2022-09-26",
     discharge: 26,
     water_level: 0.375,
+    user_id: null,
   },
   {
     id: 1792,
@@ -12542,6 +14333,7 @@ export default [
     date: "2022-09-27",
     discharge: 25.9,
     water_level: 0.375,
+    user_id: null,
   },
   {
     id: 1793,
@@ -12549,6 +14341,7 @@ export default [
     date: "2022-09-28",
     discharge: 25.8,
     water_level: 0.375,
+    user_id: null,
   },
   {
     id: 1794,
@@ -12556,6 +14349,7 @@ export default [
     date: "2022-09-29",
     discharge: 26.1,
     water_level: 0.38,
+    user_id: null,
   },
   {
     id: 1795,
@@ -12563,6 +14357,7 @@ export default [
     date: "2022-09-30",
     discharge: 26.9,
     water_level: 0.392,
+    user_id: null,
   },
   {
     id: 1796,
@@ -12570,6 +14365,7 @@ export default [
     date: "2022-10-01",
     discharge: 26.5,
     water_level: 0.386,
+    user_id: null,
   },
   {
     id: 1797,
@@ -12577,6 +14373,7 @@ export default [
     date: "2022-10-02",
     discharge: 28.8,
     water_level: 0.42,
+    user_id: null,
   },
   {
     id: 1798,
@@ -12584,6 +14381,7 @@ export default [
     date: "2022-10-03",
     discharge: 28.7,
     water_level: 0.42,
+    user_id: null,
   },
   {
     id: 1799,
@@ -12591,6 +14389,7 @@ export default [
     date: "2022-10-04",
     discharge: 29,
     water_level: 0.425,
+    user_id: null,
   },
   {
     id: 1800,
@@ -12598,6 +14397,7 @@ export default [
     date: "2022-10-05",
     discharge: 27.8,
     water_level: 0.408,
+    user_id: null,
   },
   {
     id: 1801,
@@ -12605,6 +14405,7 @@ export default [
     date: "2022-10-06",
     discharge: 27.5,
     water_level: 0.405,
+    user_id: null,
   },
   {
     id: 1802,
@@ -12612,6 +14413,7 @@ export default [
     date: "2022-10-07",
     discharge: 26.9,
     water_level: 0.397,
+    user_id: null,
   },
   {
     id: 1803,
@@ -12619,6 +14421,7 @@ export default [
     date: "2022-10-08",
     discharge: 25.6,
     water_level: 0.379,
+    user_id: null,
   },
   {
     id: 1804,
@@ -12626,6 +14429,7 @@ export default [
     date: "2022-10-09",
     discharge: 26,
     water_level: 0.386,
+    user_id: null,
   },
   {
     id: 1805,
@@ -12633,6 +14437,7 @@ export default [
     date: "2022-10-10",
     discharge: 27.6,
     water_level: 0.41,
+    user_id: null,
   },
   {
     id: 1806,
@@ -12640,6 +14445,7 @@ export default [
     date: "2022-10-11",
     discharge: 30.8,
     water_level: 0.455,
+    user_id: null,
   },
   {
     id: 1807,
@@ -12647,6 +14453,7 @@ export default [
     date: "2022-10-12",
     discharge: 30.5,
     water_level: 0.452,
+    user_id: null,
   },
   {
     id: 1808,
@@ -12654,6 +14461,7 @@ export default [
     date: "2022-10-13",
     discharge: 26.5,
     water_level: 0.397,
+    user_id: null,
   },
   {
     id: 1809,
@@ -12661,6 +14469,7 @@ export default [
     date: "2022-10-14",
     discharge: 26.4,
     water_level: 0.396,
+    user_id: null,
   },
   {
     id: 1810,
@@ -12668,6 +14477,7 @@ export default [
     date: "2022-10-15",
     discharge: 24.6,
     water_level: 0.371,
+    user_id: null,
   },
   {
     id: 1811,
@@ -12675,6 +14485,7 @@ export default [
     date: "2022-10-16",
     discharge: 23.1,
     water_level: 0.349,
+    user_id: null,
   },
   {
     id: 1812,
@@ -12682,6 +14493,7 @@ export default [
     date: "2022-10-17",
     discharge: 22.9,
     water_level: 0.346,
+    user_id: null,
   },
   {
     id: 1813,
@@ -12689,6 +14501,7 @@ export default [
     date: "2022-10-18",
     discharge: 22.8,
     water_level: 0.345,
+    user_id: null,
   },
   {
     id: 1814,
@@ -12696,6 +14509,7 @@ export default [
     date: "2022-10-19",
     discharge: 22.3,
     water_level: 0.338,
+    user_id: null,
   },
   {
     id: 1815,
@@ -12703,6 +14517,7 @@ export default [
     date: "2022-10-20",
     discharge: 22.8,
     water_level: 0.347,
+    user_id: null,
   },
   {
     id: 1816,
@@ -12710,6 +14525,7 @@ export default [
     date: "2022-10-21",
     discharge: 24.1,
     water_level: 0.367,
+    user_id: null,
   },
   {
     id: 1817,
@@ -12717,6 +14533,7 @@ export default [
     date: "2022-10-22",
     discharge: 29,
     water_level: 0.439,
+    user_id: null,
   },
   {
     id: 1818,
@@ -12724,6 +14541,7 @@ export default [
     date: "2022-10-23",
     discharge: 31.1,
     water_level: 0.468,
+    user_id: null,
   },
   {
     id: 1819,
@@ -12731,6 +14549,7 @@ export default [
     date: "2022-10-24",
     discharge: 28.4,
     water_level: 0.432,
+    user_id: null,
   },
   {
     id: 1820,
@@ -12738,6 +14557,7 @@ export default [
     date: "2022-10-25",
     discharge: 26.5,
     water_level: 0.406,
+    user_id: null,
   },
   {
     id: 1821,
@@ -12745,6 +14565,7 @@ export default [
     date: "2022-10-26",
     discharge: 25.5,
     water_level: 0.393,
+    user_id: null,
   },
   {
     id: 1822,
@@ -12752,6 +14573,7 @@ export default [
     date: "2022-10-27",
     discharge: 25.3,
     water_level: 0.39,
+    user_id: null,
   },
   {
     id: 1823,
@@ -12759,6 +14581,7 @@ export default [
     date: "2022-10-28",
     discharge: 24.7,
     water_level: 0.381,
+    user_id: null,
   },
   {
     id: 1824,
@@ -12766,6 +14589,7 @@ export default [
     date: "2022-10-29",
     discharge: 24.3,
     water_level: 0.375,
+    user_id: null,
   },
   {
     id: 1825,
@@ -12773,6 +14597,7 @@ export default [
     date: "2022-10-30",
     discharge: 24,
     water_level: 0.371,
+    user_id: null,
   },
   {
     id: 1826,
@@ -12780,6 +14605,7 @@ export default [
     date: "2022-10-31",
     discharge: 24,
     water_level: 0.37,
+    user_id: null,
   },
   {
     id: 1827,
@@ -12787,6 +14613,7 @@ export default [
     date: "2022-11-01",
     discharge: 24.2,
     water_level: 0.373,
+    user_id: null,
   },
   {
     id: 1828,
@@ -12794,6 +14621,7 @@ export default [
     date: "2022-11-02",
     discharge: 25.4,
     water_level: 0.392,
+    user_id: null,
   },
   {
     id: 1829,
@@ -12801,6 +14629,7 @@ export default [
     date: "2022-11-03",
     discharge: 24.2,
     water_level: 0.377,
+    user_id: null,
   },
   {
     id: 1830,
@@ -12808,6 +14637,7 @@ export default [
     date: "2022-11-04",
     discharge: 22,
     water_level: 0.371,
+    user_id: null,
   },
   {
     id: 1831,
@@ -12815,6 +14645,7 @@ export default [
     date: "2022-11-05",
     discharge: 25.9,
     water_level: 0.447,
+    user_id: null,
   },
   {
     id: 1832,
@@ -12822,6 +14653,7 @@ export default [
     date: "2022-11-06",
     discharge: 19.8,
     water_level: 0.36,
+    user_id: null,
   },
   {
     id: 1833,
@@ -12829,6 +14661,7 @@ export default [
     date: "2022-11-07",
     discharge: 14.7,
     water_level: 0.268,
+    user_id: null,
   },
   {
     id: 1834,
@@ -12836,6 +14669,7 @@ export default [
     date: "2022-11-08",
     discharge: 12.4,
     water_level: 0.233,
+    user_id: null,
   },
   {
     id: 1835,
@@ -12843,27 +14677,31 @@ export default [
     date: "2022-11-09",
     discharge: 12.7,
     water_level: 0.254,
+    user_id: null,
   },
   {
     id: 1836,
     station_id: "05AD007",
     date: "2022-11-10",
     discharge: 13.2,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1837,
     station_id: "05AD007",
     date: "2022-11-11",
     discharge: 14.1,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1838,
     station_id: "05AD007",
     date: "2022-11-12",
     discharge: 15.1,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 1839,
@@ -12871,6 +14709,7 @@ export default [
     date: "2022-11-13",
     discharge: 16.2,
     water_level: 0.474,
+    user_id: null,
   },
   {
     id: 1840,
@@ -12878,6 +14717,7 @@ export default [
     date: "2022-11-14",
     discharge: 17.2,
     water_level: 0.465,
+    user_id: null,
   },
   {
     id: 1841,
@@ -12885,6 +14725,7 @@ export default [
     date: "2022-11-15",
     discharge: 18.3,
     water_level: 0.473,
+    user_id: null,
   },
   {
     id: 1842,
@@ -12892,6 +14733,7 @@ export default [
     date: "2022-11-16",
     discharge: 19,
     water_level: 0.455,
+    user_id: null,
   },
   {
     id: 1843,
@@ -12899,6 +14741,7 @@ export default [
     date: "2022-11-17",
     discharge: 19.4,
     water_level: 0.487,
+    user_id: null,
   },
   {
     id: 1844,
@@ -12906,6 +14749,7 @@ export default [
     date: "2022-11-18",
     discharge: 19.4,
     water_level: 0.51,
+    user_id: null,
   },
   {
     id: 1845,
@@ -12913,6 +14757,7 @@ export default [
     date: "2022-11-19",
     discharge: 19.4,
     water_level: 0.492,
+    user_id: null,
   },
   {
     id: 1846,
@@ -12920,6 +14765,7 @@ export default [
     date: "2022-11-20",
     discharge: 19.4,
     water_level: 0.483,
+    user_id: null,
   },
   {
     id: 1847,
@@ -12927,6 +14773,7 @@ export default [
     date: "2022-11-21",
     discharge: 19.4,
     water_level: 0.454,
+    user_id: null,
   },
   {
     id: 1848,
@@ -12934,6 +14781,7 @@ export default [
     date: "2022-11-22",
     discharge: 19.4,
     water_level: 0.435,
+    user_id: null,
   },
   {
     id: 1849,
@@ -12941,6 +14789,7 @@ export default [
     date: "2022-11-23",
     discharge: 19.4,
     water_level: 0.454,
+    user_id: null,
   },
   {
     id: 1850,
@@ -12948,6 +14797,7 @@ export default [
     date: "2022-11-24",
     discharge: 19.4,
     water_level: 0.455,
+    user_id: null,
   },
   {
     id: 1851,
@@ -12955,6 +14805,7 @@ export default [
     date: "2022-11-25",
     discharge: 19.4,
     water_level: 0.436,
+    user_id: null,
   },
   {
     id: 1852,
@@ -12962,6 +14813,7 @@ export default [
     date: "2022-11-26",
     discharge: 19.4,
     water_level: 0.454,
+    user_id: null,
   },
   {
     id: 1853,
@@ -12969,6 +14821,7 @@ export default [
     date: "2022-11-27",
     discharge: 19.4,
     water_level: 0.431,
+    user_id: null,
   },
   {
     id: 1854,
@@ -12976,6 +14829,7 @@ export default [
     date: "2022-11-28",
     discharge: 19.4,
     water_level: 0.663,
+    user_id: null,
   },
   {
     id: 1855,
@@ -12983,6 +14837,7 @@ export default [
     date: "2022-11-29",
     discharge: 19.3,
     water_level: 0.863,
+    user_id: null,
   },
   {
     id: 1856,
@@ -12990,6 +14845,7 @@ export default [
     date: "2022-11-30",
     discharge: 19.2,
     water_level: 0.765,
+    user_id: null,
   },
   {
     id: 1857,
@@ -12997,6 +14853,7 @@ export default [
     date: "2022-12-01",
     discharge: 19.1,
     water_level: 0.857,
+    user_id: null,
   },
   {
     id: 1858,
@@ -13004,6 +14861,7 @@ export default [
     date: "2022-12-02",
     discharge: 18.9,
     water_level: 0.838,
+    user_id: null,
   },
   {
     id: 1859,
@@ -13011,6 +14869,7 @@ export default [
     date: "2022-12-03",
     discharge: 18.7,
     water_level: 0.778,
+    user_id: null,
   },
   {
     id: 1860,
@@ -13018,6 +14877,7 @@ export default [
     date: "2022-12-04",
     discharge: 18.5,
     water_level: 0.797,
+    user_id: null,
   },
   {
     id: 1861,
@@ -13025,6 +14885,7 @@ export default [
     date: "2022-12-05",
     discharge: 18.4,
     water_level: 0.828,
+    user_id: null,
   },
   {
     id: 1862,
@@ -13032,6 +14893,7 @@ export default [
     date: "2022-12-06",
     discharge: 18.2,
     water_level: 0.876,
+    user_id: null,
   },
   {
     id: 1863,
@@ -13039,6 +14901,7 @@ export default [
     date: "2022-12-07",
     discharge: 18,
     water_level: 0.92,
+    user_id: null,
   },
   {
     id: 1864,
@@ -13046,6 +14909,7 @@ export default [
     date: "2022-12-08",
     discharge: 17.8,
     water_level: 0.918,
+    user_id: null,
   },
   {
     id: 1865,
@@ -13053,6 +14917,7 @@ export default [
     date: "2022-12-09",
     discharge: 17.6,
     water_level: 0.941,
+    user_id: null,
   },
   {
     id: 1866,
@@ -13060,6 +14925,7 @@ export default [
     date: "2022-12-10",
     discharge: 17.5,
     water_level: 0.96,
+    user_id: null,
   },
   {
     id: 1867,
@@ -13067,6 +14933,7 @@ export default [
     date: "2022-12-11",
     discharge: 17.3,
     water_level: 0.898,
+    user_id: null,
   },
   {
     id: 1868,
@@ -13074,6 +14941,7 @@ export default [
     date: "2022-12-12",
     discharge: 17.1,
     water_level: 0.832,
+    user_id: null,
   },
   {
     id: 1869,
@@ -13081,6 +14949,7 @@ export default [
     date: "2022-12-13",
     discharge: 16.9,
     water_level: 0.812,
+    user_id: null,
   },
   {
     id: 1870,
@@ -13088,6 +14957,7 @@ export default [
     date: "2022-12-14",
     discharge: 16.7,
     water_level: 0.832,
+    user_id: null,
   },
   {
     id: 1871,
@@ -13095,6 +14965,7 @@ export default [
     date: "2022-12-15",
     discharge: 16.6,
     water_level: 0.836,
+    user_id: null,
   },
   {
     id: 1872,
@@ -13102,6 +14973,7 @@ export default [
     date: "2022-12-16",
     discharge: 16.6,
     water_level: 0.85,
+    user_id: null,
   },
   {
     id: 1873,
@@ -13109,6 +14981,7 @@ export default [
     date: "2022-12-17",
     discharge: 16.7,
     water_level: 0.843,
+    user_id: null,
   },
   {
     id: 1874,
@@ -13116,6 +14989,7 @@ export default [
     date: "2022-12-18",
     discharge: 16.8,
     water_level: 0.823,
+    user_id: null,
   },
   {
     id: 1875,
@@ -13123,6 +14997,7 @@ export default [
     date: "2022-12-19",
     discharge: 16.8,
     water_level: 0.792,
+    user_id: null,
   },
   {
     id: 1876,
@@ -13130,6 +15005,7 @@ export default [
     date: "2022-12-20",
     discharge: 16.9,
     water_level: 0.756,
+    user_id: null,
   },
   {
     id: 1877,
@@ -13137,6 +15013,7 @@ export default [
     date: "2022-12-21",
     discharge: 17,
     water_level: 0.745,
+    user_id: null,
   },
   {
     id: 1878,
@@ -13144,6 +15021,7 @@ export default [
     date: "2022-12-22",
     discharge: 17.1,
     water_level: 0.772,
+    user_id: null,
   },
   {
     id: 1879,
@@ -13151,6 +15029,7 @@ export default [
     date: "2022-12-23",
     discharge: 17.2,
     water_level: 0.785,
+    user_id: null,
   },
   {
     id: 1880,
@@ -13158,6 +15037,7 @@ export default [
     date: "2022-12-24",
     discharge: 17.5,
     water_level: 0.817,
+    user_id: null,
   },
   {
     id: 1881,
@@ -13165,6 +15045,7 @@ export default [
     date: "2022-12-25",
     discharge: 18,
     water_level: 0.853,
+    user_id: null,
   },
   {
     id: 1882,
@@ -13172,6 +15053,7 @@ export default [
     date: "2022-12-26",
     discharge: 18.5,
     water_level: 0.892,
+    user_id: null,
   },
   {
     id: 1883,
@@ -13179,6 +15061,7 @@ export default [
     date: "2022-12-27",
     discharge: 19.1,
     water_level: 0.907,
+    user_id: null,
   },
   {
     id: 1884,
@@ -13186,6 +15069,7 @@ export default [
     date: "2022-12-28",
     discharge: 19.7,
     water_level: 0.923,
+    user_id: null,
   },
   {
     id: 1885,
@@ -13193,6 +15077,7 @@ export default [
     date: "2022-12-29",
     discharge: 20.2,
     water_level: 0.862,
+    user_id: null,
   },
   {
     id: 1886,
@@ -13200,6 +15085,7 @@ export default [
     date: "2022-12-30",
     discharge: 20.5,
     water_level: 0.834,
+    user_id: null,
   },
   {
     id: 1887,
@@ -13207,6 +15093,7 @@ export default [
     date: "2022-12-31",
     discharge: 20.7,
     water_level: 0.824,
+    user_id: null,
   },
   {
     id: 1888,
@@ -13214,6 +15101,7 @@ export default [
     date: "2023-01-01",
     discharge: 20.7,
     water_level: 0.818,
+    user_id: null,
   },
   {
     id: 1889,
@@ -13221,6 +15109,7 @@ export default [
     date: "2023-01-02",
     discharge: 20.6,
     water_level: 0.812,
+    user_id: null,
   },
   {
     id: 1890,
@@ -13228,6 +15117,7 @@ export default [
     date: "2023-01-03",
     discharge: 20.6,
     water_level: 0.822,
+    user_id: null,
   },
   {
     id: 1891,
@@ -13235,6 +15125,7 @@ export default [
     date: "2023-01-04",
     discharge: 20.5,
     water_level: 0.803,
+    user_id: null,
   },
   {
     id: 1892,
@@ -13242,6 +15133,7 @@ export default [
     date: "2023-01-05",
     discharge: 20.5,
     water_level: 0.767,
+    user_id: null,
   },
   {
     id: 1893,
@@ -13249,6 +15141,7 @@ export default [
     date: "2023-01-06",
     discharge: 20.4,
     water_level: 0.734,
+    user_id: null,
   },
   {
     id: 1894,
@@ -13256,6 +15149,7 @@ export default [
     date: "2023-01-07",
     discharge: 20.4,
     water_level: 0.742,
+    user_id: null,
   },
   {
     id: 1895,
@@ -13263,6 +15157,7 @@ export default [
     date: "2023-01-08",
     discharge: 20.3,
     water_level: 0.752,
+    user_id: null,
   },
   {
     id: 1896,
@@ -13270,6 +15165,7 @@ export default [
     date: "2023-01-09",
     discharge: 20.3,
     water_level: 0.753,
+    user_id: null,
   },
   {
     id: 1897,
@@ -13277,6 +15173,7 @@ export default [
     date: "2023-01-10",
     discharge: 20.2,
     water_level: 0.736,
+    user_id: null,
   },
   {
     id: 1898,
@@ -13284,6 +15181,7 @@ export default [
     date: "2023-01-11",
     discharge: 20.2,
     water_level: 0.727,
+    user_id: null,
   },
   {
     id: 1899,
@@ -13291,6 +15189,7 @@ export default [
     date: "2023-01-12",
     discharge: 20.1,
     water_level: 0.702,
+    user_id: null,
   },
   {
     id: 1900,
@@ -13298,6 +15197,7 @@ export default [
     date: "2023-01-13",
     discharge: 20.1,
     water_level: 0.696,
+    user_id: null,
   },
   {
     id: 1901,
@@ -13305,6 +15205,7 @@ export default [
     date: "2023-01-14",
     discharge: 20,
     water_level: 0.703,
+    user_id: null,
   },
   {
     id: 1902,
@@ -13312,6 +15213,7 @@ export default [
     date: "2023-01-15",
     discharge: 20,
     water_level: 0.688,
+    user_id: null,
   },
   {
     id: 1903,
@@ -13319,6 +15221,7 @@ export default [
     date: "2023-01-16",
     discharge: 19.9,
     water_level: 0.67,
+    user_id: null,
   },
   {
     id: 1904,
@@ -13326,6 +15229,7 @@ export default [
     date: "2023-01-17",
     discharge: 19.9,
     water_level: 0.659,
+    user_id: null,
   },
   {
     id: 1905,
@@ -13333,6 +15237,7 @@ export default [
     date: "2023-01-18",
     discharge: 19.8,
     water_level: 0.649,
+    user_id: null,
   },
   {
     id: 1906,
@@ -13340,6 +15245,7 @@ export default [
     date: "2023-01-19",
     discharge: 19.8,
     water_level: 0.63,
+    user_id: null,
   },
   {
     id: 1907,
@@ -13347,6 +15253,7 @@ export default [
     date: "2023-01-20",
     discharge: 19.7,
     water_level: 0.609,
+    user_id: null,
   },
   {
     id: 1908,
@@ -13354,6 +15261,7 @@ export default [
     date: "2023-01-21",
     discharge: 19.7,
     water_level: 0.596,
+    user_id: null,
   },
   {
     id: 1909,
@@ -13361,6 +15269,7 @@ export default [
     date: "2023-01-22",
     discharge: 19.6,
     water_level: 0.586,
+    user_id: null,
   },
   {
     id: 1910,
@@ -13368,6 +15277,7 @@ export default [
     date: "2023-01-23",
     discharge: 19.6,
     water_level: 0.599,
+    user_id: null,
   },
   {
     id: 1911,
@@ -13375,6 +15285,7 @@ export default [
     date: "2023-01-24",
     discharge: 19.6,
     water_level: 0.577,
+    user_id: null,
   },
   {
     id: 1912,
@@ -13382,6 +15293,7 @@ export default [
     date: "2023-01-25",
     discharge: 19.5,
     water_level: 0.55,
+    user_id: null,
   },
   {
     id: 1913,
@@ -13389,6 +15301,7 @@ export default [
     date: "2023-01-26",
     discharge: 19.5,
     water_level: 0.573,
+    user_id: null,
   },
   {
     id: 1914,
@@ -13396,6 +15309,7 @@ export default [
     date: "2023-01-27",
     discharge: 19.4,
     water_level: 0.578,
+    user_id: null,
   },
   {
     id: 1915,
@@ -13403,6 +15317,7 @@ export default [
     date: "2023-01-28",
     discharge: 19.4,
     water_level: 0.58,
+    user_id: null,
   },
   {
     id: 1916,
@@ -13410,6 +15325,7 @@ export default [
     date: "2023-01-29",
     discharge: 19.4,
     water_level: 0.548,
+    user_id: null,
   },
   {
     id: 1917,
@@ -13417,6 +15333,7 @@ export default [
     date: "2023-01-30",
     discharge: 19.3,
     water_level: 0.5,
+    user_id: null,
   },
   {
     id: 1918,
@@ -13424,6 +15341,7 @@ export default [
     date: "2023-01-31",
     discharge: 19.3,
     water_level: 0.453,
+    user_id: null,
   },
   {
     id: 1919,
@@ -13431,6 +15349,7 @@ export default [
     date: "2023-02-01",
     discharge: 19.2,
     water_level: 0.495,
+    user_id: null,
   },
   {
     id: 1920,
@@ -13438,6 +15357,7 @@ export default [
     date: "2023-02-02",
     discharge: 19.2,
     water_level: 0.472,
+    user_id: null,
   },
   {
     id: 1921,
@@ -13445,6 +15365,7 @@ export default [
     date: "2023-02-03",
     discharge: 19.2,
     water_level: 0.522,
+    user_id: null,
   },
   {
     id: 1922,
@@ -13452,6 +15373,7 @@ export default [
     date: "2023-02-04",
     discharge: 19.1,
     water_level: 0.581,
+    user_id: null,
   },
   {
     id: 1923,
@@ -13459,6 +15381,7 @@ export default [
     date: "2023-02-05",
     discharge: 19.1,
     water_level: 0.585,
+    user_id: null,
   },
   {
     id: 1924,
@@ -13466,6 +15389,7 @@ export default [
     date: "2023-02-06",
     discharge: 19,
     water_level: 0.603,
+    user_id: null,
   },
   {
     id: 1925,
@@ -13473,6 +15397,7 @@ export default [
     date: "2023-02-07",
     discharge: 19,
     water_level: 0.597,
+    user_id: null,
   },
   {
     id: 1926,
@@ -13480,6 +15405,7 @@ export default [
     date: "2023-02-08",
     discharge: 19,
     water_level: 0.579,
+    user_id: null,
   },
   {
     id: 1927,
@@ -13487,6 +15413,7 @@ export default [
     date: "2023-02-09",
     discharge: 18.9,
     water_level: 0.569,
+    user_id: null,
   },
   {
     id: 1928,
@@ -13494,6 +15421,7 @@ export default [
     date: "2023-02-10",
     discharge: 18.9,
     water_level: 0.57,
+    user_id: null,
   },
   {
     id: 1929,
@@ -13501,6 +15429,7 @@ export default [
     date: "2023-02-11",
     discharge: 18.8,
     water_level: 0.598,
+    user_id: null,
   },
   {
     id: 1930,
@@ -13508,6 +15437,7 @@ export default [
     date: "2023-02-12",
     discharge: 18.8,
     water_level: 0.588,
+    user_id: null,
   },
   {
     id: 1931,
@@ -13515,6 +15445,7 @@ export default [
     date: "2023-02-13",
     discharge: 18.7,
     water_level: 0.622,
+    user_id: null,
   },
   {
     id: 1932,
@@ -13522,6 +15453,7 @@ export default [
     date: "2023-02-14",
     discharge: 18.7,
     water_level: 0.65,
+    user_id: null,
   },
   {
     id: 1933,
@@ -13529,6 +15461,7 @@ export default [
     date: "2023-02-15",
     discharge: 18.7,
     water_level: 0.644,
+    user_id: null,
   },
   {
     id: 1934,
@@ -13536,6 +15469,7 @@ export default [
     date: "2023-02-16",
     discharge: 18.6,
     water_level: 0.598,
+    user_id: null,
   },
   {
     id: 1935,
@@ -13543,6 +15477,7 @@ export default [
     date: "2023-02-17",
     discharge: 18.6,
     water_level: 0.57,
+    user_id: null,
   },
   {
     id: 1936,
@@ -13550,6 +15485,7 @@ export default [
     date: "2023-02-18",
     discharge: 18.5,
     water_level: 0.582,
+    user_id: null,
   },
   {
     id: 1937,
@@ -13557,6 +15493,7 @@ export default [
     date: "2023-02-19",
     discharge: 18.5,
     water_level: 0.637,
+    user_id: null,
   },
   {
     id: 1938,
@@ -13564,6 +15501,7 @@ export default [
     date: "2023-02-20",
     discharge: 18.5,
     water_level: 0.613,
+    user_id: null,
   },
   {
     id: 1939,
@@ -13571,6 +15509,7 @@ export default [
     date: "2023-02-21",
     discharge: 18.4,
     water_level: 0.622,
+    user_id: null,
   },
   {
     id: 1940,
@@ -13578,6 +15517,7 @@ export default [
     date: "2023-02-22",
     discharge: 18.4,
     water_level: 0.638,
+    user_id: null,
   },
   {
     id: 1941,
@@ -13585,6 +15525,7 @@ export default [
     date: "2023-02-23",
     discharge: 18.3,
     water_level: 0.65,
+    user_id: null,
   },
   {
     id: 1942,
@@ -13592,6 +15533,7 @@ export default [
     date: "2023-02-24",
     discharge: 18.3,
     water_level: 0.613,
+    user_id: null,
   },
   {
     id: 1943,
@@ -13599,6 +15541,7 @@ export default [
     date: "2023-02-25",
     discharge: 18.3,
     water_level: 0.794,
+    user_id: null,
   },
   {
     id: 1944,
@@ -13606,6 +15549,7 @@ export default [
     date: "2023-02-26",
     discharge: 18.2,
     water_level: 0.794,
+    user_id: null,
   },
   {
     id: 1945,
@@ -13613,6 +15557,7 @@ export default [
     date: "2023-02-27",
     discharge: 18.2,
     water_level: 0.777,
+    user_id: null,
   },
   {
     id: 1946,
@@ -13620,6 +15565,7 @@ export default [
     date: "2023-02-28",
     discharge: 18.1,
     water_level: 0.799,
+    user_id: null,
   },
   {
     id: 1947,
@@ -13627,6 +15573,7 @@ export default [
     date: "2023-03-01",
     discharge: 18.2,
     water_level: 0.798,
+    user_id: null,
   },
   {
     id: 1948,
@@ -13634,6 +15581,7 @@ export default [
     date: "2023-03-02",
     discharge: 18.2,
     water_level: 0.777,
+    user_id: null,
   },
   {
     id: 1949,
@@ -13641,6 +15589,7 @@ export default [
     date: "2023-03-03",
     discharge: 18.3,
     water_level: 0.726,
+    user_id: null,
   },
   {
     id: 1950,
@@ -13648,6 +15597,7 @@ export default [
     date: "2023-03-04",
     discharge: 18.3,
     water_level: 0.713,
+    user_id: null,
   },
   {
     id: 1951,
@@ -13655,6 +15605,7 @@ export default [
     date: "2023-03-05",
     discharge: 18.4,
     water_level: 0.702,
+    user_id: null,
   },
   {
     id: 1952,
@@ -13662,6 +15613,7 @@ export default [
     date: "2023-03-06",
     discharge: 18.5,
     water_level: 0.709,
+    user_id: null,
   },
   {
     id: 1953,
@@ -13669,6 +15621,7 @@ export default [
     date: "2023-03-07",
     discharge: 18.5,
     water_level: 0.681,
+    user_id: null,
   },
   {
     id: 1954,
@@ -13676,6 +15629,7 @@ export default [
     date: "2023-03-08",
     discharge: 18.6,
     water_level: 0.668,
+    user_id: null,
   },
   {
     id: 1955,
@@ -13683,6 +15637,7 @@ export default [
     date: "2023-03-09",
     discharge: 18.7,
     water_level: 0.677,
+    user_id: null,
   },
   {
     id: 1956,
@@ -13690,6 +15645,7 @@ export default [
     date: "2023-03-10",
     discharge: 18.7,
     water_level: 0.691,
+    user_id: null,
   },
   {
     id: 1957,
@@ -13697,6 +15653,7 @@ export default [
     date: "2023-03-11",
     discharge: 18.8,
     water_level: 0.717,
+    user_id: null,
   },
   {
     id: 1958,
@@ -13704,6 +15661,7 @@ export default [
     date: "2023-03-12",
     discharge: 18.8,
     water_level: 0.717,
+    user_id: null,
   },
   {
     id: 1959,
@@ -13711,6 +15669,7 @@ export default [
     date: "2023-03-13",
     discharge: 18.9,
     water_level: 0.733,
+    user_id: null,
   },
   {
     id: 1960,
@@ -13718,6 +15677,7 @@ export default [
     date: "2023-03-14",
     discharge: 19,
     water_level: 0.699,
+    user_id: null,
   },
   {
     id: 1961,
@@ -13725,6 +15685,7 @@ export default [
     date: "2023-03-15",
     discharge: 19,
     water_level: 0.683,
+    user_id: null,
   },
   {
     id: 1962,
@@ -13732,6 +15693,7 @@ export default [
     date: "2023-03-16",
     discharge: 19.1,
     water_level: 0.675,
+    user_id: null,
   },
   {
     id: 1963,
@@ -13739,6 +15701,7 @@ export default [
     date: "2023-03-17",
     discharge: 19.2,
     water_level: 0.641,
+    user_id: null,
   },
   {
     id: 1964,
@@ -13746,6 +15709,7 @@ export default [
     date: "2023-03-18",
     discharge: 19.2,
     water_level: 0.621,
+    user_id: null,
   },
   {
     id: 1965,
@@ -13753,6 +15717,7 @@ export default [
     date: "2023-03-19",
     discharge: 19.3,
     water_level: 0.625,
+    user_id: null,
   },
   {
     id: 1966,
@@ -13760,6 +15725,7 @@ export default [
     date: "2023-03-20",
     discharge: 19.3,
     water_level: 0.654,
+    user_id: null,
   },
   {
     id: 1967,
@@ -13767,6 +15733,7 @@ export default [
     date: "2023-03-21",
     discharge: 21.9,
     water_level: 0.74,
+    user_id: null,
   },
   {
     id: 1968,
@@ -13774,6 +15741,7 @@ export default [
     date: "2023-03-22",
     discharge: 29.9,
     water_level: 0.896,
+    user_id: null,
   },
   {
     id: 1969,
@@ -13781,6 +15749,7 @@ export default [
     date: "2023-03-23",
     discharge: 33.6,
     water_level: 0.945,
+    user_id: null,
   },
   {
     id: 1970,
@@ -13788,6 +15757,7 @@ export default [
     date: "2023-03-24",
     discharge: 34,
     water_level: 0.896,
+    user_id: null,
   },
   {
     id: 1971,
@@ -13795,6 +15765,7 @@ export default [
     date: "2023-03-25",
     discharge: 33.8,
     water_level: 0.896,
+    user_id: null,
   },
   {
     id: 1972,
@@ -13802,6 +15773,7 @@ export default [
     date: "2023-03-26",
     discharge: 34,
     water_level: 0.591,
+    user_id: null,
   },
   {
     id: 1973,
@@ -13809,6 +15781,7 @@ export default [
     date: "2023-03-27",
     discharge: 32.7,
     water_level: 0.497,
+    user_id: null,
   },
   {
     id: 1974,
@@ -13816,6 +15789,7 @@ export default [
     date: "2023-03-28",
     discharge: 31.9,
     water_level: 0.445,
+    user_id: null,
   },
   {
     id: 1975,
@@ -13823,6 +15797,7 @@ export default [
     date: "2023-03-29",
     discharge: 32.6,
     water_level: 0.429,
+    user_id: null,
   },
   {
     id: 1976,
@@ -13830,6 +15805,7 @@ export default [
     date: "2023-03-30",
     discharge: 31.5,
     water_level: 0.416,
+    user_id: null,
   },
   {
     id: 1977,
@@ -13837,6 +15813,7 @@ export default [
     date: "2023-03-31",
     discharge: 30.2,
     water_level: 0.402,
+    user_id: null,
   },
   {
     id: 1978,
@@ -13844,6 +15821,7 @@ export default [
     date: "2023-04-01",
     discharge: 30,
     water_level: 0.399,
+    user_id: null,
   },
   {
     id: 1979,
@@ -13851,6 +15829,7 @@ export default [
     date: "2023-04-02",
     discharge: 32.6,
     water_level: 0.429,
+    user_id: null,
   },
   {
     id: 1980,
@@ -13858,6 +15837,7 @@ export default [
     date: "2023-04-03",
     discharge: 31.1,
     water_level: 0.412,
+    user_id: null,
   },
   {
     id: 1981,
@@ -13865,6 +15845,7 @@ export default [
     date: "2023-04-04",
     discharge: 28.7,
     water_level: 0.384,
+    user_id: null,
   },
   {
     id: 1982,
@@ -13872,6 +15853,7 @@ export default [
     date: "2023-04-05",
     discharge: 27.2,
     water_level: 0.366,
+    user_id: null,
   },
   {
     id: 1983,
@@ -13879,6 +15861,7 @@ export default [
     date: "2023-04-06",
     discharge: 26,
     water_level: 0.354,
+    user_id: null,
   },
   {
     id: 1984,
@@ -13886,6 +15869,7 @@ export default [
     date: "2023-04-07",
     discharge: 25.4,
     water_level: 0.347,
+    user_id: null,
   },
   {
     id: 1985,
@@ -13893,6 +15877,7 @@ export default [
     date: "2023-04-08",
     discharge: 25.9,
     water_level: 0.352,
+    user_id: null,
   },
   {
     id: 1986,
@@ -13900,6 +15885,7 @@ export default [
     date: "2023-04-09",
     discharge: 26.9,
     water_level: 0.364,
+    user_id: null,
   },
   {
     id: 1987,
@@ -13907,6 +15893,7 @@ export default [
     date: "2023-04-10",
     discharge: 29.2,
     water_level: 0.391,
+    user_id: null,
   },
   {
     id: 1988,
@@ -13914,6 +15901,7 @@ export default [
     date: "2023-04-11",
     discharge: 31.3,
     water_level: 0.415,
+    user_id: null,
   },
   {
     id: 1989,
@@ -13921,6 +15909,7 @@ export default [
     date: "2023-04-12",
     discharge: 36.2,
     water_level: 0.471,
+    user_id: null,
   },
   {
     id: 1990,
@@ -13928,6 +15917,7 @@ export default [
     date: "2023-04-13",
     discharge: 40,
     water_level: 0.518,
+    user_id: null,
   },
   {
     id: 1991,
@@ -13935,6 +15925,7 @@ export default [
     date: "2023-04-14",
     discharge: 39.6,
     water_level: 0.512,
+    user_id: null,
   },
   {
     id: 1992,
@@ -13942,6 +15933,7 @@ export default [
     date: "2023-04-15",
     discharge: 36.2,
     water_level: 0.47,
+    user_id: null,
   },
   {
     id: 1993,
@@ -13949,6 +15941,7 @@ export default [
     date: "2023-04-16",
     discharge: 30,
     water_level: 0.4,
+    user_id: null,
   },
   {
     id: 1994,
@@ -13956,6 +15949,7 @@ export default [
     date: "2023-04-17",
     discharge: 27.3,
     water_level: 0.369,
+    user_id: null,
   },
   {
     id: 1995,
@@ -13963,6 +15957,7 @@ export default [
     date: "2023-04-18",
     discharge: 26.3,
     water_level: 0.357,
+    user_id: null,
   },
   {
     id: 1996,
@@ -13970,6 +15965,7 @@ export default [
     date: "2023-04-19",
     discharge: 26.6,
     water_level: 0.36,
+    user_id: null,
   },
   {
     id: 1997,
@@ -13977,6 +15973,7 @@ export default [
     date: "2023-04-20",
     discharge: 27.2,
     water_level: 0.367,
+    user_id: null,
   },
   {
     id: 1998,
@@ -13984,6 +15981,7 @@ export default [
     date: "2023-04-21",
     discharge: 26.2,
     water_level: 0.356,
+    user_id: null,
   },
   {
     id: 1999,
@@ -13991,6 +15989,7 @@ export default [
     date: "2023-04-22",
     discharge: 25.1,
     water_level: 0.343,
+    user_id: null,
   },
   {
     id: 2000,
@@ -13998,6 +15997,7 @@ export default [
     date: "2023-04-23",
     discharge: 24.4,
     water_level: 0.334,
+    user_id: null,
   },
   {
     id: 2001,
@@ -14005,6 +16005,7 @@ export default [
     date: "2023-04-24",
     discharge: 23.7,
     water_level: 0.326,
+    user_id: null,
   },
   {
     id: 2002,
@@ -14012,6 +16013,7 @@ export default [
     date: "2023-04-25",
     discharge: 23.6,
     water_level: 0.324,
+    user_id: null,
   },
   {
     id: 2003,
@@ -14019,6 +16021,7 @@ export default [
     date: "2023-04-26",
     discharge: 27.3,
     water_level: 0.368,
+    user_id: null,
   },
   {
     id: 2004,
@@ -14026,6 +16029,7 @@ export default [
     date: "2023-04-27",
     discharge: 24.8,
     water_level: 0.339,
+    user_id: null,
   },
   {
     id: 2005,
@@ -14033,6 +16037,7 @@ export default [
     date: "2023-04-28",
     discharge: 30.5,
     water_level: 0.405,
+    user_id: null,
   },
   {
     id: 2006,
@@ -14040,6 +16045,7 @@ export default [
     date: "2023-04-29",
     discharge: 28.8,
     water_level: 0.386,
+    user_id: null,
   },
   {
     id: 2007,
@@ -14047,6 +16053,7 @@ export default [
     date: "2023-04-30",
     discharge: 30.1,
     water_level: 0.401,
+    user_id: null,
   },
   {
     id: 2008,
@@ -14054,6 +16061,7 @@ export default [
     date: "2023-05-01",
     discharge: 37,
     water_level: 0.481,
+    user_id: null,
   },
   {
     id: 2009,
@@ -14061,6 +16069,7 @@ export default [
     date: "2023-05-02",
     discharge: 36.6,
     water_level: 0.475,
+    user_id: null,
   },
   {
     id: 2010,
@@ -14068,6 +16077,7 @@ export default [
     date: "2023-05-03",
     discharge: 25.8,
     water_level: 0.351,
+    user_id: null,
   },
   {
     id: 2011,
@@ -14075,6 +16085,7 @@ export default [
     date: "2023-05-04",
     discharge: 23.9,
     water_level: 0.328,
+    user_id: null,
   },
   {
     id: 2012,
@@ -14082,6 +16093,7 @@ export default [
     date: "2023-05-05",
     discharge: 24.1,
     water_level: 0.331,
+    user_id: null,
   },
   {
     id: 2013,
@@ -14089,6 +16101,7 @@ export default [
     date: "2023-05-06",
     discharge: 29.5,
     water_level: 0.394,
+    user_id: null,
   },
   {
     id: 2014,
@@ -14096,6 +16109,7 @@ export default [
     date: "2023-05-07",
     discharge: 37.7,
     water_level: 0.489,
+    user_id: null,
   },
   {
     id: 2015,
@@ -14103,6 +16117,7 @@ export default [
     date: "2023-05-08",
     discharge: 39.7,
     water_level: 0.514,
+    user_id: null,
   },
   {
     id: 2016,
@@ -14110,6 +16125,7 @@ export default [
     date: "2023-05-09",
     discharge: 38,
     water_level: 0.493,
+    user_id: null,
   },
   {
     id: 2017,
@@ -14117,6 +16133,7 @@ export default [
     date: "2023-05-10",
     discharge: 29.2,
     water_level: 0.39,
+    user_id: null,
   },
   {
     id: 2018,
@@ -14124,6 +16141,7 @@ export default [
     date: "2023-05-11",
     discharge: 26.9,
     water_level: 0.365,
+    user_id: null,
   },
   {
     id: 2019,
@@ -14131,6 +16149,7 @@ export default [
     date: "2023-05-12",
     discharge: 25.7,
     water_level: 0.35,
+    user_id: null,
   },
   {
     id: 2020,
@@ -14138,6 +16157,7 @@ export default [
     date: "2023-05-13",
     discharge: 24.2,
     water_level: 0.332,
+    user_id: null,
   },
   {
     id: 2021,
@@ -14145,6 +16165,7 @@ export default [
     date: "2023-05-14",
     discharge: 24.9,
     water_level: 0.34,
+    user_id: null,
   },
   {
     id: 2022,
@@ -14152,6 +16173,7 @@ export default [
     date: "2023-05-15",
     discharge: 21.8,
     water_level: 0.302,
+    user_id: null,
   },
   {
     id: 2023,
@@ -14159,6 +16181,7 @@ export default [
     date: "2023-05-16",
     discharge: 22.3,
     water_level: 0.308,
+    user_id: null,
   },
   {
     id: 2024,
@@ -14166,6 +16189,7 @@ export default [
     date: "2023-05-17",
     discharge: 21.2,
     water_level: 0.295,
+    user_id: null,
   },
   {
     id: 2025,
@@ -14173,6 +16197,7 @@ export default [
     date: "2023-05-18",
     discharge: 22.1,
     water_level: 0.305,
+    user_id: null,
   },
   {
     id: 2026,
@@ -14180,6 +16205,7 @@ export default [
     date: "2023-05-19",
     discharge: 41.9,
     water_level: 0.536,
+    user_id: null,
   },
   {
     id: 2027,
@@ -14187,6 +16213,7 @@ export default [
     date: "2023-05-20",
     discharge: 65.9,
     water_level: 0.799,
+    user_id: null,
   },
   {
     id: 2028,
@@ -14194,6 +16221,7 @@ export default [
     date: "2023-05-21",
     discharge: 70.4,
     water_level: 0.843,
+    user_id: null,
   },
   {
     id: 2029,
@@ -14201,6 +16229,7 @@ export default [
     date: "2023-05-22",
     discharge: 71.2,
     water_level: 0.85,
+    user_id: null,
   },
   {
     id: 2030,
@@ -14208,6 +16237,7 @@ export default [
     date: "2023-05-23",
     discharge: 72.1,
     water_level: 0.859,
+    user_id: null,
   },
   {
     id: 2031,
@@ -14215,6 +16245,7 @@ export default [
     date: "2023-05-24",
     discharge: 67.3,
     water_level: 0.811,
+    user_id: null,
   },
   {
     id: 2032,
@@ -14222,6 +16253,7 @@ export default [
     date: "2023-05-25",
     discharge: 51.1,
     water_level: 0.645,
+    user_id: null,
   },
   {
     id: 2033,
@@ -14229,6 +16261,7 @@ export default [
     date: "2023-05-26",
     discharge: 49.7,
     water_level: 0.629,
+    user_id: null,
   },
   {
     id: 2034,
@@ -14236,6 +16269,7 @@ export default [
     date: "2023-05-27",
     discharge: 40.7,
     water_level: 0.526,
+    user_id: null,
   },
   {
     id: 2035,
@@ -14243,6 +16277,7 @@ export default [
     date: "2023-05-28",
     discharge: 36.8,
     water_level: 0.478,
+    user_id: null,
   },
   {
     id: 2036,
@@ -14250,6 +16285,7 @@ export default [
     date: "2023-05-29",
     discharge: 36.5,
     water_level: 0.474,
+    user_id: null,
   },
   {
     id: 2037,
@@ -14257,6 +16293,7 @@ export default [
     date: "2023-05-30",
     discharge: 33.4,
     water_level: 0.437,
+    user_id: null,
   },
   {
     id: 2038,
@@ -14264,6 +16301,7 @@ export default [
     date: "2023-05-31",
     discharge: 31.3,
     water_level: 0.414,
+    user_id: null,
   },
   {
     id: 2039,
@@ -14271,6 +16309,7 @@ export default [
     date: "2023-06-01",
     discharge: 34.2,
     water_level: 0.447,
+    user_id: null,
   },
   {
     id: 2040,
@@ -14278,6 +16317,7 @@ export default [
     date: "2023-06-02",
     discharge: 31.8,
     water_level: 0.42,
+    user_id: null,
   },
   {
     id: 2041,
@@ -14285,6 +16325,7 @@ export default [
     date: "2023-06-03",
     discharge: 29.2,
     water_level: 0.39,
+    user_id: null,
   },
   {
     id: 2042,
@@ -14292,6 +16333,7 @@ export default [
     date: "2023-06-04",
     discharge: 24.6,
     water_level: 0.336,
+    user_id: null,
   },
   {
     id: 2043,
@@ -14299,6 +16341,7 @@ export default [
     date: "2023-06-05",
     discharge: 25.6,
     water_level: 0.349,
+    user_id: null,
   },
   {
     id: 2044,
@@ -14306,6 +16349,7 @@ export default [
     date: "2023-06-06",
     discharge: 24,
     water_level: 0.329,
+    user_id: null,
   },
   {
     id: 2045,
@@ -14313,6 +16357,7 @@ export default [
     date: "2023-06-07",
     discharge: 23,
     water_level: 0.317,
+    user_id: null,
   },
   {
     id: 2046,
@@ -14320,6 +16365,7 @@ export default [
     date: "2023-06-08",
     discharge: 22.9,
     water_level: 0.316,
+    user_id: null,
   },
   {
     id: 2047,
@@ -14327,6 +16373,7 @@ export default [
     date: "2023-06-09",
     discharge: 25.4,
     water_level: 0.345,
+    user_id: null,
   },
   {
     id: 2048,
@@ -14334,6 +16381,7 @@ export default [
     date: "2023-06-10",
     discharge: 37.4,
     water_level: 0.486,
+    user_id: null,
   },
   {
     id: 2049,
@@ -14341,6 +16389,7 @@ export default [
     date: "2023-06-11",
     discharge: 37,
     water_level: 0.481,
+    user_id: null,
   },
   {
     id: 2050,
@@ -14348,6 +16397,7 @@ export default [
     date: "2023-06-12",
     discharge: 37,
     water_level: 0.48,
+    user_id: null,
   },
   {
     id: 2051,
@@ -14355,6 +16405,7 @@ export default [
     date: "2023-06-13",
     discharge: 34.3,
     water_level: 0.448,
+    user_id: null,
   },
   {
     id: 2052,
@@ -14362,6 +16413,7 @@ export default [
     date: "2023-06-14",
     discharge: 33.6,
     water_level: 0.44,
+    user_id: null,
   },
   {
     id: 2053,
@@ -14369,6 +16421,7 @@ export default [
     date: "2023-06-15",
     discharge: 39.1,
     water_level: 0.506,
+    user_id: null,
   },
   {
     id: 2054,
@@ -14376,6 +16429,7 @@ export default [
     date: "2023-06-16",
     discharge: 40.5,
     water_level: 0.524,
+    user_id: null,
   },
   {
     id: 2055,
@@ -14383,6 +16437,7 @@ export default [
     date: "2023-06-17",
     discharge: 42,
     water_level: 0.542,
+    user_id: null,
   },
   {
     id: 2056,
@@ -14390,6 +16445,7 @@ export default [
     date: "2023-06-18",
     discharge: 38.7,
     water_level: 0.502,
+    user_id: null,
   },
   {
     id: 2057,
@@ -14397,6 +16453,7 @@ export default [
     date: "2023-06-19",
     discharge: 37.9,
     water_level: 0.491,
+    user_id: null,
   },
   {
     id: 2058,
@@ -14404,6 +16461,7 @@ export default [
     date: "2023-06-20",
     discharge: 36.9,
     water_level: 0.479,
+    user_id: null,
   },
   {
     id: 2059,
@@ -14411,6 +16469,7 @@ export default [
     date: "2023-06-21",
     discharge: 37.4,
     water_level: 0.485,
+    user_id: null,
   },
   {
     id: 2060,
@@ -14418,6 +16477,7 @@ export default [
     date: "2023-06-22",
     discharge: 36.3,
     water_level: 0.471,
+    user_id: null,
   },
   {
     id: 2061,
@@ -14425,6 +16485,7 @@ export default [
     date: "2023-06-23",
     discharge: 34.4,
     water_level: 0.448,
+    user_id: null,
   },
   {
     id: 2062,
@@ -14432,6 +16493,7 @@ export default [
     date: "2023-06-24",
     discharge: 33.4,
     water_level: 0.436,
+    user_id: null,
   },
   {
     id: 2063,
@@ -14439,6 +16501,7 @@ export default [
     date: "2023-06-25",
     discharge: 32.3,
     water_level: 0.426,
+    user_id: null,
   },
   {
     id: 2064,
@@ -14446,6 +16509,7 @@ export default [
     date: "2023-06-26",
     discharge: 32.3,
     water_level: 0.425,
+    user_id: null,
   },
   {
     id: 2065,
@@ -14453,6 +16517,7 @@ export default [
     date: "2023-06-27",
     discharge: 31,
     water_level: 0.411,
+    user_id: null,
   },
   {
     id: 2066,
@@ -14460,6 +16525,7 @@ export default [
     date: "2023-06-28",
     discharge: 28,
     water_level: 0.377,
+    user_id: null,
   },
   {
     id: 2067,
@@ -14467,6 +16533,7 @@ export default [
     date: "2023-06-29",
     discharge: 26,
     water_level: 0.353,
+    user_id: null,
   },
   {
     id: 2068,
@@ -14474,6 +16541,7 @@ export default [
     date: "2023-06-30",
     discharge: 24.8,
     water_level: 0.339,
+    user_id: null,
   },
   {
     id: 2069,
@@ -14481,6 +16549,7 @@ export default [
     date: "2023-07-01",
     discharge: 24.6,
     water_level: 0.337,
+    user_id: null,
   },
   {
     id: 2070,
@@ -14488,6 +16557,7 @@ export default [
     date: "2023-07-02",
     discharge: 24.2,
     water_level: 0.332,
+    user_id: null,
   },
   {
     id: 2071,
@@ -14495,6 +16565,7 @@ export default [
     date: "2023-07-03",
     discharge: 28.8,
     water_level: 0.386,
+    user_id: null,
   },
   {
     id: 2072,
@@ -14502,6 +16573,7 @@ export default [
     date: "2023-07-04",
     discharge: 29.2,
     water_level: 0.391,
+    user_id: null,
   },
   {
     id: 2073,
@@ -14509,6 +16581,7 @@ export default [
     date: "2023-07-05",
     discharge: 28.5,
     water_level: 0.383,
+    user_id: null,
   },
   {
     id: 2074,
@@ -14516,6 +16589,7 @@ export default [
     date: "2023-07-06",
     discharge: 29.4,
     water_level: 0.393,
+    user_id: null,
   },
   {
     id: 2075,
@@ -14523,6 +16597,7 @@ export default [
     date: "2023-07-07",
     discharge: 29.4,
     water_level: 0.393,
+    user_id: null,
   },
   {
     id: 2076,
@@ -14530,6 +16605,7 @@ export default [
     date: "2023-07-08",
     discharge: 30.3,
     water_level: 0.404,
+    user_id: null,
   },
   {
     id: 2077,
@@ -14537,6 +16613,7 @@ export default [
     date: "2023-07-09",
     discharge: 30.4,
     water_level: 0.404,
+    user_id: null,
   },
   {
     id: 2078,
@@ -14544,6 +16621,7 @@ export default [
     date: "2023-07-10",
     discharge: 31.1,
     water_level: 0.412,
+    user_id: null,
   },
   {
     id: 2079,
@@ -14551,6 +16629,7 @@ export default [
     date: "2023-07-11",
     discharge: 35.5,
     water_level: 0.462,
+    user_id: null,
   },
   {
     id: 2080,
@@ -14558,6 +16637,7 @@ export default [
     date: "2023-07-12",
     discharge: 36.9,
     water_level: 0.479,
+    user_id: null,
   },
   {
     id: 2081,
@@ -14565,6 +16645,7 @@ export default [
     date: "2023-07-13",
     discharge: 36.3,
     water_level: 0.472,
+    user_id: null,
   },
   {
     id: 2082,
@@ -14572,6 +16653,7 @@ export default [
     date: "2023-07-14",
     discharge: 36.8,
     water_level: 0.477,
+    user_id: null,
   },
   {
     id: 2083,
@@ -14579,6 +16661,7 @@ export default [
     date: "2023-07-15",
     discharge: 35.8,
     water_level: 0.465,
+    user_id: null,
   },
   {
     id: 2084,
@@ -14586,6 +16669,7 @@ export default [
     date: "2023-07-16",
     discharge: 32.7,
     water_level: 0.429,
+    user_id: null,
   },
   {
     id: 2085,
@@ -14593,6 +16677,7 @@ export default [
     date: "2023-07-17",
     discharge: 31.9,
     water_level: 0.42,
+    user_id: null,
   },
   {
     id: 2086,
@@ -14600,6 +16685,7 @@ export default [
     date: "2023-07-18",
     discharge: 29.6,
     water_level: 0.395,
+    user_id: null,
   },
   {
     id: 2087,
@@ -14607,6 +16693,7 @@ export default [
     date: "2023-07-19",
     discharge: 28.3,
     water_level: 0.381,
+    user_id: null,
   },
   {
     id: 2088,
@@ -14614,6 +16701,7 @@ export default [
     date: "2023-07-20",
     discharge: 27.7,
     water_level: 0.374,
+    user_id: null,
   },
   {
     id: 2089,
@@ -14621,6 +16709,7 @@ export default [
     date: "2023-07-21",
     discharge: 27,
     water_level: 0.366,
+    user_id: null,
   },
   {
     id: 2090,
@@ -14628,6 +16717,7 @@ export default [
     date: "2023-07-22",
     discharge: 26.9,
     water_level: 0.365,
+    user_id: null,
   },
   {
     id: 2091,
@@ -14635,6 +16725,7 @@ export default [
     date: "2023-07-23",
     discharge: 26.9,
     water_level: 0.364,
+    user_id: null,
   },
   {
     id: 2092,
@@ -14642,6 +16733,7 @@ export default [
     date: "2023-07-24",
     discharge: 27.3,
     water_level: 0.369,
+    user_id: null,
   },
   {
     id: 2093,
@@ -14649,6 +16741,7 @@ export default [
     date: "2023-07-25",
     discharge: 27.6,
     water_level: 0.372,
+    user_id: null,
   },
   {
     id: 2094,
@@ -14656,6 +16749,7 @@ export default [
     date: "2023-07-26",
     discharge: 28.4,
     water_level: 0.382,
+    user_id: null,
   },
   {
     id: 2095,
@@ -14663,6 +16757,7 @@ export default [
     date: "2023-07-27",
     discharge: 28,
     water_level: 0.377,
+    user_id: null,
   },
   {
     id: 2096,
@@ -14670,6 +16765,7 @@ export default [
     date: "2023-07-28",
     discharge: 30.4,
     water_level: 0.404,
+    user_id: null,
   },
   {
     id: 2097,
@@ -14677,6 +16773,7 @@ export default [
     date: "2023-07-29",
     discharge: 32.8,
     water_level: 0.431,
+    user_id: null,
   },
   {
     id: 2098,
@@ -14684,6 +16781,7 @@ export default [
     date: "2023-07-30",
     discharge: 33.6,
     water_level: 0.439,
+    user_id: null,
   },
   {
     id: 2099,
@@ -14691,6 +16789,7 @@ export default [
     date: "2023-07-31",
     discharge: 34.6,
     water_level: 0.45,
+    user_id: null,
   },
   {
     id: 2100,
@@ -14698,6 +16797,7 @@ export default [
     date: "2023-08-01",
     discharge: 32.8,
     water_level: 0.43,
+    user_id: null,
   },
   {
     id: 2101,
@@ -14705,6 +16805,7 @@ export default [
     date: "2023-08-02",
     discharge: 31.3,
     water_level: 0.414,
+    user_id: null,
   },
   {
     id: 2102,
@@ -14712,6 +16813,7 @@ export default [
     date: "2023-08-03",
     discharge: 29.9,
     water_level: 0.398,
+    user_id: null,
   },
   {
     id: 2103,
@@ -14719,6 +16821,7 @@ export default [
     date: "2023-08-04",
     discharge: 28,
     water_level: 0.377,
+    user_id: null,
   },
   {
     id: 2104,
@@ -14726,6 +16829,7 @@ export default [
     date: "2023-08-05",
     discharge: 27.8,
     water_level: 0.375,
+    user_id: null,
   },
   {
     id: 2105,
@@ -14733,6 +16837,7 @@ export default [
     date: "2023-08-06",
     discharge: 29.1,
     water_level: 0.39,
+    user_id: null,
   },
   {
     id: 2106,
@@ -14740,6 +16845,7 @@ export default [
     date: "2023-08-07",
     discharge: 30.5,
     water_level: 0.406,
+    user_id: null,
   },
   {
     id: 2107,
@@ -14747,6 +16853,7 @@ export default [
     date: "2023-08-08",
     discharge: 30,
     water_level: 0.4,
+    user_id: null,
   },
   {
     id: 2108,
@@ -14754,6 +16861,7 @@ export default [
     date: "2023-08-09",
     discharge: 30.1,
     water_level: 0.401,
+    user_id: null,
   },
   {
     id: 2109,
@@ -14761,6 +16869,7 @@ export default [
     date: "2023-08-10",
     discharge: 30.2,
     water_level: 0.402,
+    user_id: null,
   },
   {
     id: 2110,
@@ -14768,6 +16877,7 @@ export default [
     date: "2023-08-11",
     discharge: 29,
     water_level: 0.389,
+    user_id: null,
   },
   {
     id: 2111,
@@ -14775,6 +16885,7 @@ export default [
     date: "2023-08-12",
     discharge: 28.6,
     water_level: 0.384,
+    user_id: null,
   },
   {
     id: 2112,
@@ -14782,6 +16893,7 @@ export default [
     date: "2023-08-13",
     discharge: 26.8,
     water_level: 0.364,
+    user_id: null,
   },
   {
     id: 2113,
@@ -14789,6 +16901,7 @@ export default [
     date: "2023-08-14",
     discharge: 26.5,
     water_level: 0.359,
+    user_id: null,
   },
   {
     id: 2114,
@@ -14796,6 +16909,7 @@ export default [
     date: "2023-08-15",
     discharge: 25.5,
     water_level: 0.347,
+    user_id: null,
   },
   {
     id: 2115,
@@ -14803,6 +16917,7 @@ export default [
     date: "2023-08-16",
     discharge: 25,
     water_level: 0.341,
+    user_id: null,
   },
   {
     id: 2116,
@@ -14810,6 +16925,7 @@ export default [
     date: "2023-08-17",
     discharge: 23.7,
     water_level: 0.326,
+    user_id: null,
   },
   {
     id: 2117,
@@ -14817,6 +16933,7 @@ export default [
     date: "2023-08-18",
     discharge: 23.3,
     water_level: 0.321,
+    user_id: null,
   },
   {
     id: 2118,
@@ -14824,6 +16941,7 @@ export default [
     date: "2023-08-19",
     discharge: 25.6,
     water_level: 0.348,
+    user_id: null,
   },
   {
     id: 2119,
@@ -14831,6 +16949,7 @@ export default [
     date: "2023-08-20",
     discharge: 27.3,
     water_level: 0.369,
+    user_id: null,
   },
   {
     id: 2120,
@@ -14838,6 +16957,7 @@ export default [
     date: "2023-08-21",
     discharge: 29.4,
     water_level: 0.392,
+    user_id: null,
   },
   {
     id: 2121,
@@ -14845,6 +16965,7 @@ export default [
     date: "2023-08-22",
     discharge: 34.8,
     water_level: 0.455,
+    user_id: null,
   },
   {
     id: 2122,
@@ -14852,6 +16973,7 @@ export default [
     date: "2023-08-23",
     discharge: 35.4,
     water_level: 0.461,
+    user_id: null,
   },
   {
     id: 2123,
@@ -14859,6 +16981,7 @@ export default [
     date: "2023-08-24",
     discharge: 32,
     water_level: 0.422,
+    user_id: null,
   },
   {
     id: 2124,
@@ -14866,6 +16989,7 @@ export default [
     date: "2023-08-25",
     discharge: 29.2,
     water_level: 0.39,
+    user_id: null,
   },
   {
     id: 2125,
@@ -14873,6 +16997,7 @@ export default [
     date: "2023-08-26",
     discharge: 28.1,
     water_level: 0.379,
+    user_id: null,
   },
   {
     id: 2126,
@@ -14880,6 +17005,7 @@ export default [
     date: "2023-08-27",
     discharge: 26,
     water_level: 0.353,
+    user_id: null,
   },
   {
     id: 2127,
@@ -14887,6 +17013,7 @@ export default [
     date: "2023-08-28",
     discharge: 24.4,
     water_level: 0.335,
+    user_id: null,
   },
   {
     id: 2128,
@@ -14894,6 +17021,7 @@ export default [
     date: "2023-08-29",
     discharge: 23.2,
     water_level: 0.32,
+    user_id: null,
   },
   {
     id: 2129,
@@ -14901,6 +17029,7 @@ export default [
     date: "2023-08-30",
     discharge: 22.5,
     water_level: 0.311,
+    user_id: null,
   },
   {
     id: 2130,
@@ -14908,6 +17037,7 @@ export default [
     date: "2023-08-31",
     discharge: 25.9,
     water_level: 0.352,
+    user_id: null,
   },
   {
     id: 2131,
@@ -14915,6 +17045,7 @@ export default [
     date: "2023-09-01",
     discharge: 30.1,
     water_level: 0.401,
+    user_id: null,
   },
   {
     id: 2132,
@@ -14922,6 +17053,7 @@ export default [
     date: "2023-09-02",
     discharge: 28.5,
     water_level: 0.383,
+    user_id: null,
   },
   {
     id: 2133,
@@ -14929,6 +17061,7 @@ export default [
     date: "2023-09-03",
     discharge: 25.2,
     water_level: 0.344,
+    user_id: null,
   },
   {
     id: 2134,
@@ -14936,6 +17069,7 @@ export default [
     date: "2023-09-04",
     discharge: 23.8,
     water_level: 0.327,
+    user_id: null,
   },
   {
     id: 2135,
@@ -14943,6 +17077,7 @@ export default [
     date: "2023-09-05",
     discharge: 23.9,
     water_level: 0.328,
+    user_id: null,
   },
   {
     id: 2136,
@@ -14950,6 +17085,7 @@ export default [
     date: "2023-09-06",
     discharge: 23.7,
     water_level: 0.326,
+    user_id: null,
   },
   {
     id: 2137,
@@ -14957,6 +17093,7 @@ export default [
     date: "2023-09-07",
     discharge: 22,
     water_level: 0.304,
+    user_id: null,
   },
   {
     id: 2138,
@@ -14964,6 +17101,7 @@ export default [
     date: "2023-09-08",
     discharge: 19.9,
     water_level: 0.276,
+    user_id: null,
   },
   {
     id: 2139,
@@ -14971,6 +17109,7 @@ export default [
     date: "2023-09-09",
     discharge: 18.9,
     water_level: 0.264,
+    user_id: null,
   },
   {
     id: 2140,
@@ -14978,6 +17117,7 @@ export default [
     date: "2023-09-10",
     discharge: 20.8,
     water_level: 0.289,
+    user_id: null,
   },
   {
     id: 2141,
@@ -14985,6 +17125,7 @@ export default [
     date: "2023-09-11",
     discharge: 20,
     water_level: 0.278,
+    user_id: null,
   },
   {
     id: 2142,
@@ -14992,6 +17133,7 @@ export default [
     date: "2023-09-12",
     discharge: 20.1,
     water_level: 0.28,
+    user_id: null,
   },
   {
     id: 2143,
@@ -14999,6 +17141,7 @@ export default [
     date: "2023-09-13",
     discharge: 19.6,
     water_level: 0.273,
+    user_id: null,
   },
   {
     id: 2144,
@@ -15006,6 +17149,7 @@ export default [
     date: "2023-09-14",
     discharge: 18.2,
     water_level: 0.254,
+    user_id: null,
   },
   {
     id: 2145,
@@ -15013,6 +17157,7 @@ export default [
     date: "2023-09-15",
     discharge: 18.2,
     water_level: 0.254,
+    user_id: null,
   },
   {
     id: 2146,
@@ -15020,6 +17165,7 @@ export default [
     date: "2023-09-16",
     discharge: 17.9,
     water_level: 0.25,
+    user_id: null,
   },
   {
     id: 2147,
@@ -15027,6 +17173,7 @@ export default [
     date: "2023-09-17",
     discharge: 17.7,
     water_level: 0.246,
+    user_id: null,
   },
   {
     id: 2148,
@@ -15034,6 +17181,7 @@ export default [
     date: "2023-09-18",
     discharge: 17.7,
     water_level: 0.247,
+    user_id: null,
   },
   {
     id: 2149,
@@ -15041,6 +17189,7 @@ export default [
     date: "2023-09-19",
     discharge: 18.3,
     water_level: 0.255,
+    user_id: null,
   },
   {
     id: 2150,
@@ -15048,6 +17197,7 @@ export default [
     date: "2023-09-20",
     discharge: 18.3,
     water_level: 0.255,
+    user_id: null,
   },
   {
     id: 2151,
@@ -15055,6 +17205,7 @@ export default [
     date: "2023-09-21",
     discharge: 18,
     water_level: 0.251,
+    user_id: null,
   },
   {
     id: 2152,
@@ -15062,6 +17213,7 @@ export default [
     date: "2023-09-22",
     discharge: 17.9,
     water_level: 0.25,
+    user_id: null,
   },
   {
     id: 2153,
@@ -15069,6 +17221,7 @@ export default [
     date: "2023-09-23",
     discharge: 19,
     water_level: 0.264,
+    user_id: null,
   },
   {
     id: 2154,
@@ -15076,6 +17229,7 @@ export default [
     date: "2023-09-24",
     discharge: 19.6,
     water_level: 0.273,
+    user_id: null,
   },
   {
     id: 2155,
@@ -15083,6 +17237,7 @@ export default [
     date: "2023-09-25",
     discharge: 19.3,
     water_level: 0.269,
+    user_id: null,
   },
   {
     id: 2156,
@@ -15090,6 +17245,7 @@ export default [
     date: "2023-09-26",
     discharge: 19,
     water_level: 0.265,
+    user_id: null,
   },
   {
     id: 2157,
@@ -15097,6 +17253,7 @@ export default [
     date: "2023-09-27",
     discharge: 18.7,
     water_level: 0.26,
+    user_id: null,
   },
   {
     id: 2158,
@@ -15104,6 +17261,7 @@ export default [
     date: "2023-09-28",
     discharge: 18.5,
     water_level: 0.258,
+    user_id: null,
   },
   {
     id: 2159,
@@ -15111,6 +17269,7 @@ export default [
     date: "2023-09-29",
     discharge: 18.3,
     water_level: 0.256,
+    user_id: null,
   },
   {
     id: 2160,
@@ -15118,6 +17277,7 @@ export default [
     date: "2023-09-30",
     discharge: 20.8,
     water_level: 0.288,
+    user_id: null,
   },
   {
     id: 2161,
@@ -15125,6 +17285,7 @@ export default [
     date: "2023-10-01",
     discharge: 23.6,
     water_level: 0.324,
+    user_id: null,
   },
   {
     id: 2162,
@@ -15132,6 +17293,7 @@ export default [
     date: "2023-10-02",
     discharge: 23.5,
     water_level: 0.324,
+    user_id: null,
   },
   {
     id: 2163,
@@ -15139,6 +17301,7 @@ export default [
     date: "2023-10-03",
     discharge: 22.2,
     water_level: 0.307,
+    user_id: null,
   },
   {
     id: 2164,
@@ -15146,6 +17309,7 @@ export default [
     date: "2023-10-04",
     discharge: 23.6,
     water_level: 0.325,
+    user_id: null,
   },
   {
     id: 2165,
@@ -15153,6 +17317,7 @@ export default [
     date: "2023-10-05",
     discharge: 22.6,
     water_level: 0.312,
+    user_id: null,
   },
   {
     id: 2166,
@@ -15160,6 +17325,7 @@ export default [
     date: "2023-10-06",
     discharge: 21,
     water_level: 0.292,
+    user_id: null,
   },
   {
     id: 2167,
@@ -15167,6 +17333,7 @@ export default [
     date: "2023-10-07",
     discharge: 24,
     water_level: 0.329,
+    user_id: null,
   },
   {
     id: 2168,
@@ -15174,6 +17341,7 @@ export default [
     date: "2023-10-08",
     discharge: 22.2,
     water_level: 0.307,
+    user_id: null,
   },
   {
     id: 2169,
@@ -15181,6 +17349,7 @@ export default [
     date: "2023-10-09",
     discharge: 21.2,
     water_level: 0.294,
+    user_id: null,
   },
   {
     id: 2170,
@@ -15188,6 +17357,7 @@ export default [
     date: "2023-10-10",
     discharge: 20.7,
     water_level: 0.288,
+    user_id: null,
   },
   {
     id: 2171,
@@ -15195,6 +17365,7 @@ export default [
     date: "2023-10-11",
     discharge: 21,
     water_level: 0.291,
+    user_id: null,
   },
   {
     id: 2172,
@@ -15202,6 +17373,7 @@ export default [
     date: "2023-10-12",
     discharge: 21.1,
     water_level: 0.293,
+    user_id: null,
   },
   {
     id: 2173,
@@ -15209,6 +17381,7 @@ export default [
     date: "2023-10-13",
     discharge: 20.1,
     water_level: 0.28,
+    user_id: null,
   },
   {
     id: 2174,
@@ -15216,6 +17389,7 @@ export default [
     date: "2023-10-14",
     discharge: 19.7,
     water_level: 0.274,
+    user_id: null,
   },
   {
     id: 2175,
@@ -15223,6 +17397,7 @@ export default [
     date: "2023-10-15",
     discharge: 19,
     water_level: 0.265,
+    user_id: null,
   },
   {
     id: 2176,
@@ -15230,6 +17405,7 @@ export default [
     date: "2023-10-16",
     discharge: 18.5,
     water_level: 0.257,
+    user_id: null,
   },
   {
     id: 2177,
@@ -15237,6 +17413,7 @@ export default [
     date: "2023-10-17",
     discharge: 20.1,
     water_level: 0.278,
+    user_id: null,
   },
   {
     id: 2178,
@@ -15244,6 +17421,7 @@ export default [
     date: "2023-10-18",
     discharge: 19,
     water_level: 0.265,
+    user_id: null,
   },
   {
     id: 2179,
@@ -15251,6 +17429,7 @@ export default [
     date: "2023-10-19",
     discharge: 18.1,
     water_level: 0.252,
+    user_id: null,
   },
   {
     id: 2180,
@@ -15258,6 +17437,7 @@ export default [
     date: "2023-10-20",
     discharge: 17.7,
     water_level: 0.246,
+    user_id: null,
   },
   {
     id: 2181,
@@ -15265,6 +17445,7 @@ export default [
     date: "2023-10-21",
     discharge: 17.7,
     water_level: 0.246,
+    user_id: null,
   },
   {
     id: 2182,
@@ -15272,6 +17453,7 @@ export default [
     date: "2023-10-22",
     discharge: 18.6,
     water_level: 0.26,
+    user_id: null,
   },
   {
     id: 2183,
@@ -15279,6 +17461,7 @@ export default [
     date: "2023-10-23",
     discharge: 18.9,
     water_level: 0.264,
+    user_id: null,
   },
   {
     id: 2184,
@@ -15286,6 +17469,7 @@ export default [
     date: "2023-10-24",
     discharge: 22.2,
     water_level: 0.305,
+    user_id: null,
   },
   {
     id: 2185,
@@ -15293,6 +17477,7 @@ export default [
     date: "2023-10-25",
     discharge: 36.2,
     water_level: 0.472,
+    user_id: null,
   },
   {
     id: 2186,
@@ -15300,6 +17485,7 @@ export default [
     date: "2023-10-26",
     discharge: 36.8,
     water_level: 0.478,
+    user_id: null,
   },
   {
     id: 2187,
@@ -15307,6 +17493,7 @@ export default [
     date: "2023-10-27",
     discharge: 37.3,
     water_level: 0.483,
+    user_id: null,
   },
   {
     id: 2188,
@@ -15314,6 +17501,7 @@ export default [
     date: "2023-10-28",
     discharge: 33.9,
     water_level: 0.444,
+    user_id: null,
   },
   {
     id: 2189,
@@ -15321,6 +17509,7 @@ export default [
     date: "2023-10-29",
     discharge: 38.7,
     water_level: 0.501,
+    user_id: null,
   },
   {
     id: 2190,
@@ -15328,6 +17517,7 @@ export default [
     date: "2023-10-30",
     discharge: 37,
     water_level: 0.481,
+    user_id: null,
   },
   {
     id: 2191,
@@ -15335,6 +17525,7 @@ export default [
     date: "2023-10-31",
     discharge: 36.7,
     water_level: 0.476,
+    user_id: null,
   },
   {
     id: 2192,
@@ -15342,6 +17533,7 @@ export default [
     date: "2023-11-01",
     discharge: 31.4,
     water_level: 0.415,
+    user_id: null,
   },
   {
     id: 2193,
@@ -15349,6 +17541,7 @@ export default [
     date: "2023-11-02",
     discharge: 31.8,
     water_level: 0.42,
+    user_id: null,
   },
   {
     id: 2194,
@@ -15356,6 +17549,7 @@ export default [
     date: "2023-11-03",
     discharge: 31.8,
     water_level: 0.42,
+    user_id: null,
   },
   {
     id: 2195,
@@ -15363,6 +17557,7 @@ export default [
     date: "2023-11-04",
     discharge: 30.4,
     water_level: 0.403,
+    user_id: null,
   },
   {
     id: 2196,
@@ -15370,6 +17565,7 @@ export default [
     date: "2023-11-05",
     discharge: 23.8,
     water_level: 0.327,
+    user_id: null,
   },
   {
     id: 2197,
@@ -15377,6 +17573,7 @@ export default [
     date: "2023-11-06",
     discharge: 22.5,
     water_level: 0.31,
+    user_id: null,
   },
   {
     id: 2198,
@@ -15384,6 +17581,7 @@ export default [
     date: "2023-11-07",
     discharge: 22.7,
     water_level: 0.313,
+    user_id: null,
   },
   {
     id: 2199,
@@ -15391,6 +17589,7 @@ export default [
     date: "2023-11-08",
     discharge: 23.4,
     water_level: 0.322,
+    user_id: null,
   },
   {
     id: 2200,
@@ -15398,6 +17597,7 @@ export default [
     date: "2023-11-09",
     discharge: 23.7,
     water_level: 0.326,
+    user_id: null,
   },
   {
     id: 2201,
@@ -15405,6 +17605,7 @@ export default [
     date: "2023-11-10",
     discharge: 23.8,
     water_level: 0.327,
+    user_id: null,
   },
   {
     id: 2202,
@@ -15412,6 +17613,7 @@ export default [
     date: "2023-11-11",
     discharge: 23.8,
     water_level: 0.327,
+    user_id: null,
   },
   {
     id: 2203,
@@ -15419,6 +17621,7 @@ export default [
     date: "2023-11-12",
     discharge: 23.4,
     water_level: 0.321,
+    user_id: null,
   },
   {
     id: 2204,
@@ -15426,6 +17629,7 @@ export default [
     date: "2023-11-13",
     discharge: 22.8,
     water_level: 0.314,
+    user_id: null,
   },
   {
     id: 2205,
@@ -15433,6 +17637,7 @@ export default [
     date: "2023-11-14",
     discharge: 22.8,
     water_level: 0.315,
+    user_id: null,
   },
   {
     id: 2206,
@@ -15440,6 +17645,7 @@ export default [
     date: "2023-11-15",
     discharge: 20.9,
     water_level: 0.29,
+    user_id: null,
   },
   {
     id: 2207,
@@ -15447,6 +17653,7 @@ export default [
     date: "2023-11-16",
     discharge: 21.1,
     water_level: 0.293,
+    user_id: null,
   },
   {
     id: 2208,
@@ -15454,6 +17661,7 @@ export default [
     date: "2023-11-17",
     discharge: 20.8,
     water_level: 0.288,
+    user_id: null,
   },
   {
     id: 2209,
@@ -15461,6 +17669,7 @@ export default [
     date: "2023-11-18",
     discharge: 19.4,
     water_level: 0.27,
+    user_id: null,
   },
   {
     id: 2210,
@@ -15468,6 +17677,7 @@ export default [
     date: "2023-11-19",
     discharge: 19.3,
     water_level: 0.269,
+    user_id: null,
   },
   {
     id: 2211,
@@ -15475,6 +17685,7 @@ export default [
     date: "2023-11-20",
     discharge: 18.9,
     water_level: 0.263,
+    user_id: null,
   },
   {
     id: 2212,
@@ -15482,6 +17693,7 @@ export default [
     date: "2023-11-21",
     discharge: 18.7,
     water_level: 0.26,
+    user_id: null,
   },
   {
     id: 2213,
@@ -15489,6 +17701,7 @@ export default [
     date: "2023-11-22",
     discharge: 18,
     water_level: 0.251,
+    user_id: null,
   },
   {
     id: 2214,
@@ -15496,6 +17709,7 @@ export default [
     date: "2023-11-23",
     discharge: 18,
     water_level: 0.25,
+    user_id: null,
   },
   {
     id: 2215,
@@ -15503,6 +17717,7 @@ export default [
     date: "2023-11-24",
     discharge: 17.6,
     water_level: 0.246,
+    user_id: null,
   },
   {
     id: 2216,
@@ -15510,6 +17725,7 @@ export default [
     date: "2023-11-25",
     discharge: 14.9,
     water_level: 0.211,
+    user_id: null,
   },
   {
     id: 2217,
@@ -15517,6 +17733,7 @@ export default [
     date: "2023-11-26",
     discharge: 16.6,
     water_level: 0.255,
+    user_id: null,
   },
   {
     id: 2218,
@@ -15524,6 +17741,7 @@ export default [
     date: "2023-11-27",
     discharge: 14.3,
     water_level: 0.212,
+    user_id: null,
   },
   {
     id: 2219,
@@ -15531,6 +17749,7 @@ export default [
     date: "2023-11-28",
     discharge: 13.1,
     water_level: 0.194,
+    user_id: null,
   },
   {
     id: 2220,
@@ -15538,6 +17757,7 @@ export default [
     date: "2023-11-29",
     discharge: 15.5,
     water_level: 0.23,
+    user_id: null,
   },
   {
     id: 2221,
@@ -15545,6 +17765,7 @@ export default [
     date: "2023-11-30",
     discharge: 18,
     water_level: 0.293,
+    user_id: null,
   },
   {
     id: 2222,
@@ -15552,6 +17773,7 @@ export default [
     date: "2023-12-01",
     discharge: 16,
     water_level: 0.246,
+    user_id: null,
   },
   {
     id: 2223,
@@ -15559,6 +17781,7 @@ export default [
     date: "2023-12-02",
     discharge: 16,
     water_level: 0.323,
+    user_id: null,
   },
   {
     id: 2224,
@@ -15566,6 +17789,7 @@ export default [
     date: "2023-12-03",
     discharge: 19.5,
     water_level: 0.32,
+    user_id: null,
   },
   {
     id: 2225,
@@ -15573,6 +17797,7 @@ export default [
     date: "2023-12-04",
     discharge: 21.9,
     water_level: 0.343,
+    user_id: null,
   },
   {
     id: 2226,
@@ -15580,6 +17805,7 @@ export default [
     date: "2023-12-05",
     discharge: 20.2,
     water_level: 0.31,
+    user_id: null,
   },
   {
     id: 2227,
@@ -15587,6 +17813,7 @@ export default [
     date: "2023-12-06",
     discharge: 22.7,
     water_level: 0.345,
+    user_id: null,
   },
   {
     id: 2228,
@@ -15594,6 +17821,7 @@ export default [
     date: "2023-12-07",
     discharge: 18,
     water_level: 0.274,
+    user_id: null,
   },
   {
     id: 2229,
@@ -15601,6 +17829,7 @@ export default [
     date: "2023-12-08",
     discharge: 16.5,
     water_level: 0.256,
+    user_id: null,
   },
   {
     id: 2230,
@@ -15608,6 +17837,7 @@ export default [
     date: "2023-12-09",
     discharge: 15.1,
     water_level: 0.228,
+    user_id: null,
   },
   {
     id: 2231,
@@ -15615,6 +17845,7 @@ export default [
     date: "2023-12-10",
     discharge: 13.9,
     water_level: 0.251,
+    user_id: null,
   },
   {
     id: 2232,
@@ -15622,6 +17853,7 @@ export default [
     date: "2023-12-11",
     discharge: 13.2,
     water_level: 0.347,
+    user_id: null,
   },
   {
     id: 2233,
@@ -15629,6 +17861,7 @@ export default [
     date: "2023-12-12",
     discharge: 13.3,
     water_level: 0.32,
+    user_id: null,
   },
   {
     id: 2234,
@@ -15636,6 +17869,7 @@ export default [
     date: "2023-12-13",
     discharge: 12.9,
     water_level: 0.278,
+    user_id: null,
   },
   {
     id: 2235,
@@ -15643,6 +17877,7 @@ export default [
     date: "2023-12-14",
     discharge: 14.2,
     water_level: 0.331,
+    user_id: null,
   },
   {
     id: 2236,
@@ -15650,6 +17885,7 @@ export default [
     date: "2023-12-15",
     discharge: 14.3,
     water_level: 0.323,
+    user_id: null,
   },
   {
     id: 2237,
@@ -15657,6 +17893,7 @@ export default [
     date: "2023-12-16",
     discharge: 15.3,
     water_level: 0.326,
+    user_id: null,
   },
   {
     id: 2238,
@@ -15664,6 +17901,7 @@ export default [
     date: "2023-12-17",
     discharge: 14.2,
     water_level: 0.28,
+    user_id: null,
   },
   {
     id: 2239,
@@ -15671,6 +17909,7 @@ export default [
     date: "2023-12-18",
     discharge: 14.8,
     water_level: 0.271,
+    user_id: null,
   },
   {
     id: 2240,
@@ -15678,6 +17917,7 @@ export default [
     date: "2023-12-19",
     discharge: 14.1,
     water_level: 0.251,
+    user_id: null,
   },
   {
     id: 2241,
@@ -15685,6 +17925,7 @@ export default [
     date: "2023-12-20",
     discharge: 15.4,
     water_level: 0.267,
+    user_id: null,
   },
   {
     id: 2242,
@@ -15692,6 +17933,7 @@ export default [
     date: "2023-12-21",
     discharge: 15.1,
     water_level: 0.245,
+    user_id: null,
   },
   {
     id: 2243,
@@ -15699,6 +17941,7 @@ export default [
     date: "2023-12-22",
     discharge: 14.2,
     water_level: 0.227,
+    user_id: null,
   },
   {
     id: 2244,
@@ -15706,6 +17949,7 @@ export default [
     date: "2023-12-23",
     discharge: 13.1,
     water_level: 0.217,
+    user_id: null,
   },
   {
     id: 2245,
@@ -15713,6 +17957,7 @@ export default [
     date: "2023-12-24",
     discharge: 9.73,
     water_level: 0.139,
+    user_id: null,
   },
   {
     id: 2246,
@@ -15720,6 +17965,7 @@ export default [
     date: "2023-12-25",
     discharge: 9.31,
     water_level: 0.148,
+    user_id: null,
   },
   {
     id: 2247,
@@ -15727,6 +17973,7 @@ export default [
     date: "2023-12-26",
     discharge: 10.5,
     water_level: 0.208,
+    user_id: null,
   },
   {
     id: 2248,
@@ -15734,6 +17981,7 @@ export default [
     date: "2023-12-27",
     discharge: 13.5,
     water_level: 0.242,
+    user_id: null,
   },
   {
     id: 2249,
@@ -15741,6 +17989,7 @@ export default [
     date: "2023-12-28",
     discharge: 15.8,
     water_level: 0.269,
+    user_id: null,
   },
   {
     id: 2250,
@@ -15748,6 +17997,7 @@ export default [
     date: "2023-12-29",
     discharge: 16.3,
     water_level: 0.28,
+    user_id: null,
   },
   {
     id: 2251,
@@ -15755,6 +18005,7 @@ export default [
     date: "2023-12-30",
     discharge: 15.8,
     water_level: 0.275,
+    user_id: null,
   },
   {
     id: 2252,
@@ -15762,6 +18013,7 @@ export default [
     date: "2023-12-31",
     discharge: 15.2,
     water_level: 0.262,
+    user_id: null,
   },
   {
     id: 2253,
@@ -15769,6 +18021,7 @@ export default [
     date: "2020-12-01",
     discharge: 46.3,
     water_level: 0.892,
+    user_id: null,
   },
   {
     id: 2254,
@@ -15776,6 +18029,7 @@ export default [
     date: "2020-12-02",
     discharge: 44.3,
     water_level: 0.881,
+    user_id: null,
   },
   {
     id: 2255,
@@ -15783,6 +18037,7 @@ export default [
     date: "2020-12-03",
     discharge: 44.2,
     water_level: 0.87,
+    user_id: null,
   },
   {
     id: 2256,
@@ -15790,6 +18045,7 @@ export default [
     date: "2020-12-04",
     discharge: 44,
     water_level: 0.873,
+    user_id: null,
   },
   {
     id: 2257,
@@ -15797,6 +18053,7 @@ export default [
     date: "2020-12-05",
     discharge: 43.9,
     water_level: 0.861,
+    user_id: null,
   },
   {
     id: 2258,
@@ -15804,6 +18061,7 @@ export default [
     date: "2020-12-06",
     discharge: 47.7,
     water_level: 0.885,
+    user_id: null,
   },
   {
     id: 2259,
@@ -15811,6 +18069,7 @@ export default [
     date: "2020-12-07",
     discharge: 52.1,
     water_level: 0.933,
+    user_id: null,
   },
   {
     id: 2260,
@@ -15818,6 +18077,7 @@ export default [
     date: "2020-12-08",
     discharge: 42.4,
     water_level: 0.895,
+    user_id: null,
   },
   {
     id: 2261,
@@ -15825,6 +18085,7 @@ export default [
     date: "2020-12-09",
     discharge: 40.3,
     water_level: 0.859,
+    user_id: null,
   },
   {
     id: 2262,
@@ -15832,6 +18093,7 @@ export default [
     date: "2020-12-10",
     discharge: 44,
     water_level: 0.878,
+    user_id: null,
   },
   {
     id: 2263,
@@ -15839,6 +18101,7 @@ export default [
     date: "2020-12-11",
     discharge: 45.1,
     water_level: 0.88,
+    user_id: null,
   },
   {
     id: 2264,
@@ -15846,6 +18109,7 @@ export default [
     date: "2020-12-12",
     discharge: 45.5,
     water_level: 0.927,
+    user_id: null,
   },
   {
     id: 2265,
@@ -15853,6 +18117,7 @@ export default [
     date: "2020-12-13",
     discharge: 41.5,
     water_level: 0.929,
+    user_id: null,
   },
   {
     id: 2266,
@@ -15860,6 +18125,7 @@ export default [
     date: "2020-12-14",
     discharge: 37.9,
     water_level: 0.936,
+    user_id: null,
   },
   {
     id: 2267,
@@ -15867,6 +18133,7 @@ export default [
     date: "2020-12-15",
     discharge: 39,
     water_level: 0.927,
+    user_id: null,
   },
   {
     id: 2268,
@@ -15874,6 +18141,7 @@ export default [
     date: "2020-12-16",
     discharge: 40.1,
     water_level: 0.911,
+    user_id: null,
   },
   {
     id: 2269,
@@ -15881,6 +18149,7 @@ export default [
     date: "2020-12-17",
     discharge: 40.1,
     water_level: 0.862,
+    user_id: null,
   },
   {
     id: 2270,
@@ -15888,6 +18157,7 @@ export default [
     date: "2020-12-18",
     discharge: 40.3,
     water_level: 0.857,
+    user_id: null,
   },
   {
     id: 2271,
@@ -15895,6 +18165,7 @@ export default [
     date: "2020-12-19",
     discharge: 39.8,
     water_level: 0.856,
+    user_id: null,
   },
   {
     id: 2272,
@@ -15902,6 +18173,7 @@ export default [
     date: "2020-12-20",
     discharge: 39.9,
     water_level: 0.865,
+    user_id: null,
   },
   {
     id: 2273,
@@ -15909,6 +18181,7 @@ export default [
     date: "2020-12-21",
     discharge: 39.8,
     water_level: 0.862,
+    user_id: null,
   },
   {
     id: 2274,
@@ -15916,6 +18189,7 @@ export default [
     date: "2020-12-22",
     discharge: 39,
     water_level: 0.851,
+    user_id: null,
   },
   {
     id: 2275,
@@ -15923,6 +18197,7 @@ export default [
     date: "2020-12-23",
     discharge: 37.9,
     water_level: 0.884,
+    user_id: null,
   },
   {
     id: 2276,
@@ -15930,6 +18205,7 @@ export default [
     date: "2020-12-24",
     discharge: 37.2,
     water_level: 0.909,
+    user_id: null,
   },
   {
     id: 2277,
@@ -15937,6 +18213,7 @@ export default [
     date: "2020-12-25",
     discharge: 41,
     water_level: 0.933,
+    user_id: null,
   },
   {
     id: 2278,
@@ -15944,6 +18221,7 @@ export default [
     date: "2020-12-26",
     discharge: 42.6,
     water_level: 0.93,
+    user_id: null,
   },
   {
     id: 2279,
@@ -15951,6 +18229,7 @@ export default [
     date: "2020-12-27",
     discharge: 40.5,
     water_level: 0.913,
+    user_id: null,
   },
   {
     id: 2280,
@@ -15958,6 +18237,7 @@ export default [
     date: "2020-12-28",
     discharge: 39.2,
     water_level: 0.932,
+    user_id: null,
   },
   {
     id: 2281,
@@ -15965,6 +18245,7 @@ export default [
     date: "2020-12-29",
     discharge: 39,
     water_level: 0.979,
+    user_id: null,
   },
   {
     id: 2282,
@@ -15972,6 +18253,7 @@ export default [
     date: "2020-12-30",
     discharge: 37.5,
     water_level: 0.953,
+    user_id: null,
   },
   {
     id: 2283,
@@ -15979,6 +18261,7 @@ export default [
     date: "2020-12-31",
     discharge: 39.8,
     water_level: 0.888,
+    user_id: null,
   },
   {
     id: 2284,
@@ -15986,6 +18269,7 @@ export default [
     date: "2021-01-01",
     discharge: 40.9,
     water_level: 0.933,
+    user_id: null,
   },
   {
     id: 2285,
@@ -15993,6 +18277,7 @@ export default [
     date: "2021-01-02",
     discharge: 44.9,
     water_level: 0.969,
+    user_id: null,
   },
   {
     id: 2286,
@@ -16000,6 +18285,7 @@ export default [
     date: "2021-01-03",
     discharge: 48.8,
     water_level: 0.983,
+    user_id: null,
   },
   {
     id: 2287,
@@ -16007,6 +18293,7 @@ export default [
     date: "2021-01-04",
     discharge: 47.5,
     water_level: 0.973,
+    user_id: null,
   },
   {
     id: 2288,
@@ -16014,6 +18301,7 @@ export default [
     date: "2021-01-05",
     discharge: 46.7,
     water_level: 0.951,
+    user_id: null,
   },
   {
     id: 2289,
@@ -16021,6 +18309,7 @@ export default [
     date: "2021-01-06",
     discharge: 46.9,
     water_level: 0.937,
+    user_id: null,
   },
   {
     id: 2290,
@@ -16028,6 +18317,7 @@ export default [
     date: "2021-01-07",
     discharge: 45.2,
     water_level: 0.904,
+    user_id: null,
   },
   {
     id: 2291,
@@ -16035,6 +18325,7 @@ export default [
     date: "2021-01-08",
     discharge: 45.5,
     water_level: 0.912,
+    user_id: null,
   },
   {
     id: 2292,
@@ -16042,6 +18333,7 @@ export default [
     date: "2021-01-09",
     discharge: 44.6,
     water_level: 0.974,
+    user_id: null,
   },
   {
     id: 2293,
@@ -16049,6 +18341,7 @@ export default [
     date: "2021-01-10",
     discharge: 43.2,
     water_level: 0.982,
+    user_id: null,
   },
   {
     id: 2294,
@@ -16056,6 +18349,7 @@ export default [
     date: "2021-01-11",
     discharge: 42,
     water_level: 0.905,
+    user_id: null,
   },
   {
     id: 2295,
@@ -16063,6 +18357,7 @@ export default [
     date: "2021-01-12",
     discharge: 58.8,
     water_level: 0.991,
+    user_id: null,
   },
   {
     id: 2296,
@@ -16070,6 +18365,7 @@ export default [
     date: "2021-01-13",
     discharge: 60.6,
     water_level: 1.093,
+    user_id: null,
   },
   {
     id: 2297,
@@ -16077,6 +18373,7 @@ export default [
     date: "2021-01-14",
     discharge: 47.3,
     water_level: 0.936,
+    user_id: null,
   },
   {
     id: 2298,
@@ -16084,6 +18381,7 @@ export default [
     date: "2021-01-15",
     discharge: 42.3,
     water_level: 0.892,
+    user_id: null,
   },
   {
     id: 2299,
@@ -16091,6 +18389,7 @@ export default [
     date: "2021-01-16",
     discharge: 42.9,
     water_level: 0.877,
+    user_id: null,
   },
   {
     id: 2300,
@@ -16098,6 +18397,7 @@ export default [
     date: "2021-01-17",
     discharge: 43.7,
     water_level: 0.899,
+    user_id: null,
   },
   {
     id: 2301,
@@ -16105,6 +18405,7 @@ export default [
     date: "2021-01-18",
     discharge: 43.3,
     water_level: 0.882,
+    user_id: null,
   },
   {
     id: 2302,
@@ -16112,6 +18413,7 @@ export default [
     date: "2021-01-19",
     discharge: 44.9,
     water_level: 0.904,
+    user_id: null,
   },
   {
     id: 2303,
@@ -16119,6 +18421,7 @@ export default [
     date: "2021-01-20",
     discharge: 42.2,
     water_level: 0.878,
+    user_id: null,
   },
   {
     id: 2304,
@@ -16126,6 +18429,7 @@ export default [
     date: "2021-01-21",
     discharge: 41.7,
     water_level: 0.868,
+    user_id: null,
   },
   {
     id: 2305,
@@ -16133,6 +18437,7 @@ export default [
     date: "2021-01-22",
     discharge: 38.8,
     water_level: 0.861,
+    user_id: null,
   },
   {
     id: 2306,
@@ -16140,6 +18445,7 @@ export default [
     date: "2021-01-23",
     discharge: 37,
     water_level: 0.85,
+    user_id: null,
   },
   {
     id: 2307,
@@ -16147,6 +18453,7 @@ export default [
     date: "2021-01-24",
     discharge: 36.8,
     water_level: 0.886,
+    user_id: null,
   },
   {
     id: 2308,
@@ -16154,6 +18461,7 @@ export default [
     date: "2021-01-25",
     discharge: 36.6,
     water_level: 0.935,
+    user_id: null,
   },
   {
     id: 2309,
@@ -16161,6 +18469,7 @@ export default [
     date: "2021-01-26",
     discharge: 36.6,
     water_level: 0.949,
+    user_id: null,
   },
   {
     id: 2310,
@@ -16168,6 +18477,7 @@ export default [
     date: "2021-01-27",
     discharge: 36.8,
     water_level: 0.907,
+    user_id: null,
   },
   {
     id: 2311,
@@ -16175,6 +18485,7 @@ export default [
     date: "2021-01-28",
     discharge: 37,
     water_level: 0.925,
+    user_id: null,
   },
   {
     id: 2312,
@@ -16182,6 +18493,7 @@ export default [
     date: "2021-01-29",
     discharge: 37.2,
     water_level: 0.931,
+    user_id: null,
   },
   {
     id: 2313,
@@ -16189,6 +18501,7 @@ export default [
     date: "2021-01-30",
     discharge: 40.8,
     water_level: 0.899,
+    user_id: null,
   },
   {
     id: 2314,
@@ -16196,6 +18509,7 @@ export default [
     date: "2021-01-31",
     discharge: 42.3,
     water_level: 0.923,
+    user_id: null,
   },
   {
     id: 2315,
@@ -16203,6 +18517,7 @@ export default [
     date: "2021-02-01",
     discharge: 43.2,
     water_level: 0.932,
+    user_id: null,
   },
   {
     id: 2316,
@@ -16210,6 +18525,7 @@ export default [
     date: "2021-02-02",
     discharge: 42.5,
     water_level: 0.919,
+    user_id: null,
   },
   {
     id: 2317,
@@ -16217,6 +18533,7 @@ export default [
     date: "2021-02-03",
     discharge: 42.5,
     water_level: 0.917,
+    user_id: null,
   },
   {
     id: 2318,
@@ -16224,6 +18541,7 @@ export default [
     date: "2021-02-04",
     discharge: 41.9,
     water_level: 0.937,
+    user_id: null,
   },
   {
     id: 2319,
@@ -16231,6 +18549,7 @@ export default [
     date: "2021-02-05",
     discharge: 42.4,
     water_level: 0.921,
+    user_id: null,
   },
   {
     id: 2320,
@@ -16238,6 +18557,7 @@ export default [
     date: "2021-02-06",
     discharge: 45.3,
     water_level: 0.998,
+    user_id: null,
   },
   {
     id: 2321,
@@ -16245,6 +18565,7 @@ export default [
     date: "2021-02-07",
     discharge: 43.6,
     water_level: 1.02,
+    user_id: null,
   },
   {
     id: 2322,
@@ -16252,6 +18573,7 @@ export default [
     date: "2021-02-08",
     discharge: 37.9,
     water_level: 0.957,
+    user_id: null,
   },
   {
     id: 2323,
@@ -16259,6 +18581,7 @@ export default [
     date: "2021-02-09",
     discharge: 40.5,
     water_level: 0.959,
+    user_id: null,
   },
   {
     id: 2324,
@@ -16266,6 +18589,7 @@ export default [
     date: "2021-02-10",
     discharge: 38.2,
     water_level: 0.917,
+    user_id: null,
   },
   {
     id: 2325,
@@ -16273,6 +18597,7 @@ export default [
     date: "2021-02-11",
     discharge: 38.9,
     water_level: 0.959,
+    user_id: null,
   },
   {
     id: 2326,
@@ -16280,6 +18605,7 @@ export default [
     date: "2021-02-12",
     discharge: 38.6,
     water_level: 0.965,
+    user_id: null,
   },
   {
     id: 2327,
@@ -16287,6 +18613,7 @@ export default [
     date: "2021-02-13",
     discharge: 36.6,
     water_level: 0.926,
+    user_id: null,
   },
   {
     id: 2328,
@@ -16294,6 +18621,7 @@ export default [
     date: "2021-02-14",
     discharge: 37.8,
     water_level: 0.938,
+    user_id: null,
   },
   {
     id: 2329,
@@ -16301,6 +18629,7 @@ export default [
     date: "2021-02-15",
     discharge: 38.9,
     water_level: 0.981,
+    user_id: null,
   },
   {
     id: 2330,
@@ -16308,167 +18637,191 @@ export default [
     date: "2021-02-16",
     discharge: 37.6,
     water_level: 0.956,
+    user_id: null,
   },
   {
     id: 2331,
     station_id: "05BH004",
     date: "2021-02-17",
     discharge: 37.5,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2332,
     station_id: "05BH004",
     date: "2021-02-18",
     discharge: 38.3,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2333,
     station_id: "05BH004",
     date: "2021-02-19",
     discharge: 38.1,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2334,
     station_id: "05BH004",
     date: "2021-02-20",
     discharge: 37.2,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2335,
     station_id: "05BH004",
     date: "2021-02-21",
     discharge: 38.4,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2336,
     station_id: "05BH004",
     date: "2021-02-22",
     discharge: 38.1,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2337,
     station_id: "05BH004",
     date: "2021-02-23",
     discharge: 38.7,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2338,
     station_id: "05BH004",
     date: "2021-02-24",
     discharge: 36.3,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2339,
     station_id: "05BH004",
     date: "2021-02-25",
     discharge: 37.4,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2340,
     station_id: "05BH004",
     date: "2021-02-26",
     discharge: 40,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2341,
     station_id: "05BH004",
     date: "2021-02-27",
     discharge: 40.1,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2342,
     station_id: "05BH004",
     date: "2021-02-28",
     discharge: 39.7,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2343,
     station_id: "05BH004",
     date: "2021-03-01",
     discharge: 39.2,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2344,
     station_id: "05BH004",
     date: "2021-03-02",
     discharge: 39.8,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2345,
     station_id: "05BH004",
     date: "2021-03-03",
     discharge: 39.4,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2346,
     station_id: "05BH004",
     date: "2021-03-04",
     discharge: 41.3,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2347,
     station_id: "05BH004",
     date: "2021-03-05",
     discharge: 47.1,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2348,
     station_id: "05BH004",
     date: "2021-03-06",
     discharge: 49.1,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2349,
     station_id: "05BH004",
     date: "2021-03-07",
     discharge: 49.1,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2350,
     station_id: "05BH004",
     date: "2021-03-08",
     discharge: 49.9,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2351,
     station_id: "05BH004",
     date: "2021-03-09",
     discharge: 52.2,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2352,
     station_id: "05BH004",
     date: "2021-03-10",
     discharge: 49.3,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2353,
     station_id: "05BH004",
     date: "2021-03-11",
     discharge: 47,
-    water_level: 0,
+    water_level: null,
+    user_id: null,
   },
   {
     id: 2354,
@@ -16476,6 +18829,7 @@ export default [
     date: "2021-03-12",
     discharge: 48.1,
     water_level: 1.009,
+    user_id: null,
   },
   {
     id: 2355,
@@ -16483,6 +18837,7 @@ export default [
     date: "2021-03-13",
     discharge: 51.1,
     water_level: 0.996,
+    user_id: null,
   },
   {
     id: 2356,
@@ -16490,6 +18845,7 @@ export default [
     date: "2021-03-14",
     discharge: 51,
     water_level: 0.985,
+    user_id: null,
   },
   {
     id: 2357,
@@ -16497,6 +18853,7 @@ export default [
     date: "2021-03-15",
     discharge: 54.6,
     water_level: 0.987,
+    user_id: null,
   },
   {
     id: 2358,
@@ -16504,6 +18861,7 @@ export default [
     date: "2021-03-16",
     discharge: 54.7,
     water_level: 0.992,
+    user_id: null,
   },
   {
     id: 2359,
@@ -16511,6 +18869,7 @@ export default [
     date: "2021-03-17",
     discharge: 50.4,
     water_level: 0.948,
+    user_id: null,
   },
   {
     id: 2360,
@@ -16518,6 +18877,7 @@ export default [
     date: "2021-03-18",
     discharge: 48.1,
     water_level: 0.924,
+    user_id: null,
   },
   {
     id: 2361,
@@ -16525,6 +18885,7 @@ export default [
     date: "2021-03-19",
     discharge: 51.1,
     water_level: 0.945,
+    user_id: null,
   },
   {
     id: 2362,
@@ -16532,6 +18893,7 @@ export default [
     date: "2021-03-20",
     discharge: 46.9,
     water_level: 0.906,
+    user_id: null,
   },
   {
     id: 2363,
@@ -16539,6 +18901,7 @@ export default [
     date: "2021-03-21",
     discharge: 44,
     water_level: 0.871,
+    user_id: null,
   },
   {
     id: 2364,
@@ -16546,6 +18909,7 @@ export default [
     date: "2021-03-22",
     discharge: 43.8,
     water_level: 0.864,
+    user_id: null,
   },
   {
     id: 2365,
@@ -16553,6 +18917,7 @@ export default [
     date: "2021-03-23",
     discharge: 42.9,
     water_level: 0.865,
+    user_id: null,
   },
   {
     id: 2366,
@@ -16560,6 +18925,7 @@ export default [
     date: "2021-03-24",
     discharge: 44.7,
     water_level: 0.879,
+    user_id: null,
   },
   {
     id: 2367,
@@ -16567,6 +18933,7 @@ export default [
     date: "2021-03-25",
     discharge: 47,
     water_level: 0.896,
+    user_id: null,
   },
   {
     id: 2368,
@@ -16574,6 +18941,7 @@ export default [
     date: "2021-03-26",
     discharge: 49.3,
     water_level: 0.914,
+    user_id: null,
   },
   {
     id: 2369,
@@ -16581,6 +18949,7 @@ export default [
     date: "2021-03-27",
     discharge: 47.7,
     water_level: 0.915,
+    user_id: null,
   },
   {
     id: 2370,
@@ -16588,6 +18957,7 @@ export default [
     date: "2021-03-28",
     discharge: 45.8,
     water_level: 0.894,
+    user_id: null,
   },
   {
     id: 2371,
@@ -16595,6 +18965,7 @@ export default [
     date: "2021-03-29",
     discharge: 46,
     water_level: 0.893,
+    user_id: null,
   },
   {
     id: 2372,
@@ -16602,6 +18973,7 @@ export default [
     date: "2021-03-30",
     discharge: 46.2,
     water_level: 0.896,
+    user_id: null,
   },
   {
     id: 2373,
@@ -16609,6 +18981,7 @@ export default [
     date: "2021-03-31",
     discharge: 46.3,
     water_level: 0.879,
+    user_id: null,
   },
   {
     id: 2374,
@@ -16616,6 +18989,7 @@ export default [
     date: "2021-04-01",
     discharge: 46.6,
     water_level: 0.878,
+    user_id: null,
   },
   {
     id: 2375,
@@ -16623,6 +18997,7 @@ export default [
     date: "2021-04-02",
     discharge: 47.8,
     water_level: 0.889,
+    user_id: null,
   },
   {
     id: 2376,
@@ -16630,6 +19005,7 @@ export default [
     date: "2021-04-03",
     discharge: 49.7,
     water_level: 0.905,
+    user_id: null,
   },
   {
     id: 2377,
@@ -16637,6 +19013,7 @@ export default [
     date: "2021-04-04",
     discharge: 47.6,
     water_level: 0.887,
+    user_id: null,
   },
   {
     id: 2378,
@@ -16644,6 +19021,7 @@ export default [
     date: "2021-04-05",
     discharge: 48.8,
     water_level: 0.897,
+    user_id: null,
   },
   {
     id: 2379,
@@ -16651,6 +19029,7 @@ export default [
     date: "2021-04-06",
     discharge: 48.7,
     water_level: 0.897,
+    user_id: null,
   },
   {
     id: 2380,
@@ -16658,6 +19037,7 @@ export default [
     date: "2021-04-07",
     discharge: 52.4,
     water_level: 0.926,
+    user_id: null,
   },
   {
     id: 2381,
@@ -16665,6 +19045,7 @@ export default [
     date: "2021-04-08",
     discharge: 56.6,
     water_level: 0.959,
+    user_id: null,
   },
   {
     id: 2382,
@@ -16672,6 +19053,7 @@ export default [
     date: "2021-04-09",
     discharge: 66.9,
     water_level: 1.036,
+    user_id: null,
   },
   {
     id: 2383,
@@ -16679,6 +19061,7 @@ export default [
     date: "2021-04-10",
     discharge: 64.3,
     water_level: 1.017,
+    user_id: null,
   },
   {
     id: 2384,
@@ -16686,6 +19069,7 @@ export default [
     date: "2021-04-11",
     discharge: 66.3,
     water_level: 1.032,
+    user_id: null,
   },
   {
     id: 2385,
@@ -16693,6 +19077,7 @@ export default [
     date: "2021-04-12",
     discharge: 64.7,
     water_level: 1.02,
+    user_id: null,
   },
   {
     id: 2386,
@@ -16700,6 +19085,7 @@ export default [
     date: "2021-04-13",
     discharge: 62.2,
     water_level: 1.002,
+    user_id: null,
   },
   {
     id: 2387,
@@ -16707,6 +19093,7 @@ export default [
     date: "2021-04-14",
     discharge: 64,
     water_level: 1.015,
+    user_id: null,
   },
   {
     id: 2388,
@@ -16714,6 +19101,7 @@ export default [
     date: "2021-04-15",
     discharge: 67.8,
     water_level: 1.043,
+    user_id: null,
   },
   {
     id: 2389,
@@ -16721,6 +19109,7 @@ export default [
     date: "2021-04-16",
     discharge: 76.5,
     water_level: 1.097,
+    user_id: null,
   },
   {
     id: 2390,
@@ -16728,6 +19117,7 @@ export default [
     date: "2021-04-17",
     discharge: 78.7,
     water_level: 1.11,
+    user_id: null,
   },
   {
     id: 2391,
@@ -16735,6 +19125,7 @@ export default [
     date: "2021-04-18",
     discharge: 85.4,
     water_level: 1.147,
+    user_id: null,
   },
   {
     id: 2392,
@@ -16742,6 +19133,7 @@ export default [
     date: "2021-04-19",
     discharge: 88.7,
     water_level: 1.165,
+    user_id: null,
   },
   {
     id: 2393,
@@ -16749,6 +19141,7 @@ export default [
     date: "2021-04-20",
     discharge: 101,
     water_level: 1.23,
+    user_id: null,
   },
   {
     id: 2394,
@@ -16756,6 +19149,7 @@ export default [
     date: "2021-04-21",
     discharge: 95.7,
     water_level: 1.202,
+    user_id: null,
   },
   {
     id: 2395,
@@ -16763,6 +19157,7 @@ export default [
     date: "2021-04-22",
     discharge: 90.8,
     water_level: 1.176,
+    user_id: null,
   },
   {
     id: 2396,
@@ -16770,6 +19165,7 @@ export default [
     date: "2021-04-23",
     discharge: 88.3,
     water_level: 1.163,
+    user_id: null,
   },
   {
     id: 2397,
@@ -16777,6 +19173,7 @@ export default [
     date: "2021-04-24",
     discharge: 87.4,
     water_level: 1.158,
+    user_id: null,
   },
   {
     id: 2398,
@@ -16784,6 +19181,7 @@ export default [
     date: "2021-04-25",
     discharge: 86.4,
     water_level: 1.153,
+    user_id: null,
   },
   {
     id: 2399,
@@ -16791,6 +19189,7 @@ export default [
     date: "2021-04-26",
     discharge: 85.4,
     water_level: 1.147,
+    user_id: null,
   },
   {
     id: 2400,
@@ -16798,6 +19197,7 @@ export default [
     date: "2021-04-27",
     discharge: 84.6,
     water_level: 1.143,
+    user_id: null,
   },
   {
     id: 2401,
@@ -16805,6 +19205,7 @@ export default [
     date: "2021-04-28",
     discharge: 92.3,
     water_level: 1.184,
+    user_id: null,
   },
   {
     id: 2402,
@@ -16812,6 +19213,7 @@ export default [
     date: "2021-04-29",
     discharge: 88.8,
     water_level: 1.165,
+    user_id: null,
   },
   {
     id: 2403,
@@ -16819,6 +19221,7 @@ export default [
     date: "2021-04-30",
     discharge: 83.4,
     water_level: 1.136,
+    user_id: null,
   },
   {
     id: 2404,
@@ -16826,6 +19229,7 @@ export default [
     date: "2021-05-01",
     discharge: 71.5,
     water_level: 1.066,
+    user_id: null,
   },
   {
     id: 2405,
@@ -16833,6 +19237,7 @@ export default [
     date: "2021-05-02",
     discharge: 63.8,
     water_level: 1.014,
+    user_id: null,
   },
   {
     id: 2406,
@@ -16840,6 +19245,7 @@ export default [
     date: "2021-05-03",
     discharge: 68.9,
     water_level: 1.05,
+    user_id: null,
   },
   {
     id: 2407,
@@ -16847,6 +19253,7 @@ export default [
     date: "2021-05-04",
     discharge: 67.4,
     water_level: 1.04,
+    user_id: null,
   },
   {
     id: 2408,
@@ -16854,6 +19261,7 @@ export default [
     date: "2021-05-05",
     discharge: 61,
     water_level: 0.993,
+    user_id: null,
   },
   {
     id: 2409,
@@ -16861,6 +19269,7 @@ export default [
     date: "2021-05-06",
     discharge: 69.1,
     water_level: 1.052,
+    user_id: null,
   },
   {
     id: 2410,
@@ -16868,6 +19277,7 @@ export default [
     date: "2021-05-07",
     discharge: 76,
     water_level: 1.095,
+    user_id: null,
   },
   {
     id: 2411,
@@ -16875,6 +19285,7 @@ export default [
     date: "2021-05-08",
     discharge: 73.5,
     water_level: 1.08,
+    user_id: null,
   },
   {
     id: 2412,
@@ -16882,6 +19293,7 @@ export default [
     date: "2021-05-09",
     discharge: 60.5,
     water_level: 0.989,
+    user_id: null,
   },
   {
     id: 2413,
@@ -16889,6 +19301,7 @@ export default [
     date: "2021-05-10",
     discharge: 58.5,
     water_level: 0.974,
+    user_id: null,
   },
   {
     id: 2414,
@@ -16896,6 +19309,7 @@ export default [
     date: "2021-05-11",
     discharge: 61.3,
     water_level: 0.995,
+    user_id: null,
   },
   {
     id: 2415,
@@ -16903,6 +19317,7 @@ export default [
     date: "2021-05-12",
     discharge: 64,
     water_level: 1.015,
+    user_id: null,
   },
   {
     id: 2416,
@@ -16910,6 +19325,7 @@ export default [
     date: "2021-05-13",
     discharge: 62.5,
     water_level: 1.004,
+    user_id: null,
   },
   {
     id: 2417,
@@ -16917,6 +19333,7 @@ export default [
     date: "2021-05-14",
     discharge: 66.8,
     water_level: 1.035,
+    user_id: null,
   },
   {
     id: 2418,
@@ -16924,6 +19341,7 @@ export default [
     date: "2021-05-15",
     discharge: 72.3,
     water_level: 1.073,
+    user_id: null,
   },
   {
     id: 2419,
@@ -16931,6 +19349,7 @@ export default [
     date: "2021-05-16",
     discharge: 81.4,
     water_level: 1.126,
+    user_id: null,
   },
   {
     id: 2420,
@@ -16938,6 +19357,7 @@ export default [
     date: "2021-05-17",
     discharge: 89.6,
     water_level: 1.17,
+    user_id: null,
   },
   {
     id: 2421,
@@ -16945,6 +19365,7 @@ export default [
     date: "2021-05-18",
     discharge: 96.3,
     water_level: 1.205,
+    user_id: null,
   },
   {
     id: 2422,
@@ -16952,6 +19373,7 @@ export default [
     date: "2021-05-19",
     discharge: 120,
     water_level: 1.32,
+    user_id: null,
   },
   {
     id: 2423,
@@ -16959,6 +19381,7 @@ export default [
     date: "2021-05-20",
     discharge: 152,
     water_level: 1.457,
+    user_id: null,
   },
   {
     id: 2424,
@@ -16966,6 +19389,7 @@ export default [
     date: "2021-05-21",
     discharge: 124,
     water_level: 1.339,
+    user_id: null,
   },
   {
     id: 2425,
@@ -16973,6 +19397,7 @@ export default [
     date: "2021-05-22",
     discharge: 116,
     water_level: 1.3,
+    user_id: null,
   },
   {
     id: 2426,
@@ -16980,6 +19405,7 @@ export default [
     date: "2021-05-23",
     discharge: 123,
     water_level: 1.333,
+    user_id: null,
   },
   {
     id: 2427,
@@ -16987,6 +19413,7 @@ export default [
     date: "2021-05-24",
     discharge: 115,
     water_level: 1.297,
+    user_id: null,
   },
   {
     id: 2428,
@@ -16994,6 +19421,7 @@ export default [
     date: "2021-05-25",
     discharge: 123,
     water_level: 1.333,
+    user_id: null,
   },
   {
     id: 2429,
@@ -17001,6 +19429,7 @@ export default [
     date: "2021-05-26",
     discharge: 140,
     water_level: 1.408,
+    user_id: null,
   },
   {
     id: 2430,
@@ -17008,6 +19437,7 @@ export default [
     date: "2021-05-27",
     discharge: 155,
     water_level: 1.47,
+    user_id: null,
   },
   {
     id: 2431,
@@ -17015,6 +19445,7 @@ export default [
     date: "2021-05-28",
     discharge: 161,
     water_level: 1.493,
+    user_id: null,
   },
   {
     id: 2432,
@@ -17022,6 +19453,7 @@ export default [
     date: "2021-05-29",
     discharge: 157,
     water_level: 1.479,
+    user_id: null,
   },
   {
     id: 2433,
@@ -17029,6 +19461,7 @@ export default [
     date: "2021-05-30",
     discharge: 153,
     water_level: 1.462,
+    user_id: null,
   },
   {
     id: 2434,
@@ -17036,6 +19469,7 @@ export default [
     date: "2021-05-31",
     discharge: 148,
     water_level: 1.444,
+    user_id: null,
   },
   {
     id: 2435,
@@ -17043,6 +19477,7 @@ export default [
     date: "2021-06-01",
     discharge: 146,
     water_level: 1.436,
+    user_id: null,
   },
   {
     id: 2436,
@@ -17050,6 +19485,7 @@ export default [
     date: "2021-06-02",
     discharge: 179,
     water_level: 1.548,
+    user_id: null,
   },
   {
     id: 2437,
@@ -17057,6 +19493,7 @@ export default [
     date: "2021-06-03",
     discharge: 235,
     water_level: 1.722,
+    user_id: null,
   },
   {
     id: 2438,
@@ -17064,6 +19501,7 @@ export default [
     date: "2021-06-04",
     discharge: 297,
     water_level: 1.909,
+    user_id: null,
   },
   {
     id: 2439,
@@ -17071,6 +19509,7 @@ export default [
     date: "2021-06-05",
     discharge: 338,
     water_level: 2.032,
+    user_id: null,
   },
   {
     id: 2440,
@@ -17078,6 +19517,7 @@ export default [
     date: "2021-06-06",
     discharge: 334,
     water_level: 2.018,
+    user_id: null,
   },
   {
     id: 2441,
@@ -17085,6 +19525,7 @@ export default [
     date: "2021-06-07",
     discharge: 304,
     water_level: 1.931,
+    user_id: null,
   },
   {
     id: 2442,
@@ -17092,6 +19533,7 @@ export default [
     date: "2021-06-08",
     discharge: 233,
     water_level: 1.716,
+    user_id: null,
   },
   {
     id: 2443,
@@ -17099,6 +19541,7 @@ export default [
     date: "2021-06-09",
     discharge: 217,
     water_level: 1.667,
+    user_id: null,
   },
   {
     id: 2444,
@@ -17106,6 +19549,7 @@ export default [
     date: "2021-06-10",
     discharge: 202,
     water_level: 1.624,
+    user_id: null,
   },
   {
     id: 2445,
@@ -17113,6 +19557,7 @@ export default [
     date: "2021-06-11",
     discharge: 180,
     water_level: 1.556,
+    user_id: null,
   },
   {
     id: 2446,
@@ -17120,6 +19565,7 @@ export default [
     date: "2021-06-12",
     discharge: 163,
     water_level: 1.498,
+    user_id: null,
   },
   {
     id: 2447,
@@ -17127,6 +19573,7 @@ export default [
     date: "2021-06-13",
     discharge: 160,
     water_level: 1.488,
+    user_id: null,
   },
   {
     id: 2448,
@@ -17134,6 +19581,7 @@ export default [
     date: "2021-06-14",
     discharge: 154,
     water_level: 1.466,
+    user_id: null,
   },
   {
     id: 2449,
@@ -17141,6 +19589,7 @@ export default [
     date: "2021-06-15",
     discharge: 152,
     water_level: 1.46,
+    user_id: null,
   },
   {
     id: 2450,
@@ -17148,6 +19597,7 @@ export default [
     date: "2021-06-16",
     discharge: 186,
     water_level: 1.568,
+    user_id: null,
   },
   {
     id: 2451,
@@ -17155,6 +19605,7 @@ export default [
     date: "2021-06-17",
     discharge: 257,
     water_level: 1.787,
+    user_id: null,
   },
   {
     id: 2452,
@@ -17162,6 +19613,7 @@ export default [
     date: "2021-06-18",
     discharge: 273,
     water_level: 1.839,
+    user_id: null,
   },
   {
     id: 2453,
@@ -17169,6 +19621,7 @@ export default [
     date: "2021-06-19",
     discharge: 259,
     water_level: 1.794,
+    user_id: null,
   },
   {
     id: 2454,
@@ -17176,6 +19629,7 @@ export default [
     date: "2021-06-20",
     discharge: 224,
     water_level: 1.689,
+    user_id: null,
   },
   {
     id: 2455,
@@ -17183,6 +19637,7 @@ export default [
     date: "2021-06-21",
     discharge: 234,
     water_level: 1.717,
+    user_id: null,
   },
   {
     id: 2456,
@@ -17190,6 +19645,7 @@ export default [
     date: "2021-06-22",
     discharge: 244,
     water_level: 1.748,
+    user_id: null,
   },
   {
     id: 2457,
@@ -17197,6 +19653,7 @@ export default [
     date: "2021-06-23",
     discharge: 230,
     water_level: 1.706,
+    user_id: null,
   },
   {
     id: 2458,
@@ -17204,6 +19661,7 @@ export default [
     date: "2021-06-24",
     discharge: 226,
     water_level: 1.694,
+    user_id: null,
   },
   {
     id: 2459,
@@ -17211,6 +19669,7 @@ export default [
     date: "2021-06-25",
     discharge: 199,
     water_level: 1.615,
+    user_id: null,
   },
   {
     id: 2460,
@@ -17218,6 +19677,7 @@ export default [
     date: "2021-06-26",
     discharge: 210,
     water_level: 1.646,
+    user_id: null,
   },
   {
     id: 2461,
@@ -17225,6 +19685,7 @@ export default [
     date: "2021-06-27",
     discharge: 209,
     water_level: 1.645,
+    user_id: null,
   },
   {
     id: 2462,
@@ -17232,6 +19693,7 @@ export default [
     date: "2021-06-28",
     discharge: 216,
     water_level: 1.664,
+    user_id: null,
   },
   {
     id: 2463,
@@ -17239,6 +19701,7 @@ export default [
     date: "2021-06-29",
     discharge: 229,
     water_level: 1.702,
+    user_id: null,
   },
   {
     id: 2464,
@@ -17246,6 +19709,7 @@ export default [
     date: "2021-06-30",
     discharge: 228,
     water_level: 1.7,
+    user_id: null,
   },
   {
     id: 2465,
@@ -17253,6 +19717,7 @@ export default [
     date: "2021-07-01",
     discharge: 230,
     water_level: 1.704,
+    user_id: null,
   },
   {
     id: 2466,
@@ -17260,6 +19725,7 @@ export default [
     date: "2021-07-02",
     discharge: 246,
     water_level: 1.755,
+    user_id: null,
   },
   {
     id: 2467,
@@ -17267,6 +19733,7 @@ export default [
     date: "2021-07-03",
     discharge: 280,
     water_level: 1.859,
+    user_id: null,
   },
   {
     id: 2468,
@@ -17274,6 +19741,7 @@ export default [
     date: "2021-07-04",
     discharge: 275,
     water_level: 1.843,
+    user_id: null,
   },
   {
     id: 2469,
@@ -17281,6 +19749,7 @@ export default [
     date: "2021-07-05",
     discharge: 259,
     water_level: 1.796,
+    user_id: null,
   },
   {
     id: 2470,
@@ -17288,6 +19757,7 @@ export default [
     date: "2021-07-06",
     discharge: 248,
     water_level: 1.761,
+    user_id: null,
   },
   {
     id: 2471,
@@ -17295,6 +19765,7 @@ export default [
     date: "2021-07-07",
     discharge: 223,
     water_level: 1.687,
+    user_id: null,
   },
   {
     id: 2472,
@@ -17302,6 +19773,7 @@ export default [
     date: "2021-07-08",
     discharge: 190,
     water_level: 1.586,
+    user_id: null,
   },
   {
     id: 2473,
@@ -17309,6 +19781,7 @@ export default [
     date: "2021-07-09",
     discharge: 195,
     water_level: 1.603,
+    user_id: null,
   },
   {
     id: 2474,
@@ -17316,6 +19789,7 @@ export default [
     date: "2021-07-10",
     discharge: 198,
     water_level: 1.611,
+    user_id: null,
   },
   {
     id: 2475,
@@ -17323,6 +19797,7 @@ export default [
     date: "2021-07-11",
     discharge: 184,
     water_level: 1.568,
+    user_id: null,
   },
   {
     id: 2476,
@@ -17330,6 +19805,7 @@ export default [
     date: "2021-07-12",
     discharge: 166,
     water_level: 1.51,
+    user_id: null,
   },
   {
     id: 2477,
@@ -17337,6 +19813,7 @@ export default [
     date: "2021-07-13",
     discharge: 167,
     water_level: 1.512,
+    user_id: null,
   },
   {
     id: 2478,
@@ -17344,6 +19821,7 @@ export default [
     date: "2021-07-14",
     discharge: 166,
     water_level: 1.508,
+    user_id: null,
   },
   {
     id: 2479,
@@ -17351,6 +19829,7 @@ export default [
     date: "2021-07-15",
     discharge: 165,
     water_level: 1.507,
+    user_id: null,
   },
   {
     id: 2480,
@@ -17358,6 +19837,7 @@ export default [
     date: "2021-07-16",
     discharge: 163,
     water_level: 1.499,
+    user_id: null,
   },
   {
     id: 2481,
@@ -17365,6 +19845,7 @@ export default [
     date: "2021-07-17",
     discharge: 157,
     water_level: 1.477,
+    user_id: null,
   },
   {
     id: 2482,
@@ -17372,6 +19853,7 @@ export default [
     date: "2021-07-18",
     discharge: 158,
     water_level: 1.482,
+    user_id: null,
   },
   {
     id: 2483,
@@ -17379,6 +19861,7 @@ export default [
     date: "2021-07-19",
     discharge: 148,
     water_level: 1.44,
+    user_id: null,
   },
   {
     id: 2484,
@@ -17386,6 +19869,7 @@ export default [
     date: "2021-07-20",
     discharge: 137,
     water_level: 1.396,
+    user_id: null,
   },
   {
     id: 2485,
@@ -17393,6 +19877,7 @@ export default [
     date: "2021-07-21",
     discharge: 134,
     water_level: 1.383,
+    user_id: null,
   },
   {
     id: 2486,
@@ -17400,6 +19885,7 @@ export default [
     date: "2021-07-22",
     discharge: 129,
     water_level: 1.359,
+    user_id: null,
   },
   {
     id: 2487,
@@ -17407,6 +19893,7 @@ export default [
     date: "2021-07-23",
     discharge: 123,
     water_level: 1.333,
+    user_id: null,
   },
   {
     id: 2488,
@@ -17414,6 +19901,7 @@ export default [
     date: "2021-07-24",
     discharge: 119,
     water_level: 1.315,
+    user_id: null,
   },
   {
     id: 2489,
@@ -17421,6 +19909,7 @@ export default [
     date: "2021-07-25",
     discharge: 116,
     water_level: 1.3,
+    user_id: null,
   },
   {
     id: 2490,
@@ -17428,6 +19917,7 @@ export default [
     date: "2021-07-26",
     discharge: 115,
     water_level: 1.298,
+    user_id: null,
   },
   {
     id: 2491,
@@ -17435,6 +19925,7 @@ export default [
     date: "2021-07-27",
     discharge: 112,
     water_level: 1.28,
+    user_id: null,
   },
   {
     id: 2492,
@@ -17442,6 +19933,7 @@ export default [
     date: "2021-07-28",
     discharge: 114,
     water_level: 1.292,
+    user_id: null,
   },
   {
     id: 2493,
@@ -17449,6 +19941,7 @@ export default [
     date: "2021-07-29",
     discharge: 107,
     water_level: 1.259,
+    user_id: null,
   },
   {
     id: 2494,
@@ -17456,6 +19949,7 @@ export default [
     date: "2021-07-30",
     discharge: 110,
     water_level: 1.271,
+    user_id: null,
   },
   {
     id: 2495,
@@ -17463,6 +19957,7 @@ export default [
     date: "2021-07-31",
     discharge: 109,
     water_level: 1.269,
+    user_id: null,
   },
   {
     id: 2496,
@@ -17470,6 +19965,7 @@ export default [
     date: "2021-08-01",
     discharge: 108,
     water_level: 1.262,
+    user_id: null,
   },
   {
     id: 2497,
@@ -17477,6 +19973,7 @@ export default [
     date: "2021-08-02",
     discharge: 106,
     water_level: 1.254,
+    user_id: null,
   },
   {
     id: 2498,
@@ -17484,6 +19981,7 @@ export default [
     date: "2021-08-03",
     discharge: 103,
     water_level: 1.239,
+    user_id: null,
   },
   {
     id: 2499,
@@ -17491,6 +19989,7 @@ export default [
     date: "2021-08-04",
     discharge: 101,
     water_level: 1.228,
+    user_id: null,
   },
   {
     id: 2500,
@@ -17498,6 +19997,7 @@ export default [
     date: "2021-08-05",
     discharge: 91.1,
     water_level: 1.178,
+    user_id: null,
   },
   {
     id: 2501,
@@ -17505,6 +20005,7 @@ export default [
     date: "2021-08-06",
     discharge: 88.8,
     water_level: 1.166,
+    user_id: null,
   },
   {
     id: 2502,
@@ -17512,6 +20013,7 @@ export default [
     date: "2021-08-07",
     discharge: 89.5,
     water_level: 1.169,
+    user_id: null,
   },
   {
     id: 2503,
@@ -17519,6 +20021,7 @@ export default [
     date: "2021-08-08",
     discharge: 93.1,
     water_level: 1.189,
+    user_id: null,
   },
   {
     id: 2504,
@@ -17526,6 +20029,7 @@ export default [
     date: "2021-08-09",
     discharge: 94.1,
     water_level: 1.194,
+    user_id: null,
   },
   {
     id: 2505,
@@ -17533,6 +20037,7 @@ export default [
     date: "2021-08-10",
     discharge: 95.5,
     water_level: 1.201,
+    user_id: null,
   },
   {
     id: 2506,
@@ -17540,6 +20045,7 @@ export default [
     date: "2021-08-11",
     discharge: 92.4,
     water_level: 1.185,
+    user_id: null,
   },
   {
     id: 2507,
@@ -17547,6 +20053,7 @@ export default [
     date: "2021-08-12",
     discharge: 88.8,
     water_level: 1.166,
+    user_id: null,
   },
   {
     id: 2508,
@@ -17554,6 +20061,7 @@ export default [
     date: "2021-08-13",
     discharge: 85.2,
     water_level: 1.146,
+    user_id: null,
   },
   {
     id: 2509,
@@ -17561,6 +20069,7 @@ export default [
     date: "2021-08-14",
     discharge: 75.6,
     water_level: 1.092,
+    user_id: null,
   },
   {
     id: 2510,
@@ -17568,6 +20077,7 @@ export default [
     date: "2021-08-15",
     discharge: 78.5,
     water_level: 1.109,
+    user_id: null,
   },
   {
     id: 2511,
@@ -17575,6 +20085,7 @@ export default [
     date: "2021-08-16",
     discharge: 79.6,
     water_level: 1.115,
+    user_id: null,
   },
   {
     id: 2512,
@@ -17582,6 +20093,7 @@ export default [
     date: "2021-08-17",
     discharge: 101,
     water_level: 1.228,
+    user_id: null,
   },
   {
     id: 2513,
@@ -17589,6 +20101,7 @@ export default [
     date: "2021-08-18",
     discharge: 100,
     water_level: 1.224,
+    user_id: null,
   },
   {
     id: 2514,
@@ -17596,6 +20109,7 @@ export default [
     date: "2021-08-19",
     discharge: 101,
     water_level: 1.23,
+    user_id: null,
   },
   {
     id: 2515,
@@ -17603,6 +20117,7 @@ export default [
     date: "2021-08-20",
     discharge: 98,
     water_level: 1.214,
+    user_id: null,
   },
   {
     id: 2516,
@@ -17610,6 +20125,7 @@ export default [
     date: "2021-08-21",
     discharge: 89.6,
     water_level: 1.17,
+    user_id: null,
   },
   {
     id: 2517,
@@ -17617,6 +20133,7 @@ export default [
     date: "2021-08-22",
     discharge: 85.9,
     water_level: 1.15,
+    user_id: null,
   },
   {
     id: 2518,
@@ -17624,6 +20141,7 @@ export default [
     date: "2021-08-23",
     discharge: 86.2,
     water_level: 1.152,
+    user_id: null,
   },
   {
     id: 2519,
@@ -17631,6 +20149,7 @@ export default [
     date: "2021-08-24",
     discharge: 81.9,
     water_level: 1.128,
+    user_id: null,
   },
   {
     id: 2520,
@@ -17638,6 +20157,7 @@ export default [
     date: "2021-08-25",
     discharge: 74.1,
     water_level: 1.083,
+    user_id: null,
   },
   {
     id: 2521,
@@ -17645,6 +20165,7 @@ export default [
     date: "2021-08-26",
     discharge: 69.6,
     water_level: 1.055,
+    user_id: null,
   },
   {
     id: 2522,
@@ -17652,6 +20173,7 @@ export default [
     date: "2021-08-27",
     discharge: 76.6,
     water_level: 1.098,
+    user_id: null,
   },
   {
     id: 2523,
@@ -17659,6 +20181,7 @@ export default [
     date: "2021-08-28",
     discharge: 77.4,
     water_level: 1.103,
+    user_id: null,
   },
   {
     id: 2524,
@@ -17666,6 +20189,7 @@ export default [
     date: "2021-08-29",
     discharge: 81.3,
     water_level: 1.124,
+    user_id: null,
   },
   {
     id: 2525,
@@ -17673,6 +20197,7 @@ export default [
     date: "2021-08-30",
     discharge: 77.6,
     water_level: 1.104,
+    user_id: null,
   },
   {
     id: 2526,
@@ -17680,6 +20205,7 @@ export default [
     date: "2021-08-31",
     discharge: 79.1,
     water_level: 1.113,
+    user_id: null,
   },
   {
     id: 2527,
@@ -17687,6 +20213,7 @@ export default [
     date: "2021-09-01",
     discharge: 79.8,
     water_level: 1.116,
+    user_id: null,
   },
   {
     id: 2528,
@@ -17694,6 +20221,7 @@ export default [
     date: "2021-09-02",
     discharge: 76.5,
     water_level: 1.098,
+    user_id: null,
   },
   {
     id: 2529,
@@ -17701,6 +20229,7 @@ export default [
     date: "2021-09-03",
     discharge: 67.3,
     water_level: 1.038,
+    user_id: null,
   },
   {
     id: 2530,
@@ -17708,6 +20237,7 @@ export default [
     date: "2021-09-04",
     discharge: 62.6,
     water_level: 1.005,
+    user_id: null,
   },
   {
     id: 2531,
@@ -17715,6 +20245,7 @@ export default [
     date: "2021-09-05",
     discharge: 63.8,
     water_level: 1.014,
+    user_id: null,
   },
   {
     id: 2532,
@@ -17722,6 +20253,7 @@ export default [
     date: "2021-09-06",
     discharge: 64,
     water_level: 1.015,
+    user_id: null,
   },
   {
     id: 2533,
@@ -17729,6 +20261,7 @@ export default [
     date: "2021-09-07",
     discharge: 62.5,
     water_level: 1.004,
+    user_id: null,
   },
   {
     id: 2534,
@@ -17736,6 +20269,7 @@ export default [
     date: "2021-09-08",
     discharge: 60.6,
     water_level: 0.99,
+    user_id: null,
   },
   {
     id: 2535,
@@ -17743,6 +20277,7 @@ export default [
     date: "2021-09-09",
     discharge: 58.5,
     water_level: 0.975,
+    user_id: null,
   },
   {
     id: 2536,
@@ -17750,6 +20285,7 @@ export default [
     date: "2021-09-10",
     discharge: 56.7,
     water_level: 0.96,
+    user_id: null,
   },
   {
     id: 2537,
@@ -17757,6 +20293,7 @@ export default [
     date: "2021-09-11",
     discharge: 54.9,
     water_level: 0.946,
+    user_id: null,
   },
   {
     id: 2538,
@@ -17764,6 +20301,7 @@ export default [
     date: "2021-09-12",
     discharge: 55.9,
     water_level: 0.954,
+    user_id: null,
   },
   {
     id: 2539,
@@ -17771,6 +20309,7 @@ export default [
     date: "2021-09-13",
     discharge: 52.9,
     water_level: 0.93,
+    user_id: null,
   },
   {
     id: 2540,
@@ -17778,6 +20317,7 @@ export default [
     date: "2021-09-14",
     discharge: 55,
     water_level: 0.947,
+    user_id: null,
   },
   {
     id: 2541,
@@ -17785,6 +20325,7 @@ export default [
     date: "2021-09-15",
     discharge: 56.7,
     water_level: 0.96,
+    user_id: null,
   },
   {
     id: 2542,
@@ -17792,6 +20333,7 @@ export default [
     date: "2021-09-16",
     discharge: 70.6,
     water_level: 1.062,
+    user_id: null,
   },
   {
     id: 2543,
@@ -17799,6 +20341,7 @@ export default [
     date: "2021-09-17",
     discharge: 70.6,
     water_level: 1.062,
+    user_id: null,
   },
   {
     id: 2544,
@@ -17806,6 +20349,7 @@ export default [
     date: "2021-09-18",
     discharge: 68.1,
     water_level: 1.045,
+    user_id: null,
   },
   {
     id: 2545,
@@ -17813,6 +20357,7 @@ export default [
     date: "2021-09-19",
     discharge: 66.8,
     water_level: 1.035,
+    user_id: null,
   },
   {
     id: 2546,
@@ -17820,6 +20365,7 @@ export default [
     date: "2021-09-20",
     discharge: 59.5,
     water_level: 0.982,
+    user_id: null,
   },
   {
     id: 2547,
@@ -17827,6 +20373,7 @@ export default [
     date: "2021-09-21",
     discharge: 56.4,
     water_level: 0.958,
+    user_id: null,
   },
   {
     id: 2548,
@@ -17834,6 +20381,7 @@ export default [
     date: "2021-09-22",
     discharge: 58.5,
     water_level: 0.974,
+    user_id: null,
   },
   {
     id: 2549,
@@ -17841,6 +20389,7 @@ export default [
     date: "2021-09-23",
     discharge: 58.7,
     water_level: 0.976,
+    user_id: null,
   },
   {
     id: 2550,
@@ -17848,6 +20397,7 @@ export default [
     date: "2021-09-24",
     discharge: 58.9,
     water_level: 0.978,
+    user_id: null,
   },
   {
     id: 2551,
@@ -17855,6 +20405,7 @@ export default [
     date: "2021-09-25",
     discharge: 60.8,
     water_level: 0.992,
+    user_id: null,
   },
   {
     id: 2552,
@@ -17862,6 +20413,7 @@ export default [
     date: "2021-09-26",
     discharge: 62.4,
     water_level: 1.004,
+    user_id: null,
   },
   {
     id: 2553,
@@ -17869,6 +20421,7 @@ export default [
     date: "2021-09-27",
     discharge: 64,
     water_level: 1.015,
+    user_id: null,
   },
   {
     id: 2554,
@@ -17876,6 +20429,7 @@ export default [
     date: "2021-09-28",
     discharge: 71,
     water_level: 1.065,
+    user_id: null,
   },
   {
     id: 2555,
@@ -17883,6 +20437,7 @@ export default [
     date: "2021-09-29",
     discharge: 67.7,
     water_level: 1.042,
+    user_id: null,
   },
   {
     id: 2556,
@@ -17890,6 +20445,7 @@ export default [
     date: "2021-09-30",
     discharge: 60.8,
     water_level: 0.992,
+    user_id: null,
   },
   {
     id: 2557,
@@ -17897,6 +20453,7 @@ export default [
     date: "2021-10-01",
     discharge: 62.7,
     water_level: 1.005,
+    user_id: null,
   },
   {
     id: 2558,
@@ -17904,6 +20461,7 @@ export default [
     date: "2021-10-02",
     discharge: 58.1,
     water_level: 0.971,
+    user_id: null,
   },
   {
     id: 2559,
@@ -17911,6 +20469,7 @@ export default [
     date: "2021-10-03",
     discharge: 58.5,
     water_level: 0.974,
+    user_id: null,
   },
   {
     id: 2560,
@@ -17918,6 +20477,7 @@ export default [
     date: "2021-10-04",
     discharge: 54.2,
     water_level: 0.941,
+    user_id: null,
   },
   {
     id: 2561,
@@ -17925,6 +20485,7 @@ export default [
     date: "2021-10-05",
     discharge: 53.4,
     water_level: 0.935,
+    user_id: null,
   },
   {
     id: 2562,
@@ -17932,6 +20493,7 @@ export default [
     date: "2021-10-06",
     discharge: 56.8,
     water_level: 0.961,
+    user_id: null,
   },
   {
     id: 2563,
@@ -17939,6 +20501,7 @@ export default [
     date: "2021-10-07",
     discharge: 53.2,
     water_level: 0.933,
+    user_id: null,
   },
   {
     id: 2564,
@@ -17946,6 +20509,7 @@ export default [
     date: "2021-10-08",
     discharge: 48.6,
     water_level: 0.895,
+    user_id: null,
   },
   {
     id: 2565,
@@ -17953,6 +20517,7 @@ export default [
     date: "2021-10-09",
     discharge: 46.2,
     water_level: 0.875,
+    user_id: null,
   },
   {
     id: 2566,
@@ -17960,6 +20525,7 @@ export default [
     date: "2021-10-10",
     discharge: 47,
     water_level: 0.882,
+    user_id: null,
   },
   {
     id: 2567,
@@ -17967,6 +20533,7 @@ export default [
     date: "2021-10-11",
     discharge: 49.2,
     water_level: 0.901,
+    user_id: null,
   },
   {
     id: 2568,
@@ -17974,6 +20541,7 @@ export default [
     date: "2021-10-12",
     discharge: 48.3,
     water_level: 0.893,
+    user_id: null,
   },
   {
     id: 2569,
@@ -17981,6 +20549,7 @@ export default [
     date: "2021-10-13",
     discharge: 42.7,
     water_level: 0.844,
+    user_id: null,
   },
   {
     id: 2570,
@@ -17988,6 +20557,7 @@ export default [
     date: "2021-10-14",
     discharge: 40.8,
     water_level: 0.827,
+    user_id: null,
   },
   {
     id: 2571,
@@ -17995,6 +20565,7 @@ export default [
     date: "2021-10-15",
     discharge: 40.3,
     water_level: 0.823,
+    user_id: null,
   },
   {
     id: 2572,
@@ -18002,6 +20573,7 @@ export default [
     date: "2021-10-16",
     discharge: 38.2,
     water_level: 0.804,
+    user_id: null,
   },
   {
     id: 2573,
@@ -18009,6 +20581,7 @@ export default [
     date: "2021-10-17",
     discharge: 40.9,
     water_level: 0.828,
+    user_id: null,
   },
   {
     id: 2574,
@@ -18016,6 +20589,7 @@ export default [
     date: "2021-10-18",
     discharge: 44.3,
     water_level: 0.858,
+    user_id: null,
   },
   {
     id: 2575,
@@ -18023,6 +20597,7 @@ export default [
     date: "2021-10-19",
     discharge: 42.8,
     water_level: 0.845,
+    user_id: null,
   },
   {
     id: 2576,
@@ -18030,6 +20605,7 @@ export default [
     date: "2021-10-20",
     discharge: 39.3,
     water_level: 0.814,
+    user_id: null,
   },
   {
     id: 2577,
@@ -18037,6 +20613,7 @@ export default [
     date: "2021-10-21",
     discharge: 38,
     water_level: 0.802,
+    user_id: null,
   },
   {
     id: 2578,
@@ -18044,6 +20621,7 @@ export default [
     date: "2021-10-22",
     discharge: 40.4,
     water_level: 0.823,
+    user_id: null,
   },
   {
     id: 2579,
@@ -18051,6 +20629,7 @@ export default [
     date: "2021-10-23",
     discharge: 51.6,
     water_level: 0.916,
+    user_id: null,
   },
   {
     id: 2580,
@@ -18058,6 +20637,7 @@ export default [
     date: "2021-10-24",
     discharge: 44.2,
     water_level: 0.858,
+    user_id: null,
   },
   {
     id: 2581,
@@ -18065,6 +20645,7 @@ export default [
     date: "2021-10-25",
     discharge: 37.7,
     water_level: 0.799,
+    user_id: null,
   },
   {
     id: 2582,
@@ -18072,6 +20653,7 @@ export default [
     date: "2021-10-26",
     discharge: 34.7,
     water_level: 0.77,
+    user_id: null,
   },
   {
     id: 2583,
@@ -18079,6 +20661,7 @@ export default [
     date: "2021-10-27",
     discharge: 35.2,
     water_level: 0.775,
+    user_id: null,
   },
   {
     id: 2584,
@@ -18086,6 +20669,7 @@ export default [
     date: "2021-10-28",
     discharge: 36.9,
     water_level: 0.791,
+    user_id: null,
   },
   {
     id: 2585,
@@ -18093,6 +20677,7 @@ export default [
     date: "2021-10-29",
     discharge: 41.9,
     water_level: 0.838,
+    user_id: null,
   },
   {
     id: 2586,
@@ -18100,6 +20685,7 @@ export default [
     date: "2021-10-30",
     discharge: 39.1,
     water_level: 0.812,
+    user_id: null,
   },
   {
     id: 2587,
@@ -18107,6 +20693,7 @@ export default [
     date: "2021-10-31",
     discharge: 38.7,
     water_level: 0.808,
+    user_id: null,
   },
   {
     id: 2588,
@@ -18114,6 +20701,7 @@ export default [
     date: "2021-11-01",
     discharge: 38.7,
     water_level: 0.808,
+    user_id: null,
   },
   {
     id: 2589,
@@ -18121,6 +20709,7 @@ export default [
     date: "2021-11-02",
     discharge: 36.7,
     water_level: 0.79,
+    user_id: null,
   },
   {
     id: 2590,
@@ -18128,6 +20717,7 @@ export default [
     date: "2021-11-03",
     discharge: 36.8,
     water_level: 0.79,
+    user_id: null,
   },
   {
     id: 2591,
@@ -18135,6 +20725,7 @@ export default [
     date: "2021-11-04",
     discharge: 36.6,
     water_level: 0.788,
+    user_id: null,
   },
   {
     id: 2592,
@@ -18142,6 +20733,7 @@ export default [
     date: "2021-11-05",
     discharge: 34.2,
     water_level: 0.765,
+    user_id: null,
   },
   {
     id: 2593,
@@ -18149,6 +20741,7 @@ export default [
     date: "2021-11-06",
     discharge: 35.5,
     water_level: 0.777,
+    user_id: null,
   },
   {
     id: 2594,
@@ -18156,6 +20749,7 @@ export default [
     date: "2021-11-07",
     discharge: 36.6,
     water_level: 0.788,
+    user_id: null,
   },
   {
     id: 2595,
@@ -18163,6 +20757,7 @@ export default [
     date: "2021-11-08",
     discharge: 37.6,
     water_level: 0.797,
+    user_id: null,
   },
   {
     id: 2596,
@@ -18170,6 +20765,7 @@ export default [
     date: "2021-11-09",
     discharge: 39.2,
     water_level: 0.812,
+    user_id: null,
   },
   {
     id: 2597,
@@ -18177,6 +20773,7 @@ export default [
     date: "2021-11-10",
     discharge: 36.8,
     water_level: 0.79,
+    user_id: null,
   },
   {
     id: 2598,
@@ -18184,6 +20781,7 @@ export default [
     date: "2021-11-11",
     discharge: 38.9,
     water_level: 0.81,
+    user_id: null,
   },
   {
     id: 2599,
@@ -18191,6 +20789,7 @@ export default [
     date: "2021-11-12",
     discharge: 36.8,
     water_level: 0.79,
+    user_id: null,
   },
   {
     id: 2600,
@@ -18198,6 +20797,7 @@ export default [
     date: "2021-11-13",
     discharge: 35.4,
     water_level: 0.776,
+    user_id: null,
   },
   {
     id: 2601,
@@ -18205,6 +20805,7 @@ export default [
     date: "2021-11-14",
     discharge: 35.7,
     water_level: 0.78,
+    user_id: null,
   },
   {
     id: 2602,
@@ -18212,6 +20813,7 @@ export default [
     date: "2021-11-15",
     discharge: 35.7,
     water_level: 0.78,
+    user_id: null,
   },
   {
     id: 2603,
@@ -18219,6 +20821,7 @@ export default [
     date: "2021-11-16",
     discharge: 37.2,
     water_level: 0.794,
+    user_id: null,
   },
   {
     id: 2604,
@@ -18226,6 +20829,7 @@ export default [
     date: "2021-11-17",
     discharge: 38.4,
     water_level: 0.806,
+    user_id: null,
   },
   {
     id: 2605,
@@ -18233,6 +20837,7 @@ export default [
     date: "2021-11-18",
     discharge: 39.3,
     water_level: 0.814,
+    user_id: null,
   },
   {
     id: 2606,
@@ -18240,6 +20845,7 @@ export default [
     date: "2021-11-19",
     discharge: 40.8,
     water_level: 0.827,
+    user_id: null,
   },
   {
     id: 2607,
@@ -18247,6 +20853,7 @@ export default [
     date: "2021-11-20",
     discharge: 53.5,
     water_level: 0.935,
+    user_id: null,
   },
   {
     id: 2608,
@@ -18254,6 +20861,7 @@ export default [
     date: "2021-11-21",
     discharge: 59.5,
     water_level: 0.982,
+    user_id: null,
   },
   {
     id: 2609,
@@ -18261,6 +20869,7 @@ export default [
     date: "2021-11-22",
     discharge: 56.1,
     water_level: 0.956,
+    user_id: null,
   },
   {
     id: 2610,
@@ -18268,6 +20877,7 @@ export default [
     date: "2021-11-23",
     discharge: 46.2,
     water_level: 0.873,
+    user_id: null,
   },
   {
     id: 2611,
@@ -18275,6 +20885,7 @@ export default [
     date: "2021-11-24",
     discharge: 43.9,
     water_level: 0.855,
+    user_id: null,
   },
   {
     id: 2612,
@@ -18282,6 +20893,7 @@ export default [
     date: "2021-11-25",
     discharge: 47.3,
     water_level: 0.885,
+    user_id: null,
   },
   {
     id: 2613,
@@ -18289,6 +20901,7 @@ export default [
     date: "2021-11-26",
     discharge: 48.7,
     water_level: 0.896,
+    user_id: null,
   },
   {
     id: 2614,
@@ -18296,6 +20909,7 @@ export default [
     date: "2021-11-27",
     discharge: 46.5,
     water_level: 0.877,
+    user_id: null,
   },
   {
     id: 2615,
@@ -18303,6 +20917,7 @@ export default [
     date: "2021-11-28",
     discharge: 50,
     water_level: 0.907,
+    user_id: null,
   },
   {
     id: 2616,
@@ -18310,6 +20925,7 @@ export default [
     date: "2021-11-29",
     discharge: 51.4,
     water_level: 0.919,
+    user_id: null,
   },
   {
     id: 2617,
@@ -18317,6 +20933,7 @@ export default [
     date: "2021-11-30",
     discharge: 45.7,
     water_level: 0.87,
+    user_id: null,
   },
   {
     id: 2618,
@@ -18324,6 +20941,7 @@ export default [
     date: "2021-12-01",
     discharge: 47.7,
     water_level: 0.887,
+    user_id: null,
   },
   {
     id: 2619,
@@ -18331,6 +20949,7 @@ export default [
     date: "2021-12-02",
     discharge: 49.9,
     water_level: 0.906,
+    user_id: null,
   },
   {
     id: 2620,
@@ -18338,6 +20957,7 @@ export default [
     date: "2021-12-03",
     discharge: 50,
     water_level: 0.906,
+    user_id: null,
   },
   {
     id: 2621,
@@ -18345,6 +20965,7 @@ export default [
     date: "2021-12-04",
     discharge: 56.7,
     water_level: 0.961,
+    user_id: null,
   },
   {
     id: 2622,
@@ -18352,6 +20973,7 @@ export default [
     date: "2021-12-05",
     discharge: 61.6,
     water_level: 1.025,
+    user_id: null,
   },
   {
     id: 2623,
@@ -18359,6 +20981,7 @@ export default [
     date: "2021-12-06",
     discharge: 66.1,
     water_level: 1.175,
+    user_id: null,
   },
   {
     id: 2624,
@@ -18366,6 +20989,7 @@ export default [
     date: "2021-12-07",
     discharge: 60.8,
     water_level: 1.175,
+    user_id: null,
   },
   {
     id: 2625,
@@ -18373,6 +20997,7 @@ export default [
     date: "2021-12-08",
     discharge: 50.7,
     water_level: 1.025,
+    user_id: null,
   },
   {
     id: 2626,
@@ -18380,6 +21005,7 @@ export default [
     date: "2021-12-09",
     discharge: 49,
     water_level: 0.962,
+    user_id: null,
   },
   {
     id: 2627,
@@ -18387,6 +21013,7 @@ export default [
     date: "2021-12-10",
     discharge: 57.4,
     water_level: 1.083,
+    user_id: null,
   },
   {
     id: 2628,
@@ -18394,6 +21021,7 @@ export default [
     date: "2021-12-11",
     discharge: 51.7,
     water_level: 1.093,
+    user_id: null,
   },
   {
     id: 2629,
@@ -18401,6 +21029,7 @@ export default [
     date: "2021-12-12",
     discharge: 48.1,
     water_level: 0.999,
+    user_id: null,
   },
   {
     id: 2630,
@@ -18408,6 +21037,7 @@ export default [
     date: "2021-12-13",
     discharge: 58.5,
     water_level: 1.133,
+    user_id: null,
   },
   {
     id: 2631,
@@ -18415,6 +21045,7 @@ export default [
     date: "2021-12-14",
     discharge: 55.7,
     water_level: 1.22,
+    user_id: null,
   },
   {
     id: 2632,
@@ -18422,6 +21053,7 @@ export default [
     date: "2021-12-15",
     discharge: 38.9,
     water_level: 1.073,
+    user_id: null,
   },
   {
     id: 2633,
@@ -18429,6 +21061,7 @@ export default [
     date: "2021-12-16",
     discharge: 42.6,
     water_level: 1.013,
+    user_id: null,
   },
   {
     id: 2634,
@@ -18436,6 +21069,7 @@ export default [
     date: "2021-12-17",
     discharge: 40.7,
     water_level: 1.049,
+    user_id: null,
   },
   {
     id: 2635,
@@ -18443,6 +21077,7 @@ export default [
     date: "2021-12-18",
     discharge: 41.3,
     water_level: 1.084,
+    user_id: null,
   },
   {
     id: 2636,
@@ -18450,6 +21085,7 @@ export default [
     date: "2021-12-19",
     discharge: 43.7,
     water_level: 1.111,
+    user_id: null,
   },
   {
     id: 2637,
@@ -18457,6 +21093,7 @@ export default [
     date: "2021-12-20",
     discharge: 46.4,
     water_level: 1.173,
+    user_id: null,
   },
   {
     id: 2638,
@@ -18464,6 +21101,7 @@ export default [
     date: "2021-12-21",
     discharge: 51.5,
     water_level: 1.258,
+    user_id: null,
   },
   {
     id: 2639,
@@ -18471,6 +21109,7 @@ export default [
     date: "2021-12-22",
     discharge: 48.4,
     water_level: 1.165,
+    user_id: null,
   },
   {
     id: 2640,
@@ -18478,6 +21117,7 @@ export default [
     date: "2021-12-23",
     discharge: 46.6,
     water_level: 1.153,
+    user_id: null,
   },
   {
     id: 2641,
@@ -18485,6 +21125,7 @@ export default [
     date: "2021-12-24",
     discharge: 46.1,
     water_level: 1.21,
+    user_id: null,
   },
   {
     id: 2642,
@@ -18492,6 +21133,7 @@ export default [
     date: "2021-12-25",
     discharge: 43.7,
     water_level: 1.229,
+    user_id: null,
   },
   {
     id: 2643,
@@ -18499,6 +21141,7 @@ export default [
     date: "2021-12-26",
     discharge: 42.5,
     water_level: 1.233,
+    user_id: null,
   },
   {
     id: 2644,
@@ -18506,6 +21149,7 @@ export default [
     date: "2021-12-27",
     discharge: 41.6,
     water_level: 1.272,
+    user_id: null,
   },
   {
     id: 2645,
@@ -18513,6 +21157,7 @@ export default [
     date: "2021-12-28",
     discharge: 39.4,
     water_level: 1.258,
+    user_id: null,
   },
   {
     id: 2646,
@@ -18520,6 +21165,7 @@ export default [
     date: "2021-12-29",
     discharge: 41.2,
     water_level: 1.284,
+    user_id: null,
   },
   {
     id: 2647,
@@ -18527,6 +21173,7 @@ export default [
     date: "2021-12-30",
     discharge: 39.9,
     water_level: 1.329,
+    user_id: null,
   },
   {
     id: 2648,
@@ -18534,6 +21181,7 @@ export default [
     date: "2021-12-31",
     discharge: 43.4,
     water_level: 1.264,
+    user_id: null,
   },
   {
     id: 2649,
@@ -18541,6 +21189,7 @@ export default [
     date: "2022-01-01",
     discharge: 42,
     water_level: 1.038,
+    user_id: null,
   },
   {
     id: 2650,
@@ -18548,6 +21197,7 @@ export default [
     date: "2022-01-02",
     discharge: 44.5,
     water_level: 1.055,
+    user_id: null,
   },
   {
     id: 2651,
@@ -18555,6 +21205,7 @@ export default [
     date: "2022-01-03",
     discharge: 40.5,
     water_level: 1.064,
+    user_id: null,
   },
   {
     id: 2652,
@@ -18562,6 +21213,7 @@ export default [
     date: "2022-01-04",
     discharge: 38.1,
     water_level: 1.14,
+    user_id: null,
   },
   {
     id: 2653,
@@ -18569,6 +21221,7 @@ export default [
     date: "2022-01-05",
     discharge: 37.5,
     water_level: 1.301,
+    user_id: null,
   },
   {
     id: 2654,
@@ -18576,6 +21229,7 @@ export default [
     date: "2022-01-06",
     discharge: 37.6,
     water_level: 1.581,
+    user_id: null,
   },
   {
     id: 2655,
@@ -18583,6 +21237,7 @@ export default [
     date: "2022-01-07",
     discharge: 38,
     water_level: 1.773,
+    user_id: null,
   },
   {
     id: 2656,
@@ -18590,6 +21245,7 @@ export default [
     date: "2022-01-08",
     discharge: 40.2,
     water_level: 1.709,
+    user_id: null,
   },
   {
     id: 2657,
@@ -18597,6 +21253,7 @@ export default [
     date: "2022-01-09",
     discharge: 43.1,
     water_level: 1.595,
+    user_id: null,
   },
   {
     id: 2658,
@@ -18604,6 +21261,7 @@ export default [
     date: "2022-01-10",
     discharge: 45.9,
     water_level: 1.456,
+    user_id: null,
   },
   {
     id: 2659,
@@ -18611,6 +21269,7 @@ export default [
     date: "2022-01-11",
     discharge: 49.3,
     water_level: 1.497,
+    user_id: null,
   },
   {
     id: 2660,
@@ -18618,6 +21277,7 @@ export default [
     date: "2022-01-12",
     discharge: 51.6,
     water_level: 1.544,
+    user_id: null,
   },
   {
     id: 2661,
@@ -18625,6 +21285,7 @@ export default [
     date: "2022-01-13",
     discharge: 54.5,
     water_level: 1.613,
+    user_id: null,
   },
   {
     id: 2662,
@@ -18632,6 +21293,7 @@ export default [
     date: "2022-01-14",
     discharge: 53.6,
     water_level: 1.575,
+    user_id: null,
   },
   {
     id: 2663,
@@ -18639,6 +21301,7 @@ export default [
     date: "2022-01-15",
     discharge: 55.6,
     water_level: 1.58,
+    user_id: null,
   },
   {
     id: 2664,
@@ -18646,6 +21309,7 @@ export default [
     date: "2022-01-16",
     discharge: 49,
     water_level: 1.488,
+    user_id: null,
   },
   {
     id: 2665,
@@ -18653,6 +21317,7 @@ export default [
     date: "2022-01-17",
     discharge: 51.3,
     water_level: 1.481,
+    user_id: null,
   },
   {
     id: 2666,
@@ -18660,6 +21325,7 @@ export default [
     date: "2022-01-18",
     discharge: 52.5,
     water_level: 1.483,
+    user_id: null,
   },
   {
     id: 2667,
@@ -18667,6 +21333,7 @@ export default [
     date: "2022-01-19",
     discharge: 45.7,
     water_level: 1.425,
+    user_id: null,
   },
   {
     id: 2668,
@@ -18674,6 +21341,7 @@ export default [
     date: "2022-01-20",
     discharge: 44.2,
     water_level: 1.411,
+    user_id: null,
   },
   {
     id: 2669,
@@ -18681,6 +21349,7 @@ export default [
     date: "2022-01-21",
     discharge: 42.9,
     water_level: 1.385,
+    user_id: null,
   },
   {
     id: 2670,
@@ -18688,6 +21357,7 @@ export default [
     date: "2022-01-22",
     discharge: 43.5,
     water_level: 1.367,
+    user_id: null,
   },
   {
     id: 2671,
@@ -18695,6 +21365,7 @@ export default [
     date: "2022-01-23",
     discharge: 47.9,
     water_level: 1.409,
+    user_id: null,
   },
   {
     id: 2672,
@@ -18702,6 +21373,7 @@ export default [
     date: "2022-01-24",
     discharge: 49.2,
     water_level: 1.416,
+    user_id: null,
   },
   {
     id: 2673,
@@ -18709,6 +21381,7 @@ export default [
     date: "2022-01-25",
     discharge: 49.2,
     water_level: 1.399,
+    user_id: null,
   },
   {
     id: 2674,
@@ -18716,6 +21389,7 @@ export default [
     date: "2022-01-26",
     discharge: 51,
     water_level: 1.398,
+    user_id: null,
   },
   {
     id: 2675,
@@ -18723,6 +21397,7 @@ export default [
     date: "2022-01-27",
     discharge: 52.7,
     water_level: 1.437,
+    user_id: null,
   },
   {
     id: 2676,
@@ -18730,6 +21405,7 @@ export default [
     date: "2022-01-28",
     discharge: 53.5,
     water_level: 1.426,
+    user_id: null,
   },
   {
     id: 2677,
@@ -18737,6 +21413,7 @@ export default [
     date: "2022-01-29",
     discharge: 47.3,
     water_level: 1.364,
+    user_id: null,
   },
   {
     id: 2678,
@@ -18744,6 +21421,7 @@ export default [
     date: "2022-01-30",
     discharge: 40.2,
     water_level: 1.226,
+    user_id: null,
   },
   {
     id: 2679,
@@ -18751,6 +21429,7 @@ export default [
     date: "2022-01-31",
     discharge: 38.9,
     water_level: 1.171,
+    user_id: null,
   },
   {
     id: 2680,
@@ -18758,6 +21437,7 @@ export default [
     date: "2022-02-01",
     discharge: 38.8,
     water_level: 1.205,
+    user_id: null,
   },
   {
     id: 2681,
@@ -18765,6 +21445,7 @@ export default [
     date: "2022-02-02",
     discharge: 43.9,
     water_level: 1.281,
+    user_id: null,
   },
   {
     id: 2682,
@@ -18772,6 +21453,7 @@ export default [
     date: "2022-02-03",
     discharge: 46.7,
     water_level: 1.344,
+    user_id: null,
   },
   {
     id: 2683,
@@ -18779,6 +21461,7 @@ export default [
     date: "2022-02-04",
     discharge: 43.6,
     water_level: 1.354,
+    user_id: null,
   },
   {
     id: 2684,
@@ -18786,6 +21469,7 @@ export default [
     date: "2022-02-05",
     discharge: 46.4,
     water_level: 1.342,
+    user_id: null,
   },
   {
     id: 2685,
@@ -18793,6 +21477,7 @@ export default [
     date: "2022-02-06",
     discharge: 46.2,
     water_level: 1.376,
+    user_id: null,
   },
   {
     id: 2686,
@@ -18800,6 +21485,7 @@ export default [
     date: "2022-02-07",
     discharge: 42.5,
     water_level: 1.285,
+    user_id: null,
   },
   {
     id: 2687,
@@ -18807,6 +21493,7 @@ export default [
     date: "2022-02-08",
     discharge: 44.4,
     water_level: 1.292,
+    user_id: null,
   },
   {
     id: 2688,
@@ -18814,6 +21501,7 @@ export default [
     date: "2022-02-09",
     discharge: 44.6,
     water_level: 1.305,
+    user_id: null,
   },
   {
     id: 2689,
@@ -18821,6 +21509,7 @@ export default [
     date: "2022-02-10",
     discharge: 45.3,
     water_level: 1.29,
+    user_id: null,
   },
   {
     id: 2690,
@@ -18828,6 +21517,7 @@ export default [
     date: "2022-02-11",
     discharge: 43.6,
     water_level: 1.279,
+    user_id: null,
   },
   {
     id: 2691,
@@ -18835,6 +21525,7 @@ export default [
     date: "2022-02-12",
     discharge: 42.2,
     water_level: 1.24,
+    user_id: null,
   },
   {
     id: 2692,
@@ -18842,6 +21533,7 @@ export default [
     date: "2022-02-13",
     discharge: 42,
     water_level: 1.241,
+    user_id: null,
   },
   {
     id: 2693,
@@ -18849,6 +21541,7 @@ export default [
     date: "2022-02-14",
     discharge: 42.2,
     water_level: 1.228,
+    user_id: null,
   },
   {
     id: 2694,
@@ -18856,6 +21549,7 @@ export default [
     date: "2022-02-15",
     discharge: 42.2,
     water_level: 1.22,
+    user_id: null,
   },
   {
     id: 2695,
@@ -18863,6 +21557,7 @@ export default [
     date: "2022-02-16",
     discharge: 42.6,
     water_level: 1.211,
+    user_id: null,
   },
   {
     id: 2696,
@@ -18870,6 +21565,7 @@ export default [
     date: "2022-02-17",
     discharge: 42.5,
     water_level: 1.215,
+    user_id: null,
   },
   {
     id: 2697,
@@ -18877,6 +21573,7 @@ export default [
     date: "2022-02-18",
     discharge: 42.7,
     water_level: 1.233,
+    user_id: null,
   },
   {
     id: 2698,
@@ -18884,6 +21581,7 @@ export default [
     date: "2022-02-19",
     discharge: 43.6,
     water_level: 1.243,
+    user_id: null,
   },
   {
     id: 2699,
@@ -18891,6 +21589,7 @@ export default [
     date: "2022-02-20",
     discharge: 42.1,
     water_level: 1.157,
+    user_id: null,
   },
   {
     id: 2700,
@@ -18898,6 +21597,7 @@ export default [
     date: "2022-02-21",
     discharge: 43.2,
     water_level: 1.195,
+    user_id: null,
   },
   {
     id: 2701,
@@ -18905,6 +21605,7 @@ export default [
     date: "2022-02-22",
     discharge: 39.1,
     water_level: 1.175,
+    user_id: null,
   },
   {
     id: 2702,
@@ -18912,6 +21613,7 @@ export default [
     date: "2022-02-23",
     discharge: 39,
     water_level: 1.161,
+    user_id: null,
   },
   {
     id: 2703,
@@ -18919,6 +21621,7 @@ export default [
     date: "2022-02-24",
     discharge: 41.1,
     water_level: 1.207,
+    user_id: null,
   },
   {
     id: 2704,
@@ -18926,6 +21629,7 @@ export default [
     date: "2022-02-25",
     discharge: 37.3,
     water_level: 1.147,
+    user_id: null,
   },
   {
     id: 2705,
@@ -18933,6 +21637,7 @@ export default [
     date: "2022-02-26",
     discharge: 38.3,
     water_level: 1.162,
+    user_id: null,
   },
   {
     id: 2706,
@@ -18940,6 +21645,7 @@ export default [
     date: "2022-02-27",
     discharge: 38.2,
     water_level: 1.172,
+    user_id: null,
   },
   {
     id: 2707,
@@ -18947,6 +21653,7 @@ export default [
     date: "2022-02-28",
     discharge: 39.4,
     water_level: 1.176,
+    user_id: null,
   },
   {
     id: 2708,
@@ -18954,6 +21661,7 @@ export default [
     date: "2022-03-01",
     discharge: 39.4,
     water_level: 1.164,
+    user_id: null,
   },
   {
     id: 2709,
@@ -18961,6 +21669,7 @@ export default [
     date: "2022-03-02",
     discharge: 39.9,
     water_level: 1.156,
+    user_id: null,
   },
   {
     id: 2710,
@@ -18968,6 +21677,7 @@ export default [
     date: "2022-03-03",
     discharge: 41,
     water_level: 1.206,
+    user_id: null,
   },
   {
     id: 2711,
@@ -18975,6 +21685,7 @@ export default [
     date: "2022-03-04",
     discharge: 42.2,
     water_level: 1.2,
+    user_id: null,
   },
   {
     id: 2712,
@@ -18982,6 +21693,7 @@ export default [
     date: "2022-03-05",
     discharge: 45.9,
     water_level: 1.247,
+    user_id: null,
   },
   {
     id: 2713,
@@ -18989,6 +21701,7 @@ export default [
     date: "2022-03-06",
     discharge: 46.2,
     water_level: 1.276,
+    user_id: null,
   },
   {
     id: 2714,
@@ -18996,6 +21709,7 @@ export default [
     date: "2022-03-07",
     discharge: 45.3,
     water_level: 1.234,
+    user_id: null,
   },
   {
     id: 2715,
@@ -19003,6 +21717,7 @@ export default [
     date: "2022-03-08",
     discharge: 45.1,
     water_level: 1.224,
+    user_id: null,
   },
   {
     id: 2716,
@@ -19010,6 +21725,7 @@ export default [
     date: "2022-03-09",
     discharge: 43.4,
     water_level: 1.216,
+    user_id: null,
   },
   {
     id: 2717,
@@ -19017,6 +21733,7 @@ export default [
     date: "2022-03-10",
     discharge: 42.2,
     water_level: 1.214,
+    user_id: null,
   },
   {
     id: 2718,
@@ -19024,6 +21741,7 @@ export default [
     date: "2022-03-11",
     discharge: 38.6,
     water_level: 1.167,
+    user_id: null,
   },
   {
     id: 2719,
@@ -19031,6 +21749,7 @@ export default [
     date: "2022-03-12",
     discharge: 38.9,
     water_level: 1.166,
+    user_id: null,
   },
   {
     id: 2720,
@@ -19038,6 +21757,7 @@ export default [
     date: "2022-03-13",
     discharge: 37.4,
     water_level: 1.137,
+    user_id: null,
   },
   {
     id: 2721,
@@ -19045,6 +21765,7 @@ export default [
     date: "2022-03-14",
     discharge: 39,
     water_level: 1.141,
+    user_id: null,
   },
   {
     id: 2722,
@@ -19052,6 +21773,7 @@ export default [
     date: "2022-03-15",
     discharge: 40,
     water_level: 1.116,
+    user_id: null,
   },
   {
     id: 2723,
@@ -19059,6 +21781,7 @@ export default [
     date: "2022-03-16",
     discharge: 39.6,
     water_level: 0.975,
+    user_id: null,
   },
   {
     id: 2724,
@@ -19066,6 +21789,7 @@ export default [
     date: "2022-03-17",
     discharge: 42.1,
     water_level: 0.902,
+    user_id: null,
   },
   {
     id: 2725,
@@ -19073,6 +21797,7 @@ export default [
     date: "2022-03-18",
     discharge: 43.9,
     water_level: 0.888,
+    user_id: null,
   },
   {
     id: 2726,
@@ -19080,6 +21805,7 @@ export default [
     date: "2022-03-19",
     discharge: 43,
     water_level: 0.87,
+    user_id: null,
   },
   {
     id: 2727,
@@ -19087,6 +21813,7 @@ export default [
     date: "2022-03-20",
     discharge: 40.9,
     water_level: 0.838,
+    user_id: null,
   },
   {
     id: 2728,
@@ -19094,6 +21821,7 @@ export default [
     date: "2022-03-21",
     discharge: 40.6,
     water_level: 0.824,
+    user_id: null,
   },
   {
     id: 2729,
@@ -19101,6 +21829,7 @@ export default [
     date: "2022-03-22",
     discharge: 41.5,
     water_level: 0.834,
+    user_id: null,
   },
   {
     id: 2730,
@@ -19108,6 +21837,7 @@ export default [
     date: "2022-03-23",
     discharge: 41.5,
     water_level: 0.834,
+    user_id: null,
   },
   {
     id: 2731,
@@ -19115,6 +21845,7 @@ export default [
     date: "2022-03-24",
     discharge: 41.5,
     water_level: 0.834,
+    user_id: null,
   },
   {
     id: 2732,
@@ -19122,6 +21853,7 @@ export default [
     date: "2022-03-25",
     discharge: 41.2,
     water_level: 0.832,
+    user_id: null,
   },
   {
     id: 2733,
@@ -19129,6 +21861,7 @@ export default [
     date: "2022-03-26",
     discharge: 39.3,
     water_level: 0.814,
+    user_id: null,
   },
   {
     id: 2734,
@@ -19136,6 +21869,7 @@ export default [
     date: "2022-03-27",
     discharge: 39.8,
     water_level: 0.819,
+    user_id: null,
   },
   {
     id: 2735,
@@ -19143,6 +21877,7 @@ export default [
     date: "2022-03-28",
     discharge: 42.1,
     water_level: 0.839,
+    user_id: null,
   },
   {
     id: 2736,
@@ -19150,6 +21885,7 @@ export default [
     date: "2022-03-29",
     discharge: 42.4,
     water_level: 0.842,
+    user_id: null,
   },
   {
     id: 2737,
@@ -19157,6 +21893,7 @@ export default [
     date: "2022-03-30",
     discharge: 41.2,
     water_level: 0.831,
+    user_id: null,
   },
   {
     id: 2738,
@@ -19164,6 +21901,7 @@ export default [
     date: "2022-03-31",
     discharge: 41,
     water_level: 0.83,
+    user_id: null,
   },
   {
     id: 2739,
@@ -19171,6 +21909,7 @@ export default [
     date: "2022-04-01",
     discharge: 45.4,
     water_level: 0.868,
+    user_id: null,
   },
   {
     id: 2740,
@@ -19178,6 +21917,7 @@ export default [
     date: "2022-04-02",
     discharge: 50.5,
     water_level: 0.911,
+    user_id: null,
   },
   {
     id: 2741,
@@ -19185,6 +21925,7 @@ export default [
     date: "2022-04-03",
     discharge: 53.6,
     water_level: 0.936,
+    user_id: null,
   },
   {
     id: 2742,
@@ -19192,6 +21933,7 @@ export default [
     date: "2022-04-04",
     discharge: 56.9,
     water_level: 0.962,
+    user_id: null,
   },
   {
     id: 2743,
@@ -19199,6 +21941,7 @@ export default [
     date: "2022-04-05",
     discharge: 59.2,
     water_level: 0.979,
+    user_id: null,
   },
   {
     id: 2744,
@@ -19206,6 +21949,7 @@ export default [
     date: "2022-04-06",
     discharge: 57.4,
     water_level: 0.966,
+    user_id: null,
   },
   {
     id: 2745,
@@ -19213,6 +21957,7 @@ export default [
     date: "2022-04-07",
     discharge: 58.1,
     water_level: 0.972,
+    user_id: null,
   },
   {
     id: 2746,
@@ -19220,6 +21965,7 @@ export default [
     date: "2022-04-08",
     discharge: 57.7,
     water_level: 0.968,
+    user_id: null,
   },
   {
     id: 2747,
@@ -19227,6 +21973,7 @@ export default [
     date: "2022-04-09",
     discharge: 58.1,
     water_level: 0.971,
+    user_id: null,
   },
   {
     id: 2748,
@@ -19234,6 +21981,7 @@ export default [
     date: "2022-04-10",
     discharge: 58.2,
     water_level: 0.972,
+    user_id: null,
   },
   {
     id: 2749,
@@ -19241,6 +21989,7 @@ export default [
     date: "2022-04-11",
     discharge: 58.9,
     water_level: 0.977,
+    user_id: null,
   },
   {
     id: 2750,
@@ -19248,6 +21997,7 @@ export default [
     date: "2022-04-12",
     discharge: 56.3,
     water_level: 0.957,
+    user_id: null,
   },
   {
     id: 2751,
@@ -19255,6 +22005,7 @@ export default [
     date: "2022-04-13",
     discharge: 54.7,
     water_level: 0.945,
+    user_id: null,
   },
   {
     id: 2752,
@@ -19262,6 +22013,7 @@ export default [
     date: "2022-04-14",
     discharge: 52.7,
     water_level: 0.929,
+    user_id: null,
   },
   {
     id: 2753,
@@ -19269,6 +22021,7 @@ export default [
     date: "2022-04-15",
     discharge: 54.4,
     water_level: 0.942,
+    user_id: null,
   },
   {
     id: 2754,
@@ -19276,6 +22029,7 @@ export default [
     date: "2022-04-16",
     discharge: 53.1,
     water_level: 0.932,
+    user_id: null,
   },
   {
     id: 2755,
@@ -19283,6 +22037,7 @@ export default [
     date: "2022-04-17",
     discharge: 52.9,
     water_level: 0.931,
+    user_id: null,
   },
   {
     id: 2756,
@@ -19290,6 +22045,7 @@ export default [
     date: "2022-04-18",
     discharge: 54.1,
     water_level: 0.94,
+    user_id: null,
   },
   {
     id: 2757,
@@ -19297,6 +22053,7 @@ export default [
     date: "2022-04-19",
     discharge: 52.9,
     water_level: 0.931,
+    user_id: null,
   },
   {
     id: 2758,
@@ -19304,6 +22061,7 @@ export default [
     date: "2022-04-20",
     discharge: 55,
     water_level: 0.947,
+    user_id: null,
   },
   {
     id: 2759,
@@ -19311,6 +22069,7 @@ export default [
     date: "2022-04-21",
     discharge: 55.2,
     water_level: 0.949,
+    user_id: null,
   },
   {
     id: 2760,
@@ -19318,6 +22077,7 @@ export default [
     date: "2022-04-22",
     discharge: 54.6,
     water_level: 0.944,
+    user_id: null,
   },
   {
     id: 2761,
@@ -19325,6 +22085,7 @@ export default [
     date: "2022-04-23",
     discharge: 54.3,
     water_level: 0.942,
+    user_id: null,
   },
   {
     id: 2762,
@@ -19332,6 +22093,7 @@ export default [
     date: "2022-04-24",
     discharge: 55.7,
     water_level: 0.962,
+    user_id: null,
   },
   {
     id: 2763,
@@ -19339,6 +22101,7 @@ export default [
     date: "2022-04-25",
     discharge: 55.7,
     water_level: 0.952,
+    user_id: null,
   },
   {
     id: 2764,
@@ -19346,6 +22109,7 @@ export default [
     date: "2022-04-26",
     discharge: 56,
     water_level: 0.955,
+    user_id: null,
   },
   {
     id: 2765,
@@ -19353,6 +22117,7 @@ export default [
     date: "2022-04-27",
     discharge: 56.4,
     water_level: 0.958,
+    user_id: null,
   },
   {
     id: 2766,
@@ -19360,6 +22125,7 @@ export default [
     date: "2022-04-28",
     discharge: 55.7,
     water_level: 0.952,
+    user_id: null,
   },
   {
     id: 2767,
@@ -19367,6 +22133,7 @@ export default [
     date: "2022-04-29",
     discharge: 61,
     water_level: 0.993,
+    user_id: null,
   },
   {
     id: 2768,
@@ -19374,6 +22141,7 @@ export default [
     date: "2022-04-30",
     discharge: 62.1,
     water_level: 1.001,
+    user_id: null,
   },
   {
     id: 2769,
@@ -19381,6 +22149,7 @@ export default [
     date: "2022-05-01",
     discharge: 66.2,
     water_level: 1.031,
+    user_id: null,
   },
   {
     id: 2770,
@@ -19388,6 +22157,7 @@ export default [
     date: "2022-05-02",
     discharge: 70.5,
     water_level: 1.062,
+    user_id: null,
   },
   {
     id: 2771,
@@ -19395,6 +22165,7 @@ export default [
     date: "2022-05-03",
     discharge: 67.6,
     water_level: 1.04,
+    user_id: null,
   },
   {
     id: 2772,
@@ -19402,6 +22173,7 @@ export default [
     date: "2022-05-04",
     discharge: 67.3,
     water_level: 1.039,
+    user_id: null,
   },
   {
     id: 2773,
@@ -19409,6 +22181,7 @@ export default [
     date: "2022-05-05",
     discharge: 68.8,
     water_level: 1.049,
+    user_id: null,
   },
   {
     id: 2774,
@@ -19416,6 +22189,7 @@ export default [
     date: "2022-05-06",
     discharge: 72.9,
     water_level: 1.077,
+    user_id: null,
   },
   {
     id: 2775,
@@ -19423,6 +22197,7 @@ export default [
     date: "2022-05-07",
     discharge: 74,
     water_level: 1.083,
+    user_id: null,
   },
   {
     id: 2776,
@@ -19430,6 +22205,7 @@ export default [
     date: "2022-05-08",
     discharge: 81.1,
     water_level: 1.123,
+    user_id: null,
   },
   {
     id: 2777,
@@ -19437,6 +22213,7 @@ export default [
     date: "2022-05-09",
     discharge: 84.4,
     water_level: 1.142,
+    user_id: null,
   },
   {
     id: 2778,
@@ -19444,6 +22221,7 @@ export default [
     date: "2022-05-10",
     discharge: 75.8,
     water_level: 1.094,
+    user_id: null,
   },
   {
     id: 2779,
@@ -19451,6 +22229,7 @@ export default [
     date: "2022-05-11",
     discharge: 69.5,
     water_level: 1.055,
+    user_id: null,
   },
   {
     id: 2780,
@@ -19458,6 +22237,7 @@ export default [
     date: "2022-05-12",
     discharge: 64.2,
     water_level: 1.017,
+    user_id: null,
   },
   {
     id: 2781,
@@ -19465,6 +22245,7 @@ export default [
     date: "2022-05-13",
     discharge: 67.4,
     water_level: 1.04,
+    user_id: null,
   },
   {
     id: 2782,
@@ -19472,6 +22253,7 @@ export default [
     date: "2022-05-14",
     discharge: 68.7,
     water_level: 1.049,
+    user_id: null,
   },
   {
     id: 2783,
@@ -19479,6 +22261,7 @@ export default [
     date: "2022-05-15",
     discharge: 68.5,
     water_level: 1.048,
+    user_id: null,
   },
   {
     id: 2784,
@@ -19486,6 +22269,7 @@ export default [
     date: "2022-05-16",
     discharge: 66.6,
     water_level: 1.034,
+    user_id: null,
   },
   {
     id: 2785,
@@ -19493,6 +22277,7 @@ export default [
     date: "2022-05-17",
     discharge: 66.6,
     water_level: 1.034,
+    user_id: null,
   },
   {
     id: 2786,
@@ -19500,6 +22285,7 @@ export default [
     date: "2022-05-18",
     discharge: 67.1,
     water_level: 1.037,
+    user_id: null,
   },
   {
     id: 2787,
@@ -19507,6 +22293,7 @@ export default [
     date: "2022-05-19",
     discharge: 70.2,
     water_level: 1.058,
+    user_id: null,
   },
   {
     id: 2788,
@@ -19514,6 +22301,7 @@ export default [
     date: "2022-05-20",
     discharge: 76.9,
     water_level: 1.1,
+    user_id: null,
   },
   {
     id: 2789,
@@ -19521,6 +22309,7 @@ export default [
     date: "2022-05-21",
     discharge: 80.1,
     water_level: 1.118,
+    user_id: null,
   },
   {
     id: 2790,
@@ -19528,6 +22317,7 @@ export default [
     date: "2022-05-22",
     discharge: 80.6,
     water_level: 1.121,
+    user_id: null,
   },
   {
     id: 2791,
@@ -19535,6 +22325,7 @@ export default [
     date: "2022-05-23",
     discharge: 81.7,
     water_level: 1.127,
+    user_id: null,
   },
   {
     id: 2792,
@@ -19542,6 +22333,7 @@ export default [
     date: "2022-05-24",
     discharge: 83.7,
     water_level: 1.138,
+    user_id: null,
   },
   {
     id: 2793,
@@ -19549,6 +22341,7 @@ export default [
     date: "2022-05-25",
     discharge: 78.5,
     water_level: 1.109,
+    user_id: null,
   },
   {
     id: 2794,
@@ -19556,6 +22349,7 @@ export default [
     date: "2022-05-26",
     discharge: 73.7,
     water_level: 1.081,
+    user_id: null,
   },
   {
     id: 2795,
@@ -19563,6 +22357,7 @@ export default [
     date: "2022-05-27",
     discharge: 71.6,
     water_level: 1.069,
+    user_id: null,
   },
   {
     id: 2796,
@@ -19570,6 +22365,7 @@ export default [
     date: "2022-05-28",
     discharge: 71.3,
     water_level: 1.067,
+    user_id: null,
   },
   {
     id: 2797,
@@ -19577,6 +22373,7 @@ export default [
     date: "2022-05-29",
     discharge: 80.5,
     water_level: 1.12,
+    user_id: null,
   },
   {
     id: 2798,
@@ -19584,6 +22381,7 @@ export default [
     date: "2022-05-30",
     discharge: 99.6,
     water_level: 1.221,
+    user_id: null,
   },
   {
     id: 2799,
@@ -19591,6 +22389,7 @@ export default [
     date: "2022-05-31",
     discharge: 95,
     water_level: 1.198,
+    user_id: null,
   },
   {
     id: 2800,
@@ -19598,6 +22397,7 @@ export default [
     date: "2022-06-01",
     discharge: 94,
     water_level: 1.193,
+    user_id: null,
   },
   {
     id: 2801,
@@ -19605,6 +22405,7 @@ export default [
     date: "2022-06-02",
     discharge: 97.2,
     water_level: 1.21,
+    user_id: null,
   },
   {
     id: 2802,
@@ -19612,6 +22413,7 @@ export default [
     date: "2022-06-03",
     discharge: 99,
     water_level: 1.219,
+    user_id: null,
   },
   {
     id: 2803,
@@ -19619,6 +22421,7 @@ export default [
     date: "2022-06-04",
     discharge: 88.8,
     water_level: 1.166,
+    user_id: null,
   },
   {
     id: 2804,
@@ -19626,6 +22429,7 @@ export default [
     date: "2022-06-05",
     discharge: 104,
     water_level: 1.244,
+    user_id: null,
   },
   {
     id: 2805,
@@ -19633,6 +22437,7 @@ export default [
     date: "2022-06-06",
     discharge: 133,
     water_level: 1.377,
+    user_id: null,
   },
   {
     id: 2806,
@@ -19640,6 +22445,7 @@ export default [
     date: "2022-06-07",
     discharge: 168,
     water_level: 1.521,
+    user_id: null,
   },
   {
     id: 2807,
@@ -19647,6 +22453,7 @@ export default [
     date: "2022-06-08",
     discharge: 152,
     water_level: 1.456,
+    user_id: null,
   },
   {
     id: 2808,
@@ -19654,6 +22461,7 @@ export default [
     date: "2022-06-09",
     discharge: 193,
     water_level: 1.616,
+    user_id: null,
   },
   {
     id: 2809,
@@ -19661,6 +22469,7 @@ export default [
     date: "2022-06-10",
     discharge: 178,
     water_level: 1.562,
+    user_id: null,
   },
   {
     id: 2810,
@@ -19668,6 +22477,7 @@ export default [
     date: "2022-06-11",
     discharge: 175,
     water_level: 1.55,
+    user_id: null,
   },
   {
     id: 2811,
@@ -19675,6 +22485,7 @@ export default [
     date: "2022-06-12",
     discharge: 203,
     water_level: 1.653,
+    user_id: null,
   },
   {
     id: 2812,
@@ -19682,6 +22493,7 @@ export default [
     date: "2022-06-13",
     discharge: 251,
     water_level: 1.814,
+    user_id: null,
   },
   {
     id: 2813,
@@ -19689,6 +22501,7 @@ export default [
     date: "2022-06-14",
     discharge: 293,
     water_level: 1.943,
+    user_id: null,
   },
   {
     id: 2814,
@@ -19696,6 +22509,7 @@ export default [
     date: "2022-06-15",
     discharge: 359,
     water_level: 2.132,
+    user_id: null,
   },
   {
     id: 2815,
@@ -19703,6 +22517,7 @@ export default [
     date: "2022-06-16",
     discharge: 327,
     water_level: 2.045,
+    user_id: null,
   },
   {
     id: 2816,
@@ -19710,6 +22525,7 @@ export default [
     date: "2022-06-17",
     discharge: 272,
     water_level: 1.882,
+    user_id: null,
   },
   {
     id: 2817,
@@ -19717,6 +22533,7 @@ export default [
     date: "2022-06-18",
     discharge: 273,
     water_level: 1.886,
+    user_id: null,
   },
   {
     id: 2818,
@@ -19724,6 +22541,7 @@ export default [
     date: "2022-06-19",
     discharge: 288,
     water_level: 1.932,
+    user_id: null,
   },
   {
     id: 2819,
@@ -19731,6 +22549,7 @@ export default [
     date: "2022-06-20",
     discharge: 296,
     water_level: 1.955,
+    user_id: null,
   },
   {
     id: 2820,
@@ -19738,6 +22557,7 @@ export default [
     date: "2022-06-21",
     discharge: 286,
     water_level: 1.926,
+    user_id: null,
   },
   {
     id: 2821,
@@ -19745,6 +22565,7 @@ export default [
     date: "2022-06-22",
     discharge: 235,
     water_level: 1.765,
+    user_id: null,
   },
   {
     id: 2822,
@@ -19752,6 +22573,7 @@ export default [
     date: "2022-06-23",
     discharge: 238,
     water_level: 1.773,
+    user_id: null,
   },
   {
     id: 2823,
@@ -19759,6 +22581,7 @@ export default [
     date: "2022-06-24",
     discharge: 242,
     water_level: 1.785,
+    user_id: null,
   },
   {
     id: 2824,
@@ -19766,6 +22589,7 @@ export default [
     date: "2022-06-25",
     discharge: 245,
     water_level: 1.797,
+    user_id: null,
   },
   {
     id: 2825,
@@ -19773,6 +22597,7 @@ export default [
     date: "2022-06-26",
     discharge: 221,
     water_level: 1.716,
+    user_id: null,
   },
   {
     id: 2826,
@@ -19780,6 +22605,7 @@ export default [
     date: "2022-06-27",
     discharge: 193,
     water_level: 1.616,
+    user_id: null,
   },
   {
     id: 2827,
@@ -19787,6 +22613,7 @@ export default [
     date: "2022-06-28",
     discharge: 198,
     water_level: 1.635,
+    user_id: null,
   },
   {
     id: 2828,
@@ -19794,6 +22621,7 @@ export default [
     date: "2022-06-29",
     discharge: 196,
     water_level: 1.628,
+    user_id: null,
   },
   {
     id: 2829,
@@ -19801,6 +22629,7 @@ export default [
     date: "2022-06-30",
     discharge: 188,
     water_level: 1.6,
+    user_id: null,
   },
   {
     id: 2830,
@@ -19808,6 +22637,7 @@ export default [
     date: "2022-07-01",
     discharge: 203,
     water_level: 1.654,
+    user_id: null,
   },
   {
     id: 2831,
@@ -19815,6 +22645,7 @@ export default [
     date: "2022-07-02",
     discharge: 219,
     water_level: 1.709,
+    user_id: null,
   },
   {
     id: 2832,
@@ -19822,6 +22653,7 @@ export default [
     date: "2022-07-03",
     discharge: 227,
     water_level: 1.736,
+    user_id: null,
   },
   {
     id: 2833,
@@ -19829,6 +22661,7 @@ export default [
     date: "2022-07-04",
     discharge: 239,
     water_level: 1.776,
+    user_id: null,
   },
   {
     id: 2834,
@@ -19836,6 +22669,7 @@ export default [
     date: "2022-07-05",
     discharge: 241,
     water_level: 1.784,
+    user_id: null,
   },
   {
     id: 2835,
@@ -19843,6 +22677,7 @@ export default [
     date: "2022-07-06",
     discharge: 239,
     water_level: 1.776,
+    user_id: null,
   },
   {
     id: 2836,
@@ -19850,6 +22685,7 @@ export default [
     date: "2022-07-07",
     discharge: 242,
     water_level: 1.788,
+    user_id: null,
   },
   {
     id: 2837,
@@ -19857,6 +22693,7 @@ export default [
     date: "2022-07-08",
     discharge: 244,
     water_level: 1.793,
+    user_id: null,
   },
   {
     id: 2838,
@@ -19864,6 +22701,7 @@ export default [
     date: "2022-07-09",
     discharge: 244,
     water_level: 1.792,
+    user_id: null,
   },
   {
     id: 2839,
@@ -19871,6 +22709,7 @@ export default [
     date: "2022-07-10",
     discharge: 242,
     water_level: 1.785,
+    user_id: null,
   },
   {
     id: 2840,
@@ -19878,6 +22717,7 @@ export default [
     date: "2022-07-11",
     discharge: 237,
     water_level: 1.769,
+    user_id: null,
   },
   {
     id: 2841,
@@ -19885,6 +22725,7 @@ export default [
     date: "2022-07-12",
     discharge: 225,
     water_level: 1.729,
+    user_id: null,
   },
   {
     id: 2842,
@@ -19892,6 +22733,7 @@ export default [
     date: "2022-07-13",
     discharge: 223,
     water_level: 1.725,
+    user_id: null,
   },
   {
     id: 2843,
@@ -19899,6 +22741,7 @@ export default [
     date: "2022-07-14",
     discharge: 225,
     water_level: 1.73,
+    user_id: null,
   },
   {
     id: 2844,
@@ -19906,6 +22749,7 @@ export default [
     date: "2022-07-15",
     discharge: 224,
     water_level: 1.725,
+    user_id: null,
   },
   {
     id: 2845,
@@ -19913,6 +22757,7 @@ export default [
     date: "2022-07-16",
     discharge: 224,
     water_level: 1.725,
+    user_id: null,
   },
   {
     id: 2846,
@@ -19920,6 +22765,7 @@ export default [
     date: "2022-07-17",
     discharge: 225,
     water_level: 1.73,
+    user_id: null,
   },
   {
     id: 2847,
@@ -19927,6 +22773,7 @@ export default [
     date: "2022-07-18",
     discharge: 222,
     water_level: 1.718,
+    user_id: null,
   },
   {
     id: 2848,
@@ -19934,6 +22781,7 @@ export default [
     date: "2022-07-19",
     discharge: 215,
     water_level: 1.695,
+    user_id: null,
   },
   {
     id: 2849,
@@ -19941,6 +22789,7 @@ export default [
     date: "2022-07-20",
     discharge: 214,
     water_level: 1.692,
+    user_id: null,
   },
   {
     id: 2850,
@@ -19948,6 +22797,7 @@ export default [
     date: "2022-07-21",
     discharge: 215,
     water_level: 1.694,
+    user_id: null,
   },
   {
     id: 2851,
@@ -19955,6 +22805,7 @@ export default [
     date: "2022-07-22",
     discharge: 215,
     water_level: 1.697,
+    user_id: null,
   },
   {
     id: 2852,
@@ -19962,6 +22813,7 @@ export default [
     date: "2022-07-23",
     discharge: 215,
     water_level: 1.697,
+    user_id: null,
   },
   {
     id: 2853,
@@ -19969,6 +22821,7 @@ export default [
     date: "2022-07-24",
     discharge: 217,
     water_level: 1.701,
+    user_id: null,
   },
   {
     id: 2854,
@@ -19976,6 +22829,7 @@ export default [
     date: "2022-07-25",
     discharge: 211,
     water_level: 1.68,
+    user_id: null,
   },
   {
     id: 2855,
@@ -19983,6 +22837,7 @@ export default [
     date: "2022-07-26",
     discharge: 187,
     water_level: 1.594,
+    user_id: null,
   },
   {
     id: 2856,
@@ -19990,6 +22845,7 @@ export default [
     date: "2022-07-27",
     discharge: 179,
     water_level: 1.563,
+    user_id: null,
   },
   {
     id: 2857,
@@ -19997,6 +22853,7 @@ export default [
     date: "2022-07-28",
     discharge: 178,
     water_level: 1.562,
+    user_id: null,
   },
   {
     id: 2858,
@@ -20004,6 +22861,7 @@ export default [
     date: "2022-07-29",
     discharge: 173,
     water_level: 1.541,
+    user_id: null,
   },
   {
     id: 2859,
@@ -20011,6 +22869,7 @@ export default [
     date: "2022-07-30",
     discharge: 161,
     water_level: 1.495,
+    user_id: null,
   },
   {
     id: 2860,
@@ -20018,6 +22877,7 @@ export default [
     date: "2022-07-31",
     discharge: 155,
     water_level: 1.471,
+    user_id: null,
   },
   {
     id: 2861,
@@ -20025,6 +22885,7 @@ export default [
     date: "2022-08-01",
     discharge: 158,
     water_level: 1.482,
+    user_id: null,
   },
   {
     id: 2862,
@@ -20032,6 +22893,7 @@ export default [
     date: "2022-08-02",
     discharge: 169,
     water_level: 1.526,
+    user_id: null,
   },
   {
     id: 2863,
@@ -20039,6 +22901,7 @@ export default [
     date: "2022-08-03",
     discharge: 168,
     water_level: 1.523,
+    user_id: null,
   },
   {
     id: 2864,
@@ -20046,6 +22909,7 @@ export default [
     date: "2022-08-04",
     discharge: 153,
     water_level: 1.462,
+    user_id: null,
   },
   {
     id: 2865,
@@ -20053,6 +22917,7 @@ export default [
     date: "2022-08-05",
     discharge: 149,
     water_level: 1.448,
+    user_id: null,
   },
   {
     id: 2866,
@@ -20060,6 +22925,7 @@ export default [
     date: "2022-08-06",
     discharge: 140,
     water_level: 1.407,
+    user_id: null,
   },
   {
     id: 2867,
@@ -20067,6 +22933,7 @@ export default [
     date: "2022-08-07",
     discharge: 140,
     water_level: 1.407,
+    user_id: null,
   },
   {
     id: 2868,
@@ -20074,6 +22941,7 @@ export default [
     date: "2022-08-08",
     discharge: 136,
     water_level: 1.39,
+    user_id: null,
   },
   {
     id: 2869,
@@ -20081,6 +22949,7 @@ export default [
     date: "2022-08-09",
     discharge: 135,
     water_level: 1.384,
+    user_id: null,
   },
   {
     id: 2870,
@@ -20088,6 +22957,7 @@ export default [
     date: "2022-08-10",
     discharge: 116,
     water_level: 1.3,
+    user_id: null,
   },
   {
     id: 2871,
@@ -20095,6 +22965,7 @@ export default [
     date: "2022-08-11",
     discharge: 104,
     water_level: 1.244,
+    user_id: null,
   },
   {
     id: 2872,
@@ -20102,6 +22973,7 @@ export default [
     date: "2022-08-12",
     discharge: 103,
     water_level: 1.236,
+    user_id: null,
   },
   {
     id: 2873,
@@ -20109,6 +22981,7 @@ export default [
     date: "2022-08-13",
     discharge: 104,
     water_level: 1.241,
+    user_id: null,
   },
   {
     id: 2874,
@@ -20116,6 +22989,7 @@ export default [
     date: "2022-08-14",
     discharge: 101,
     water_level: 1.226,
+    user_id: null,
   },
   {
     id: 2875,
@@ -20123,6 +22997,7 @@ export default [
     date: "2022-08-15",
     discharge: 99.5,
     water_level: 1.221,
+    user_id: null,
   },
   {
     id: 2876,
@@ -20130,6 +23005,7 @@ export default [
     date: "2022-08-16",
     discharge: 97.5,
     water_level: 1.211,
+    user_id: null,
   },
   {
     id: 2877,
@@ -20137,6 +23013,7 @@ export default [
     date: "2022-08-17",
     discharge: 96.4,
     water_level: 1.205,
+    user_id: null,
   },
   {
     id: 2878,
@@ -20144,6 +23021,7 @@ export default [
     date: "2022-08-18",
     discharge: 95.5,
     water_level: 1.201,
+    user_id: null,
   },
   {
     id: 2879,
@@ -20151,6 +23029,7 @@ export default [
     date: "2022-08-19",
     discharge: 98.5,
     water_level: 1.216,
+    user_id: null,
   },
   {
     id: 2880,
@@ -20158,6 +23037,7 @@ export default [
     date: "2022-08-20",
     discharge: 97.9,
     water_level: 1.213,
+    user_id: null,
   },
   {
     id: 2881,
@@ -20165,6 +23045,7 @@ export default [
     date: "2022-08-21",
     discharge: 96.4,
     water_level: 1.205,
+    user_id: null,
   },
   {
     id: 2882,
@@ -20172,6 +23053,7 @@ export default [
     date: "2022-08-22",
     discharge: 99.3,
     water_level: 1.219,
+    user_id: null,
   },
   {
     id: 2883,
@@ -20179,6 +23061,7 @@ export default [
     date: "2022-08-23",
     discharge: 98.7,
     water_level: 1.217,
+    user_id: null,
   },
   {
     id: 2884,
@@ -20186,6 +23069,7 @@ export default [
     date: "2022-08-24",
     discharge: 102,
     water_level: 1.233,
+    user_id: null,
   },
   {
     id: 2885,
@@ -20193,6 +23077,7 @@ export default [
     date: "2022-08-25",
     discharge: 109,
     water_level: 1.269,
+    user_id: null,
   },
   {
     id: 2886,
@@ -20200,6 +23085,7 @@ export default [
     date: "2022-08-26",
     discharge: 109,
     water_level: 1.267,
+    user_id: null,
   },
   {
     id: 2887,
@@ -20207,6 +23093,7 @@ export default [
     date: "2022-08-27",
     discharge: 105,
     water_level: 1.246,
+    user_id: null,
   },
   {
     id: 2888,
@@ -20214,6 +23101,7 @@ export default [
     date: "2022-08-28",
     discharge: 99.5,
     water_level: 1.221,
+    user_id: null,
   },
   {
     id: 2889,
@@ -20221,6 +23109,7 @@ export default [
     date: "2022-08-29",
     discharge: 100,
     water_level: 1.226,
+    user_id: null,
   },
   {
     id: 2890,
@@ -20228,6 +23117,7 @@ export default [
     date: "2022-08-30",
     discharge: 98.1,
     water_level: 1.214,
+    user_id: null,
   },
   {
     id: 2891,
@@ -20235,6 +23125,7 @@ export default [
     date: "2022-08-31",
     discharge: 95.6,
     water_level: 1.201,
+    user_id: null,
   },
   {
     id: 2892,
@@ -20242,6 +23133,7 @@ export default [
     date: "2022-09-01",
     discharge: 96.2,
     water_level: 1.204,
+    user_id: null,
   },
   {
     id: 2893,
@@ -20249,6 +23141,7 @@ export default [
     date: "2022-09-02",
     discharge: 93.3,
     water_level: 1.19,
+    user_id: null,
   },
   {
     id: 2894,
@@ -20256,6 +23149,7 @@ export default [
     date: "2022-09-03",
     discharge: 96.2,
     water_level: 1.204,
+    user_id: null,
   },
   {
     id: 2895,
@@ -20263,6 +23157,7 @@ export default [
     date: "2022-09-04",
     discharge: 92.8,
     water_level: 1.187,
+    user_id: null,
   },
   {
     id: 2896,
@@ -20270,6 +23165,7 @@ export default [
     date: "2022-09-05",
     discharge: 92,
     water_level: 1.183,
+    user_id: null,
   },
   {
     id: 2897,
@@ -20277,6 +23173,7 @@ export default [
     date: "2022-09-06",
     discharge: 93.7,
     water_level: 1.192,
+    user_id: null,
   },
   {
     id: 2898,
@@ -20284,6 +23181,7 @@ export default [
     date: "2022-09-07",
     discharge: 93.9,
     water_level: 1.192,
+    user_id: null,
   },
   {
     id: 2899,
@@ -20291,6 +23189,7 @@ export default [
     date: "2022-09-08",
     discharge: 82.9,
     water_level: 1.133,
+    user_id: null,
   },
   {
     id: 2900,
@@ -20298,6 +23197,7 @@ export default [
     date: "2022-09-09",
     discharge: 77.2,
     water_level: 1.102,
+    user_id: null,
   },
   {
     id: 2901,
@@ -20305,6 +23205,7 @@ export default [
     date: "2022-09-10",
     discharge: 75.2,
     water_level: 1.09,
+    user_id: null,
   },
   {
     id: 2902,
@@ -20312,6 +23213,7 @@ export default [
     date: "2022-09-11",
     discharge: 74.7,
     water_level: 1.087,
+    user_id: null,
   },
   {
     id: 2903,
@@ -20319,6 +23221,7 @@ export default [
     date: "2022-09-12",
     discharge: 73.1,
     water_level: 1.078,
+    user_id: null,
   },
   {
     id: 2904,
@@ -20326,6 +23229,7 @@ export default [
     date: "2022-09-13",
     discharge: 67.8,
     water_level: 1.046,
+    user_id: null,
   },
   {
     id: 2905,
@@ -20333,6 +23237,7 @@ export default [
     date: "2022-09-14",
     discharge: 63.8,
     water_level: 1.021,
+    user_id: null,
   },
   {
     id: 2906,
@@ -20340,6 +23245,7 @@ export default [
     date: "2022-09-15",
     discharge: 62.1,
     water_level: 1.008,
+    user_id: null,
   },
   {
     id: 2907,
@@ -20347,6 +23253,7 @@ export default [
     date: "2022-09-16",
     discharge: 63.9,
     water_level: 1.022,
+    user_id: null,
   },
   {
     id: 2908,
@@ -20354,6 +23261,7 @@ export default [
     date: "2022-09-17",
     discharge: 59.9,
     water_level: 0.991,
+    user_id: null,
   },
   {
     id: 2909,
@@ -20361,6 +23269,7 @@ export default [
     date: "2022-09-18",
     discharge: 59.6,
     water_level: 0.988,
+    user_id: null,
   },
   {
     id: 2910,
@@ -20368,6 +23277,7 @@ export default [
     date: "2022-09-19",
     discharge: 64.6,
     water_level: 1.023,
+    user_id: null,
   },
   {
     id: 2911,
@@ -20375,6 +23285,7 @@ export default [
     date: "2022-09-20",
     discharge: 75.7,
     water_level: 1.092,
+    user_id: null,
   },
   {
     id: 2912,
@@ -20382,6 +23293,7 @@ export default [
     date: "2022-09-21",
     discharge: 49.9,
     water_level: 0.906,
+    user_id: null,
   },
   {
     id: 2913,
@@ -20389,6 +23301,7 @@ export default [
     date: "2022-09-22",
     discharge: 56.4,
     water_level: 0.962,
+    user_id: null,
   },
   {
     id: 2914,
@@ -20396,6 +23309,7 @@ export default [
     date: "2022-09-23",
     discharge: 55.3,
     water_level: 0.953,
+    user_id: null,
   },
   {
     id: 2915,
@@ -20403,6 +23317,7 @@ export default [
     date: "2022-09-24",
     discharge: 54,
     water_level: 0.942,
+    user_id: null,
   },
   {
     id: 2916,
@@ -20410,6 +23325,7 @@ export default [
     date: "2022-09-25",
     discharge: 51.1,
     water_level: 0.918,
+    user_id: null,
   },
   {
     id: 2917,
@@ -20417,6 +23333,7 @@ export default [
     date: "2022-09-26",
     discharge: 54.4,
     water_level: 0.946,
+    user_id: null,
   },
   {
     id: 2918,
@@ -20424,6 +23341,7 @@ export default [
     date: "2022-09-27",
     discharge: 46.8,
     water_level: 0.88,
+    user_id: null,
   },
   {
     id: 2919,
@@ -20431,6 +23349,7 @@ export default [
     date: "2022-09-28",
     discharge: 46.7,
     water_level: 0.879,
+    user_id: null,
   },
   {
     id: 2920,
@@ -20438,6 +23357,7 @@ export default [
     date: "2022-09-29",
     discharge: 46,
     water_level: 0.872,
+    user_id: null,
   },
   {
     id: 2921,
@@ -20445,6 +23365,7 @@ export default [
     date: "2022-09-30",
     discharge: 47.2,
     water_level: 0.883,
+    user_id: null,
   },
   {
     id: 2922,
@@ -20452,6 +23373,7 @@ export default [
     date: "2022-10-01",
     discharge: 48.7,
     water_level: 0.897,
+    user_id: null,
   },
   {
     id: 2923,
@@ -20459,6 +23381,7 @@ export default [
     date: "2022-10-02",
     discharge: 48.1,
     water_level: 0.891,
+    user_id: null,
   },
   {
     id: 2924,
@@ -20466,6 +23389,7 @@ export default [
     date: "2022-10-03",
     discharge: 49.3,
     water_level: 0.902,
+    user_id: null,
   },
   {
     id: 2925,
@@ -20473,6 +23397,7 @@ export default [
     date: "2022-10-04",
     discharge: 46.4,
     water_level: 0.876,
+    user_id: null,
   },
   {
     id: 2926,
@@ -20480,6 +23405,7 @@ export default [
     date: "2022-10-05",
     discharge: 48.6,
     water_level: 0.896,
+    user_id: null,
   },
   {
     id: 2927,
@@ -20487,6 +23413,7 @@ export default [
     date: "2022-10-06",
     discharge: 48.1,
     water_level: 0.891,
+    user_id: null,
   },
   {
     id: 2928,
@@ -20494,6 +23421,7 @@ export default [
     date: "2022-10-07",
     discharge: 50.6,
     water_level: 0.913,
+    user_id: null,
   },
   {
     id: 2929,
@@ -20501,6 +23429,7 @@ export default [
     date: "2022-10-08",
     discharge: 51.6,
     water_level: 0.922,
+    user_id: null,
   },
   {
     id: 2930,
@@ -20508,6 +23437,7 @@ export default [
     date: "2022-10-09",
     discharge: 53.5,
     water_level: 0.938,
+    user_id: null,
   },
   {
     id: 2931,
@@ -20515,6 +23445,7 @@ export default [
     date: "2022-10-10",
     discharge: 52.6,
     water_level: 0.93,
+    user_id: null,
   },
   {
     id: 2932,
@@ -20522,6 +23453,7 @@ export default [
     date: "2022-10-11",
     discharge: 52.3,
     water_level: 0.928,
+    user_id: null,
   },
   {
     id: 2933,
@@ -20529,6 +23461,7 @@ export default [
     date: "2022-10-12",
     discharge: 51,
     water_level: 0.917,
+    user_id: null,
   },
   {
     id: 2934,
@@ -20536,6 +23469,7 @@ export default [
     date: "2022-10-13",
     discharge: 53.8,
     water_level: 0.941,
+    user_id: null,
   },
   {
     id: 2935,
@@ -20543,6 +23477,7 @@ export default [
     date: "2022-10-14",
     discharge: 50,
     water_level: 0.908,
+    user_id: null,
   },
   {
     id: 2936,
@@ -20550,6 +23485,7 @@ export default [
     date: "2022-10-15",
     discharge: 49.5,
     water_level: 0.904,
+    user_id: null,
   },
   {
     id: 2937,
@@ -20557,6 +23493,7 @@ export default [
     date: "2022-10-16",
     discharge: 50,
     water_level: 0.908,
+    user_id: null,
   },
   {
     id: 2938,
@@ -20564,6 +23501,7 @@ export default [
     date: "2022-10-17",
     discharge: 49.8,
     water_level: 0.906,
+    user_id: null,
   },
   {
     id: 2939,
@@ -20571,6 +23509,7 @@ export default [
     date: "2022-10-18",
     discharge: 51.2,
     water_level: 0.919,
+    user_id: null,
   },
   {
     id: 2940,
@@ -20578,6 +23517,7 @@ export default [
     date: "2022-10-19",
     discharge: 50.8,
     water_level: 0.915,
+    user_id: null,
   },
   {
     id: 2941,
@@ -20585,6 +23525,7 @@ export default [
     date: "2022-10-20",
     discharge: 48.9,
     water_level: 0.898,
+    user_id: null,
   },
   {
     id: 2942,
@@ -20592,6 +23533,7 @@ export default [
     date: "2022-10-21",
     discharge: 46.1,
     water_level: 0.873,
+    user_id: null,
   },
   {
     id: 2943,
@@ -20599,6 +23541,7 @@ export default [
     date: "2022-10-22",
     discharge: 50.2,
     water_level: 0.91,
+    user_id: null,
   },
   {
     id: 2944,
@@ -20606,6 +23549,7 @@ export default [
     date: "2022-10-23",
     discharge: 44.8,
     water_level: 0.861,
+    user_id: null,
   },
   {
     id: 2945,
@@ -20613,6 +23557,7 @@ export default [
     date: "2022-10-24",
     discharge: 42.4,
     water_level: 0.838,
+    user_id: null,
   },
   {
     id: 2946,
@@ -20620,6 +23565,7 @@ export default [
     date: "2022-10-25",
     discharge: 37.4,
     water_level: 0.79,
+    user_id: null,
   },
   {
     id: 2947,
@@ -20627,6 +23573,7 @@ export default [
     date: "2022-10-26",
     discharge: 35.2,
     water_level: 0.769,
+    user_id: null,
   },
   {
     id: 2948,
@@ -20634,6 +23581,7 @@ export default [
     date: "2022-10-27",
     discharge: 33,
     water_level: 0.749,
+    user_id: null,
   },
   {
     id: 2949,
@@ -20641,6 +23589,7 @@ export default [
     date: "2022-10-28",
     discharge: 34.1,
     water_level: 0.76,
+    user_id: null,
   },
   {
     id: 2950,
@@ -20648,6 +23597,7 @@ export default [
     date: "2022-10-29",
     discharge: 36.7,
     water_level: 0.783,
+    user_id: null,
   },
   {
     id: 2951,
@@ -20655,6 +23605,7 @@ export default [
     date: "2022-10-30",
     discharge: 35.3,
     water_level: 0.769,
+    user_id: null,
   },
   {
     id: 2952,
@@ -20662,6 +23613,7 @@ export default [
     date: "2022-10-31",
     discharge: 35.2,
     water_level: 0.768,
+    user_id: null,
   },
   {
     id: 2953,
@@ -20669,6 +23621,7 @@ export default [
     date: "2022-11-01",
     discharge: 35.3,
     water_level: 0.769,
+    user_id: null,
   },
   {
     id: 2954,
@@ -20676,6 +23629,7 @@ export default [
     date: "2022-11-02",
     discharge: 35.2,
     water_level: 0.768,
+    user_id: null,
   },
   {
     id: 2955,
@@ -20683,6 +23637,7 @@ export default [
     date: "2022-11-03",
     discharge: 35.5,
     water_level: 0.771,
+    user_id: null,
   },
   {
     id: 2956,
@@ -20690,6 +23645,7 @@ export default [
     date: "2022-11-04",
     discharge: 35.5,
     water_level: 0.771,
+    user_id: null,
   },
   {
     id: 2957,
@@ -20697,6 +23653,7 @@ export default [
     date: "2022-11-05",
     discharge: 36.2,
     water_level: 0.778,
+    user_id: null,
   },
   {
     id: 2958,
@@ -20704,6 +23661,7 @@ export default [
     date: "2022-11-06",
     discharge: 37.1,
     water_level: 0.788,
+    user_id: null,
   },
   {
     id: 2959,
@@ -20711,6 +23669,7 @@ export default [
     date: "2022-11-07",
     discharge: 38.6,
     water_level: 0.804,
+    user_id: null,
   },
   {
     id: 2960,
@@ -20718,6 +23677,7 @@ export default [
     date: "2022-11-08",
     discharge: 36,
     water_level: 0.846,
+    user_id: null,
   },
   {
     id: 2961,
@@ -20725,6 +23685,7 @@ export default [
     date: "2022-11-09",
     discharge: 31.6,
     water_level: 0.832,
+    user_id: null,
   },
   {
     id: 2962,
@@ -20732,6 +23693,7 @@ export default [
     date: "2022-11-10",
     discharge: 35.1,
     water_level: 0.885,
+    user_id: null,
   },
   {
     id: 2963,
@@ -20739,6 +23701,7 @@ export default [
     date: "2022-11-11",
     discharge: 37.4,
     water_level: 0.892,
+    user_id: null,
   },
   {
     id: 2964,
@@ -20746,6 +23709,7 @@ export default [
     date: "2022-11-12",
     discharge: 37.4,
     water_level: 0.833,
+    user_id: null,
   },
   {
     id: 2965,
@@ -20753,6 +23717,7 @@ export default [
     date: "2022-11-13",
     discharge: 36.6,
     water_level: 0.796,
+    user_id: null,
   },
   {
     id: 2966,
@@ -20760,6 +23725,7 @@ export default [
     date: "2022-11-14",
     discharge: 36.9,
     water_level: 0.789,
+    user_id: null,
   },
   {
     id: 2967,
@@ -20767,6 +23733,7 @@ export default [
     date: "2022-11-15",
     discharge: 40.1,
     water_level: 0.799,
+    user_id: null,
   },
   {
     id: 2968,
@@ -20774,6 +23741,7 @@ export default [
     date: "2022-11-16",
     discharge: 51.5,
     water_level: 0.9,
+    user_id: null,
   },
   {
     id: 2969,
@@ -20781,6 +23749,7 @@ export default [
     date: "2022-11-17",
     discharge: 43,
     water_level: 0.878,
+    user_id: null,
   },
   {
     id: 2970,
@@ -20788,6 +23757,7 @@ export default [
     date: "2022-11-18",
     discharge: 38.7,
     water_level: 0.821,
+    user_id: null,
   },
   {
     id: 2971,
@@ -20795,6 +23765,7 @@ export default [
     date: "2022-11-19",
     discharge: 40.3,
     water_level: 0.829,
+    user_id: null,
   },
   {
     id: 2972,
@@ -20802,6 +23773,7 @@ export default [
     date: "2022-11-20",
     discharge: 39.6,
     water_level: 0.82,
+    user_id: null,
   },
   {
     id: 2973,
@@ -20809,6 +23781,7 @@ export default [
     date: "2022-11-21",
     discharge: 34.6,
     water_level: 0.763,
+    user_id: null,
   },
   {
     id: 2974,
@@ -20816,6 +23789,7 @@ export default [
     date: "2022-11-22",
     discharge: 32.8,
     water_level: 0.747,
+    user_id: null,
   },
   {
     id: 2975,
@@ -20823,6 +23797,7 @@ export default [
     date: "2022-11-23",
     discharge: 33,
     water_level: 0.749,
+    user_id: null,
   },
   {
     id: 2976,
@@ -20830,6 +23805,7 @@ export default [
     date: "2022-11-24",
     discharge: 35.3,
     water_level: 0.77,
+    user_id: null,
   },
   {
     id: 2977,
@@ -20837,6 +23813,7 @@ export default [
     date: "2022-11-25",
     discharge: 43.6,
     water_level: 0.85,
+    user_id: null,
   },
   {
     id: 2978,
@@ -20844,6 +23821,7 @@ export default [
     date: "2022-11-26",
     discharge: 39.4,
     water_level: 0.81,
+    user_id: null,
   },
   {
     id: 2979,
@@ -20851,6 +23829,7 @@ export default [
     date: "2022-11-27",
     discharge: 35.9,
     water_level: 0.776,
+    user_id: null,
   },
   {
     id: 2980,
@@ -20858,6 +23837,7 @@ export default [
     date: "2022-11-28",
     discharge: 38.4,
     water_level: 0.849,
+    user_id: null,
   },
   {
     id: 2981,
@@ -20865,6 +23845,7 @@ export default [
     date: "2022-11-29",
     discharge: 38,
     water_level: 0.9,
+    user_id: null,
   },
   {
     id: 2982,
@@ -20872,6 +23853,7 @@ export default [
     date: "2022-11-30",
     discharge: 42,
     water_level: 0.97,
+    user_id: null,
   },
   {
     id: 2983,
@@ -20879,6 +23861,7 @@ export default [
     date: "2022-12-01",
     discharge: 40,
     water_level: 0.967,
+    user_id: null,
   },
   {
     id: 2984,
@@ -20886,6 +23869,7 @@ export default [
     date: "2022-12-02",
     discharge: 43.3,
     water_level: 0.995,
+    user_id: null,
   },
   {
     id: 2985,
@@ -20893,6 +23877,7 @@ export default [
     date: "2022-12-03",
     discharge: 39.7,
     water_level: 0.966,
+    user_id: null,
   },
   {
     id: 2986,
@@ -20900,6 +23885,7 @@ export default [
     date: "2022-12-04",
     discharge: 43.6,
     water_level: 1.014,
+    user_id: null,
   },
   {
     id: 2987,
@@ -20907,6 +23893,7 @@ export default [
     date: "2022-12-05",
     discharge: 42.2,
     water_level: 0.922,
+    user_id: null,
   },
   {
     id: 2988,
@@ -20914,6 +23901,7 @@ export default [
     date: "2022-12-06",
     discharge: 41.8,
     water_level: 0.917,
+    user_id: null,
   },
   {
     id: 2989,
@@ -20921,6 +23909,7 @@ export default [
     date: "2022-12-07",
     discharge: 41.7,
     water_level: 0.925,
+    user_id: null,
   },
   {
     id: 2990,
@@ -20928,6 +23917,7 @@ export default [
     date: "2022-12-08",
     discharge: 49.2,
     water_level: 0.923,
+    user_id: null,
   },
   {
     id: 2991,
@@ -20935,6 +23925,7 @@ export default [
     date: "2022-12-09",
     discharge: 46.9,
     water_level: 0.941,
+    user_id: null,
   },
   {
     id: 2992,
@@ -20942,6 +23933,7 @@ export default [
     date: "2022-12-10",
     discharge: 44.3,
     water_level: 0.928,
+    user_id: null,
   },
   {
     id: 2993,
@@ -20949,6 +23941,7 @@ export default [
     date: "2022-12-11",
     discharge: 47.1,
     water_level: 1.037,
+    user_id: null,
   },
   {
     id: 2994,
@@ -20956,6 +23949,7 @@ export default [
     date: "2022-12-12",
     discharge: 48.2,
     water_level: 1.125,
+    user_id: null,
   },
   {
     id: 2995,
@@ -20963,6 +23957,7 @@ export default [
     date: "2022-12-13",
     discharge: 49.4,
     water_level: 1.244,
+    user_id: null,
   },
   {
     id: 2996,
@@ -20970,6 +23965,7 @@ export default [
     date: "2022-12-14",
     discharge: 49.3,
     water_level: 1.096,
+    user_id: null,
   },
   {
     id: 2997,
@@ -20977,6 +23973,7 @@ export default [
     date: "2022-12-15",
     discharge: 49.1,
     water_level: 1.111,
+    user_id: null,
   },
   {
     id: 2998,
@@ -20984,6 +23981,7 @@ export default [
     date: "2022-12-16",
     discharge: 48.9,
     water_level: 1.13,
+    user_id: null,
   },
   {
     id: 2999,
@@ -20991,6 +23989,7 @@ export default [
     date: "2022-12-17",
     discharge: 45.5,
     water_level: 1.121,
+    user_id: null,
   },
   {
     id: 3000,
@@ -20998,6 +23997,7 @@ export default [
     date: "2022-12-18",
     discharge: 40.1,
     water_level: 1.541,
+    user_id: null,
   },
   {
     id: 3001,
@@ -21005,6 +24005,7 @@ export default [
     date: "2022-12-19",
     discharge: 40.3,
     water_level: 1.773,
+    user_id: null,
   },
   {
     id: 3002,
@@ -21012,6 +24013,7 @@ export default [
     date: "2022-12-20",
     discharge: 38.4,
     water_level: 1.805,
+    user_id: null,
   },
   {
     id: 3003,
@@ -21019,6 +24021,7 @@ export default [
     date: "2022-12-21",
     discharge: 38,
     water_level: 1.52,
+    user_id: null,
   },
   {
     id: 3004,
@@ -21026,6 +24029,7 @@ export default [
     date: "2022-12-22",
     discharge: 38.8,
     water_level: 1.585,
+    user_id: null,
   },
   {
     id: 3005,
@@ -21033,6 +24037,7 @@ export default [
     date: "2022-12-23",
     discharge: 38.1,
     water_level: 1.591,
+    user_id: null,
   },
   {
     id: 3006,
@@ -21040,6 +24045,7 @@ export default [
     date: "2022-12-24",
     discharge: 38.2,
     water_level: 1.723,
+    user_id: null,
   },
   {
     id: 3007,
@@ -21047,6 +24053,7 @@ export default [
     date: "2022-12-25",
     discharge: 47.4,
     water_level: 1.76,
+    user_id: null,
   },
   {
     id: 3008,
@@ -21054,6 +24061,7 @@ export default [
     date: "2022-12-26",
     discharge: 47.2,
     water_level: 1.753,
+    user_id: null,
   },
   {
     id: 3009,
@@ -21061,6 +24069,7 @@ export default [
     date: "2022-12-27",
     discharge: 43.9,
     water_level: 1.68,
+    user_id: null,
   },
   {
     id: 3010,
@@ -21068,6 +24077,7 @@ export default [
     date: "2022-12-28",
     discharge: 42.5,
     water_level: 1.616,
+    user_id: null,
   },
   {
     id: 3011,
@@ -21075,6 +24085,7 @@ export default [
     date: "2022-12-29",
     discharge: 44,
     water_level: 1.603,
+    user_id: null,
   },
   {
     id: 3012,
@@ -21082,6 +24093,7 @@ export default [
     date: "2022-12-30",
     discharge: 47.2,
     water_level: 1.649,
+    user_id: null,
   },
   {
     id: 3013,
@@ -21089,6 +24101,7 @@ export default [
     date: "2022-12-31",
     discharge: 41.2,
     water_level: 1.607,
+    user_id: null,
   },
   {
     id: 3014,
@@ -21096,6 +24109,7 @@ export default [
     date: "2023-01-01",
     discharge: 43.8,
     water_level: 1.557,
+    user_id: null,
   },
   {
     id: 3015,
@@ -21103,6 +24117,7 @@ export default [
     date: "2023-01-02",
     discharge: 46,
     water_level: 1.599,
+    user_id: null,
   },
   {
     id: 3016,
@@ -21110,6 +24125,7 @@ export default [
     date: "2023-01-03",
     discharge: 46.2,
     water_level: 1.608,
+    user_id: null,
   },
   {
     id: 3017,
@@ -21117,6 +24133,7 @@ export default [
     date: "2023-01-04",
     discharge: 44.8,
     water_level: 1.567,
+    user_id: null,
   },
   {
     id: 3018,
@@ -21124,6 +24141,7 @@ export default [
     date: "2023-01-05",
     discharge: 43.7,
     water_level: 1.545,
+    user_id: null,
   },
   {
     id: 3019,
@@ -21131,6 +24149,7 @@ export default [
     date: "2023-01-06",
     discharge: 44.7,
     water_level: 1.546,
+    user_id: null,
   },
   {
     id: 3020,
@@ -21138,6 +24157,7 @@ export default [
     date: "2023-01-07",
     discharge: 49.1,
     water_level: 1.594,
+    user_id: null,
   },
   {
     id: 3021,
@@ -21145,6 +24165,7 @@ export default [
     date: "2023-01-08",
     discharge: 44.9,
     water_level: 1.534,
+    user_id: null,
   },
   {
     id: 3022,
@@ -21152,6 +24173,7 @@ export default [
     date: "2023-01-09",
     discharge: 43.8,
     water_level: 1.493,
+    user_id: null,
   },
   {
     id: 3023,
@@ -21159,6 +24181,7 @@ export default [
     date: "2023-01-10",
     discharge: 44,
     water_level: 1.482,
+    user_id: null,
   },
   {
     id: 3024,
@@ -21166,6 +24189,7 @@ export default [
     date: "2023-01-11",
     discharge: 43.9,
     water_level: 1.464,
+    user_id: null,
   },
   {
     id: 3025,
@@ -21173,6 +24197,7 @@ export default [
     date: "2023-01-12",
     discharge: 40.8,
     water_level: 1.438,
+    user_id: null,
   },
   {
     id: 3026,
@@ -21180,6 +24205,7 @@ export default [
     date: "2023-01-13",
     discharge: 39,
     water_level: 1.425,
+    user_id: null,
   },
   {
     id: 3027,
@@ -21187,6 +24213,7 @@ export default [
     date: "2023-01-14",
     discharge: 38,
     water_level: 1.406,
+    user_id: null,
   },
   {
     id: 3028,
@@ -21194,6 +24221,7 @@ export default [
     date: "2023-01-15",
     discharge: 39.3,
     water_level: 1.418,
+    user_id: null,
   },
   {
     id: 3029,
@@ -21201,6 +24229,7 @@ export default [
     date: "2023-01-16",
     discharge: 39.1,
     water_level: 1.395,
+    user_id: null,
   },
   {
     id: 3030,
@@ -21208,6 +24237,7 @@ export default [
     date: "2023-01-17",
     discharge: 38.1,
     water_level: 1.365,
+    user_id: null,
   },
   {
     id: 3031,
@@ -21215,6 +24245,7 @@ export default [
     date: "2023-01-18",
     discharge: 37.2,
     water_level: 1.344,
+    user_id: null,
   },
   {
     id: 3032,
@@ -21222,6 +24253,7 @@ export default [
     date: "2023-01-19",
     discharge: 38.7,
     water_level: 1.36,
+    user_id: null,
   },
   {
     id: 3033,
@@ -21229,6 +24261,7 @@ export default [
     date: "2023-01-20",
     discharge: 39.7,
     water_level: 1.375,
+    user_id: null,
   },
   {
     id: 3034,
@@ -21236,6 +24269,7 @@ export default [
     date: "2023-01-21",
     discharge: 39.7,
     water_level: 1.389,
+    user_id: null,
   },
   {
     id: 3035,
@@ -21243,6 +24277,7 @@ export default [
     date: "2023-01-22",
     discharge: 39.7,
     water_level: 1.374,
+    user_id: null,
   },
   {
     id: 3036,
@@ -21250,6 +24285,7 @@ export default [
     date: "2023-01-23",
     discharge: 37.5,
     water_level: 1.322,
+    user_id: null,
   },
   {
     id: 3037,
@@ -21257,6 +24293,7 @@ export default [
     date: "2023-01-24",
     discharge: 37.7,
     water_level: 1.309,
+    user_id: null,
   },
   {
     id: 3038,
@@ -21264,6 +24301,7 @@ export default [
     date: "2023-01-25",
     discharge: 41.4,
     water_level: 1.362,
+    user_id: null,
   },
   {
     id: 3039,
@@ -21271,6 +24309,7 @@ export default [
     date: "2023-01-26",
     discharge: 40.4,
     water_level: 1.365,
+    user_id: null,
   },
   {
     id: 3040,
@@ -21278,6 +24317,7 @@ export default [
     date: "2023-01-27",
     discharge: 38.7,
     water_level: 1.328,
+    user_id: null,
   },
   {
     id: 3041,
@@ -21285,6 +24325,7 @@ export default [
     date: "2023-01-28",
     discharge: 37.9,
     water_level: 1.32,
+    user_id: null,
   },
   {
     id: 3042,
@@ -21292,6 +24333,7 @@ export default [
     date: "2023-01-29",
     discharge: 36.2,
     water_level: 1.295,
+    user_id: null,
   },
   {
     id: 3043,
@@ -21299,6 +24341,7 @@ export default [
     date: "2023-01-30",
     discharge: 38.2,
     water_level: 1.333,
+    user_id: null,
   },
   {
     id: 3044,
@@ -21306,6 +24349,7 @@ export default [
     date: "2023-01-31",
     discharge: 37.8,
     water_level: 1.316,
+    user_id: null,
   },
   {
     id: 3045,
@@ -21313,6 +24357,7 @@ export default [
     date: "2023-02-01",
     discharge: 37.5,
     water_level: 1.287,
+    user_id: null,
   },
   {
     id: 3046,
@@ -21320,6 +24365,7 @@ export default [
     date: "2023-02-02",
     discharge: 36.6,
     water_level: 1.295,
+    user_id: null,
   },
   {
     id: 3047,
@@ -21327,6 +24373,7 @@ export default [
     date: "2023-02-03",
     discharge: 37,
     water_level: 1.276,
+    user_id: null,
   },
   {
     id: 3048,
@@ -21334,6 +24381,7 @@ export default [
     date: "2023-02-04",
     discharge: 39.7,
     water_level: 1.321,
+    user_id: null,
   },
   {
     id: 3049,
@@ -21341,6 +24389,7 @@ export default [
     date: "2023-02-05",
     discharge: 40.8,
     water_level: 1.339,
+    user_id: null,
   },
   {
     id: 3050,
@@ -21348,6 +24397,7 @@ export default [
     date: "2023-02-06",
     discharge: 39.7,
     water_level: 1.32,
+    user_id: null,
   },
   {
     id: 3051,
@@ -21355,6 +24405,7 @@ export default [
     date: "2023-02-07",
     discharge: 39.8,
     water_level: 1.314,
+    user_id: null,
   },
   {
     id: 3052,
@@ -21362,6 +24413,7 @@ export default [
     date: "2023-02-08",
     discharge: 39.6,
     water_level: 1.29,
+    user_id: null,
   },
   {
     id: 3053,
@@ -21369,6 +24421,7 @@ export default [
     date: "2023-02-09",
     discharge: 41.2,
     water_level: 1.315,
+    user_id: null,
   },
   {
     id: 3054,
@@ -21376,6 +24429,7 @@ export default [
     date: "2023-02-10",
     discharge: 40,
     water_level: 1.296,
+    user_id: null,
   },
   {
     id: 3055,
@@ -21383,6 +24437,7 @@ export default [
     date: "2023-02-11",
     discharge: 39.3,
     water_level: 1.283,
+    user_id: null,
   },
   {
     id: 3056,
@@ -21390,6 +24445,7 @@ export default [
     date: "2023-02-12",
     discharge: 38.9,
     water_level: 1.267,
+    user_id: null,
   },
   {
     id: 3057,
@@ -21397,6 +24453,7 @@ export default [
     date: "2023-02-13",
     discharge: 39.4,
     water_level: 1.254,
+    user_id: null,
   },
   {
     id: 3058,
@@ -21404,6 +24461,7 @@ export default [
     date: "2023-02-14",
     discharge: 40.7,
     water_level: 1.271,
+    user_id: null,
   },
   {
     id: 3059,
@@ -21411,6 +24469,7 @@ export default [
     date: "2023-02-15",
     discharge: 40.3,
     water_level: 1.248,
+    user_id: null,
   },
   {
     id: 3060,
@@ -21418,6 +24477,7 @@ export default [
     date: "2023-02-16",
     discharge: 37.2,
     water_level: 1.198,
+    user_id: null,
   },
   {
     id: 3061,
@@ -21425,6 +24485,7 @@ export default [
     date: "2023-02-17",
     discharge: 37.6,
     water_level: 1.214,
+    user_id: null,
   },
   {
     id: 3062,
@@ -21432,6 +24493,7 @@ export default [
     date: "2023-02-18",
     discharge: 39,
     water_level: 1.237,
+    user_id: null,
   },
   {
     id: 3063,
@@ -21439,6 +24501,7 @@ export default [
     date: "2023-02-19",
     discharge: 40.2,
     water_level: 1.247,
+    user_id: null,
   },
   {
     id: 3064,
@@ -21446,6 +24509,7 @@ export default [
     date: "2023-02-20",
     discharge: 40.3,
     water_level: 1.254,
+    user_id: null,
   },
   {
     id: 3065,
@@ -21453,6 +24517,7 @@ export default [
     date: "2023-02-21",
     discharge: 37.8,
     water_level: 1.225,
+    user_id: null,
   },
   {
     id: 3066,
@@ -21460,6 +24525,7 @@ export default [
     date: "2023-02-22",
     discharge: 37.4,
     water_level: 1.227,
+    user_id: null,
   },
   {
     id: 3067,
@@ -21467,6 +24533,7 @@ export default [
     date: "2023-02-23",
     discharge: 37,
     water_level: 1.24,
+    user_id: null,
   },
   {
     id: 3068,
@@ -21474,6 +24541,7 @@ export default [
     date: "2023-02-24",
     discharge: 36.3,
     water_level: 1.216,
+    user_id: null,
   },
   {
     id: 3069,
@@ -21481,6 +24549,7 @@ export default [
     date: "2023-02-25",
     discharge: 40.6,
     water_level: 1.26,
+    user_id: null,
   },
   {
     id: 3070,
@@ -21488,6 +24557,7 @@ export default [
     date: "2023-02-26",
     discharge: 40,
     water_level: 1.246,
+    user_id: null,
   },
   {
     id: 3071,
@@ -21495,6 +24565,7 @@ export default [
     date: "2023-02-27",
     discharge: 41.5,
     water_level: 1.267,
+    user_id: null,
   },
   {
     id: 3072,
@@ -21502,6 +24573,7 @@ export default [
     date: "2023-02-28",
     discharge: 42.1,
     water_level: 1.274,
+    user_id: null,
   },
   {
     id: 3073,
@@ -21509,6 +24581,7 @@ export default [
     date: "2023-03-01",
     discharge: 39.9,
     water_level: 1.254,
+    user_id: null,
   },
   {
     id: 3074,
@@ -21516,6 +24589,7 @@ export default [
     date: "2023-03-02",
     discharge: 38.9,
     water_level: 1.237,
+    user_id: null,
   },
   {
     id: 3075,
@@ -21523,6 +24597,7 @@ export default [
     date: "2023-03-03",
     discharge: 38.8,
     water_level: 1.232,
+    user_id: null,
   },
   {
     id: 3076,
@@ -21530,6 +24605,7 @@ export default [
     date: "2023-03-04",
     discharge: 38.3,
     water_level: 1.233,
+    user_id: null,
   },
   {
     id: 3077,
@@ -21537,6 +24613,7 @@ export default [
     date: "2023-03-05",
     discharge: 38.2,
     water_level: 1.219,
+    user_id: null,
   },
   {
     id: 3078,
@@ -21544,6 +24621,7 @@ export default [
     date: "2023-03-06",
     discharge: 38.1,
     water_level: 1.196,
+    user_id: null,
   },
   {
     id: 3079,
@@ -21551,6 +24629,7 @@ export default [
     date: "2023-03-07",
     discharge: 38.4,
     water_level: 1.199,
+    user_id: null,
   },
   {
     id: 3080,
@@ -21558,6 +24637,7 @@ export default [
     date: "2023-03-08",
     discharge: 37.1,
     water_level: 1.189,
+    user_id: null,
   },
   {
     id: 3081,
@@ -21565,6 +24645,7 @@ export default [
     date: "2023-03-09",
     discharge: 36.8,
     water_level: 1.18,
+    user_id: null,
   },
   {
     id: 3082,
@@ -21572,6 +24653,7 @@ export default [
     date: "2023-03-10",
     discharge: 37,
     water_level: 1.184,
+    user_id: null,
   },
   {
     id: 3083,
@@ -21579,6 +24661,7 @@ export default [
     date: "2023-03-11",
     discharge: 37.7,
     water_level: 1.174,
+    user_id: null,
   },
   {
     id: 3084,
@@ -21586,6 +24669,7 @@ export default [
     date: "2023-03-12",
     discharge: 39,
     water_level: 1.216,
+    user_id: null,
   },
   {
     id: 3085,
@@ -21593,6 +24677,7 @@ export default [
     date: "2023-03-13",
     discharge: 38,
     water_level: 1.209,
+    user_id: null,
   },
   {
     id: 3086,
@@ -21600,6 +24685,7 @@ export default [
     date: "2023-03-14",
     discharge: 38.5,
     water_level: 1.201,
+    user_id: null,
   },
   {
     id: 3087,
@@ -21607,6 +24693,7 @@ export default [
     date: "2023-03-15",
     discharge: 41.7,
     water_level: 1.249,
+    user_id: null,
   },
   {
     id: 3088,
@@ -21614,6 +24701,7 @@ export default [
     date: "2023-03-16",
     discharge: 39.9,
     water_level: 1.245,
+    user_id: null,
   },
   {
     id: 3089,
@@ -21621,6 +24709,7 @@ export default [
     date: "2023-03-17",
     discharge: 38.7,
     water_level: 1.232,
+    user_id: null,
   },
   {
     id: 3090,
@@ -21628,6 +24717,7 @@ export default [
     date: "2023-03-18",
     discharge: 39.7,
     water_level: 1.254,
+    user_id: null,
   },
   {
     id: 3091,
@@ -21635,6 +24725,7 @@ export default [
     date: "2023-03-19",
     discharge: 39.8,
     water_level: 1.26,
+    user_id: null,
   },
   {
     id: 3092,
@@ -21642,6 +24733,7 @@ export default [
     date: "2023-03-20",
     discharge: 39.4,
     water_level: 1.238,
+    user_id: null,
   },
   {
     id: 3093,
@@ -21649,6 +24741,7 @@ export default [
     date: "2023-03-21",
     discharge: 39.4,
     water_level: 1.231,
+    user_id: null,
   },
   {
     id: 3094,
@@ -21656,6 +24749,7 @@ export default [
     date: "2023-03-22",
     discharge: 39,
     water_level: 1.228,
+    user_id: null,
   },
   {
     id: 3095,
@@ -21663,6 +24757,7 @@ export default [
     date: "2023-03-23",
     discharge: 39.3,
     water_level: 1.21,
+    user_id: null,
   },
   {
     id: 3096,
@@ -21670,6 +24765,7 @@ export default [
     date: "2023-03-24",
     discharge: 39.3,
     water_level: 1.186,
+    user_id: null,
   },
   {
     id: 3097,
@@ -21677,6 +24773,7 @@ export default [
     date: "2023-03-25",
     discharge: 38.8,
     water_level: 1.165,
+    user_id: null,
   },
   {
     id: 3098,
@@ -21684,6 +24781,7 @@ export default [
     date: "2023-03-26",
     discharge: 43.9,
     water_level: 1.212,
+    user_id: null,
   },
   {
     id: 3099,
@@ -21691,6 +24789,7 @@ export default [
     date: "2023-03-27",
     discharge: 40.4,
     water_level: 1.171,
+    user_id: null,
   },
   {
     id: 3100,
@@ -21698,6 +24797,7 @@ export default [
     date: "2023-03-28",
     discharge: 38.4,
     water_level: 1.133,
+    user_id: null,
   },
   {
     id: 3101,
@@ -21705,6 +24805,7 @@ export default [
     date: "2023-03-29",
     discharge: 39.4,
     water_level: 1.132,
+    user_id: null,
   },
   {
     id: 3102,
@@ -21712,6 +24813,7 @@ export default [
     date: "2023-03-30",
     discharge: 42.5,
     water_level: 1.164,
+    user_id: null,
   },
   {
     id: 3103,
@@ -21719,6 +24821,7 @@ export default [
     date: "2023-03-31",
     discharge: 42.1,
     water_level: 1.164,
+    user_id: null,
   },
   {
     id: 3104,
@@ -21726,6 +24829,7 @@ export default [
     date: "2023-04-01",
     discharge: 38.6,
     water_level: 1.103,
+    user_id: null,
   },
   {
     id: 3105,
@@ -21733,6 +24837,7 @@ export default [
     date: "2023-04-02",
     discharge: 37.6,
     water_level: 1.07,
+    user_id: null,
   },
   {
     id: 3106,
@@ -21740,6 +24845,7 @@ export default [
     date: "2023-04-03",
     discharge: 39.4,
     water_level: 1.075,
+    user_id: null,
   },
   {
     id: 3107,
@@ -21747,6 +24853,7 @@ export default [
     date: "2023-04-04",
     discharge: 38.9,
     water_level: 1.046,
+    user_id: null,
   },
   {
     id: 3108,
@@ -21754,6 +24861,7 @@ export default [
     date: "2023-04-05",
     discharge: 38.7,
     water_level: 1.023,
+    user_id: null,
   },
   {
     id: 3109,
@@ -21761,6 +24869,7 @@ export default [
     date: "2023-04-06",
     discharge: 38.3,
     water_level: 0.938,
+    user_id: null,
   },
   {
     id: 3110,
@@ -21768,6 +24877,7 @@ export default [
     date: "2023-04-07",
     discharge: 37.9,
     water_level: 0.837,
+    user_id: null,
   },
   {
     id: 3111,
@@ -21775,6 +24885,7 @@ export default [
     date: "2023-04-08",
     discharge: 37.2,
     water_level: 0.789,
+    user_id: null,
   },
   {
     id: 3112,
@@ -21782,6 +24893,7 @@ export default [
     date: "2023-04-09",
     discharge: 37.2,
     water_level: 0.788,
+    user_id: null,
   },
   {
     id: 3113,
@@ -21789,6 +24901,7 @@ export default [
     date: "2023-04-10",
     discharge: 37,
     water_level: 0.786,
+    user_id: null,
   },
   {
     id: 3114,
@@ -21796,6 +24909,7 @@ export default [
     date: "2023-04-11",
     discharge: 37.5,
     water_level: 0.791,
+    user_id: null,
   },
   {
     id: 3115,
@@ -21803,6 +24917,7 @@ export default [
     date: "2023-04-12",
     discharge: 51.8,
     water_level: 0.923,
+    user_id: null,
   },
   {
     id: 3116,
@@ -21810,6 +24925,7 @@ export default [
     date: "2023-04-13",
     discharge: 59.8,
     water_level: 0.99,
+    user_id: null,
   },
   {
     id: 3117,
@@ -21817,6 +24933,7 @@ export default [
     date: "2023-04-14",
     discharge: 56.4,
     water_level: 0.962,
+    user_id: null,
   },
   {
     id: 3118,
@@ -21824,6 +24941,7 @@ export default [
     date: "2023-04-15",
     discharge: 57.6,
     water_level: 0.972,
+    user_id: null,
   },
   {
     id: 3119,
@@ -21831,6 +24949,7 @@ export default [
     date: "2023-04-16",
     discharge: 58.2,
     water_level: 0.977,
+    user_id: null,
   },
   {
     id: 3120,
@@ -21838,6 +24957,7 @@ export default [
     date: "2023-04-17",
     discharge: 62.5,
     water_level: 1.011,
+    user_id: null,
   },
   {
     id: 3121,
@@ -21845,6 +24965,7 @@ export default [
     date: "2023-04-18",
     discharge: 63,
     water_level: 1.015,
+    user_id: null,
   },
   {
     id: 3122,
@@ -21852,6 +24973,7 @@ export default [
     date: "2023-04-19",
     discharge: 60.4,
     water_level: 0.995,
+    user_id: null,
   },
   {
     id: 3123,
@@ -21859,6 +24981,7 @@ export default [
     date: "2023-04-20",
     discharge: 61.7,
     water_level: 1.005,
+    user_id: null,
   },
   {
     id: 3124,
@@ -21866,6 +24989,7 @@ export default [
     date: "2023-04-21",
     discharge: 63.1,
     water_level: 1.016,
+    user_id: null,
   },
   {
     id: 3125,
@@ -21873,6 +24997,7 @@ export default [
     date: "2023-04-22",
     discharge: 66.8,
     water_level: 1.037,
+    user_id: null,
   },
   {
     id: 3126,
@@ -21880,6 +25005,7 @@ export default [
     date: "2023-04-23",
     discharge: 74.9,
     water_level: 1.089,
+    user_id: null,
   },
   {
     id: 3127,
@@ -21887,6 +25013,7 @@ export default [
     date: "2023-04-24",
     discharge: 66.8,
     water_level: 1.04,
+    user_id: null,
   },
   {
     id: 3128,
@@ -21894,6 +25021,7 @@ export default [
     date: "2023-04-25",
     discharge: 70.8,
     water_level: 1.065,
+    user_id: null,
   },
   {
     id: 3129,
@@ -21901,6 +25029,7 @@ export default [
     date: "2023-04-26",
     discharge: 72,
     water_level: 1.071,
+    user_id: null,
   },
   {
     id: 3130,
@@ -21908,6 +25037,7 @@ export default [
     date: "2023-04-27",
     discharge: 63.5,
     water_level: 1.017,
+    user_id: null,
   },
   {
     id: 3131,
@@ -21915,6 +25045,7 @@ export default [
     date: "2023-04-28",
     discharge: 61.4,
     water_level: 1.003,
+    user_id: null,
   },
   {
     id: 3132,
@@ -21922,6 +25053,7 @@ export default [
     date: "2023-04-29",
     discharge: 65.6,
     water_level: 1.032,
+    user_id: null,
   },
   {
     id: 3133,
@@ -21929,6 +25061,7 @@ export default [
     date: "2023-04-30",
     discharge: 69.6,
     water_level: 1.057,
+    user_id: null,
   },
   {
     id: 3134,
@@ -21936,6 +25069,7 @@ export default [
     date: "2023-05-01",
     discharge: 76.4,
     water_level: 1.097,
+    user_id: null,
   },
   {
     id: 3135,
@@ -21943,6 +25077,7 @@ export default [
     date: "2023-05-02",
     discharge: 85.1,
     water_level: 1.146,
+    user_id: null,
   },
   {
     id: 3136,
@@ -21950,6 +25085,7 @@ export default [
     date: "2023-05-03",
     discharge: 95.4,
     water_level: 1.2,
+    user_id: null,
   },
   {
     id: 3137,
@@ -21957,6 +25093,7 @@ export default [
     date: "2023-05-04",
     discharge: 107,
     water_level: 1.259,
+    user_id: null,
   },
   {
     id: 3138,
@@ -21964,6 +25101,7 @@ export default [
     date: "2023-05-05",
     discharge: 101,
     water_level: 1.229,
+    user_id: null,
   },
   {
     id: 3139,
@@ -21971,6 +25109,7 @@ export default [
     date: "2023-05-06",
     discharge: 106,
     water_level: 1.255,
+    user_id: null,
   },
   {
     id: 3140,
@@ -21978,6 +25117,7 @@ export default [
     date: "2023-05-07",
     discharge: 103,
     water_level: 1.24,
+    user_id: null,
   },
   {
     id: 3141,
@@ -21985,6 +25125,7 @@ export default [
     date: "2023-05-08",
     discharge: 108,
     water_level: 1.263,
+    user_id: null,
   },
   {
     id: 3142,
@@ -21992,6 +25133,7 @@ export default [
     date: "2023-05-09",
     discharge: 114,
     water_level: 1.291,
+    user_id: null,
   },
   {
     id: 3143,
@@ -21999,6 +25141,7 @@ export default [
     date: "2023-05-10",
     discharge: 142,
     water_level: 1.418,
+    user_id: null,
   },
   {
     id: 3144,
@@ -22006,6 +25149,7 @@ export default [
     date: "2023-05-11",
     discharge: 148,
     water_level: 1.443,
+    user_id: null,
   },
   {
     id: 3145,
@@ -22013,6 +25157,7 @@ export default [
     date: "2023-05-12",
     discharge: 155,
     water_level: 1.469,
+    user_id: null,
   },
   {
     id: 3146,
@@ -22020,6 +25165,7 @@ export default [
     date: "2023-05-13",
     discharge: 149,
     water_level: 1.445,
+    user_id: null,
   },
   {
     id: 3147,
@@ -22027,6 +25173,7 @@ export default [
     date: "2023-05-14",
     discharge: 154,
     water_level: 1.466,
+    user_id: null,
   },
   {
     id: 3148,
@@ -22034,6 +25181,7 @@ export default [
     date: "2023-05-15",
     discharge: 158,
     water_level: 1.482,
+    user_id: null,
   },
   {
     id: 3149,
@@ -22041,6 +25189,7 @@ export default [
     date: "2023-05-16",
     discharge: 163,
     water_level: 1.503,
+    user_id: null,
   },
   {
     id: 3150,
@@ -22048,6 +25197,7 @@ export default [
     date: "2023-05-17",
     discharge: 191,
     water_level: 1.609,
+    user_id: null,
   },
   {
     id: 3151,
@@ -22055,6 +25205,7 @@ export default [
     date: "2023-05-18",
     discharge: 194,
     water_level: 1.62,
+    user_id: null,
   },
   {
     id: 3152,
@@ -22062,6 +25213,7 @@ export default [
     date: "2023-05-19",
     discharge: 194,
     water_level: 1.62,
+    user_id: null,
   },
   {
     id: 3153,
@@ -22069,6 +25221,7 @@ export default [
     date: "2023-05-20",
     discharge: 203,
     water_level: 1.652,
+    user_id: null,
   },
   {
     id: 3154,
@@ -22076,6 +25229,7 @@ export default [
     date: "2023-05-21",
     discharge: 226,
     water_level: 1.734,
+    user_id: null,
   },
   {
     id: 3155,
@@ -22083,6 +25237,7 @@ export default [
     date: "2023-05-22",
     discharge: 224,
     water_level: 1.727,
+    user_id: null,
   },
   {
     id: 3156,
@@ -22090,6 +25245,7 @@ export default [
     date: "2023-05-23",
     discharge: 219,
     water_level: 1.711,
+    user_id: null,
   },
   {
     id: 3157,
@@ -22097,6 +25253,7 @@ export default [
     date: "2023-05-24",
     discharge: 219,
     water_level: 1.709,
+    user_id: null,
   },
   {
     id: 3158,
@@ -22104,6 +25261,7 @@ export default [
     date: "2023-05-25",
     discharge: 215,
     water_level: 1.696,
+    user_id: null,
   },
   {
     id: 3159,
@@ -22111,6 +25269,7 @@ export default [
     date: "2023-05-26",
     discharge: 190,
     water_level: 1.603,
+    user_id: null,
   },
   {
     id: 3160,
@@ -22118,6 +25277,7 @@ export default [
     date: "2023-05-27",
     discharge: 165,
     water_level: 1.511,
+    user_id: null,
   },
   {
     id: 3161,
@@ -22125,6 +25285,7 @@ export default [
     date: "2023-05-28",
     discharge: 166,
     water_level: 1.515,
+    user_id: null,
   },
   {
     id: 3162,
@@ -22132,6 +25293,7 @@ export default [
     date: "2023-05-29",
     discharge: 144,
     water_level: 1.426,
+    user_id: null,
   },
   {
     id: 3163,
@@ -22139,6 +25301,7 @@ export default [
     date: "2023-05-30",
     discharge: 141,
     water_level: 1.413,
+    user_id: null,
   },
   {
     id: 3164,
@@ -22146,6 +25309,7 @@ export default [
     date: "2023-05-31",
     discharge: 147,
     water_level: 1.439,
+    user_id: null,
   },
   {
     id: 3165,
@@ -22153,6 +25317,7 @@ export default [
     date: "2023-06-01",
     discharge: 136,
     water_level: 1.39,
+    user_id: null,
   },
   {
     id: 3166,
@@ -22160,6 +25325,7 @@ export default [
     date: "2023-06-02",
     discharge: 130,
     water_level: 1.364,
+    user_id: null,
   },
   {
     id: 3167,
@@ -22167,6 +25333,7 @@ export default [
     date: "2023-06-03",
     discharge: 131,
     water_level: 1.371,
+    user_id: null,
   },
   {
     id: 3168,
@@ -22174,6 +25341,7 @@ export default [
     date: "2023-06-04",
     discharge: 134,
     water_level: 1.381,
+    user_id: null,
   },
   {
     id: 3169,
@@ -22181,6 +25349,7 @@ export default [
     date: "2023-06-05",
     discharge: 103,
     water_level: 1.24,
+    user_id: null,
   },
   {
     id: 3170,
@@ -22188,6 +25357,7 @@ export default [
     date: "2023-06-06",
     discharge: 101,
     water_level: 1.226,
+    user_id: null,
   },
   {
     id: 3171,
@@ -22195,6 +25365,7 @@ export default [
     date: "2023-06-07",
     discharge: 104,
     water_level: 1.245,
+    user_id: null,
   },
   {
     id: 3172,
@@ -22202,6 +25373,7 @@ export default [
     date: "2023-06-08",
     discharge: 101,
     water_level: 1.229,
+    user_id: null,
   },
   {
     id: 3173,
@@ -22209,6 +25381,7 @@ export default [
     date: "2023-06-09",
     discharge: 103,
     water_level: 1.238,
+    user_id: null,
   },
   {
     id: 3174,
@@ -22216,6 +25389,7 @@ export default [
     date: "2023-06-10",
     discharge: 94.8,
     water_level: 1.197,
+    user_id: null,
   },
   {
     id: 3175,
@@ -22223,6 +25397,7 @@ export default [
     date: "2023-06-11",
     discharge: 94.5,
     water_level: 1.196,
+    user_id: null,
   },
   {
     id: 3176,
@@ -22230,6 +25405,7 @@ export default [
     date: "2023-06-12",
     discharge: 88.7,
     water_level: 1.165,
+    user_id: null,
   },
   {
     id: 3177,
@@ -22237,6 +25413,7 @@ export default [
     date: "2023-06-13",
     discharge: 93.1,
     water_level: 1.188,
+    user_id: null,
   },
   {
     id: 3178,
@@ -22244,6 +25421,7 @@ export default [
     date: "2023-06-14",
     discharge: 105,
     water_level: 1.247,
+    user_id: null,
   },
   {
     id: 3179,
@@ -22251,6 +25429,7 @@ export default [
     date: "2023-06-15",
     discharge: 148,
     water_level: 1.443,
+    user_id: null,
   },
   {
     id: 3180,
@@ -22258,6 +25437,7 @@ export default [
     date: "2023-06-16",
     discharge: 143,
     water_level: 1.42,
+    user_id: null,
   },
   {
     id: 3181,
@@ -22265,6 +25445,7 @@ export default [
     date: "2023-06-17",
     discharge: 147,
     water_level: 1.437,
+    user_id: null,
   },
   {
     id: 3182,
@@ -22272,6 +25453,7 @@ export default [
     date: "2023-06-18",
     discharge: 142,
     water_level: 1.418,
+    user_id: null,
   },
   {
     id: 3183,
@@ -22279,6 +25461,7 @@ export default [
     date: "2023-06-19",
     discharge: 142,
     water_level: 1.416,
+    user_id: null,
   },
   {
     id: 3184,
@@ -22286,6 +25469,7 @@ export default [
     date: "2023-06-20",
     discharge: 148,
     water_level: 1.442,
+    user_id: null,
   },
   {
     id: 3185,
@@ -22293,6 +25477,7 @@ export default [
     date: "2023-06-21",
     discharge: 144,
     water_level: 1.424,
+    user_id: null,
   },
   {
     id: 3186,
@@ -22300,6 +25485,7 @@ export default [
     date: "2023-06-22",
     discharge: 141,
     water_level: 1.414,
+    user_id: null,
   },
   {
     id: 3187,
@@ -22307,6 +25493,7 @@ export default [
     date: "2023-06-23",
     discharge: 140,
     water_level: 1.408,
+    user_id: null,
   },
   {
     id: 3188,
@@ -22314,6 +25501,7 @@ export default [
     date: "2023-06-24",
     discharge: 122,
     water_level: 1.327,
+    user_id: null,
   },
   {
     id: 3189,
@@ -22321,6 +25509,7 @@ export default [
     date: "2023-06-25",
     discharge: 116,
     water_level: 1.303,
+    user_id: null,
   },
   {
     id: 3190,
@@ -22328,6 +25517,7 @@ export default [
     date: "2023-06-26",
     discharge: 99.1,
     water_level: 1.219,
+    user_id: null,
   },
   {
     id: 3191,
@@ -22335,6 +25525,7 @@ export default [
     date: "2023-06-27",
     discharge: 90.2,
     water_level: 1.173,
+    user_id: null,
   },
   {
     id: 3192,
@@ -22342,6 +25533,7 @@ export default [
     date: "2023-06-28",
     discharge: 101,
     water_level: 1.23,
+    user_id: null,
   },
   {
     id: 3193,
@@ -22349,6 +25541,7 @@ export default [
     date: "2023-06-29",
     discharge: 96.2,
     water_level: 1.204,
+    user_id: null,
   },
   {
     id: 3194,
@@ -22356,6 +25549,7 @@ export default [
     date: "2023-06-30",
     discharge: 93.1,
     water_level: 1.188,
+    user_id: null,
   },
   {
     id: 3195,
@@ -22363,6 +25557,7 @@ export default [
     date: "2023-07-01",
     discharge: 97.6,
     water_level: 1.211,
+    user_id: null,
   },
   {
     id: 3196,
@@ -22370,6 +25565,7 @@ export default [
     date: "2023-07-02",
     discharge: 88.9,
     water_level: 1.166,
+    user_id: null,
   },
   {
     id: 3197,
@@ -22377,6 +25573,7 @@ export default [
     date: "2023-07-03",
     discharge: 94.7,
     water_level: 1.197,
+    user_id: null,
   },
   {
     id: 3198,
@@ -22384,6 +25581,7 @@ export default [
     date: "2023-07-04",
     discharge: 100,
     water_level: 1.225,
+    user_id: null,
   },
   {
     id: 3199,
@@ -22391,6 +25589,7 @@ export default [
     date: "2023-07-05",
     discharge: 102,
     water_level: 1.232,
+    user_id: null,
   },
   {
     id: 3200,
@@ -22398,6 +25597,7 @@ export default [
     date: "2023-07-06",
     discharge: 99.6,
     water_level: 1.219,
+    user_id: null,
   },
   {
     id: 3201,
@@ -22405,6 +25605,7 @@ export default [
     date: "2023-07-07",
     discharge: 90.6,
     water_level: 1.175,
+    user_id: null,
   },
   {
     id: 3202,
@@ -22412,6 +25613,7 @@ export default [
     date: "2023-07-08",
     discharge: 84.2,
     water_level: 1.141,
+    user_id: null,
   },
   {
     id: 3203,
@@ -22419,6 +25621,7 @@ export default [
     date: "2023-07-09",
     discharge: 81.6,
     water_level: 1.126,
+    user_id: null,
   },
   {
     id: 3204,
@@ -22426,6 +25629,7 @@ export default [
     date: "2023-07-10",
     discharge: 85.6,
     water_level: 1.148,
+    user_id: null,
   },
   {
     id: 3205,
@@ -22433,6 +25637,7 @@ export default [
     date: "2023-07-11",
     discharge: 81.1,
     water_level: 1.124,
+    user_id: null,
   },
   {
     id: 3206,
@@ -22440,6 +25645,7 @@ export default [
     date: "2023-07-12",
     discharge: 79.1,
     water_level: 1.113,
+    user_id: null,
   },
   {
     id: 3207,
@@ -22447,6 +25653,7 @@ export default [
     date: "2023-07-13",
     discharge: 76.5,
     water_level: 1.098,
+    user_id: null,
   },
   {
     id: 3208,
@@ -22454,6 +25661,7 @@ export default [
     date: "2023-07-14",
     discharge: 96.2,
     water_level: 1.203,
+    user_id: null,
   },
   {
     id: 3209,
@@ -22461,6 +25669,7 @@ export default [
     date: "2023-07-15",
     discharge: 129,
     water_level: 1.359,
+    user_id: null,
   },
   {
     id: 3210,
@@ -22468,6 +25677,7 @@ export default [
     date: "2023-07-16",
     discharge: 125,
     water_level: 1.341,
+    user_id: null,
   },
   {
     id: 3211,
@@ -22475,6 +25685,7 @@ export default [
     date: "2023-07-17",
     discharge: 116,
     water_level: 1.302,
+    user_id: null,
   },
   {
     id: 3212,
@@ -22482,6 +25693,7 @@ export default [
     date: "2023-07-18",
     discharge: 95.4,
     water_level: 1.2,
+    user_id: null,
   },
   {
     id: 3213,
@@ -22489,6 +25701,7 @@ export default [
     date: "2023-07-19",
     discharge: 105,
     water_level: 1.247,
+    user_id: null,
   },
   {
     id: 3214,
@@ -22496,6 +25709,7 @@ export default [
     date: "2023-07-20",
     discharge: 98.9,
     water_level: 1.218,
+    user_id: null,
   },
   {
     id: 3215,
@@ -22503,6 +25717,7 @@ export default [
     date: "2023-07-21",
     discharge: 97.9,
     water_level: 1.213,
+    user_id: null,
   },
   {
     id: 3216,
@@ -22510,6 +25725,7 @@ export default [
     date: "2023-07-22",
     discharge: 92.9,
     water_level: 1.187,
+    user_id: null,
   },
   {
     id: 3217,
@@ -22517,6 +25733,7 @@ export default [
     date: "2023-07-23",
     discharge: 86,
     water_level: 1.15,
+    user_id: null,
   },
   {
     id: 3218,
@@ -22524,6 +25741,7 @@ export default [
     date: "2023-07-24",
     discharge: 83.4,
     water_level: 1.137,
+    user_id: null,
   },
   {
     id: 3219,
@@ -22531,6 +25749,7 @@ export default [
     date: "2023-07-25",
     discharge: 84.4,
     water_level: 1.141,
+    user_id: null,
   },
   {
     id: 3220,
@@ -22538,6 +25757,7 @@ export default [
     date: "2023-07-26",
     discharge: 88.9,
     water_level: 1.166,
+    user_id: null,
   },
   {
     id: 3221,
@@ -22545,6 +25765,7 @@ export default [
     date: "2023-07-27",
     discharge: 82.3,
     water_level: 1.13,
+    user_id: null,
   },
   {
     id: 3222,
@@ -22552,6 +25773,7 @@ export default [
     date: "2023-07-28",
     discharge: 82.3,
     water_level: 1.131,
+    user_id: null,
   },
   {
     id: 3223,
@@ -22559,6 +25781,7 @@ export default [
     date: "2023-07-29",
     discharge: 86,
     water_level: 1.15,
+    user_id: null,
   },
   {
     id: 3224,
@@ -22566,6 +25789,7 @@ export default [
     date: "2023-07-30",
     discharge: 83.8,
     water_level: 1.139,
+    user_id: null,
   },
   {
     id: 3225,
@@ -22573,6 +25797,7 @@ export default [
     date: "2023-07-31",
     discharge: 71,
     water_level: 1.066,
+    user_id: null,
   },
   {
     id: 3226,
@@ -22580,6 +25805,7 @@ export default [
     date: "2023-08-01",
     discharge: 67.3,
     water_level: 1.043,
+    user_id: null,
   },
   {
     id: 3227,
@@ -22587,6 +25813,7 @@ export default [
     date: "2023-08-02",
     discharge: 75.1,
     water_level: 1.09,
+    user_id: null,
   },
   {
     id: 3228,
@@ -22594,6 +25821,7 @@ export default [
     date: "2023-08-03",
     discharge: 69.7,
     water_level: 1.058,
+    user_id: null,
   },
   {
     id: 3229,
@@ -22601,6 +25829,7 @@ export default [
     date: "2023-08-04",
     discharge: 65.1,
     water_level: 1.03,
+    user_id: null,
   },
   {
     id: 3230,
@@ -22608,6 +25837,7 @@ export default [
     date: "2023-08-05",
     discharge: 72.7,
     water_level: 1.076,
+    user_id: null,
   },
   {
     id: 3231,
@@ -22615,6 +25845,7 @@ export default [
     date: "2023-08-06",
     discharge: 63.2,
     water_level: 1.016,
+    user_id: null,
   },
   {
     id: 3232,
@@ -22622,6 +25853,7 @@ export default [
     date: "2023-08-07",
     discharge: 64.7,
     water_level: 1.027,
+    user_id: null,
   },
   {
     id: 3233,
@@ -22629,6 +25861,7 @@ export default [
     date: "2023-08-08",
     discharge: 64.1,
     water_level: 1.023,
+    user_id: null,
   },
   {
     id: 3234,
@@ -22636,6 +25869,7 @@ export default [
     date: "2023-08-09",
     discharge: 69.7,
     water_level: 1.058,
+    user_id: null,
   },
   {
     id: 3235,
@@ -22643,6 +25877,7 @@ export default [
     date: "2023-08-10",
     discharge: 79.6,
     water_level: 1.115,
+    user_id: null,
   },
   {
     id: 3236,
@@ -22650,6 +25885,7 @@ export default [
     date: "2023-08-11",
     discharge: 75.4,
     water_level: 1.091,
+    user_id: null,
   },
   {
     id: 3237,
@@ -22657,6 +25893,7 @@ export default [
     date: "2023-08-12",
     discharge: 70.5,
     water_level: 1.063,
+    user_id: null,
   },
   {
     id: 3238,
@@ -22664,6 +25901,7 @@ export default [
     date: "2023-08-13",
     discharge: 78.2,
     water_level: 1.108,
+    user_id: null,
   },
   {
     id: 3239,
@@ -22671,6 +25909,7 @@ export default [
     date: "2023-08-14",
     discharge: 76.3,
     water_level: 1.097,
+    user_id: null,
   },
   {
     id: 3240,
@@ -22678,6 +25917,7 @@ export default [
     date: "2023-08-15",
     discharge: 74.4,
     water_level: 1.086,
+    user_id: null,
   },
   {
     id: 3241,
@@ -22685,6 +25925,7 @@ export default [
     date: "2023-08-16",
     discharge: 74.5,
     water_level: 1.086,
+    user_id: null,
   },
   {
     id: 3242,
@@ -22692,6 +25933,7 @@ export default [
     date: "2023-08-17",
     discharge: 72.8,
     water_level: 1.076,
+    user_id: null,
   },
   {
     id: 3243,
@@ -22699,6 +25941,7 @@ export default [
     date: "2023-08-18",
     discharge: 78.9,
     water_level: 1.111,
+    user_id: null,
   },
   {
     id: 3244,
@@ -22706,6 +25949,7 @@ export default [
     date: "2023-08-19",
     discharge: 72.5,
     water_level: 1.074,
+    user_id: null,
   },
   {
     id: 3245,
@@ -22713,6 +25957,7 @@ export default [
     date: "2023-08-20",
     discharge: 73.4,
     water_level: 1.08,
+    user_id: null,
   },
   {
     id: 3246,
@@ -22720,6 +25965,7 @@ export default [
     date: "2023-08-21",
     discharge: 78.7,
     water_level: 1.111,
+    user_id: null,
   },
   {
     id: 3247,
@@ -22727,6 +25973,7 @@ export default [
     date: "2023-08-22",
     discharge: 79.2,
     water_level: 1.113,
+    user_id: null,
   },
   {
     id: 3248,
@@ -22734,6 +25981,7 @@ export default [
     date: "2023-08-23",
     discharge: 77.8,
     water_level: 1.105,
+    user_id: null,
   },
   {
     id: 3249,
@@ -22741,6 +25989,7 @@ export default [
     date: "2023-08-24",
     discharge: 72.4,
     water_level: 1.074,
+    user_id: null,
   },
   {
     id: 3250,
@@ -22748,6 +25997,7 @@ export default [
     date: "2023-08-25",
     discharge: 74.7,
     water_level: 1.088,
+    user_id: null,
   },
   {
     id: 3251,
@@ -22755,6 +26005,7 @@ export default [
     date: "2023-08-26",
     discharge: 73.7,
     water_level: 1.082,
+    user_id: null,
   },
   {
     id: 3252,
@@ -22762,6 +26013,7 @@ export default [
     date: "2023-08-27",
     discharge: 69.9,
     water_level: 1.059,
+    user_id: null,
   },
   {
     id: 3253,
@@ -22769,6 +26021,7 @@ export default [
     date: "2023-08-28",
     discharge: 65.7,
     water_level: 1.033,
+    user_id: null,
   },
   {
     id: 3254,
@@ -22776,6 +26029,7 @@ export default [
     date: "2023-08-29",
     discharge: 71.6,
     water_level: 1.069,
+    user_id: null,
   },
   {
     id: 3255,
@@ -22783,6 +26037,7 @@ export default [
     date: "2023-08-30",
     discharge: 71,
     water_level: 1.066,
+    user_id: null,
   },
   {
     id: 3256,
@@ -22790,6 +26045,7 @@ export default [
     date: "2023-08-31",
     discharge: 69.5,
     water_level: 1.054,
+    user_id: null,
   },
   {
     id: 3257,
@@ -22797,6 +26053,7 @@ export default [
     date: "2023-09-01",
     discharge: 62.2,
     water_level: 1.009,
+    user_id: null,
   },
   {
     id: 3258,
@@ -22804,6 +26061,7 @@ export default [
     date: "2023-09-02",
     discharge: 59,
     water_level: 0.983,
+    user_id: null,
   },
   {
     id: 3259,
@@ -22811,6 +26069,7 @@ export default [
     date: "2023-09-03",
     discharge: 58.7,
     water_level: 0.981,
+    user_id: null,
   },
   {
     id: 3260,
@@ -22818,6 +26077,7 @@ export default [
     date: "2023-09-04",
     discharge: 61.7,
     water_level: 1.005,
+    user_id: null,
   },
   {
     id: 3261,
@@ -22825,6 +26085,7 @@ export default [
     date: "2023-09-05",
     discharge: 58.1,
     water_level: 0.976,
+    user_id: null,
   },
   {
     id: 3262,
@@ -22832,6 +26093,7 @@ export default [
     date: "2023-09-06",
     discharge: 65.7,
     water_level: 1.034,
+    user_id: null,
   },
   {
     id: 3263,
@@ -22839,6 +26101,7 @@ export default [
     date: "2023-09-07",
     discharge: 62.7,
     water_level: 1.012,
+    user_id: null,
   },
   {
     id: 3264,
@@ -22846,6 +26109,7 @@ export default [
     date: "2023-09-08",
     discharge: 61.8,
     water_level: 1.005,
+    user_id: null,
   },
   {
     id: 3265,
@@ -22853,6 +26117,7 @@ export default [
     date: "2023-09-09",
     discharge: 61.9,
     water_level: 1.007,
+    user_id: null,
   },
   {
     id: 3266,
@@ -22860,6 +26125,7 @@ export default [
     date: "2023-09-10",
     discharge: 61.6,
     water_level: 1.004,
+    user_id: null,
   },
   {
     id: 3267,
@@ -22867,6 +26133,7 @@ export default [
     date: "2023-09-11",
     discharge: 58.7,
     water_level: 0.981,
+    user_id: null,
   },
   {
     id: 3268,
@@ -22874,6 +26141,7 @@ export default [
     date: "2023-09-12",
     discharge: 61.3,
     water_level: 1,
+    user_id: null,
   },
   {
     id: 3269,
@@ -22881,6 +26149,7 @@ export default [
     date: "2023-09-13",
     discharge: 60.8,
     water_level: 0.998,
+    user_id: null,
   },
   {
     id: 3270,
@@ -22888,6 +26157,7 @@ export default [
     date: "2023-09-14",
     discharge: 56.9,
     water_level: 0.966,
+    user_id: null,
   },
   {
     id: 3271,
@@ -22895,6 +26165,7 @@ export default [
     date: "2023-09-15",
     discharge: 53.3,
     water_level: 0.936,
+    user_id: null,
   },
   {
     id: 3272,
@@ -22902,6 +26173,7 @@ export default [
     date: "2023-09-16",
     discharge: 47.4,
     water_level: 0.885,
+    user_id: null,
   },
   {
     id: 3273,
@@ -22909,6 +26181,7 @@ export default [
     date: "2023-09-17",
     discharge: 48.8,
     water_level: 0.897,
+    user_id: null,
   },
   {
     id: 3274,
@@ -22916,6 +26189,7 @@ export default [
     date: "2023-09-18",
     discharge: 49.2,
     water_level: 0.901,
+    user_id: null,
   },
   {
     id: 3275,
@@ -22923,6 +26197,7 @@ export default [
     date: "2023-09-19",
     discharge: 47.2,
     water_level: 0.883,
+    user_id: null,
   },
   {
     id: 3276,
@@ -22930,6 +26205,7 @@ export default [
     date: "2023-09-20",
     discharge: 44.4,
     water_level: 0.857,
+    user_id: null,
   },
   {
     id: 3277,
@@ -22937,6 +26213,7 @@ export default [
     date: "2023-09-21",
     discharge: 45.3,
     water_level: 0.866,
+    user_id: null,
   },
   {
     id: 3278,
@@ -22944,6 +26221,7 @@ export default [
     date: "2023-09-22",
     discharge: 48.3,
     water_level: 0.893,
+    user_id: null,
   },
   {
     id: 3279,
@@ -22951,6 +26229,7 @@ export default [
     date: "2023-09-23",
     discharge: 46.6,
     water_level: 0.878,
+    user_id: null,
   },
   {
     id: 3280,
@@ -22958,6 +26237,7 @@ export default [
     date: "2023-09-24",
     discharge: 47.7,
     water_level: 0.887,
+    user_id: null,
   },
   {
     id: 3281,
@@ -22965,6 +26245,7 @@ export default [
     date: "2023-09-25",
     discharge: 46.3,
     water_level: 0.875,
+    user_id: null,
   },
   {
     id: 3282,
@@ -22972,6 +26253,7 @@ export default [
     date: "2023-09-26",
     discharge: 46.9,
     water_level: 0.881,
+    user_id: null,
   },
   {
     id: 3283,
@@ -22979,6 +26261,7 @@ export default [
     date: "2023-09-27",
     discharge: 45.6,
     water_level: 0.868,
+    user_id: null,
   },
   {
     id: 3284,
@@ -22986,6 +26269,7 @@ export default [
     date: "2023-09-28",
     discharge: 44.1,
     water_level: 0.855,
+    user_id: null,
   },
   {
     id: 3285,
@@ -22993,6 +26277,7 @@ export default [
     date: "2023-09-29",
     discharge: 37.7,
     water_level: 0.793,
+    user_id: null,
   },
   {
     id: 3286,
@@ -23000,6 +26285,7 @@ export default [
     date: "2023-09-30",
     discharge: 32.8,
     water_level: 0.747,
+    user_id: null,
   },
   {
     id: 3287,
@@ -23007,6 +26293,7 @@ export default [
     date: "2023-10-01",
     discharge: 33.4,
     water_level: 0.752,
+    user_id: null,
   },
   {
     id: 3288,
@@ -23014,6 +26301,7 @@ export default [
     date: "2023-10-02",
     discharge: 34.6,
     water_level: 0.763,
+    user_id: null,
   },
   {
     id: 3289,
@@ -23021,6 +26309,7 @@ export default [
     date: "2023-10-03",
     discharge: 35.4,
     water_level: 0.771,
+    user_id: null,
   },
   {
     id: 3290,
@@ -23028,6 +26317,7 @@ export default [
     date: "2023-10-04",
     discharge: 36.9,
     water_level: 0.786,
+    user_id: null,
   },
   {
     id: 3291,
@@ -23035,6 +26325,7 @@ export default [
     date: "2023-10-05",
     discharge: 34.7,
     water_level: 0.764,
+    user_id: null,
   },
   {
     id: 3292,
@@ -23042,6 +26333,7 @@ export default [
     date: "2023-10-06",
     discharge: 32.8,
     water_level: 0.747,
+    user_id: null,
   },
   {
     id: 3293,
@@ -23049,6 +26341,7 @@ export default [
     date: "2023-10-07",
     discharge: 35.2,
     water_level: 0.768,
+    user_id: null,
   },
   {
     id: 3294,
@@ -23056,6 +26349,7 @@ export default [
     date: "2023-10-08",
     discharge: 30.7,
     water_level: 0.729,
+    user_id: null,
   },
   {
     id: 3295,
@@ -23063,6 +26357,7 @@ export default [
     date: "2023-10-09",
     discharge: 33,
     water_level: 0.749,
+    user_id: null,
   },
   {
     id: 3296,
@@ -23070,6 +26365,7 @@ export default [
     date: "2023-10-10",
     discharge: 34.2,
     water_level: 0.759,
+    user_id: null,
   },
   {
     id: 3297,
@@ -23077,6 +26373,7 @@ export default [
     date: "2023-10-11",
     discharge: 35.9,
     water_level: 0.776,
+    user_id: null,
   },
   {
     id: 3298,
@@ -23084,6 +26381,7 @@ export default [
     date: "2023-10-12",
     discharge: 34.7,
     water_level: 0.764,
+    user_id: null,
   },
   {
     id: 3299,
@@ -23091,6 +26389,7 @@ export default [
     date: "2023-10-13",
     discharge: 33.2,
     water_level: 0.75,
+    user_id: null,
   },
   {
     id: 3300,
@@ -23098,6 +26397,7 @@ export default [
     date: "2023-10-14",
     discharge: 37.1,
     water_level: 0.788,
+    user_id: null,
   },
   {
     id: 3301,
@@ -23105,6 +26405,7 @@ export default [
     date: "2023-10-15",
     discharge: 37.3,
     water_level: 0.789,
+    user_id: null,
   },
   {
     id: 3302,
@@ -23112,6 +26413,7 @@ export default [
     date: "2023-10-16",
     discharge: 37.6,
     water_level: 0.792,
+    user_id: null,
   },
   {
     id: 3303,
@@ -23119,6 +26421,7 @@ export default [
     date: "2023-10-17",
     discharge: 39.4,
     water_level: 0.809,
+    user_id: null,
   },
   {
     id: 3304,
@@ -23126,6 +26429,7 @@ export default [
     date: "2023-10-18",
     discharge: 36,
     water_level: 0.776,
+    user_id: null,
   },
   {
     id: 3305,
@@ -23133,6 +26437,7 @@ export default [
     date: "2023-10-19",
     discharge: 35.9,
     water_level: 0.775,
+    user_id: null,
   },
   {
     id: 3306,
@@ -23140,6 +26445,7 @@ export default [
     date: "2023-10-20",
     discharge: 35.8,
     water_level: 0.774,
+    user_id: null,
   },
   {
     id: 3307,
@@ -23147,6 +26453,7 @@ export default [
     date: "2023-10-21",
     discharge: 34.9,
     water_level: 0.766,
+    user_id: null,
   },
   {
     id: 3308,
@@ -23154,6 +26461,7 @@ export default [
     date: "2023-10-22",
     discharge: 34.4,
     water_level: 0.761,
+    user_id: null,
   },
   {
     id: 3309,
@@ -23161,6 +26469,7 @@ export default [
     date: "2023-10-23",
     discharge: 39.4,
     water_level: 0.81,
+    user_id: null,
   },
   {
     id: 3310,
@@ -23168,6 +26477,7 @@ export default [
     date: "2023-10-24",
     discharge: 39.8,
     water_level: 0.814,
+    user_id: null,
   },
   {
     id: 3311,
@@ -23175,6 +26485,7 @@ export default [
     date: "2023-10-25",
     discharge: 43.5,
     water_level: 0.849,
+    user_id: null,
   },
   {
     id: 3312,
@@ -23182,6 +26493,7 @@ export default [
     date: "2023-10-26",
     discharge: 39.1,
     water_level: 0.807,
+    user_id: null,
   },
   {
     id: 3313,
@@ -23189,6 +26501,7 @@ export default [
     date: "2023-10-27",
     discharge: 35.5,
     water_level: 0.773,
+    user_id: null,
   },
   {
     id: 3314,
@@ -23196,6 +26509,7 @@ export default [
     date: "2023-10-28",
     discharge: 37.8,
     water_level: 0.795,
+    user_id: null,
   },
   {
     id: 3315,
@@ -23203,6 +26517,7 @@ export default [
     date: "2023-10-29",
     discharge: 38.3,
     water_level: 0.799,
+    user_id: null,
   },
   {
     id: 3316,
@@ -23210,6 +26525,7 @@ export default [
     date: "2023-10-30",
     discharge: 38.5,
     water_level: 0.802,
+    user_id: null,
   },
   {
     id: 3317,
@@ -23217,6 +26533,7 @@ export default [
     date: "2023-10-31",
     discharge: 37.2,
     water_level: 0.788,
+    user_id: null,
   },
   {
     id: 3318,
@@ -23224,6 +26541,7 @@ export default [
     date: "2023-11-01",
     discharge: 38,
     water_level: 0.797,
+    user_id: null,
   },
   {
     id: 3319,
@@ -23231,6 +26549,7 @@ export default [
     date: "2023-11-02",
     discharge: 37,
     water_level: 0.787,
+    user_id: null,
   },
   {
     id: 3320,
@@ -23238,6 +26557,7 @@ export default [
     date: "2023-11-03",
     discharge: 36.6,
     water_level: 0.782,
+    user_id: null,
   },
   {
     id: 3321,
@@ -23245,6 +26565,7 @@ export default [
     date: "2023-11-04",
     discharge: 36.3,
     water_level: 0.779,
+    user_id: null,
   },
   {
     id: 3322,
@@ -23252,6 +26573,7 @@ export default [
     date: "2023-11-05",
     discharge: 36.4,
     water_level: 0.78,
+    user_id: null,
   },
   {
     id: 3323,
@@ -23259,6 +26581,7 @@ export default [
     date: "2023-11-06",
     discharge: 38.8,
     water_level: 0.804,
+    user_id: null,
   },
   {
     id: 3324,
@@ -23266,6 +26589,7 @@ export default [
     date: "2023-11-07",
     discharge: 36.8,
     water_level: 0.784,
+    user_id: null,
   },
   {
     id: 3325,
@@ -23273,6 +26597,7 @@ export default [
     date: "2023-11-08",
     discharge: 35.2,
     water_level: 0.769,
+    user_id: null,
   },
   {
     id: 3326,
@@ -23280,6 +26605,7 @@ export default [
     date: "2023-11-09",
     discharge: 35.3,
     water_level: 0.769,
+    user_id: null,
   },
   {
     id: 3327,
@@ -23287,6 +26613,7 @@ export default [
     date: "2023-11-10",
     discharge: 33.7,
     water_level: 0.755,
+    user_id: null,
   },
   {
     id: 3328,
@@ -23294,6 +26621,7 @@ export default [
     date: "2023-11-11",
     discharge: 32.5,
     water_level: 0.745,
+    user_id: null,
   },
   {
     id: 3329,
@@ -23301,6 +26629,7 @@ export default [
     date: "2023-11-12",
     discharge: 33,
     water_level: 0.748,
+    user_id: null,
   },
   {
     id: 3330,
@@ -23308,6 +26637,7 @@ export default [
     date: "2023-11-13",
     discharge: 34.4,
     water_level: 0.761,
+    user_id: null,
   },
   {
     id: 3331,
@@ -23315,6 +26645,7 @@ export default [
     date: "2023-11-14",
     discharge: 34.6,
     water_level: 0.763,
+    user_id: null,
   },
   {
     id: 3332,
@@ -23322,6 +26653,7 @@ export default [
     date: "2023-11-15",
     discharge: 34.3,
     water_level: 0.76,
+    user_id: null,
   },
   {
     id: 3333,
@@ -23329,6 +26661,7 @@ export default [
     date: "2023-11-16",
     discharge: 40.4,
     water_level: 0.819,
+    user_id: null,
   },
   {
     id: 3334,
@@ -23336,6 +26669,7 @@ export default [
     date: "2023-11-17",
     discharge: 35,
     water_level: 0.766,
+    user_id: null,
   },
   {
     id: 3335,
@@ -23343,6 +26677,7 @@ export default [
     date: "2023-11-18",
     discharge: 34.9,
     water_level: 0.766,
+    user_id: null,
   },
   {
     id: 3336,
@@ -23350,6 +26685,7 @@ export default [
     date: "2023-11-19",
     discharge: 34.6,
     water_level: 0.763,
+    user_id: null,
   },
   {
     id: 3337,
@@ -23357,6 +26693,7 @@ export default [
     date: "2023-11-20",
     discharge: 35.8,
     water_level: 0.775,
+    user_id: null,
   },
   {
     id: 3338,
@@ -23364,6 +26701,7 @@ export default [
     date: "2023-11-21",
     discharge: 37,
     water_level: 0.787,
+    user_id: null,
   },
   {
     id: 3339,
@@ -23371,6 +26709,7 @@ export default [
     date: "2023-11-22",
     discharge: 36.2,
     water_level: 0.778,
+    user_id: null,
   },
   {
     id: 3340,
@@ -23378,6 +26717,7 @@ export default [
     date: "2023-11-23",
     discharge: 41.7,
     water_level: 0.832,
+    user_id: null,
   },
   {
     id: 3341,
@@ -23385,6 +26725,7 @@ export default [
     date: "2023-11-24",
     discharge: 47.7,
     water_level: 0.888,
+    user_id: null,
   },
   {
     id: 3342,
@@ -23392,6 +26733,7 @@ export default [
     date: "2023-11-25",
     discharge: 38.9,
     water_level: 0.806,
+    user_id: null,
   },
   {
     id: 3343,
@@ -23399,6 +26741,7 @@ export default [
     date: "2023-11-26",
     discharge: 33.7,
     water_level: 0.755,
+    user_id: null,
   },
   {
     id: 3344,
@@ -23406,6 +26749,7 @@ export default [
     date: "2023-11-27",
     discharge: 33.6,
     water_level: 0.768,
+    user_id: null,
   },
   {
     id: 3345,
@@ -23413,6 +26757,7 @@ export default [
     date: "2023-11-28",
     discharge: 34,
     water_level: 0.766,
+    user_id: null,
   },
   {
     id: 3346,
@@ -23420,6 +26765,7 @@ export default [
     date: "2023-11-29",
     discharge: 33.7,
     water_level: 0.772,
+    user_id: null,
   },
   {
     id: 3347,
@@ -23427,6 +26773,7 @@ export default [
     date: "2023-11-30",
     discharge: 33.9,
     water_level: 0.757,
+    user_id: null,
   },
   {
     id: 3348,
@@ -23434,6 +26781,7 @@ export default [
     date: "2023-12-01",
     discharge: 34.3,
     water_level: 0.814,
+    user_id: null,
   },
   {
     id: 3349,
@@ -23441,6 +26789,7 @@ export default [
     date: "2023-12-02",
     discharge: 33.7,
     water_level: 0.866,
+    user_id: null,
   },
   {
     id: 3350,
@@ -23448,6 +26797,7 @@ export default [
     date: "2023-12-03",
     discharge: 34.4,
     water_level: 0.917,
+    user_id: null,
   },
   {
     id: 3351,
@@ -23455,6 +26805,7 @@ export default [
     date: "2023-12-04",
     discharge: 31.9,
     water_level: 0.863,
+    user_id: null,
   },
   {
     id: 3352,
@@ -23462,6 +26813,7 @@ export default [
     date: "2023-12-05",
     discharge: 32.3,
     water_level: 0.743,
+    user_id: null,
   },
   {
     id: 3353,
@@ -23469,6 +26821,7 @@ export default [
     date: "2023-12-06",
     discharge: 31.5,
     water_level: 0.736,
+    user_id: null,
   },
   {
     id: 3354,
@@ -23476,6 +26829,7 @@ export default [
     date: "2023-12-07",
     discharge: 33.9,
     water_level: 0.757,
+    user_id: null,
   },
   {
     id: 3355,
@@ -23483,6 +26837,7 @@ export default [
     date: "2023-12-08",
     discharge: 36.7,
     water_level: 0.783,
+    user_id: null,
   },
   {
     id: 3356,
@@ -23490,6 +26845,7 @@ export default [
     date: "2023-12-09",
     discharge: 42.2,
     water_level: 0.856,
+    user_id: null,
   },
   {
     id: 3357,
@@ -23497,6 +26853,7 @@ export default [
     date: "2023-12-10",
     discharge: 45.9,
     water_level: 0.891,
+    user_id: null,
   },
   {
     id: 3358,
@@ -23504,6 +26861,7 @@ export default [
     date: "2023-12-11",
     discharge: 45.9,
     water_level: 0.871,
+    user_id: null,
   },
   {
     id: 3359,
@@ -23511,6 +26869,7 @@ export default [
     date: "2023-12-12",
     discharge: 41.7,
     water_level: 0.884,
+    user_id: null,
   },
   {
     id: 3360,
@@ -23518,6 +26877,7 @@ export default [
     date: "2023-12-13",
     discharge: 36.4,
     water_level: 0.827,
+    user_id: null,
   },
   {
     id: 3361,
@@ -23525,6 +26885,7 @@ export default [
     date: "2023-12-14",
     discharge: 37.1,
     water_level: 0.787,
+    user_id: null,
   },
   {
     id: 3362,
@@ -23532,6 +26893,7 @@ export default [
     date: "2023-12-15",
     discharge: 38.5,
     water_level: 0.801,
+    user_id: null,
   },
   {
     id: 3363,
@@ -23539,6 +26901,7 @@ export default [
     date: "2023-12-16",
     discharge: 35.5,
     water_level: 0.772,
+    user_id: null,
   },
   {
     id: 3364,
@@ -23546,6 +26909,7 @@ export default [
     date: "2023-12-17",
     discharge: 34.3,
     water_level: 0.76,
+    user_id: null,
   },
   {
     id: 3365,
@@ -23553,6 +26917,7 @@ export default [
     date: "2023-12-18",
     discharge: 35.9,
     water_level: 0.776,
+    user_id: null,
   },
   {
     id: 3366,
@@ -23560,6 +26925,7 @@ export default [
     date: "2023-12-19",
     discharge: 35.9,
     water_level: 0.776,
+    user_id: null,
   },
   {
     id: 3367,
@@ -23567,6 +26933,7 @@ export default [
     date: "2023-12-20",
     discharge: 34.1,
     water_level: 0.758,
+    user_id: null,
   },
   {
     id: 3368,
@@ -23574,6 +26941,7 @@ export default [
     date: "2023-12-21",
     discharge: 33.5,
     water_level: 0.753,
+    user_id: null,
   },
   {
     id: 3369,
@@ -23581,6 +26949,7 @@ export default [
     date: "2023-12-22",
     discharge: 34,
     water_level: 0.758,
+    user_id: null,
   },
   {
     id: 3370,
@@ -23588,6 +26957,7 @@ export default [
     date: "2023-12-23",
     discharge: 35.7,
     water_level: 0.774,
+    user_id: null,
   },
   {
     id: 3371,
@@ -23595,6 +26965,7 @@ export default [
     date: "2023-12-24",
     discharge: 36.2,
     water_level: 0.842,
+    user_id: null,
   },
   {
     id: 3372,
@@ -23602,6 +26973,7 @@ export default [
     date: "2023-12-25",
     discharge: 36.1,
     water_level: 0.924,
+    user_id: null,
   },
   {
     id: 3373,
@@ -23609,6 +26981,7 @@ export default [
     date: "2023-12-26",
     discharge: 37.5,
     water_level: 0.925,
+    user_id: null,
   },
   {
     id: 3374,
@@ -23616,6 +26989,7 @@ export default [
     date: "2023-12-27",
     discharge: 35,
     water_level: 0.847,
+    user_id: null,
   },
   {
     id: 3375,
@@ -23623,6 +26997,7 @@ export default [
     date: "2023-12-28",
     discharge: 34.2,
     water_level: 0.789,
+    user_id: null,
   },
   {
     id: 3376,
@@ -23630,6 +27005,7 @@ export default [
     date: "2023-12-29",
     discharge: 34,
     water_level: 0.76,
+    user_id: null,
   },
   {
     id: 3377,
@@ -23637,6 +27013,7 @@ export default [
     date: "2023-12-30",
     discharge: 34.3,
     water_level: 0.778,
+    user_id: null,
   },
   {
     id: 3378,
@@ -23644,5 +27021,6 @@ export default [
     date: "2023-12-31",
     discharge: 34.2,
     water_level: 0.768,
+    user_id: null,
   },
 ];

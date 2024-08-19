@@ -6,6 +6,7 @@ export default [
     site_id: "05AB019",
     river: "Oldman",
     city_id: 3033875,
+    user_id: null,
   },
   {
     id: 2,
@@ -13,6 +14,7 @@ export default [
     site_id: "05AD007",
     river: "Oldman",
     city_id: 3033875,
+    user_id: null,
   },
   {
     id: 3,
@@ -20,5 +22,6 @@ export default [
     site_id: "05BH004",
     river: "Bow",
     city_id: 3031092,
+    user_id: null,
   },
 ];

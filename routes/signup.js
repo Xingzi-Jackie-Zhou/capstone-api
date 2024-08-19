@@ -7,43 +7,33 @@ import bcrypt from "bcrypt";
 
 const saltRounds = 10;
 config();
-const port = process.env.PORT || 8080;
-const SECRET_KEY = process.env.SECRET_KEY ?? "";
 const router = express.Router();
 
-const readUser = () => {
-  const data = fs.readFileSync("./data/user.json");
-  const users = JSON.parse(data);
-  return users;
-};
-const writeUser = (users) => {
-  const data = JSON.stringify(users);
-  fs.writeFileSync("./data/user.json", data);
-  return users;
-};
-
-const hash = async (password) => {
-  try {
-    const hash = await bcrypt.hash(password, saltRounds);
-    // console.log("Hashed password:", hash);
-    return hash;
-  } catch (error) {
-    console.error("Error hashing password:", error);
-  }
-};
+import initKnex from "knex";
+import configuration from "../knexfile.js";
+const knex = initKnex(configuration);
 
 router.post("/signup", async (req, res) => {
-  const { username, name, password } = req.body;
-  const hashedPassword = await hash(password);
-  const users = readUser();
-  // check unique username
-  users[username] = {
-    name,
-    hashedPassword,
-  };
-  writeUser(users);
-  res.json({ success: "true" });
-  console.log(users);
+  const { username, name, email, password } = req.body;
+
+  if (!email.includes("@"))
+    return res.status(400).json({ error: "Invalid email" });
+
+  try {
+    const hashedPassword = await bcrypt.hash(password, saltRounds);
+
+    const [userId] = await knex("users").insert({
+      username,
+      name,
+      email,
+      password: hashedPassword,
+    });
+
+    res.json({ success: true });
+  } catch (error) {
+    console.error("Error signing up:", error);
+    res.status(500).json({ error: "Internal server error" });
+  }
 });
 
 export default router;
