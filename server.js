@@ -14,7 +14,7 @@ import uploadRoute from "./routes/upload.js";
 import sitesRoute from "./routes/sites.js";
 import riversRoute from "./routes/rivers.js";
 
-//import userSitesRoute from "./routes/sites.js";
+import userSitesRoute from "./routes/user-site.js";
 import userRiversRoute from "./routes/user-river.js";
 
 app.use(express.json());
@@ -22,13 +22,15 @@ app.use(cors());
 
 // basic home route
 app.get("/", (_req, res) => {
-  res.send("Welcome to the Blazing Tigers Instock API");
+  res.send("Welcome to the HydroMap!");
 });
 app.use("/users", signupRoute);
 app.use("/users", loginRoute);
 app.use("/users/:userNameId", profileRoute);
 app.use("/users/:userNameId", uploadRoute);
+
 app.use("/users/:userNameId/rivers", userRiversRoute);
+app.use("/users/:userNameId/sites", userSitesRoute);
 
 app.use("/sites", sitesRoute);
 app.use("/rivers", riversRoute);
