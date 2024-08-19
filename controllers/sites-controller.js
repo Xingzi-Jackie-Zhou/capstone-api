@@ -5,7 +5,7 @@ const knex = initKnex(configuration);
 //get sites list
 const sites = async (_req, res) => {
   try {
-    const data = await knex("main_record");
+    const data = await knex("main_record").whereNull("user_id");
     res.status(200).json(data);
     console.log(data);
   } catch (error) {
@@ -15,11 +15,9 @@ const sites = async (_req, res) => {
 
 const findOneSite = async (req, res) => {
   try {
-    const siteFound = await knex("main_record").where(
-      "main_record.site_id",
-      req.params.siteId
-    );
-
+    const siteFound = await knex("main_record")
+      .whereNull("user_id")
+      .where("main_record.site_id", req.params.siteId);
     if (siteFound.length === 0) {
       return res.status(404).json({
         message: `site with Id ${req.params.siteId} not found`,
@@ -39,6 +37,7 @@ const findOneSiteDischarge = async (req, res) => {
   try {
     const siteFound = await knex("discharge")
       .where("discharge.station_id", req.params.siteId)
+      .whereNull("discharge.user_id")
       .join("main_record", "discharge.station_id", "main_record.site_id")
       .select("discharge.*", "main_record.site_name", "main_record.city_id");
     if (siteFound.length === 0) {
@@ -70,6 +69,7 @@ const findDischargeInRange = async (req, res) => {
     }
     const siteFound = await knex("discharge")
       .where("discharge.station_id", req.params.siteId)
+      .whereNull("discharge.user_id")
       .join("main_record", "discharge.station_id", "main_record.site_id")
       .select("discharge.*", "main_record.site_name", "main_record.city_id")
       .andWhere("discharge.date", ">=", startDate) // Filter by start date
@@ -111,6 +111,7 @@ const findCombinedData = async (req, res) => {
         "weather.total_preciptation"
       )
       .where("discharge.station_id", req.params.siteId)
+      .whereNull("discharge.user_id")
       .andWhere("discharge.date", "=", knex.ref("weather.date")); // Ensure dates match
 
     // Check if any records were found
@@ -162,6 +163,7 @@ const findCombinedDataInRange = async (req, res) => {
         "weather.total_preciptation"
       )
       .where("discharge.station_id", req.params.siteId)
+      .whereNull("discharge.user_id")
       .andWhere("discharge.date", ">=", startDate) // Filter by start date
       .andWhere("discharge.date", "<=", endDate) // Filter by end date
       .andWhere("discharge.date", "=", knex.ref("weather.date")); // Ensure dates match

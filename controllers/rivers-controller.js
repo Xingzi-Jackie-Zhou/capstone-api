@@ -1,12 +1,12 @@
 import initKnex from "knex";
 import configuration from "../knexfile.js";
 const knex = initKnex(configuration);
-
 //get sites list
-const allRivers = async (_req, res) => {
+const allRivers = async (req, res) => {
   try {
-    const data = await knex("main_record");
+    const data = await knex("main_record").whereNull("user_id");
     res.status(200).json(data);
+
     console.log(data);
   } catch (error) {
     `Error retrieving sites: ${error}`;
@@ -15,9 +15,11 @@ const allRivers = async (_req, res) => {
 
 const findOneRiver = async (req, res) => {
   try {
-    const riverFound = await knex("main_record").where({
-      river: req.params.riverName,
-    });
+    const riverFound = await knex("main_record")
+      .where({
+        river: req.params.riverName,
+      })
+      .whereNull("user_id");
 
     if (riverFound.length === 0) {
       return res.status(404).json({
