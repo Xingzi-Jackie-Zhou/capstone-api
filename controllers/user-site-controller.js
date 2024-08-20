@@ -7,26 +7,20 @@ const sites = async (req, res) => {
   try {
     const userNameId = req.user?.username;
     const defaultData = await knex("main_record").whereNull("user_id");
-    console.log("default data", defaultData);
 
     let combinedData = defaultData;
 
     if (userNameId) {
-      // Fetch user-specific records
       const user = await knex("users").where({ username: userNameId }).first();
       const userId = user?.id;
-      console.log(userId);
 
       if (userId) {
         const userData = await knex("main_record").where("user_id", userId);
-        console.log(userData);
         combinedData = [...defaultData, ...userData];
       }
     }
 
-    // Send the combined data as the response
     res.status(200).json(combinedData);
-    console.log("combined data", combinedData);
   } catch (error) {
     `Error retrieving sites: ${error}`;
   }
@@ -40,21 +34,17 @@ const findOneSite = async (req, res) => {
     const defaultSiteFound = await knex("main_record")
       .whereNull("user_id")
       .where("site_id", siteId);
-    console.log("default site found", defaultSiteFound);
 
     let combinedSearch = defaultSiteFound;
 
     if (userNameId) {
       const user = await knex("users").where({ username: userNameId }).first();
       const userId = user?.id;
-      console.log("userId for find one site", userId);
 
       if (userId) {
         const userSiteFound = await knex("main_record")
           .where("site_id", siteId)
           .where("user_id", userId);
-
-        console.log("user site found data", userSiteFound);
 
         if (userSiteFound.length > 0) {
           combinedSearch = userSiteFound;
@@ -88,14 +78,12 @@ const findOneSiteDischarge = async (req, res) => {
       .whereNull("discharge.user_id")
       .join("main_record", "discharge.station_id", "main_record.site_id")
       .select("discharge.*", "main_record.site_name", "main_record.city_id");
-    console.log("default site found", defaultSiteFound);
 
     let combinedSearch = defaultSiteFound;
 
     if (userNameId) {
       const user = await knex("users").where({ username: userNameId }).first();
       const userId = user?.id;
-      console.log("userId for find one site", userId);
 
       if (userId) {
         const userSiteFound = await knex("discharge")
@@ -107,8 +95,6 @@ const findOneSiteDischarge = async (req, res) => {
             "main_record.site_name",
             "main_record.city_id"
           );
-
-        console.log("user site found data", userSiteFound);
 
         if (userSiteFound.length > 0) {
           combinedSearch = userSiteFound;
@@ -124,7 +110,6 @@ const findOneSiteDischarge = async (req, res) => {
 
     const siteData = combinedSearch;
     res.status(200).json(siteData);
-    console.log(siteData);
   } catch (error) {
     res.status(500).json({
       message: `Unable to retrieve site with ID ${req.params.siteId}`,
@@ -149,16 +134,14 @@ const findDischargeInRange = async (req, res) => {
       .whereNull("discharge.user_id")
       .join("main_record", "discharge.station_id", "main_record.site_id")
       .select("discharge.*", "main_record.site_name", "main_record.city_id")
-      .andWhere("discharge.date", ">=", startDate) // Filter by start date
-      .andWhere("discharge.date", "<=", endDate); // Filter by end date
-    console.log("default site found", defaultSiteFound);
+      .andWhere("discharge.date", ">=", startDate)
+      .andWhere("discharge.date", "<=", endDate);
 
     let combinedSearch = defaultSiteFound;
 
     if (userNameId) {
       const user = await knex("users").where({ username: userNameId }).first();
       const userId = user?.id;
-      console.log("userId for find one site", userId);
 
       if (userId) {
         const userSiteFound = await knex("discharge")
@@ -166,10 +149,8 @@ const findDischargeInRange = async (req, res) => {
           .where("discharge.user_id", userId)
           .join("main_record", "discharge.station_id", "main_record.site_id")
           .select("discharge.*", "main_record.site_name", "main_record.city_id")
-          .andWhere("discharge.date", ">=", startDate) // Filter by start date
-          .andWhere("discharge.date", "<=", endDate); // Filter by end date
-
-        console.log("user site found data", userSiteFound);
+          .andWhere("discharge.date", ">=", startDate)
+          .andWhere("discharge.date", "<=", endDate);
 
         if (userSiteFound.length > 0) {
           combinedSearch = userSiteFound;
@@ -185,7 +166,6 @@ const findDischargeInRange = async (req, res) => {
 
     const siteData = combinedSearch;
     res.status(200).json(siteData);
-    console.log(siteData);
   } catch (error) {
     res.status(500).json({
       message: `Unable to retrieve site with ID ${req.params.siteId}`,
@@ -225,7 +205,6 @@ const findCombinedData = async (req, res) => {
     if (userNameId) {
       const user = await knex("users").where({ username: userNameId }).first();
       const userId = user?.id;
-      console.log("userId for find one site", userId);
 
       if (userId) {
         const userSiteFound = await knex("discharge")
@@ -253,8 +232,6 @@ const findCombinedData = async (req, res) => {
           .where("discharge.user_id", userId)
           .andWhere("discharge.date", "=", knex.ref("weather.date"));
 
-        console.log("user site found data", userSiteFound);
-
         if (userSiteFound.length > 0) {
           combinedSearch = userSiteFound;
         }
@@ -269,7 +246,6 @@ const findCombinedData = async (req, res) => {
 
     const siteData = combinedSearch;
     res.status(200).json(siteData);
-    console.log(siteData);
   } catch (error) {
     res.status(500).json({
       message: `Unable to retrieve site with ID ${req.params.siteId}`,
@@ -309,17 +285,15 @@ const findCombinedDataInRange = async (req, res) => {
       )
       .where("discharge.station_id", siteId)
       .whereNull("discharge.user_id")
-      .andWhere("discharge.date", ">=", startDate) // Filter by start date
-      .andWhere("discharge.date", "<=", endDate) // Filter by end date
+      .andWhere("discharge.date", ">=", startDate)
+      .andWhere("discharge.date", "<=", endDate)
       .andWhere("discharge.date", "=", knex.ref("weather.date"));
-    console.log("default site found", defaultSiteFound);
 
     let combinedSearch = defaultSiteFound;
 
     if (userNameId) {
       const user = await knex("users").where({ username: userNameId }).first();
       const userId = user?.id;
-      console.log("userId for find one site", userId);
 
       if (userId) {
         const userSiteFound = await knex("discharge")
@@ -345,11 +319,9 @@ const findCombinedDataInRange = async (req, res) => {
           )
           .where("discharge.station_id", siteId)
           .where("discharge.user_id", userId)
-          .andWhere("discharge.date", ">=", startDate) // Filter by start date
-          .andWhere("discharge.date", "<=", endDate) // Filter by end date
+          .andWhere("discharge.date", ">=", startDate)
+          .andWhere("discharge.date", "<=", endDate)
           .andWhere("discharge.date", "=", knex.ref("weather.date"));
-
-        console.log("user site found data", userSiteFound);
 
         if (userSiteFound.length > 0) {
           combinedSearch = userSiteFound;
@@ -365,7 +337,6 @@ const findCombinedDataInRange = async (req, res) => {
 
     const siteData = combinedSearch;
     res.status(200).json(siteData);
-    console.log(siteData);
   } catch (error) {
     res.status(500).json({
       message: `Unable to retrieve site with ID ${req.params.siteId}`,

@@ -7,7 +7,6 @@ const sites = async (_req, res) => {
   try {
     const data = await knex("main_record").whereNull("user_id");
     res.status(200).json(data);
-    console.log(data);
   } catch (error) {
     `Error retrieving sites: ${error}`;
   }
@@ -48,7 +47,6 @@ const findOneSiteDischarge = async (req, res) => {
 
     const siteData = siteFound;
     res.status(200).json(siteData);
-    console.log(siteData);
   } catch (error) {
     res.status(500).json({
       message: `Unable to retrieve site with ID ${req.params.siteId}`,
@@ -59,8 +57,6 @@ const findOneSiteDischarge = async (req, res) => {
 const findDischargeInRange = async (req, res) => {
   try {
     const { startDate, endDate } = req.body;
-
-    // Validate date parameters
     if (!startDate || !endDate) {
       return res.status(400).json({
         message:
@@ -82,7 +78,6 @@ const findDischargeInRange = async (req, res) => {
 
     const siteData = siteFound;
     res.status(200).json(siteData);
-    console.log(siteData);
   } catch (error) {
     res.status(500).json({
       message: `Unable to retrieve site with ID ${req.params.siteId}`,
@@ -114,17 +109,15 @@ const findCombinedData = async (req, res) => {
       .whereNull("discharge.user_id")
       .andWhere("discharge.date", "=", knex.ref("weather.date")); // Ensure dates match
 
-    // Check if any records were found
     if (result.length === 0) {
       return res.status(404).json({
         message: `No records found for station with ID ${req.params.siteId}`,
       });
     }
 
-    // Return the result
     res.status(200).json(result);
   } catch (error) {
-    console.error(error); // Log the error for debugging
+    console.error(error);
     res.status(500).json({
       message: `Unable to retrieve data for station with ID ${req.params.siteId}`,
     });
@@ -134,10 +127,8 @@ const findCombinedData = async (req, res) => {
 //find selected data for a time peroid
 const findCombinedDataInRange = async (req, res) => {
   try {
-    // const { startDate, endDate } = req.query;
     const { startDate, endDate } = req.body;
 
-    // Validate date parameters
     if (!startDate || !endDate) {
       return res.status(400).json({
         message:
@@ -164,21 +155,19 @@ const findCombinedDataInRange = async (req, res) => {
       )
       .where("discharge.station_id", req.params.siteId)
       .whereNull("discharge.user_id")
-      .andWhere("discharge.date", ">=", startDate) // Filter by start date
-      .andWhere("discharge.date", "<=", endDate) // Filter by end date
-      .andWhere("discharge.date", "=", knex.ref("weather.date")); // Ensure dates match
+      .andWhere("discharge.date", ">=", startDate)
+      .andWhere("discharge.date", "<=", endDate)
+      .andWhere("discharge.date", "=", knex.ref("weather.date"));
 
-    // Check if any records were found
     if (result.length === 0) {
       return res.status(404).json({
         message: `No records found for station with ID ${req.params.siteId} in the specified date range.`,
       });
     }
 
-    // Return the result
     res.status(200).json(result);
   } catch (error) {
-    console.error(error); // Log the error for debugging
+    console.error(error);
     res.status(500).json({
       message: `Unable to retrieve data for station with ID ${req.params.siteId} in the specified date range.`,
     });

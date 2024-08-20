@@ -2,7 +2,7 @@ import "dotenv/config";
 import express from "express";
 import cors from "cors";
 import bcrypt from "bcrypt";
-//import authenticateToken from "./routes/middleware/authenticateToken.js";
+
 const app = express();
 
 const PORT = process.env.PORT || 8080;
@@ -22,7 +22,6 @@ import profileSiteRoute from "./routes/profile-user.js";
 app.use(express.json());
 app.use(cors());
 
-// basic home route
 app.get("/", (_req, res) => {
   res.send("Welcome to the HydroMap!");
 });

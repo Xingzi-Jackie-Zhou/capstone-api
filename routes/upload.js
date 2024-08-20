@@ -13,7 +13,7 @@ const knex = initKnex(configuration);
 // Configure multer for file uploads
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {
-    const userId = req.user.id; // Assuming req.user contains the authenticated user's info
+    const userId = req.user.id;
     const uploadPath = path.join("upload", userId.toString());
     if (!fs.existsSync(uploadPath)) {
       fs.mkdirSync(uploadPath, { recursive: true });
@@ -37,16 +37,14 @@ router.post(
       const { siteName, stationId, riverName, city, climateId } = req.body;
       const userId = req.user.id;
 
-      // Process weather file
       if (req.files["weather"]) {
         const weatherFilePath = req.files["weather"][0].path;
         const weatherRecords = await csvtojson().fromFile(weatherFilePath);
-        console.log("Weather Records:", weatherRecords);
 
         await knex.transaction(async (trx) => {
           for (const record of weatherRecords) {
             await trx("weather").insert({
-              city_name: record.city_name, // Ensure data integrity
+              city_name: record.city_name,
               climate_id: record.climate_id,
               date: record.date,
               ave_temperature: parseFloat(record.ave_temperature) || null,
@@ -61,11 +59,9 @@ router.post(
       if (req.files["discharge"]) {
         const dischargeFilePath = req.files["discharge"][0].path;
         const dischargeRecords = await csvtojson().fromFile(dischargeFilePath);
-        console.log("Discharge Records:", dischargeRecords);
 
         await knex.transaction(async (trx) => {
           for (const record of dischargeRecords) {
-            console.log("Record before insertion:", record);
             await trx("discharge").insert({
               station_id: record.station_id,
               date: record.date,

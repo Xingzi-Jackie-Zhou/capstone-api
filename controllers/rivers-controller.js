@@ -1,13 +1,12 @@
 import initKnex from "knex";
 import configuration from "../knexfile.js";
 const knex = initKnex(configuration);
+
 //get sites list
 const allRivers = async (req, res) => {
   try {
     const data = await knex("main_record").whereNull("user_id");
     res.status(200).json(data);
-
-    console.log(data);
   } catch (error) {
     `Error retrieving sites: ${error}`;
   }

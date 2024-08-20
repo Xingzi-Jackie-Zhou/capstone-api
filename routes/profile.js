@@ -13,15 +13,12 @@ const knex = initKnex(configuration);
 router.get("/profile", authorize, async (req, res) => {
   try {
     const userNameId = req.decoded.username;
-    // const { userNameId2 } = req.params;
     const user = await knex("users").where({ username: userNameId }).first();
     if (!user) return res.status(404).json({ error: "User not found" });
 
     res.json({
       id: user.id,
       username: user.username,
-      // name: user.name,
-      // email: user.email,
     });
   } catch (error) {
     console.error("Error fetching user profile:", error);
@@ -42,11 +39,5 @@ function authorize(req, res, next) {
     res.sendStatus(401);
   }
 }
-//   jwt.verify(token, SECRET_KEY, (err, user) => {
-//     if (err) return res.sendStatus(403);
-//     req.user = user;
-//     next();
-//   });
-// }
 
 export default router;
