@@ -17,6 +17,8 @@ import riversRoute from "./routes/rivers.js";
 import userSitesRoute from "./routes/user-site.js";
 import userRiversRoute from "./routes/user-river.js";
 
+import profileSiteRoute from "./routes/profile-user.js";
+
 app.use(express.json());
 app.use(cors());
 
@@ -31,6 +33,8 @@ app.use("/users/:userNameId", uploadRoute);
 
 app.use("/users/:userNameId/rivers", userRiversRoute);
 app.use("/users/:userNameId/sites", userSitesRoute);
+
+app.use("/users/:userNameId/profile", profileSiteRoute);
 
 app.use("/sites", sitesRoute);
 app.use("/rivers", riversRoute);
