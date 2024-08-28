@@ -5,9 +5,9 @@ const router = express.Router();
 
 router.route("/sites").get(authenticateToken, profileSiteController.allSites);
 
-// router
-//   .route("/sites/:siteId")
-//   .delete(authenticateToken, profileSiteController.deleteSite)
+router
+  .route("/sites/:siteId")
+  .delete(authenticateToken, profileSiteController.deleteSite);
 //   .put(authenticateToken, profileSiteController.updateSite);
 
 export default router;
